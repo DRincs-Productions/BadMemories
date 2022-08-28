@@ -1,16 +1,16 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Crowdin-Project: bad-memories\n"
-"X-Crowdin-Project-ID: 507994\n"
-"X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
-"X-Crowdin-File-ID: 3576\n"
-"Project-Id-Version: bad-memories\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: French\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-21 12:27\n"
+# msgid ""
+# msgstr ""
+# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+# "X-Crowdin-Project: bad-memories\n"
+# "X-Crowdin-Project-ID: 507994\n"
+# "X-Crowdin-Language: fr\n"
+# "X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+# "X-Crowdin-File-ID: 3576\n"
+# "Project-Id-Version: bad-memories\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: French\n"
+# "Language: fr_FR\n"
+# "PO-Revision-Date: 2022-07-21 12:27\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:208
 msgid "[mschoice] {b}Show dialogue background box?{/b}"
@@ -105,10 +105,8 @@ msgid "[mschoice] Version [config.version!t]\n"
 msgstr "[mschoice] Version [config.version!t]\n"
 
 # XX## game/screens.rpy:648
-msgid "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
-"[renpy.license!t]"
-msgstr "[mschoice] Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
-"[renpy.license!t]"
+msgid "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+msgstr "[mschoice] Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
 # XX## game/screens.rpy:688
 msgid "[mschoice] Page {}"
@@ -343,26 +341,20 @@ msgid "[mschoice] Right Click"
 msgstr "[mschoice] Clic droit"
 
 # XX## game/screens.rpy:1218
-msgid "[mschoice] Mouse Wheel Up\n"
-"Click Rollback Side"
-msgstr "[mschoice] Molette de la souris vers le haut\n"
-"Cliquez sur le côté retour en arrière"
+msgid "[mschoice] Mouse Wheel Up\nClick Rollback Side"
+msgstr "[mschoice] Molette de la souris vers le haut\nCliquez sur le côté retour en arrière"
 
 # XX## game/screens.rpy:1222
 msgid "[mschoice] Mouse Wheel Down"
 msgstr "[mschoice] Molette de la souris vers le bas"
 
 # XX## game/screens.rpy:1229
-msgid "[mschoice] Right Trigger\n"
-"A/Bottom Button"
-msgstr "[mschoice] Déclencheur de droite\n"
-"Bouton A/Bas"
+msgid "[mschoice] Right Trigger\nA/Bottom Button"
+msgstr "[mschoice] Déclencheur de droite\nBouton A/Bas"
 
 # XX## game/screens.rpy:1233
-msgid "[mschoice] Left Trigger\n"
-"Left Shoulder"
-msgstr "[mschoice] Gâchette gauche\n"
-"Épaule gauche"
+msgid "[mschoice] Left Trigger\nLeft Shoulder"
+msgstr "[mschoice] Gâchette gauche\nÉpaule gauche"
 
 # XX## game/screens.rpy:1237
 msgid "[mschoice] Right Shoulder"

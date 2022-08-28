@@ -1,16 +1,16 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Crowdin-Project: bad-memories\n"
-"X-Crowdin-Project-ID: 507994\n"
-"X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /main/game/tl/crowdin/gallery.po\n"
-"X-Crowdin-File-ID: 3562\n"
-"Project-Id-Version: bad-memories\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: French\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+# msgid ""
+# msgstr ""
+# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+# "X-Crowdin-Project: bad-memories\n"
+# "X-Crowdin-Project-ID: 507994\n"
+# "X-Crowdin-Language: fr\n"
+# "X-Crowdin-File: /main/game/tl/crowdin/gallery.po\n"
+# "X-Crowdin-File-ID: 3562\n"
+# "Project-Id-Version: bad-memories\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: French\n"
+# "Language: fr_FR\n"
+# "PO-Revision-Date: 2022-07-16 23:15\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# XXtranslate crowdin strings:XX# XX## game/gallery.rpy:132
 msgid "[mschoice] One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
@@ -33,10 +33,8 @@ msgid "[mschoice] A special render I made for the winner of a contest on the f95
 msgstr "[mschoice] Un rendu spécial que j'ai fait pour le gagnant d'un concours sur le forum f95zone."
 
 # XX## game/gallery.rpy:132
-msgid "[mschoice] A test render I made while working on the scene where MC follows \"Katie\" to the old \"dopehead corner\". I was testing a few new camera and tone mapping styles I've learned.\n"
-"They look great imo, but are too different from the rest of the game, so I decided against using it in production."
-msgstr "[mschoice] Un rendu de test que j'ai fait en travaillant sur la scène où MC suit 'Katie' à l'ancien 'coin des drogués'. Je testais quelques nouveaux styles de caméra et de 'tone mapping' que j'ai appris.\n"
-"Ils sont superbes en 'imo', mais sont trop différents du reste du jeu, donc j'ai décidé de ne pas les utiliser en production."
+msgid "[mschoice] A test render I made while working on the scene where MC follows \"Katie\" to the old \"dopehead corner\". I was testing a few new camera and tone mapping styles I've learned.\nThey look great imo, but are too different from the rest of the game, so I decided against using it in production."
+msgstr "[mschoice] Un rendu de test que j'ai fait en travaillant sur la scène où MC suit 'Katie' à l'ancien 'coin des drogués'. Je testais quelques nouveaux styles de caméra et de 'tone mapping' que j'ai appris.\nIls sont superbes en 'imo', mais sont trop différents du reste du jeu, donc j'ai décidé de ne pas les utiliser en production."
 
 # XX## game/gallery.rpy:132
 msgid "[mschoice] A special render I made for the invitation screen of a specific discord server ;)"
