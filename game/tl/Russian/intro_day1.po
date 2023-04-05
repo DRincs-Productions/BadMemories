@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-16 23:16\n"
+"PO-Revision-Date: 2023-04-05 07:24\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/intro_day1.rpy:3 ## translate crowdin intro_day1_26086d61:
 msgid "[n] Next Day [withdissolve]"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/intro_day1.rpy:6 ## translate crowdin intro_day1_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr ""
+msgstr "[pc] Ух..."
 
 # game/intro_day1.rpy:8 ## translate crowdin intro_day1_510548ac:
 msgid "[pc] What time is it?"
