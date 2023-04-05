@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-16 23:16\n"
+"PO-Revision-Date: 2023-04-05 07:24\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/events_j.rpy:3 ## translate crowdin jadaFirstMeet_fbf6c787:
 msgid "[pcthink] I'm a bit hungry."
@@ -970,7 +970,7 @@ msgstr ""
 
 # game/events_j.rpy:353 ## translate crowdin bringJadaHome_06a6d364:
 msgid "[pc] Whoa!"
-msgstr ""
+msgstr "[pc] Ого!"
 
 # game/events_j.rpy:355 ## translate crowdin bringJadaHome_aa9169c5:
 msgid "[j] You should've avoided that hole in the street."
@@ -1406,7 +1406,7 @@ msgstr ""
 
 # game/events_j.rpy:555 ## translate crowdin d6_wayBackHome_06a6d364:
 msgid "[pc] Whoa!"
-msgstr ""
+msgstr "[pc] Ого!"
 
 # game/events_j.rpy:556 ## translate crowdin d6_wayBackHome_a64e1000:
 msgid "[pc] What the fuck! Are you crazy?!"
@@ -2946,7 +2946,7 @@ msgstr ""
 
 # game/events_j.rpy:1265 ## translate crowdin d7_motel_r_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr ""
+msgstr "[pc] Ух..."
 
 # game/events_j.rpy:1269 ## translate crowdin d7_motel_r_27d75afd:
 msgid "[j] Awwww, come on, I've never tried it out... I really want you to bang me like a dirty little girl!"
@@ -4354,7 +4354,7 @@ msgstr ""
 
 # game/events_j.rpy:1958 ## translate crowdin d11jbeforlsex_b7ae879e:
 msgid "[j] Haha."
-msgstr ""
+msgstr "[j] Хаха."
 
 # game/events_j.rpy:1962 ## translate crowdin d11jbeforlsex_264644a3:
 msgid "[j] One more thing..."
