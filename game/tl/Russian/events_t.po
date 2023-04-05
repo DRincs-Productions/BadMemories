@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-16 23:16\n"
+"PO-Revision-Date: 2023-04-05 07:24\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/events_t.rpy:3 ## translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[n] Hours later [withdissolve]"
-msgstr ""
+msgstr "[n] Некоторое время спустя [withdissolve]"
 
 # game/events_t.rpy:8 ## translate crowdin tIntroductionDay1_39855995:
 msgid "[pcthink] ...alright, back to the livingroom. At least [m] and [e] are back now, so it shouldn't be that boring anymore..."
@@ -1614,7 +1614,7 @@ msgstr ""
 
 # game/events_t.rpy:749 ## translate crowdin coerceT3_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr ""
+msgstr "[pc] Ух..."
 
 # game/events_t.rpy:750 ## translate crowdin coerceT3_482beb42:
 msgid "[pcthink] ...and despite her attitude, she's really giving it her all!"
