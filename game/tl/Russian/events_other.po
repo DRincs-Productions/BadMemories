@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-16 23:16\n"
+"PO-Revision-Date: 2023-04-05 07:24\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/events_other.rpy:2 ## translate crowdin cafeBeforeOffice_a5da8788:
 msgid "[pc] Hey, [h]!"
@@ -882,7 +882,7 @@ msgstr ""
 
 # game/events_other.rpy:370 ## translate crowdin job_d6_e2ee86ba:
 msgid "[pc] Uhh..."
-msgstr ""
+msgstr "[pc] Ух..."
 
 # game/events_other.rpy:373 ## translate crowdin job_d6_8bb5d589:
 msgid "[st] I'm sorry, I'm sorry!"
@@ -4534,7 +4534,7 @@ msgstr ""
 
 # game/events_other.rpy:2126 ## translate crowdin d11maggylewd_06a6d364:
 msgid "[pc] Whoa!"
-msgstr ""
+msgstr "[pc] Ого!"
 
 # game/events_other.rpy:2129 ## translate crowdin d11maggylewd_adf74d9d:
 msgid "[pc] I get the feeling you've been waiting for this to happen."
