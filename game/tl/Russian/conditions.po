@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-05 07:13\n"
+"PO-Revision-Date: 2023-04-06 10:00\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/conditions.rpy:2209 ## translate crowdin dateTime_3e0aad91:
 msgid "[n] {size=+30}[currentDay]{/size}"
-msgstr ""
+msgstr "[n] {size=+30}[currentDay]{/size}"
 
 # game/conditions.rpy:2219 ## translate crowdin whatToDoHome_970716ba:
 msgid "[q] What do you want to do? [nointeract]"
