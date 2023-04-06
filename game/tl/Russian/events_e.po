@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-05 07:13\n"
+"PO-Revision-Date: 2023-04-06 10:00\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/events_e.rpy:4 ## translate crowdin elliePCRoomSleepDay0_28f54d83:
 msgid "[pcthink] What?! [e]?"
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/events_e.rpy:138 ## translate crowdin eNightTwo_7a55dfbe:
 msgid "[e] *Squeak*"
-msgstr ""
+msgstr "[e] *Писк*"
 
 # game/events_e.rpy:140 ## translate crowdin eNightTwo_5af5cf33:
 msgid "[pc] Haha, too bad I'm wearing shorts this time, eh [e]?"
