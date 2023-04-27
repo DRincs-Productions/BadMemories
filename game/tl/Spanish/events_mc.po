@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-16 23:15\n"
+"PO-Revision-Date: 2023-04-27 14:14\n"
 
 # TODO: Translation updated at 2022-07-16 HH:HH# game/events_mc.rpy:5 ## translate crowdin day0Morning_65a592f9:
 msgid "[pc] YAAAHHWN..."
@@ -1922,7 +1922,7 @@ msgstr ""
 
 # game/events_mc.rpy:805 ## translate crowdin ebdPreps_d3107ef6:
 msgid "[m] Well..."
-msgstr ""
+msgstr "[m] Bueno..."
 
 # game/events_mc.rpy:807 ## translate crowdin ebdPreps_e8f66559:
 msgid "[m] [e] doesn't have many friends because of... how she is."
@@ -4530,7 +4530,7 @@ msgstr ""
 
 # game/events_mc.rpy:1993 ## translate crowdin d8_eveningWJada_487a1850:
 msgid "[m] Hm?"
-msgstr ""
+msgstr "[m] ¿Hm?"
 
 # game/events_mc.rpy:1994 ## translate crowdin d8_eveningWJada_83ad7b2f:
 msgid "[pcthink] Shit, looks like the pills are going to wear off..."
