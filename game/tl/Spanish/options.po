@@ -10,14 +10,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-16 23:16\n"
+"PO-Revision-Date: 2023-04-29 14:48\n"
 
-# TODO: Translation updated at 2022-07-16 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
-msgid "[mschoice] Bad Memories"
-msgstr "[mschoice] Bad Memories"
+# TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/options.rpy:15
+msgid "Bad Memories"
+msgstr ""
 
-# XX## game/options.rpy:32
-msgid "[mschoice] {size=+50}{font=SCRIPTIN.ttf}Bad Memories{/font}{/size}\n\n"
+# game/options.rpy:32
+msgid "{size=+50}{font=SCRIPTIN.ttf}Bad Memories{/font}{/size}\n\n"
 "by recreation\n\n\n\n"
 "Every asset used in, or for the images in this game is either paid or created by me and rendered with Daz3D.\n\n\n\n"
 "Story by recreation\n\n"
@@ -27,14 +27,5 @@ msgid "[mschoice] {size=+50}{font=SCRIPTIN.ttf}Bad Memories{/font}{/size}\n\n"
 "SFX: freesound.org\n\n\n\n"
 "A big {b}thank you{/b} to everyone who helped me in one or the other way and especially to my Supporter on {a=https://www.patreon.com/bmgames}patreon{/a} and {a=https://subscribestar.adult/bm-games}subscribestar{/a}!!\n\n"
 "If you want to find me or more info about the game have a look at {a=https://www.f95zone.to/}{b}f95zone{/b}{/a} or visit my {a=https://bm-rec.itch.io/}{b}itch.io{/b}{/a} page ;)"
-msgstr "[mschoice] {tamaño=+50}{fuente=GUIÓN.ttf}Bad Memories {/font} {/size}\n\n"
-"por recreation\n\n\n\n"
-"Todos los activos utilizados en, o para las imágenes de este juego son pagados o creados por mí y renderizados con Daz3D.\n\n\n\n"
-"Historia por recreation\n\n"
-"Imágenes por recreation\n\n"
-"Codificación: recreation\n\n"
-"Música: recreation\n\n"
-"SFX: freesound.org\n\n\n\n"
-"Un gran {b}gracias{/b} a todos los que me ayudaron de una u otra manera y especialmente a mi Seguidor en {a=https://www.patreon.com/bmgames}patreon{/a} y {a=https://subscribestar.adult / bm-games}estrella de suscripción {/a}!!\n\n"
-"Si quieres encontrarme o tener más información sobre el juego echa un vistazo a {a=https://www.f95zone.a/}{b}f95zone{/b}{/a} o visita mi {a=https://bm-rec.la comezón.io/}{b}comezón.io{/b}{/a} página ;)"
+msgstr ""
 
