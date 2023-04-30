@@ -10,57 +10,62 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:52\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/script.rpy:498 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
-msgstr ""
+msgstr "[_n_] Este juego es una obra de ficción, todos los personajes tienen al menos 99 años de edad y, obviamente, no están relacionados con, o están destinados a mostrar cualquier persona viva o muerta.\n"
+" [withfade]"
 
 # game/script.rpy:500 #-#-# translate crowdin start_eb52a69f:
 msgid "[_n_] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old.\n"
 "None of the characters are in any way related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
-msgstr ""
+msgstr "[_n_] Este juego es una obra de ficción, todos los personajes están diseñados para representar su edad en el juego y tienen al menos 18 años. Ninguno de los personajes está relacionado de ninguna manera con ninguna persona viva o muerta.\n"
+" [withfade]"
 
 # game/script.rpy:501 #-#-# translate crowdin start_e2e26806:
 msgid "[_n_] Also note that some situations in this game might come off as offensive, and/or aggressive and should {b}NEVER{/b} be practised in real life or without consent! [withdissolve]"
-msgstr ""
+msgstr "[_n_] También hay que tener en cuenta que algunas situaciones de este juego pueden resultar ofensivas y/o agresivas y que {b}¡NUNCA{/b} debe practicarse en la vida real o sin consentimiento! [withdissolve]"
 
 # game/script.rpy:502 #-#-# translate crowdin start_36a0049e:
 msgid "[_n_] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
-msgstr ""
+msgstr "[_n_] Si no eres adulto, cierra el juego ahora, borralo, y quema tu computadora/mac/telefono! NO VUELVAS A CLICKEAR DE NUEVO, O...\n"
 
 # game/script.rpy:503 #-#-# translate crowdin start_200b5921:
 msgid "[_extend_] ...or the game starts as usual ;_;"
-msgstr ""
+msgstr "[_extend_] ... o el juego comienza como siempre ;_;"
 
 # game/script.rpy:544 #-#-# translate crowdin start_rachel_5e56089c:
 msgid "[_m_] Hello [mc] [mcsure], this is a test!"
-msgstr ""
+msgstr "[_m_] Hola [mc] [mcsure], esto es una prueba!"
 
 # game/script.rpy:550 #-#-# translate crowdin endGame_9b5f61b4:
 msgid "[_n_] This is the end of the current version, a quick save has been created."
-msgstr ""
+msgstr "[_n_] Este es el final de la versión actual, se ha creado un guardado rápido."
 
 # game/script.rpy:551 #-#-# translate crowdin endGame_e7eca580:
 msgid "[_n_] I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
-msgstr ""
+msgstr "[_n_] ¡Espero que te hayas divertido! Asegúrese de volver pronto. La historia progresará mucho con el tiempo ;)"
 
 # game/script.rpy:570 #-#-# translate crowdin endGame_3ab21b59:
 msgid "[_n_] {size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\n"
 "and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
-msgstr ""
+msgstr "[_n_] {size= + 20}{b}Especial gracias a todos mis {a=https: //www.patreon.com/bmgames}{b}{color=#FF9D1F} Patrones {/color} {/b} {/a} y {a=https: //subscribstar.adult/bm-games}{b}{color=#FF9D1F} Suscriptor {/color} {/b} {/a}\n"
+"y todos los que me ayudaron de alguna manera.\n"
+"ustedes son impresionantes! {/b} {/size}"
 
 # game/script.rpy:572 #-#-# translate crowdin endGame_a5f61313:
 msgid "[_n_] {size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
-msgstr ""
+msgstr "[_n_] {size=+20}{b}Un agradecimiento especial a todos mis seguidores, testers y todos los que me ayudaron de alguna otra manera.\n"
+"ustedes son increíbles!{/b} {tamaño}"
 
 # game/script.rpy:579 #-#-# translate crowdin gameOverE_9ad555d3:
 msgid "[_n_] Congratulation! You broke her heart...idiot!"
-msgstr ""
+msgstr "[_n_] ¡Felicidades! ¡Le has roto el corazón... idiota!"
 
 # §translate crowdin strings: #|#|# # game/script.rpy:96
 msgid "Rachel"
@@ -120,5 +125,5 @@ msgstr ""
 
 # game/script.rpy:526
 msgid "sister"
-msgstr ""
+msgstr "hermana"
 
