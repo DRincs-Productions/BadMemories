@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/intro_day2.rpy:58 #-#-# translate crowdin intro_day2_79dba188:
 msgid "[_mc_] Shit..."
-msgstr ""
+msgstr "[_mc_] Mierda..."
 
 # game/intro_day2.rpy:60 #-#-# translate crowdin intro_day2_123385ad:
 msgid "[_mcthink_] Damn, that was a heavy dream..."
@@ -246,7 +246,7 @@ msgstr ""
 
 # game/intro_day2.rpy:81 #-#-# translate crowdin intro_day2_f49fff8f:
 msgid "[_mc_] Yeah?"
-msgstr ""
+msgstr "[_mc_] sí?"
 
 # game/intro_day2.rpy:82 #-#-# translate crowdin intro_day2_811726b2:
 msgid "Voice [special_delimiter] Hello [mrms] [mcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
@@ -414,7 +414,7 @@ msgstr ""
 
 # game/intro_day2.rpy:136 #-#-# translate crowdin intro_day2_d26078e7:
 msgid "[_mc_] Yeah, thanks..."
-msgstr ""
+msgstr "[_mc_] sí, gracias..."
 
 # game/intro_day2.rpy:137 #-#-# translate crowdin intro_day2_60d617f5:
 msgid "[_m_] ...I bet your sister would have been happy to see you again."
@@ -530,7 +530,7 @@ msgstr ""
 
 # game/intro_day2.rpy:171 #-#-# translate crowdin intro_day2_2_79dba188:
 msgid "[_mc_] Shit..."
-msgstr ""
+msgstr "[_mc_] Mierda..."
 
 # game/intro_day2.rpy:172 #-#-# translate crowdin intro_day2_2_8d20b480:
 msgid "[_mcthink_] I guess I'd better rent the room for a little while longer."
@@ -630,7 +630,7 @@ msgstr ""
 
 # game/intro_day2.rpy:203 #-#-# translate crowdin intro_day2_2_fee0cc03:
 msgid "[_r_] I'm sorry..."
-msgstr ""
+msgstr "[_r_] lo siento..."
 
 # game/intro_day2.rpy:204 #-#-# translate crowdin intro_day2_2_391b8c26:
 msgid "Manager [special_delimiter] I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
@@ -678,5 +678,5 @@ msgstr ""
 
 # game/intro_day2.rpy:88
 msgid "...yeah."
-msgstr ""
+msgstr "...sí."
 
