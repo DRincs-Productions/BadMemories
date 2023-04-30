@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_other.rpy:2 #-#-# translate crowdin cafeBeforeOffice_8514b197:
 msgid "[_mc_] Hey, [h]!"
-msgstr ""
+msgstr "[_mc_] Эй, [h]!"
 
 # game/events_other.rpy:5 #-#-# translate crowdin cafeBeforeOffice_c3e54e31:
 msgid "[_h_] Oh, hey, [mc]! Back so soon? Haha."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/events_other.rpy:13 #-#-# translate crowdin cafeBeforeOffice_741f729b:
 msgid "[_h_] Haha!"
-msgstr ""
+msgstr "[_h_] Хаха!"
 
 # game/events_other.rpy:15 #-#-# translate crowdin cafeBeforeOffice_9cf6eed8:
 msgid "[_h_] Oh, hey it's you again!"
@@ -250,7 +250,7 @@ msgstr ""
 
 # game/events_other.rpy:107 #-#-# translate crowdin cafe_d6_a4992b75:
 msgid "[_mc_] Hey, [h]."
-msgstr ""
+msgstr "[_mc_] Эй, [h]."
 
 # game/events_other.rpy:109 #-#-# translate crowdin cafe_d6_de4e9aea:
 msgid "[_h_] You're early, haha. Just take a seat, I'll be there in a minute."
@@ -618,7 +618,7 @@ msgstr ""
 
 # game/events_other.rpy:262 #-#-# translate crowdin job_d6_fbeb598b:
 msgid "[_mc_] Hey, [st]."
-msgstr ""
+msgstr "[_mc_] Эй, [st]."
 
 # game/events_other.rpy:264 #-#-# translate crowdin job_d6_21391327:
 msgid "[_st_] Huh? What are you doing here?"
@@ -882,7 +882,7 @@ msgstr ""
 
 # game/events_other.rpy:370 #-#-# translate crowdin job_d6_dfd81e46:
 msgid "[_mc_] Uhh..."
-msgstr ""
+msgstr "[_mc_] Ух..."
 
 # game/events_other.rpy:373 #-#-# translate crowdin job_d6_8bb5d589:
 msgid "[_st_] I'm sorry, I'm sorry!"
@@ -1138,7 +1138,7 @@ msgstr ""
 
 # game/events_other.rpy:501 #-#-# translate crowdin porngirls_0928265c:
 msgid "[_mc_] Hey, [st]!"
-msgstr ""
+msgstr "[_mc_] Эй, [st]!"
 
 # game/events_other.rpy:503 #-#-# translate crowdin porngirls_3c54348d:
 msgid "[_st_] WHAAA!"
@@ -1462,7 +1462,7 @@ msgstr ""
 
 # game/events_other.rpy:667 #-#-# translate crowdin maggy1_085722e2:
 msgid "[_mc_] What?!"
-msgstr ""
+msgstr "[_mc_] Что?!"
 
 # game/events_other.rpy:668 #-#-# translate crowdin maggy1_bf3d8334:
 msgid "[_ma_] Oh sorry, I shouldn't ask questions like that... let's change the subject, shall we?"
@@ -1642,7 +1642,7 @@ msgstr ""
 
 # game/events_other.rpy:753 #-#-# translate crowdin d10hcall_8514b197:
 msgid "[_mc_] Hey, [h]!"
-msgstr ""
+msgstr "[_mc_] Эй, [h]!"
 
 # game/events_other.rpy:754 #-#-# translate crowdin d10hcall_9236f4c4:
 msgid "[_h_] Hey! Good morning, I mean, evening! Err... good day! Haha."
@@ -2062,7 +2062,7 @@ msgstr ""
 
 # game/events_other.rpy:892 #-#-# translate crowdin d10hdate_e88f4112:
 msgid "[_h_] Haha."
-msgstr ""
+msgstr "[_h_] Хаха."
 
 # game/events_other.rpy:895 #-#-# translate crowdin d10hdate_b8dd55f6:
 msgid "[_mc_] So here's the spot?"
@@ -2118,7 +2118,7 @@ msgstr ""
 
 # game/events_other.rpy:914 #-#-# translate crowdin d10hdate_e2ac0fa3:
 msgid "[_h_] Haha..."
-msgstr ""
+msgstr "[_h_] Хаха..."
 
 # game/events_other.rpy:925 #-#-# translate crowdin d10hdate_e79e0243:
 msgid "[_mc_] You said your parents were quite strict, right?"
@@ -2154,7 +2154,7 @@ msgstr ""
 
 # game/events_other.rpy:942 #-#-# translate crowdin d10hdate_e88f4112_1:
 msgid "[_h_] Haha."
-msgstr ""
+msgstr "[_h_] Хаха."
 
 # game/events_other.rpy:944 #-#-# translate crowdin d10hdate_99cbb40d:
 msgid "[_mc_] Didn't you say that you still live with your parents?"
@@ -2302,7 +2302,7 @@ msgstr ""
 
 # game/events_other.rpy:1013 #-#-# translate crowdin d10hdate_e88f4112_2:
 msgid "[_h_] Haha."
-msgstr ""
+msgstr "[_h_] Хаха."
 
 # game/events_other.rpy:1015 #-#-# translate crowdin d10hdate_2b35b6fe:
 msgid "[_mc_] ..."
@@ -2466,7 +2466,7 @@ msgstr ""
 
 # game/events_other.rpy:1120 #-#-# translate crowdin d10hdate_741f729b:
 msgid "[_h_] Haha!"
-msgstr ""
+msgstr "[_h_] Хаха!"
 
 # game/events_other.rpy:1122 #-#-# translate crowdin d10hdate_dc15e57e:
 msgid "[_mcthink_] Alright..."
@@ -2838,7 +2838,7 @@ msgstr ""
 
 # game/events_other.rpy:1302 #-#-# translate crowdin d10hdate_e2ac0fa3_1:
 msgid "[_h_] Haha..."
-msgstr ""
+msgstr "[_h_] Хаха..."
 
 # game/events_other.rpy:1305 #-#-# translate crowdin d10hdate_260b56fc:
 msgid "[_h_] ...my heroine..."
@@ -2994,11 +2994,11 @@ msgstr ""
 
 # game/events_other.rpy:1394 #-#-# translate crowdin d11visitcafe_fab1f219:
 msgid "[_h_] Hey."
-msgstr ""
+msgstr "[_h_] Эй."
 
 # game/events_other.rpy:1395 #-#-# translate crowdin d11visitcafe_a4992b75:
 msgid "[_mc_] Hey, [h]."
-msgstr ""
+msgstr "[_mc_] Эй, [h]."
 
 # game/events_other.rpy:1397 #-#-# translate crowdin d11visitcafe_2fded262_1:
 msgid "[_h_] ..."
@@ -3038,7 +3038,7 @@ msgstr ""
 
 # game/events_other.rpy:1412 #-#-# translate crowdin d11visitcafe_fab1f219_1:
 msgid "[_h_] Hey."
-msgstr ""
+msgstr "[_h_] Эй."
 
 # game/events_other.rpy:1414 #-#-# translate crowdin d11visitcafe_b3b9f996:
 msgid "[_mc_] Oh, hi."
@@ -3138,7 +3138,7 @@ msgstr ""
 
 # game/events_other.rpy:1466 #-#-# translate crowdin d11visitcafe_a64e8bc0:
 msgid "[_mc_] Thanks."
-msgstr ""
+msgstr "[_mc_] Спасибо."
 
 # game/events_other.rpy:1467 #-#-# translate crowdin d11visitcafe_787f66a5:
 msgid "[_h_] Anything else?"
@@ -3206,7 +3206,7 @@ msgstr ""
 
 # game/events_other.rpy:1494 #-#-# translate crowdin d11visitcafe_b9b9c170:
 msgid "[_em_] What?!"
-msgstr ""
+msgstr "[_em_] Что?!"
 
 # game/events_other.rpy:1496 #-#-# translate crowdin d11visitcafe_1b4cde14:
 msgid "[_mcthink_] I wonder what happened..."
@@ -4534,7 +4534,7 @@ msgstr ""
 
 # game/events_other.rpy:2127 #-#-# translate crowdin d11maggylewd_c6f1863c:
 msgid "[_mc_] Whoa!"
-msgstr ""
+msgstr "[_mc_] Ого!"
 
 # game/events_other.rpy:2130 #-#-# translate crowdin d11maggylewd_f8b57a23:
 msgid "[_mc_] I get the feeling you've been waiting for this to happen."
@@ -5102,7 +5102,7 @@ msgstr ""
 
 # game/events_other.rpy:2475 #-#-# translate crowdin d12stdate_d9970a0b:
 msgid "[_mc_] What?! [withhpunch]"
-msgstr ""
+msgstr "[_mc_] Что?! [withhpunch]"
 
 # game/events_other.rpy:2477 #-#-# translate crowdin d12stdate_5dd21fe7:
 msgid "[_st_] I-I really wanted to tell you, I was just waiting for the right moment!"
