@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:48\n"
+"PO-Revision-Date: 2023-04-30 02:52\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:216
 msgid "{b}Add text outline?{/b}"
@@ -22,11 +22,11 @@ msgstr ""
 
 # game/screens.rpy:218
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 # game/screens.rpy:219
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 # game/screens.rpy:247
 msgid "Ok"
@@ -42,15 +42,15 @@ msgstr ""
 
 # game/screens.rpy:327
 msgid "Hide"
-msgstr ""
+msgstr "Скрыть"
 
 # game/screens.rpy:328
 msgid "Skip"
-msgstr ""
+msgstr "Пропуск"
 
 # game/screens.rpy:329
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 # game/screens.rpy:330
 msgid "Q.Save"
@@ -62,11 +62,11 @@ msgstr ""
 
 # game/screens.rpy:332
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 # game/screens.rpy:385
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 # game/screens.rpy:387
 msgid "Load"
@@ -82,11 +82,11 @@ msgstr ""
 
 # game/screens.rpy:397
 msgid "Main Menu"
-msgstr ""
+msgstr "Главное меню"
 
 # game/screens.rpy:399
 msgid "Gallery"
-msgstr ""
+msgstr "Галерея"
 
 # game/screens.rpy:401
 msgid "About"
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/screens.rpy:409
 msgid "Quit"
-msgstr ""
+msgstr "Выйти"
 
 # game/screens.rpy:567
 msgid "Return"
