@@ -10,273 +10,273 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro.rpy:5 #-#-# translate crowdin intro_af100c11:
 msgid "[_n_] Somewhere in a cab."
-msgstr ""
+msgstr "[_n_] Da qualche parte in cabina."
 
 # game/intro.rpy:8 #-#-# translate crowdin intro_01c697a2:
 msgid "[_mcthink_] Alright, almost there..."
-msgstr ""
+msgstr "[_mcthink_] Va bene, ci siamo quasi..."
 
 # game/intro.rpy:9 #-#-# translate crowdin intro_e55dd2d3:
 msgid "[_mcthink_] ...it feels weird to come back here..."
-msgstr ""
+msgstr "[_mcthink_] ...è strano tornare qui..."
 
 # game/intro.rpy:10 #-#-# translate crowdin intro_d48be227:
 msgid "[_mcthink_] After all these years to be back in my hometown..."
-msgstr ""
+msgstr "[_mcthink_] Dopo tutti questi anni, tornare nella mia città natale..."
 
 # game/intro.rpy:11 #-#-# translate crowdin intro_96ccb4c8:
 msgid "[_mcthink_] Who would have guessed I'd ever come back..."
-msgstr ""
+msgstr "[_mcthink_] Chi l'avrebbe mai detto che sarei tornato..."
 
 # game/intro.rpy:12 #-#-# translate crowdin intro_d77beb2e:
 msgid "[_mcthink_] ...just for a job."
-msgstr ""
+msgstr "[_mcthink_] ...solo per un lavoro."
 
 # game/intro.rpy:13 #-#-# translate crowdin intro_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro.rpy:16 #-#-# translate crowdin intro_e4c039d6:
 msgid "[_mcthink_] We must be close to the hotel..."
-msgstr ""
+msgstr "[_mcthink_] Dobbiamo essere vicini all'hotel..."
 
 # game/intro.rpy:17 #-#-# translate crowdin intro_cd66e642:
 msgid "[_mcthink_] I hope the new apartment is ready when I move in, in a few days..."
-msgstr ""
+msgstr "[_mcthink_] Spero che il nuovo appartamento sia pronto quando mi trasferirò, tra pochi giorni..."
 
 # game/intro.rpy:18 #-#-# translate crowdin intro_31613dc0:
 msgid "[_mcthink_] And that it looks as good as it does in the pictures."
-msgstr ""
+msgstr "[_mcthink_] E che sia bello come nelle foto."
 
 # game/intro.rpy:19 #-#-# translate crowdin intro_9b9cd938:
 msgid "[_mcthink_] ...maybe I should have a look before I go to the hotel?"
-msgstr ""
+msgstr "[_mcthink_] ...forse dovrei dare un'occhiata prima di andare in albergo?"
 
 # game/intro.rpy:20 #-#-# translate crowdin intro_e1cb0469:
 msgid "[_mcthink_] On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
-msgstr ""
+msgstr "[_mcthink_] D'altra parte, la mia roba non sarà spedita prima di qualche giorno e non posso ancora trasferirmi..."
 
 # game/intro.rpy:21 #-#-# translate crowdin intro_c1a5851a:
 msgid "[_mcthink_] Naaah, whatever, I'm too curious right now. I'll have a look!"
-msgstr ""
+msgstr "[_mcthink_] Naaah, non importa, sono troppo curiosa in questo momento. Darò un'occhiata!"
 
 # game/intro.rpy:25 #-#-# translate crowdin intro_ef06476f:
 msgid "Cab driver [special_delimiter] Alright, that's as close as we can get."
-msgstr ""
+msgstr "Tassista [special_delimiter] Va bene, questo è il massimo che possiamo ottenere."
 
 # game/intro.rpy:26 #-#-# translate crowdin intro_dbcbd63e:
 msgid "Cab driver [special_delimiter] As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
-msgstr ""
+msgstr "Autista di taxi [special_delimiter] Come ho detto prima, la strada è bloccata dai lavori, ma non è comunque lontana da qui."
 
 # game/intro.rpy:27 #-#-# translate crowdin intro_d4f8633c:
 msgid "[_mc_] That's okay, I'll walk."
-msgstr ""
+msgstr "[_mc_] Non c'è problema, vado a piedi."
 
 # game/intro.rpy:28 #-#-# translate crowdin intro_40374778:
 msgid "Cab driver [special_delimiter] You know the way?"
-msgstr ""
+msgstr "Tassista [special_delimiter] Conosce la strada?"
 
 # game/intro.rpy:29 #-#-# translate crowdin intro_59b19076:
 msgid "[_mc_] Yeah, I grew up in this town."
-msgstr ""
+msgstr "[_mc_] Sì, sono cresciuto in questa città."
 
 # game/intro.rpy:30 #-#-# translate crowdin intro_f5a5e7ce:
 msgid "Cab driver [special_delimiter] 'Kay, good luck."
-msgstr ""
+msgstr "Il tassista [special_delimiter] \"Bene, buona fortuna\"."
 
 # game/intro.rpy:32 #-#-# translate crowdin intro_942da871:
 msgid "[_n_] You give the driver his money and walk towards your new apartment, using some side roads you still remember from the past."
-msgstr ""
+msgstr "[_n_] Si dà al conducente il suo denaro e camminare verso il vostro nuovo appartamento, utilizzando alcune strade laterali che ancora ricordate dal passato."
 
 # game/intro.rpy:33 #-#-# translate crowdin intro_da8fa4e5:
 msgid "[_n_] As you turn into a small alley you notice a girl looking at you."
-msgstr ""
+msgstr "[_n_] Quando ti trasformi in un piccolo vicolo, nota una ragazza che ti guarda."
 
 # game/intro.rpy:35 #-#-# translate crowdin intro_78a1b80f:
 msgid "[_mcthink_] Huh?! Why is that girl looking at me like that?"
-msgstr ""
+msgstr "[_mcthink_] Huh?! Perché quella ragazza mi guarda così?"
 
 # game/intro.rpy:36 #-#-# translate crowdin intro_b96a2916:
 msgid "[_mcthink_] Do I know her?"
-msgstr ""
+msgstr "[_mcthink_] La conosco?"
 
 # game/intro.rpy:38 #-#-# translate crowdin intro_c6a5bd01:
 msgid "[_mcthink_] She's cute... I guess I'd remember her."
-msgstr ""
+msgstr "[_mcthink_] È carina... Credo che mi ricorderei di lei."
 
 # game/intro.rpy:40 #-#-# translate crowdin intro_bf980550:
 msgid "[_mcthink_] I love her hair..."
-msgstr ""
+msgstr "[_mcthink_] Adoro i suoi capelli..."
 
 # game/intro.rpy:41 #-#-# translate crowdin intro_e3288900:
 msgid "[_n_] You give her a slight smile as you walk by."
-msgstr ""
+msgstr "[_n_] Le fai un leggero sorriso mentre passi."
 
 # game/intro.rpy:43 #-#-# translate crowdin intro_70c3ae80:
 msgid "[_mcthink_] She must have fallen for me at first sight...haha."
-msgstr ""
+msgstr "[_mcthink_] Deve essersi innamorata di me a prima vista... haha."
 
 # game/intro.rpy:44 #-#-# translate crowdin intro_3dc8b368:
 msgid "[_mcthink_] Anyway, my new apartment should be just around the corner."
-msgstr ""
+msgstr "[_mcthink_] Comunque, il mio nuovo appartamento dovrebbe essere dietro l'angolo."
 
 # game/intro.rpy:45 #-#-# translate crowdin intro_e9e282fd:
 msgid "[_mcthink_] My new home in my old hometown."
-msgstr ""
+msgstr "[_mcthink_] La mia nuova casa nella mia vecchia città natale."
 
 # game/intro.rpy:46 #-#-# translate crowdin intro_b56c821e:
 msgid "[_mcthink_] ...What the?!"
-msgstr ""
+msgstr "[_mcthink_] ...che cosa?!"
 
 # game/intro.rpy:50 #-#-# translate crowdin intro_4f12e6ae:
 msgid "[_n_] As you go around the corner you see the building where your soon-to-be apartment is located in flames."
-msgstr ""
+msgstr "[_n_] Mentre vai dietro l'angolo vedi l'edificio dove si trova il tuo prossimo appartamento in fiamme."
 
 # game/intro.rpy:51 #-#-# translate crowdin intro_9e568e0a:
 msgid "[_n_] You run towards the building, but a cop stops you."
-msgstr ""
+msgstr "[_n_] Corri verso l'edificio, ma un poliziotto ti ferma."
 
 # game/intro.rpy:53 #-#-# translate crowdin intro_bd5fb625:
 msgid "Cop [special_delimiter] Hey! Stop! What do you think you're doing?"
-msgstr ""
+msgstr "Poliziotto [special_delimiter] Ehi! Fermati! Cosa pensi di fare?"
 
 # game/intro.rpy:54 #-#-# translate crowdin intro_97a1406a:
 msgid "[_mc_] T-That is my new apartment!"
-msgstr ""
+msgstr "[_mc_] Quello è il mio nuovo appartamento!"
 
 # game/intro.rpy:55 #-#-# translate crowdin intro_bfb964d4:
 msgid "Cop [special_delimiter] Your apartment?"
-msgstr ""
+msgstr "Poliziotto [special_delimiter] Il tuo appartamento?"
 
 # game/intro.rpy:56 #-#-# translate crowdin intro_d768ac49:
 msgid "[_mc_] Y-yeah, I mean, I haven't moved in yet, but still..."
-msgstr ""
+msgstr "[_mc_] Si', cioe', non mi sono ancora trasferito, ma comunque..."
 
 # game/intro.rpy:57 #-#-# translate crowdin intro_de262cb5:
 msgid "Cop [special_delimiter] You haven't moved in yet, and it's already on fire?"
-msgstr ""
+msgstr "Poliziotto [special_delimiter] Non vi siete ancora trasferiti e già va a fuoco?"
 
 # game/intro.rpy:59 #-#-# translate crowdin intro_d011e9b5:
 msgid "Cop [special_delimiter] ...that sounds fishy! Let me see your ID!"
-msgstr ""
+msgstr "Poliziotto [special_delimiter] ... sembra strano! Fammi vedere i tuoi documenti!"
 
 # game/intro.rpy:60 #-#-# translate crowdin intro_415a0a53:
 msgid "[_mc_] What? I just arrived in the city! I haven't been here for years!!"
-msgstr ""
+msgstr "[_mc_] Cosa? Sono appena arrivato in città! Sono anni che non vengo qui!!!"
 
 # game/intro.rpy:61 #-#-# translate crowdin intro_7144fd86:
 msgid "Cop [special_delimiter] Yeah, that's what they all say... Your ID!"
-msgstr ""
+msgstr "Poliziotto [special_delimiter] Sì, è quello che dicono tutti... La tua carta d'identità!"
 
 # game/intro.rpy:62 #-#-# translate crowdin intro_e7dd4f82:
 msgid "[_mc_] Who are \"they\"? This doesn't make any sense!"
-msgstr ""
+msgstr "[_mc_] Chi sono \"loro\"? Non ha alcun senso!"
 
 # game/intro.rpy:63 #-#-# translate crowdin intro_a512ea4d:
 msgid "Cop [special_delimiter] Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
-msgstr ""
+msgstr "Poliziotto [special_delimiter] Ascolta, [boygirl]! Se non mi mostri subito i tuoi documenti, ho delle comode manette e una piccola e accogliente cella di detenzione che ti aspettano."
 
 # game/intro.rpy:64 #-#-# translate crowdin intro_dadc482c:
 msgid "[_mc_] Ugh, this is insane...!"
-msgstr ""
+msgstr "[_mc_] E' una follia...!"
 
 # game/intro.rpy:65 #-#-# translate crowdin intro_b5c3adfb:
 msgid "[_mc_] Fine... Here is my ID... and don't call me [boygirl]..."
-msgstr ""
+msgstr "[_mc_] Bene... Ecco la mia carta d'identità... e non chiamatemi [boygirl]..."
 
 # game/intro.rpy:67 #-#-# translate crowdin intro_d5ceade4:
 msgid "[_n_] You give him your ID and answer a lot of stupid questions while the officer is treating you like a felonious gangster."
-msgstr ""
+msgstr "[_n_] Gli dai il tuo documento d'identità e rispondi a molte domande stupide mentre l'ufficiale ti sta trattando come un gangster felice."
 
 # game/intro.rpy:68 #-#-# translate crowdin intro_12354bf5:
 msgid "[_n_] After a while... [withslowdissolve]"
-msgstr ""
+msgstr "[_n_] Dopo un po'... [withslowdissolve]"
 
 # game/intro.rpy:70 #-#-# translate crowdin intro_69874e88:
 msgid "Cop [special_delimiter] ...and you better stay in the city, or you'll be in trouble!"
-msgstr ""
+msgstr "Poliziotto [special_delimiter] ... e faresti meglio a rimanere in città, o sarai nei guai!"
 
 # game/intro.rpy:71 #-#-# translate crowdin intro_5ed32148:
 msgid "[_mc_] Yeah, yeah, sure..."
-msgstr ""
+msgstr "[_mc_] Sì, sì, certo..."
 
 # game/intro.rpy:72 #-#-# translate crowdin intro_61e1063b:
 msgid "[_mcthink_] Asshole..."
-msgstr ""
+msgstr "[_mcthink_] Stronzo..."
 
 # game/intro.rpy:75 #-#-# translate crowdin intro_6387471a:
 msgid "[_mcthink_] Damn, the day started out so well and now this..."
-msgstr ""
+msgstr "[_mcthink_] Accidenti, la giornata era iniziata così bene e ora questo..."
 
 # game/intro.rpy:76 #-#-# translate crowdin intro_932e84e0:
 msgid "[_n_] You head to the hotel..."
-msgstr ""
+msgstr "[_n_] Ti dirigi verso l'hotel..."
 
 # game/intro.rpy:80 #-#-# translate crowdin intro_a09e7d34:
 msgid "Receptionist [special_delimiter] Good evening, how can I help you?"
-msgstr ""
+msgstr "Receptionist [special_delimiter] Buonasera, come posso aiutarla?"
 
 # game/intro.rpy:81 #-#-# translate crowdin intro_1d9905d0:
 msgid "[_mc_] Hey, I booked a room for a few days, the name is..."
-msgstr ""
+msgstr "[_mc_] Ehi, ho prenotato una stanza per qualche giorno, il nome è..."
 
 # game/intro.rpy:109 #-#-# translate crowdin intro_07b4f57e:
 msgid "Receptionist [special_delimiter] Uhm... uh-huh, yes..."
-msgstr ""
+msgstr "Receptionist [special_delimiter] Uhm... uh-huh, sì..."
 
 # game/intro.rpy:110 #-#-# translate crowdin intro_76dc0edd:
 msgid "[_mcthink_] Hum... should I tell her that her areolas are peaking out of her top?"
-msgstr ""
+msgstr "[_mcthink_] Devo dirle che le sue areole spuntano dal top?"
 
 # game/intro.rpy:112 #-#-# translate crowdin intro_7dc85376:
 msgid "Receptionist [special_delimiter] It's room number 24 on the second floor."
-msgstr ""
+msgstr "Receptionist [special_delimiter] È la stanza numero 24 al secondo piano."
 
 # game/intro.rpy:114 #-#-# translate crowdin intro_e8b2bd40:
 msgid "Receptionist [special_delimiter] Here's the key. Have a pleasant stay!"
-msgstr ""
+msgstr "Receptionist [special_delimiter] Ecco la chiave. Buon soggiorno!"
 
 # game/intro.rpy:115 #-#-# translate crowdin intro_c7dd4914:
 msgid "[_mc_] Thanks, I hope so."
-msgstr ""
+msgstr "[_mc_] Grazie, lo spero."
 
 # game/intro.rpy:118 #-#-# translate crowdin intro_0d472fd2:
 msgid "[_mc_] At least the room seems to be okay..."
-msgstr ""
+msgstr "[_mc_] Almeno la stanza sembra essere a posto..."
 
 # game/intro.rpy:119 #-#-# translate crowdin intro_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/intro.rpy:120 #-#-# translate crowdin intro_830c2d03:
 msgid "[_mc_] Looks like I need to find a new apartment... As soon as possible!"
-msgstr ""
+msgstr "[_mc_] Sembra che debba trovare un nuovo appartamento... Il prima possibile!"
 
 # game/intro.rpy:121 #-#-# translate crowdin intro_0e8bcd4c:
 msgid "[_mc_] Yaaaahwn..."
-msgstr ""
+msgstr "[_mc_] Yaaaahwn..."
 
 # game/intro.rpy:122 #-#-# translate crowdin intro_c1a15379:
 msgid "[_mc_] ...damn, I'm tired."
-msgstr ""
+msgstr "[_mc_] ...accidenti, sono stanco."
 
 # game/intro.rpy:123 #-#-# translate crowdin intro_98c69f0c:
 msgid "[_mc_] Shit, it's late already..."
-msgstr ""
+msgstr "[_mc_] Merda, è già tardi..."
 
 # game/intro.rpy:124 #-#-# translate crowdin intro_01bf7bb9:
 msgid "[_mc_] I better go to bed... I can't do anything at this time anyway."
-msgstr ""
+msgstr "[_mc_] È meglio che vada a letto... Tanto non posso fare nulla a quest'ora."
 
 # §translate crowdin strings: #|#|# # game/intro.rpy:85
 msgid "Choose your first name."
-msgstr ""
+msgstr "Scegliete il vostro nome di battesimo."
 
 # game/intro.rpy:86
 msgid "Choose your last name."
-msgstr ""
+msgstr "Scegliete il vostro cognome."
 
