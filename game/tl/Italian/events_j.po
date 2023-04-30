@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-04-30 16:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -70,7 +70,7 @@ msgstr "[_j_] Bello per incontrarti, [mc]."
 
 # game/events_j.rpy:21 #-#-# translate crowdin jadaFirstMeet_ac1e6b62:
 msgid "[_mc_] Nice to meet you too, [j]... and what are you doing here?"
-msgstr ""
+msgstr "[_mc_] Piacere di conoscerti, [j]... e cosa ci fai qui?"
 
 # game/events_j.rpy:22 #-#-# translate crowdin jadaFirstMeet_d68a840b:
 msgid "[_j_] I'm [e]'s classmate. I'm helping her out with homework from time to time."
