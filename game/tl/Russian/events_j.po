@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/events_j.rpy:28 #-#-# translate crowdin jadaFirstMeet_ebd1543f:
 msgid "[_j_] Later [mc]."
-msgstr ""
+msgstr "[_j_] Позже [mc]."
 
 # game/events_j.rpy:29 #-#-# translate crowdin jadaFirstMeet_f51e63bc:
 msgid "[_mc_] Yeah, later."
@@ -322,7 +322,7 @@ msgstr ""
 
 # game/events_j.rpy:124 #-#-# translate crowdin JVREbirthday_2efe3878:
 msgid "[_n_] a while later [withdissolve]"
-msgstr ""
+msgstr "[_n_] некоторое время спустя [withdissolve]"
 
 # game/events_j.rpy:128 #-#-# translate crowdin JVREbirthday_3713fca7:
 msgid "{color=#570058}Girl1{/color} [special_delimiter] AHN, AH, HA, HAA..."
@@ -374,7 +374,7 @@ msgstr ""
 
 # game/events_j.rpy:143 #-#-# translate crowdin JVREbirthday_af40f385:
 msgid "[_mc_] Eh?!"
-msgstr ""
+msgstr "[_mc_] А?!"
 
 # game/events_j.rpy:145 #-#-# translate crowdin JVREbirthday_6ad2d418:
 msgid "[_mc_] What the!?"
@@ -870,7 +870,7 @@ msgstr ""
 
 # game/events_j.rpy:320 #-#-# translate crowdin bringJadaHome_085722e2:
 msgid "[_mc_] What?!"
-msgstr ""
+msgstr "[_mc_] Что?!"
 
 # game/events_j.rpy:321 #-#-# translate crowdin bringJadaHome_266f1586:
 msgid "[_j_] Haha, come on, she is hot as fuck! I know you've checked her out."
@@ -910,7 +910,7 @@ msgstr ""
 
 # game/events_j.rpy:331 #-#-# translate crowdin bringJadaHome_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Что?"
 
 # game/events_j.rpy:332 #-#-# translate crowdin bringJadaHome_6bed3f49:
 msgid "[_j_] ...I know I can't compete with [e]'s cuteness or [m]'s goddamn hot and sexy milfy...ness..."
@@ -970,7 +970,7 @@ msgstr ""
 
 # game/events_j.rpy:351 #-#-# translate crowdin bringJadaHome_c6f1863c:
 msgid "[_mc_] Whoa!"
-msgstr ""
+msgstr "[_mc_] Ого!"
 
 # game/events_j.rpy:353 #-#-# translate crowdin bringJadaHome_aa9169c5:
 msgid "[_j_] You should've avoided that hole in the street."
@@ -1406,7 +1406,7 @@ msgstr ""
 
 # game/events_j.rpy:553 #-#-# translate crowdin d6_wayBackHome_c6f1863c:
 msgid "[_mc_] Whoa!"
-msgstr ""
+msgstr "[_mc_] Ого!"
 
 # game/events_j.rpy:554 #-#-# translate crowdin d6_wayBackHome_c7015dff:
 msgid "[_mc_] What the fuck! Are you crazy?!"
@@ -2230,7 +2230,7 @@ msgstr ""
 
 # game/events_j.rpy:948 #-#-# translate crowdin d6_gotobed_withj_290463d2:
 msgid "[_j_] Hmmm..."
-msgstr ""
+msgstr "[_j_] Хммм..."
 
 # game/events_j.rpy:953 #-#-# translate crowdin d6_gotobed_withj_f232979e:
 msgid "[_j_] Hum... I think I need to work a bit harder."
@@ -2402,7 +2402,7 @@ msgstr ""
 
 # game/events_j.rpy:1046 #-#-# translate crowdin d7_motel_699c0b47:
 msgid "[_j_] Hey, [mcmd]!"
-msgstr ""
+msgstr "[_j_] Эй, [mcmd]!"
 
 # game/events_j.rpy:1047 #-#-# translate crowdin d7_motel_e344e06b:
 msgid "[_mc_] Hey, what's up, [j]?"
@@ -2582,7 +2582,7 @@ msgstr ""
 
 # game/events_j.rpy:1102 #-#-# translate crowdin d7_motel_e225e7fc:
 msgid "[_j_] Hey, [mc]!"
-msgstr ""
+msgstr "[_j_] Эй, [mc]!"
 
 # game/events_j.rpy:1104 #-#-# translate crowdin d7_motel_94b73aa0:
 msgid "[_mc_] Oh hey, [j]!"
@@ -2946,7 +2946,7 @@ msgstr ""
 
 # game/events_j.rpy:1264 #-#-# translate crowdin d7_motel_r_dfd81e46:
 msgid "[_mc_] Uhh..."
-msgstr ""
+msgstr "[_mc_] Ух..."
 
 # game/events_j.rpy:1268 #-#-# translate crowdin d7_motel_r_27d75afd:
 msgid "[_j_] Awwww, come on, I've never tried it out... I really want you to bang me like a dirty little girl!"
@@ -3254,7 +3254,7 @@ msgstr ""
 
 # game/events_j.rpy:1425 #-#-# translate crowdin d9_morning_wakeup_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Что?"
 
 # game/events_j.rpy:1427 #-#-# translate crowdin d9_morning_wakeup_41d9f448:
 msgid "[_j_] I was expecting you to come over and molest us in our sleep."
@@ -3642,7 +3642,7 @@ msgstr ""
 
 # game/events_j.rpy:1622 #-#-# translate crowdin d9_jhall_9f42dc13:
 msgid "[_mc_] Eh..."
-msgstr ""
+msgstr "[_mc_] А..."
 
 # game/events_j.rpy:1624 #-#-# translate crowdin d9_jhall_bc444e29:
 msgid "[_j_] Where's [e] by the way?"
@@ -3710,7 +3710,7 @@ msgstr ""
 
 # game/events_j.rpy:1664 #-#-# translate crowdin d10pcroombeforekh_c73fa029:
 msgid "[_j_] Hey."
-msgstr ""
+msgstr "[_j_] Эй."
 
 # game/events_j.rpy:1665 #-#-# translate crowdin d10pcroombeforekh_8afc94eb:
 msgid "[_mc_] Hey, [j]."
@@ -3910,7 +3910,7 @@ msgstr ""
 
 # game/events_j.rpy:1750 #-#-# translate crowdin d10pcroombeforekh_699878f6:
 msgid "[_mc_] Hey!"
-msgstr ""
+msgstr "[_mc_] Эй!"
 
 # game/events_j.rpy:1752 #-#-# translate crowdin d10pcroombeforekh_3e4db859:
 msgid "[_j_] Haha, I mean small compared to a horse cock."
@@ -4354,7 +4354,7 @@ msgstr ""
 
 # game/events_j.rpy:1958 #-#-# translate crowdin d11jbeforlsex_b7ae879e:
 msgid "[_j_] Haha."
-msgstr ""
+msgstr "[_j_] Хаха."
 
 # game/events_j.rpy:1962 #-#-# translate crowdin d11jbeforlsex_264644a3:
 msgid "[_j_] One more thing..."
@@ -4442,7 +4442,7 @@ msgstr ""
 
 # game/events_j.rpy:2006 #-#-# translate crowdin d11stepladder_bf12d390:
 msgid "[_mc_] Haha!"
-msgstr ""
+msgstr "[_mc_] Хаха!"
 
 # game/events_j.rpy:2008 #-#-# translate crowdin d11stepladder_af58e455:
 msgid "[_mc_] You should've waited for me to fix it."
@@ -4502,7 +4502,7 @@ msgstr ""
 
 # game/events_j.rpy:2036 #-#-# translate crowdin d11stepladder_085722e2:
 msgid "[_mc_] What?!"
-msgstr ""
+msgstr "[_mc_] Что?!"
 
 # game/events_j.rpy:2038 #-#-# translate crowdin d11stepladder_ee6cb224:
 msgid "[_j_] PFFWHAHAHAHA! You should see your face right now, haha!"
@@ -4794,7 +4794,7 @@ msgstr ""
 
 # game/events_j.rpy:2179 #-#-# translate crowdin d12shed_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Что?"
 
 # game/events_j.rpy:2182 #-#-# translate crowdin d12shed_0a5e637f:
 msgid "[_j_] I'll just be your personal little whore, hehe."
@@ -4802,7 +4802,7 @@ msgstr ""
 
 # game/events_j.rpy:2184 #-#-# translate crowdin d12shed_085722e2:
 msgid "[_mc_] What?!"
-msgstr ""
+msgstr "[_mc_] Что?!"
 
 # game/events_j.rpy:2186 #-#-# translate crowdin d12shed_c9d6fc29:
 msgid "[_j_] Well, [e] will probably get a nice job, she has better grades than me, so she won't be home half the day."
@@ -4854,7 +4854,7 @@ msgstr ""
 
 # game/events_j.rpy:2211 #-#-# translate crowdin d12shed_085722e2_1:
 msgid "[_mc_] What?!"
-msgstr ""
+msgstr "[_mc_] Что?!"
 
 # game/events_j.rpy:2213 #-#-# translate crowdin d12shed_646ddfd7:
 msgid "[_j_] I'll bring you coffee in the morning, snacks in the afternoon..."
@@ -4902,7 +4902,7 @@ msgstr ""
 
 # game/events_j.rpy:2236 #-#-# translate crowdin d12shed_2df45668:
 msgid "[_j_] Awww........"
-msgstr ""
+msgstr "[_j_] Оу........"
 
 # game/events_j.rpy:2237 #-#-# translate crowdin d12shed_64f59816:
 msgid "[_mc_] That's the condition."
@@ -6166,7 +6166,7 @@ msgstr ""
 
 # game/events_j.rpy:2937 #-#-# translate crowdin d12jfun_c6f1863c:
 msgid "[_mc_] Whoa!"
-msgstr ""
+msgstr "[_mc_] Ого!"
 
 # game/events_j.rpy:2940 #-#-# translate crowdin d12jfun_ddc9eb71:
 msgid "[_mc_] Sorry, [j], but I really need to focus..."
