@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day1.rpy:3 #-#-# translate crowdin intro_day1_26086d61:
 msgid "[_n_] Next Day [withdissolve]"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/intro_day1.rpy:6 #-#-# translate crowdin intro_day1_dfd81e46:
 msgid "[_mc_] Uhh..."
-msgstr ""
+msgstr "[_mc_] Ух..."
 
 # game/intro_day1.rpy:8 #-#-# translate crowdin intro_day1_d99f856b:
 msgid "[_mc_] What time is it?"
@@ -518,7 +518,7 @@ msgstr ""
 
 # game/intro_day1.rpy:180 #-#-# translate crowdin intro_day1_697beb79:
 msgid "[_m_] Great!"
-msgstr ""
+msgstr "[_m_] Отлично!"
 
 # game/intro_day1.rpy:181 #-#-# translate crowdin intro_day1_9ce36f0d:
 msgid "[_m_] There is a nice small café over there. I bet you'll love it."
