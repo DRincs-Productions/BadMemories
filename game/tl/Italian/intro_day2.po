@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
-msgstr ""
+msgstr "[_n_] Di notte [withdissolve]"
 
 # game/intro_day2.rpy:6 #-#-# translate crowdin intro_day2_bb2cf764:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:9 #-#-# translate crowdin intro_day2_0de96e02:
 msgid "Loud Voice [special_delimiter] I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN! [withvpunch]"
-msgstr ""
+msgstr "Loud Voice [special_delimiter] HAVE SEEN IT! NON DEVE DARE LIE TO ME AGAIN! [withvpunch]"
 
 # game/intro_day2.rpy:10 #-#-# translate crowdin intro_day2_e7c86f6c:
 msgid "Female Voice [special_delimiter] I'm not lying, I didn't do anything. He was just talking to me!"
-msgstr ""
+msgstr "Voce femminile [special_delimiter] Non sto mentendo, non ho fatto nulla. Stava solo parlando con me!"
 
 # game/intro_day2.rpy:11 #-#-# translate crowdin intro_day2_46a27d87:
 msgid "Loud Voice [special_delimiter] I FUCKIN' TOLD YOU WHAT'S GOIN TO HAPPEN, YOU FUCKIN' SLUT!"
-msgstr ""
+msgstr "Loud Voice [special_delimiter] FUCKIN' TOLD YOU COSA BENO A HAPPEN, TU FUCKIN' SLUT!"
 
 # game/intro_day2.rpy:12 #-#-# translate crowdin intro_day2_7b2b0f4d:
 msgid "Female Voice [special_delimiter] No, please. I swear I didn't..."
-msgstr ""
+msgstr "Voce femminile [special_delimiter] No, per favore. Giuro di no..."
 
 # game/intro_day2.rpy:13 #-#-# translate crowdin intro_day2_2d683f63:
 msgid "Loud Voice [special_delimiter] SHUT THE FUCK UP, SLUT!"
-msgstr ""
+msgstr "Voce forte [special_delimiter] SHUT THE FUCK UP, SLUT!"
 
 # game/intro_day2.rpy:15 #-#-# translate crowdin intro_day2_dbd9bc4b:
 msgid "*SLAP* [withhpunch]"
@@ -46,7 +46,7 @@ msgstr "*SLAP* [withhpunch]"
 
 # game/intro_day2.rpy:16 #-#-# translate crowdin intro_day2_234974f3:
 msgid "Female Voice [special_delimiter] Ahh... n-no, p-please..."
-msgstr ""
+msgstr "Voce femminile [special_delimiter] Ahh... n-no, p-per favore..."
 
 # game/intro_day2.rpy:18 #-#-# translate crowdin intro_day2_dbd9bc4b_1:
 msgid "*SLAP* [withhpunch]"
@@ -58,11 +58,11 @@ msgstr "*wimpering*"
 
 # game/intro_day2.rpy:20 #-#-# translate crowdin intro_day2_e3206cca:
 msgid "Female Voice [special_delimiter] Please..."
-msgstr ""
+msgstr "Voce femminile [special_delimiter] Per favore..."
 
 # game/intro_day2.rpy:21 #-#-# translate crowdin intro_day2_ab5649b7:
 msgid "Loud Voice [special_delimiter] I TOLD YOU TO SHUT UP SLUT!"
-msgstr ""
+msgstr "Voce rumorosa [special_delimiter] TORNO A SCOPRIRE IL LAVORO!"
 
 # game/intro_day2.rpy:23 #-#-# translate crowdin intro_day2_5dbe0428:
 msgid "*SMACK* [withhpunch]"
@@ -70,7 +70,7 @@ msgstr "*SMACK* [withhpunch]"
 
 # game/intro_day2.rpy:24 #-#-# translate crowdin intro_day2_801a666c:
 msgid "Female Voice [special_delimiter] ACK"
-msgstr ""
+msgstr "Voce femminile [special_delimiter] ACK"
 
 # game/intro_day2.rpy:25 #-#-# translate crowdin intro_day2_3fe3cd48_1:
 msgid "*wimpering*"
@@ -78,11 +78,11 @@ msgstr "*wimpering*"
 
 # game/intro_day2.rpy:26 #-#-# translate crowdin intro_day2_92c9fe5c:
 msgid "Female Voice [special_delimiter] I'm sorry... I'm sorry..."
-msgstr ""
+msgstr "Voce femminile [special_delimiter] Mi dispiace... Mi dispiace..."
 
 # game/intro_day2.rpy:27 #-#-# translate crowdin intro_day2_6d188e1b:
 msgid "Loud Voice [special_delimiter] Yeah, you better be... now, suck it!"
-msgstr ""
+msgstr "Voce forte [special_delimiter] Sì, è meglio essere... ora, succhiatelo!"
 
 # game/intro_day2.rpy:28 #-#-# translate crowdin intro_day2_3fe3cd48_2:
 msgid "*wimpering*"
@@ -90,593 +90,593 @@ msgstr "*wimpering*"
 
 # game/intro_day2.rpy:29 #-#-# translate crowdin intro_day2_912294a2:
 msgid "Loud Voice [special_delimiter] I TOLD YOU TO SUCK!"
-msgstr ""
+msgstr "Voce rumorosa [special_delimiter] TORNO A SUCK!"
 
 # game/intro_day2.rpy:30 #-#-# translate crowdin intro_day2_420b7706:
 msgid "Female Voice [special_delimiter] Yes, yes, I'm sorry..."
-msgstr ""
+msgstr "Voce femminile [special_delimiter] Sì, sì, mi dispiace..."
 
 # game/intro_day2.rpy:31 #-#-# translate crowdin intro_day2_c86c2e61:
 msgid "Female Voice [special_delimiter] Unn..."
-msgstr ""
+msgstr "Voce femminile [special_delimiter] Unn..."
 
 # game/intro_day2.rpy:33 #-#-# translate crowdin intro_day2_a6b1be05:
 msgid "[_n_] *KNOCK* *KNOCK*"
-msgstr ""
+msgstr "[_n_] *KNOCK* *KNOCK*"
 
 # game/intro_day2.rpy:34 #-#-# translate crowdin intro_day2_90adfd5e:
 msgid "[_mc_] D-Dad? What's going on, why are you screaming?"
-msgstr ""
+msgstr "[_mc_] D-Papà? Cosa sta succedendo, perché stai urlando?"
 
 # game/intro_day2.rpy:35 #-#-# translate crowdin intro_day2_7d00296a:
 msgid "Loud Voice [special_delimiter] FUCK!"
-msgstr ""
+msgstr "Voce forte [special_delimiter] FUCK!"
 
 # game/intro_day2.rpy:37 #-#-# translate crowdin intro_day2_cb56ae6b:
 msgid "[_n_] The door opens slightly."
-msgstr ""
+msgstr "[_n_] La porta si apre leggermente."
 
 # game/intro_day2.rpy:38 #-#-# translate crowdin intro_day2_e0e49eec:
 msgid "Dad [special_delimiter] Hey, it's okay. [m] and I just had a small argument. Nothing special. Go to bed [boygirl]."
-msgstr ""
+msgstr "Papà [special_delimiter] Hey, va bene. [m] e ho appena avuto un piccolo argomento. Niente di speciale. Vai a letto [boygirl]."
 
 # game/intro_day2.rpy:39 #-#-# translate crowdin intro_day2_5bb966b2:
 msgid "[_mc_] Um... Dad, [m] is bleeding..."
-msgstr ""
+msgstr "[_mc_] Um... Papà, [m] sta sanguinando..."
 
 # game/intro_day2.rpy:40 #-#-# translate crowdin intro_day2_f9cf8ca5:
 msgid "Dad [special_delimiter] It's okay, she was too stupid to watch where she was going and stumbled over something."
-msgstr ""
+msgstr "Papà [special_delimiter] Va bene, era troppo stupida per guardare dove stava andando e inciampava su qualcosa."
 
 # game/intro_day2.rpy:41 #-#-# translate crowdin intro_day2_1e2dd096:
 msgid "Dad [special_delimiter] It's just a scratch, she's fine. Go to bed now."
-msgstr ""
+msgstr "Papà [special_delimiter] È solo un graffio, sta bene. Vai a letto ora."
 
 # game/intro_day2.rpy:42 #-#-# translate crowdin intro_day2_d2cfcf43:
 msgid "[_mc_] Oh... okay."
-msgstr ""
+msgstr "[_mc_] Oh... okay."
 
 # game/intro_day2.rpy:44 #-#-# translate crowdin intro_day2_7e758acb:
 msgid "[_n_] He closes the door."
-msgstr ""
+msgstr "[_n_] Chiude la porta."
 
 # game/intro_day2.rpy:45 #-#-# translate crowdin intro_day2_bb2cf764_1:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:46 #-#-# translate crowdin intro_day2_c5c91f0a:
 msgid "Dad [special_delimiter] {size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
-msgstr ""
+msgstr "Papà [special_delimiter] {size=-10}Sei felice adesso? Ti sei svegliato [himher] con il tuo stupido grido!{/size}"
 
 # game/intro_day2.rpy:47 #-#-# translate crowdin intro_day2_bf658c6a:
 msgid "[_m_] {size=-10}...I'm sorry...{/size}"
-msgstr ""
+msgstr "[_m_] {size=-10}...Mi dispiace...{/size}"
 
 # game/intro_day2.rpy:48 #-#-# translate crowdin intro_day2_c56ae62d:
 msgid "Dad [special_delimiter] {size=-10}Stupid bitch. Turn around!{/size}"
-msgstr ""
+msgstr "Papà [special_delimiter] {size=-10}Stupid bitch. Turn around!{/size}"
 
 # game/intro_day2.rpy:50 #-#-# translate crowdin intro_day2_a27dcaa7:
 msgid "[_m_] {size=-10}B-but I'm not on the pill, you know that!?{/size}"
-msgstr ""
+msgstr "[_m_] {size=-10}B-ma non sono sulla pillola, lo sapete!?{/size}"
 
 # game/intro_day2.rpy:52 #-#-# translate crowdin intro_day2_b3c1c44e:
 msgid "[_m_] {size=-10}P-Please, it still hurts...{/size}"
-msgstr ""
+msgstr "[_m_] {size=-10}P-Please, it still hurts...{/size}"
 
 # game/intro_day2.rpy:53 #-#-# translate crowdin intro_day2_1e4fe5fe:
 msgid "Dad [special_delimiter] SHUT UP! I don't fucking care!"
-msgstr ""
+msgstr "Papà [special_delimiter] SHUT UP! Non cazzo cura!"
 
 # game/intro_day2.rpy:54 #-#-# translate crowdin intro_day2_63910f04:
 msgid "[_n_] *wimpering*"
-msgstr ""
+msgstr "[_n_] *wimpering*"
 
 # game/intro_day2.rpy:55 #-#-# translate crowdin intro_day2_bb2cf764_2:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:58 #-#-# translate crowdin intro_day2_79dba188:
 msgid "[_mc_] Shit..."
-msgstr ""
+msgstr "[_mc_] Mossa..."
 
 # game/intro_day2.rpy:60 #-#-# translate crowdin intro_day2_123385ad:
 msgid "[_mcthink_] Damn, that was a heavy dream..."
-msgstr ""
+msgstr "[_mcthink_] Dannazione, che era un sogno pesante..."
 
 # game/intro_day2.rpy:61 #-#-# translate crowdin intro_day2_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:62 #-#-# translate crowdin intro_day2_e6a61566:
 msgid "[_mcthink_] Did that really happen?"
-msgstr ""
+msgstr "[_mcthink_] È successo veramente?"
 
 # game/intro_day2.rpy:63 #-#-# translate crowdin intro_day2_6baec22e:
 msgid "[_mcthink_] ...why am I remembering this shit now..."
-msgstr ""
+msgstr "[_mcthink_] ...perché mi ricordo di questa merda ora..."
 
 # game/intro_day2.rpy:64 #-#-# translate crowdin intro_day2_457c6f63_1:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:65 #-#-# translate crowdin intro_day2_2607fa33:
 msgid "[_mcthink_] ...I guess she really treated me better than that asshole treated her..."
-msgstr ""
+msgstr "[_mcthink_] ...Immagino che mi abbia trattato molto meglio di quel culo la tratta..."
 
 # game/intro_day2.rpy:66 #-#-# translate crowdin intro_day2_a6b0f222:
 msgid "[_mcthink_] .."
-msgstr ""
+msgstr "[_mcthink_] .."
 
 # game/intro_day2.rpy:67 #-#-# translate crowdin intro_day2_457c6f63_2:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:68 #-#-# translate crowdin intro_day2_0d62fbf2:
 msgid "[_mcthink_] ...."
-msgstr ""
+msgstr "[_mcthink_] ...."
 
 # game/intro_day2.rpy:69 #-#-# translate crowdin intro_day2_dc64dcac:
 msgid "[_mcthink_] But still... I can't forgive her..."
-msgstr ""
+msgstr "[_mcthink_] Ma ancora... non posso perdonarla..."
 
 # game/intro_day2.rpy:70 #-#-# translate crowdin intro_day2_a6b0f222_1:
 msgid "[_mcthink_] .."
-msgstr ""
+msgstr "[_mcthink_] .."
 
 # game/intro_day2.rpy:71 #-#-# translate crowdin intro_day2_457c6f63_3:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:72 #-#-# translate crowdin intro_day2_0d62fbf2_1:
 msgid "[_mcthink_] ...."
-msgstr ""
+msgstr "[_mcthink_] ...."
 
 # game/intro_day2.rpy:73 #-#-# translate crowdin intro_day2_8df6c139:
 msgid "[_mcthink_] I need a shower..."
-msgstr ""
+msgstr "[_mcthink_] Ho bisogno di una doccia..."
 
 # game/intro_day2.rpy:76 #-#-# translate crowdin intro_day2_a3af40ea:
 msgid "[_n_] A few minutes later. [withdissolve]"
-msgstr ""
+msgstr "[_n_] Pochi minuti dopo. [withdissolve]"
 
 # game/intro_day2.rpy:79 #-#-# translate crowdin intro_day2_a982138e:
 msgid "[_n_] You hear the phone in your room ringing."
-msgstr ""
+msgstr "[_n_] Senti il telefono nella tua stanza."
 
 # game/intro_day2.rpy:81 #-#-# translate crowdin intro_day2_f49fff8f:
 msgid "[_mc_] Yeah?"
-msgstr ""
+msgstr "[_mc_] Sì?"
 
 # game/intro_day2.rpy:82 #-#-# translate crowdin intro_day2_811726b2:
 msgid "Voice [special_delimiter] Hello [mrms] [mcsure], this is the reception desk. We have a call from a woman named [m], who wants to talk to you."
-msgstr ""
+msgstr "Voce [special_delimiter] Ciao [mrms] [mcsure], questa è la reception. Abbiamo una chiamata da una donna di nome [m], che vuole parlare con te."
 
 # game/intro_day2.rpy:84 #-#-# translate crowdin intro_day2_18cc73aa:
 msgid "[_mcthink_] [m]?! What does she want now?"
-msgstr ""
+msgstr "[_mcthink_] [m]?! Cosa vuole adesso?"
 
 # game/intro_day2.rpy:86 #-#-# translate crowdin intro_day2_39d5b9d7:
 msgid "[_mcthink_] [m]?! How the fuck did she get the number?"
-msgstr ""
+msgstr "[_mcthink_] [m]?! Come la scopata ha ottenuto il numero?"
 
 # game/intro_day2.rpy:87 #-#-# translate crowdin intro_day2_d9fb5896:
 msgid "Voice [special_delimiter] Do you accept the call [mrms] [mcsure]?"
-msgstr ""
+msgstr "Voce [special_delimiter] Accetti la chiamata [mrms] [mcsure]?"
 
 # game/intro_day2.rpy:90 #-#-# translate crowdin intro_day2_fd18cf3d:
 msgid "Voice [special_delimiter] O-Oh... okay, I will tell her..."
-msgstr ""
+msgstr "Voce [special_delimiter] O-Oh... ok, le dirò..."
 
 # game/intro_day2.rpy:93 #-#-# translate crowdin intro_day2_48477e70:
 msgid "[_mcthink_] Fucking hell, I can't believe it. Why can't she just let me be..."
-msgstr ""
+msgstr "[_mcthink_] Cazzo l'inferno, non riesco a crederci. Perché non può lasciarmi semplicemente essere..."
 
 # game/intro_day2.rpy:97 #-#-# translate crowdin intro_day2_4cbe1206:
 msgid "Voice [special_delimiter] Okay, one moment please..."
-msgstr ""
+msgstr "Voce [special_delimiter] Okay, un attimo, per favore..."
 
 # game/intro_day2.rpy:98 #-#-# translate crowdin intro_day2_bb2cf764_3:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:99 #-#-# translate crowdin intro_day2_7ff23abc:
 msgid "[_m_] [mc], are you there?"
-msgstr ""
+msgstr "[_m_] [mc], sei lì?"
 
 # game/intro_day2.rpy:100 #-#-# translate crowdin intro_day2_14a5a8d6:
 msgid "[_mc_] ...yes."
-msgstr ""
+msgstr "[_mc_] ...sì."
 
 # game/intro_day2.rpy:101 #-#-# translate crowdin intro_day2_e612037c:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:103 #-#-# translate crowdin intro_day2_9ed88fe9:
 msgid "[_m_] [mc] I'm sorry for yesterday, I shouldn't have left so suddenly, but I..."
-msgstr ""
+msgstr "[_m_] [mc] Mi dispiace per ieri, non avrei dovuto lasciare così all'improvviso, ma io..."
 
 # game/intro_day2.rpy:105 #-#-# translate crowdin intro_day2_0b15d407:
 msgid "[_mc_] Don't worry about it."
-msgstr ""
+msgstr "[_mc_] Non preoccuparti."
 
 # game/intro_day2.rpy:106 #-#-# translate crowdin intro_day2_d60cc6cd:
 msgid "[_mcthink_] Shit, why am I being nice to her?"
-msgstr ""
+msgstr "[_mcthink_] Merda, perché sono gentile con lei?"
 
 # game/intro_day2.rpy:107 #-#-# translate crowdin intro_day2_99731df8:
 msgid "[_m_] Really?! Thanks [mc]."
-msgstr ""
+msgstr "[_m_] Davvero?! Grazie [mc]."
 
 # game/intro_day2.rpy:108 #-#-# translate crowdin intro_day2_ae31a8f3:
 msgid "[_m_] But still, I didn't even pay my bill. Did you..."
-msgstr ""
+msgstr "[_m_] Ma ancora, non ho nemmeno pagato il mio conto. Hai fatto..."
 
 # game/intro_day2.rpy:109 #-#-# translate crowdin intro_day2_39168e1c:
 msgid "[_mc_] Yeah, I paid it..."
-msgstr ""
+msgstr "[_mc_] Sì, l'ho pagato..."
 
 # game/intro_day2.rpy:110 #-#-# translate crowdin intro_day2_877b8af9:
 msgid "[_m_] Thank you, Hun. I'll make it up to you."
-msgstr ""
+msgstr "[_m_] Grazie, Caccio. Lo farò a te."
 
 # game/intro_day2.rpy:111 #-#-# translate crowdin intro_day2_76188891:
 msgid "[_mcthink_] Did she just call me \"Hun\"?"
-msgstr ""
+msgstr "[_mcthink_] Mi ha appena chiamato \"Hun\"?"
 
 # game/intro_day2.rpy:112 #-#-# translate crowdin intro_day2_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/intro_day2.rpy:113 #-#-# translate crowdin intro_day2_528e81c9:
 msgid "[_m_] So, do you have a new apartment already?"
-msgstr ""
+msgstr "[_m_] Quindi, hai già un nuovo appartamento?"
 
 # game/intro_day2.rpy:116 #-#-# translate crowdin intro_day2_5a6ad07b:
 msgid "[_m_] I... wanted to say sorry for yesterday, I shouldn't have blindsided you like that..."
-msgstr ""
+msgstr "[_m_] Io... volevo dire dispiaciuto per ieri, non avrei dovuto ciecamente ti piace..."
 
 # game/intro_day2.rpy:117 #-#-# translate crowdin intro_day2_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/intro_day2.rpy:118 #-#-# translate crowdin intro_day2_902b6f3a:
 msgid "[_m_] Our little meeting probably brought back a lot of bad memories..."
-msgstr ""
+msgstr "[_m_] Il nostro piccolo incontro ha probabilmente riportato un sacco di cattivi ricordi..."
 
 # game/intro_day2.rpy:119 #-#-# translate crowdin intro_day2_2b35b6fe_2:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/intro_day2.rpy:120 #-#-# translate crowdin intro_day2_e612037c_1:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:121 #-#-# translate crowdin intro_day2_99f73c57:
 msgid "[_mc_] Is that all?"
-msgstr ""
+msgstr "[_mc_] È tutto?"
 
 # game/intro_day2.rpy:122 #-#-# translate crowdin intro_day2_0fc12a84:
 msgid "[_m_] Uhm... I... Oh I wanted to ask, do you have a new apartment already?"
-msgstr ""
+msgstr "[_m_] Uhm... Oh volevo chiedere, hai già un nuovo appartamento?"
 
 # game/intro_day2.rpy:123 #-#-# translate crowdin intro_day2_9d8ffa92:
 msgid "[_mc_] No I don't..."
-msgstr ""
+msgstr "[_mc_] No I non..."
 
 # game/intro_day2.rpy:124 #-#-# translate crowdin intro_day2_b42ef642:
 msgid "[_m_] It's a shame, I've heard the burnt down building had really nice apartments."
-msgstr ""
+msgstr "[_m_] È un peccato, ho sentito che l'edificio bruciato aveva appartamenti davvero belli."
 
 # game/intro_day2.rpy:125 #-#-# translate crowdin intro_day2_b907f250:
 msgid "[_mc_] Wait! How do you know that I had my apartment there?"
-msgstr ""
+msgstr "[_mc_] Aspetta! Come sai che ho avuto il mio appartamento lì?"
 
 # game/intro_day2.rpy:126 #-#-# translate crowdin intro_day2_f1961dcb:
 msgid "[_m_] Um... you did? I didn't know. The fire was on TV. Didn't you see it?"
-msgstr ""
+msgstr "[_m_] Um... hai fatto? Non lo sapevo. Il fuoco era in TV. Non lo hai visto?"
 
 # game/intro_day2.rpy:127 #-#-# translate crowdin intro_day2_b96c29e1:
 msgid "[_mc_] Uh... no, I didn't watch TV lately."
-msgstr ""
+msgstr "[_mc_] Uh... no, non ho guardato la TV ultimamente."
 
 # game/intro_day2.rpy:128 #-#-# translate crowdin intro_day2_809eee81:
 msgid "[_mcthink_] I guess that makes sense... She can't really know that it was my apartment that burned down."
-msgstr ""
+msgstr "[_mcthink_] Immagino che abbia senso... Non sa davvero che sia stato il mio appartamento a bruciarsi."
 
 # game/intro_day2.rpy:129 #-#-# translate crowdin intro_day2_c597dccd:
 msgid "[_m_] Well, I was thinking... If you need somewhere to stay... you could have your old room..."
-msgstr ""
+msgstr "[_m_] Beh, stavo pensando... Se hai bisogno di un posto dove stare... potresti avere la tua vecchia stanza..."
 
 # game/intro_day2.rpy:130 #-#-# translate crowdin intro_day2_d05128bd:
 msgid "[_mcthink_] What the fuck???"
-msgstr ""
+msgstr "[_mcthink_] Che cazzo???"
 
 # game/intro_day2.rpy:131 #-#-# translate crowdin intro_day2_e612037c_2:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:132 #-#-# translate crowdin intro_day2_eaef44ed:
 msgid "[_m_] If you want."
-msgstr ""
+msgstr "[_m_] Se vuoi."
 
 # game/intro_day2.rpy:133 #-#-# translate crowdin intro_day2_b36a249b:
 msgid "[_mcthink_] Does she really think I would want to live with her again?"
-msgstr ""
+msgstr "[_mcthink_] Lei pensa davvero che vorrei vivere di nuovo con lei?"
 
 # game/intro_day2.rpy:134 #-#-# translate crowdin intro_day2_6d17eac7:
 msgid "[_mc_] I won't need it."
-msgstr ""
+msgstr "[_mc_] Non ne avrò bisogno."
 
 # game/intro_day2.rpy:135 #-#-# translate crowdin intro_day2_14f05f13:
 msgid "[_m_] Oh okay, I thought so. I just wanted to let you know."
-msgstr ""
+msgstr "[_m_] Oh va bene, ho pensato così. Volevo solo farti sapere."
 
 # game/intro_day2.rpy:136 #-#-# translate crowdin intro_day2_d26078e7:
 msgid "[_mc_] Yeah, thanks..."
-msgstr ""
+msgstr "[_mc_] Sì, grazie..."
 
 # game/intro_day2.rpy:137 #-#-# translate crowdin intro_day2_60d617f5:
 msgid "[_m_] ...I bet your sister would have been happy to see you again."
-msgstr ""
+msgstr "[_m_] ...Scommetto che tua sorella sarebbe stata felice di rivederti."
 
 # game/intro_day2.rpy:138 #-#-# translate crowdin intro_day2_bd0f891d:
 msgid "[_mc_] Ellie..."
-msgstr ""
+msgstr "[_mc_] Ellie..."
 
 # game/intro_day2.rpy:139 #-#-# translate crowdin intro_day2_78344a87:
 msgid "[_m_] Oh, so you still remember her name?"
-msgstr ""
+msgstr "[_m_] Oh, quindi ti ricordi ancora il suo nome?"
 
 # game/intro_day2.rpy:140 #-#-# translate crowdin intro_day2_9a68891f:
 msgid "[_mc_] Very funny, [m]."
-msgstr ""
+msgstr "[_mc_] Molto divertente, [m]."
 
 # game/intro_day2.rpy:141 #-#-# translate crowdin intro_day2_ce80b979:
 msgid "[_m_] I'm sorry, [mc]."
-msgstr ""
+msgstr "[_m_] I'm sorry, [mc]."
 
 # game/intro_day2.rpy:143 #-#-# translate crowdin intro_day2_04369111:
 msgid "[_mc_] ...and by the way she is not my sister..."
-msgstr ""
+msgstr "[_mc_] ...e per strada non è mia sorella..."
 
 # game/intro_day2.rpy:144 #-#-# translate crowdin intro_day2_7a07ed76:
 msgid "[_m_] Hum... Of course not, but you always treated each other like brother and sister..."
-msgstr ""
+msgstr "[_m_] Uomo... Certo, no, ma hai sempre trattato a vicenda come fratello e sorella..."
 
 # game/intro_day2.rpy:145 #-#-# translate crowdin intro_day2_18873a0f:
 msgid "[_mcthink_] Yeah, I guess we where really close back then..."
-msgstr ""
+msgstr "[_mcthink_] Sì, credo che noi dove davvero vicino allora."
 
 # game/intro_day2.rpy:146 #-#-# translate crowdin intro_day2_2b92fa12:
 msgid "[_m_] She was really sad when you left, you know."
-msgstr ""
+msgstr "[_m_] Era davvero triste quando ti sei andato, sai."
 
 # game/intro_day2.rpy:147 #-#-# translate crowdin intro_day2_2b35b6fe_3:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/intro_day2.rpy:148 #-#-# translate crowdin intro_day2_e0deca1e:
 msgid "[_mc_] ...and whose fault was that?"
-msgstr ""
+msgstr "[_mc_] ...e di chi è stata colpa?"
 
 # game/intro_day2.rpy:149 #-#-# translate crowdin intro_day2_e612037c_3:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:150 #-#-# translate crowdin intro_day2_55f9658c:
 msgid "[_mc_] Is there something else you wanted to talk about?"
-msgstr ""
+msgstr "[_mc_] C'è qualcos'altro di cui volevi parlare?"
 
 # game/intro_day2.rpy:151 #-#-# translate crowdin intro_day2_e936c2c0:
 msgid "[_m_] N-No, I... just wanted to apologize for yesterday and tell you that you're welcome home anytime."
-msgstr ""
+msgstr "[_m_] N-No, io volevo scusarmi per ieri e dirti che sei il benvenuto a casa in qualsiasi momento."
 
 # game/intro_day2.rpy:152 #-#-# translate crowdin intro_day2_daa5c15e:
 msgid "[_mc_] Yeah, thanks. See ya [m]."
-msgstr ""
+msgstr "[_mc_] Sì, grazie. Vedi y [m]."
 
 # game/intro_day2.rpy:153 #-#-# translate crowdin intro_day2_8ed5c8ac:
 msgid "[_m_] Goodbye [mc]."
-msgstr ""
+msgstr "[_m_] Arrivederci [mc]."
 
 # game/intro_day2.rpy:156 #-#-# translate crowdin intro_day2_f683062c:
 msgid "[_n_] *Click*"
-msgstr ""
+msgstr "[_n_] *Click*"
 
 # game/intro_day2.rpy:157 #-#-# translate crowdin intro_day2_ae5c1f55:
 msgid "[_mc_] Humph... as if I would ever go back there..."
-msgstr ""
+msgstr "[_mc_] Humph... come se fossi mai tornato lì..."
 
 # game/intro_day2.rpy:158 #-#-# translate crowdin intro_day2_2b35b6fe_4:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/intro_day2.rpy:159 #-#-# translate crowdin intro_day2_5c76d629:
 msgid "[_mcthink_] [e]..."
-msgstr ""
+msgstr "[_mcthink_] [e]..."
 
 # game/intro_day2.rpy:160 #-#-# translate crowdin intro_day2_3ef16218:
 msgid "[_mcthink_] I wonder how she's been."
-msgstr ""
+msgstr "[_mcthink_] Mi chiedo come sia stata."
 
 # game/intro_day2.rpy:161 #-#-# translate crowdin intro_day2_6f0dabe5:
 msgid "[_mcthink_] She was so young back then."
-msgstr ""
+msgstr "[_mcthink_] Era così giovane all'epoca."
 
 # game/intro_day2.rpy:162 #-#-# translate crowdin intro_day2_d5dde3bb:
 msgid "[_mcthink_] She must be an adult now... uhh... I think..."
-msgstr ""
+msgstr "[_mcthink_] Ora deve essere una adulta... uhh... penso..."
 
 # game/intro_day2.rpy:163 #-#-# translate crowdin intro_day2_968ed6eb:
 msgid "[_mcthink_] Shit, how old is she?"
-msgstr ""
+msgstr "[_mcthink_] Quanti anni ha?"
 
 # game/intro_day2.rpy:164 #-#-# translate crowdin intro_day2_857e24d1:
 msgid "[_mc_] Argh, I don't remember..."
-msgstr ""
+msgstr "[_mc_] Argh, non ricordo..."
 
 # game/intro_day2.rpy:166 #-#-# translate crowdin intro_day2_2_58372bfd:
 msgid "[_mcthink_] Anyway, I still need a new apartment so I better start looking again."
-msgstr ""
+msgstr "[_mcthink_] In ogni caso, ho ancora bisogno di un nuovo appartamento, quindi meglio iniziare a guardare."
 
 # game/intro_day2.rpy:169 #-#-# translate crowdin intro_day2_2_3eb43c03:
 msgid "[_n_] You spend some time looking for a new apartment."
-msgstr ""
+msgstr "[_n_] Trascorrete del tempo alla ricerca di un nuovo appartamento."
 
 # game/intro_day2.rpy:170 #-#-# translate crowdin intro_day2_2_8b8dd503:
 msgid "[_mcthink_] Damn, I can't believe there are no fucking apartments available in this town..."
-msgstr ""
+msgstr "[_mcthink_] Dannazione, non riesco a credere che non ci siano appartamenti per il cazzo disponibili in questa città..."
 
 # game/intro_day2.rpy:171 #-#-# translate crowdin intro_day2_2_79dba188:
 msgid "[_mc_] Shit..."
-msgstr ""
+msgstr "[_mc_] Mossa..."
 
 # game/intro_day2.rpy:172 #-#-# translate crowdin intro_day2_2_8d20b480:
 msgid "[_mcthink_] I guess I'd better rent the room for a little while longer."
-msgstr ""
+msgstr "[_mcthink_] Immagino che farei meglio ad affittare la stanza per un po' più a lungo."
 
 # game/intro_day2.rpy:173 #-#-# translate crowdin intro_day2_2_da0f26ac:
 msgid "[_n_] You head down to the reception."
-msgstr ""
+msgstr "[_n_] Ti dirigi verso la reception."
 
 # game/intro_day2.rpy:177 #-#-# translate crowdin intro_day2_2_45bf13ed:
 msgid "[_mc_] Hey I'd like to have the room for a bit longer."
-msgstr ""
+msgstr "[_mc_] Ehi vorrei avere la stanza per un po' più a lungo."
 
 # game/intro_day2.rpy:179 #-#-# translate crowdin intro_day2_2_df3d2ad0:
 msgid "Receptionist [special_delimiter] Oh, hello [mrms] [mcsure], I'm sorry, but that's not possible at the moment. We are awaiting a group of guests that arrive tomorrow."
-msgstr ""
+msgstr "Receptionist [special_delimiter] Oh, ciao [mrms] [mcsure], mi dispiace, ma al momento non è possibile. Siamo in attesa di un gruppo di ospiti che arrivano domani."
 
 # game/intro_day2.rpy:180 #-#-# translate crowdin intro_day2_2_4b8f83f9:
 msgid "[_mc_] Okay, no problem. I'm not picky, I'd take any other room."
-msgstr ""
+msgstr "[_mc_] Ok, nessun problema. Non sono schizzinoso, prenderei qualsiasi altra stanza."
 
 # game/intro_day2.rpy:181 #-#-# translate crowdin intro_day2_2_f608ab75:
 msgid "Receptionist [special_delimiter] Sorry [mrms] [mcsure], but in fact, all rooms are booked..."
-msgstr ""
+msgstr "Receptionist [special_delimiter] Sorry [mrms] [mcsure], ma in realtà, tutte le camere sono prenotate..."
 
 # game/intro_day2.rpy:182 #-#-# translate crowdin intro_day2_2_9d97a083:
 msgid "[_mc_] What?! Every single room?"
-msgstr ""
+msgstr "[_mc_] Cosa?! Ogni camera singola?"
 
 # game/intro_day2.rpy:183 #-#-# translate crowdin intro_day2_2_76c3a2c1:
 msgid "Receptionist [special_delimiter] Yes, there is an international trade fair over the next few weeks, so we are awaiting many guests."
-msgstr ""
+msgstr "Receptionist [special_delimiter] Sì, c'è una fiera internazionale nelle prossime settimane, quindi siamo in attesa di molti ospiti."
 
 # game/intro_day2.rpy:184 #-#-# translate crowdin intro_day2_2_bc49c2a5:
 msgid "[_mc_] Ugh... shit. But I really need a room."
-msgstr ""
+msgstr "[_mc_] Ugh... merda. Ma ho davvero bisogno di una stanza."
 
 # game/intro_day2.rpy:185 #-#-# translate crowdin intro_day2_2_488ade13:
 msgid "Receptionist [special_delimiter] I'm sorry, [mrms] [mcsure]. I guess you have to book a room somewhere else, but it's most likely that all of the major hotels are fully booked."
-msgstr ""
+msgstr "Receptionist [special_delimiter] Mi dispiace, [mrms] [mcsure]. Immagino che tu debba prenotare una camera da qualche altra parte, ma è molto probabile che tutti i principali hotel siano completamente prenotati."
 
 # game/intro_day2.rpy:186 #-#-# translate crowdin intro_day2_2_1fd8babd:
 msgid "Receptionist [special_delimiter] You could try some of the smaller motels around town. Maybe some of them still have rooms."
-msgstr ""
+msgstr "Receptionist [special_delimiter] Si potrebbe provare alcuni dei motel più piccoli intorno alla città. Forse alcuni di loro hanno ancora stanze."
 
 # game/intro_day2.rpy:187 #-#-# translate crowdin intro_day2_2_3f5a00b6:
 msgid "[_mc_] Yeah, I guess a motel will do..."
-msgstr ""
+msgstr "[_mc_] Sì, immagino che un motel lo farà..."
 
 # game/intro_day2.rpy:189 #-#-# translate crowdin intro_day2_2_1539e91a:
 msgid "[_n_] The moment you're about to leave, a man looking like a manager shows up and starts to argue with the receptionist."
-msgstr ""
+msgstr "[_n_] Il momento in cui stai per partire, un uomo che sembra un manager si presenta e inizia a discutere con il receptionist."
 
 # game/intro_day2.rpy:191 #-#-# translate crowdin intro_day2_2_09e731f4:
 msgid "Manager [special_delimiter] [r], what the hell!? How many times do I have to tell you that you have to wear a bra?"
-msgstr ""
+msgstr "Manager [special_delimiter] [r], che inferno!? Quante volte devo dirti che devi indossare un reggiseno?"
 
 # game/intro_day2.rpy:192 #-#-# translate crowdin intro_day2_2_badfc039:
 msgid "[_r_] I-I'm sorry, sir."
-msgstr ""
+msgstr "[_r_] Mi dispiace, signore."
 
 # game/intro_day2.rpy:194 #-#-# translate crowdin intro_day2_2_c3851b52:
 msgid "Manager [special_delimiter] You're sorry?! [r] you shouldn't be sorry, you should be ashamed!"
-msgstr ""
+msgstr "Manager [special_delimiter] Ti dispiace?! [r] non dovresti essere spiacente, dovresti vergognarti!"
 
 # game/intro_day2.rpy:195 #-#-# translate crowdin intro_day2_2_f496b078:
 msgid "Manager [special_delimiter] We have standards in this hotel, [r]! Your shameful behavior already got the attention of some of our guests. That's not acceptable."
-msgstr ""
+msgstr "Manager [special_delimiter] Abbiamo standard in questo hotel, [r]! Il tuo comportamento vergognoso ha già ricevuto l'attenzione di alcuni dei nostri ospiti. Questo non è accettabile."
 
 # game/intro_day2.rpy:196 #-#-# translate crowdin intro_day2_2_0906f490:
 msgid "[_r_] I'm sorry, sir. I-It's just that the technician still didn't fix the AC and it's so hot in here."
-msgstr ""
+msgstr "[_r_] Mi dispiace, signore. È solo che il tecnico non ha ancora risolto l'AC ed è così caldo qui dentro."
 
 # game/intro_day2.rpy:197 #-#-# translate crowdin intro_day2_2_bc1774a0:
 msgid "Manager [special_delimiter] That's no excuse for dressing like a whore!"
-msgstr ""
+msgstr "Manager [special_delimiter] Non è una scusa per vestirsi come una puttana!"
 
 # game/intro_day2.rpy:198 #-#-# translate crowdin intro_day2_2_5b00ee5d:
 msgid "[_mcthink_] Whoa, that's a bit harsh..."
-msgstr ""
+msgstr "[_mcthink_] Whoa, questo è un po' duro..."
 
 # game/intro_day2.rpy:199 #-#-# translate crowdin intro_day2_2_03697de9:
 msgid "[_r_] I'm sorry, sir..."
-msgstr ""
+msgstr "[_r_] Mi dispiace, signore..."
 
 # game/intro_day2.rpy:200 #-#-# translate crowdin intro_day2_2_97d4b59e:
 msgid "Manager [special_delimiter] I'm tired of your excuses, [r]. I've had enough of this now. Get your stuff and leave."
-msgstr ""
+msgstr "Manager [special_delimiter] Sono stanco delle tue scuse, [r]. Ne ho avuto abbastanza adesso. Prendi la tua roba e se ne vada."
 
 # game/intro_day2.rpy:201 #-#-# translate crowdin intro_day2_2_44ee4b94:
 msgid "[_r_] B-but sir! Please, I-I need the money, you can't just throw me out!?"
-msgstr ""
+msgstr "[_r_] B-ma signore! Per favore, ho bisogno dei soldi, non puoi semplicemente buttarmi fuori!?"
 
 # game/intro_day2.rpy:202 #-#-# translate crowdin intro_day2_2_feab064c:
 msgid "Manager [special_delimiter] Don't make a scene now, it's your own fault, I've given you enough warnings!"
-msgstr ""
+msgstr "Manager [special_delimiter] Non fare una scena ora, è colpa tua, ti ho dato abbastanza avvertimenti!"
 
 # game/intro_day2.rpy:203 #-#-# translate crowdin intro_day2_2_fee0cc03:
 msgid "[_r_] I'm sorry..."
-msgstr ""
+msgstr "[_r_] Mi dispiace..."
 
 # game/intro_day2.rpy:204 #-#-# translate crowdin intro_day2_2_391b8c26:
 msgid "Manager [special_delimiter] I'll send George over to take care of the reception and I expect you to be gone in half an hour at the latest!"
-msgstr ""
+msgstr "Manager [special_delimiter] manderò George a prendersi cura della reception e mi aspetto che tu sia andato al più tardi tra mezz'ora!"
 
 # game/intro_day2.rpy:206 #-#-# translate crowdin intro_day2_2_5357dc76:
 msgid "[_r_] Yes, sir..."
-msgstr ""
+msgstr "[_r_] Sì, signore..."
 
 # game/intro_day2.rpy:207 #-#-# translate crowdin intro_day2_2_c50f9002:
 msgid "[_mcthink_] Damn, seems like I'm not the only one having a bad day..."
-msgstr ""
+msgstr "[_mcthink_] Dannazione, sembra che io non sia l'unico ad avere una brutta giornata..."
 
 # game/intro_day2.rpy:209 #-#-# translate crowdin intro_day2_2_fe10ef67:
 msgid "[_n_] You head back to your room."
-msgstr ""
+msgstr "[_n_] Torna alla tua stanza."
 
 # game/intro_day2.rpy:210 #-#-# translate crowdin intro_day2_2_390a4f62:
 msgid "[_mcthink_] Maybe I should've said something..."
-msgstr ""
+msgstr "[_mcthink_] Forse avrei dovuto dire qualcosa..."
 
 # game/intro_day2.rpy:211 #-#-# translate crowdin intro_day2_2_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:212 #-#-# translate crowdin intro_day2_2_1560fd1d:
 msgid "[_n_] You pick up your smartphone and browse through the internet, looking for motels in town."
-msgstr ""
+msgstr "[_n_] Prendi il tuo smartphone e sfogliati in internet, cercando motel in città."
 
 # game/intro_day2.rpy:213 #-#-# translate crowdin intro_day2_2_5e147280:
 msgid "[_mcthink_] ... damn she was right. Almost everything is fully booked..."
-msgstr ""
+msgstr "[_mcthink_] ... maledetto che aveva ragione. Quasi tutto è completamente prenotato..."
 
 # game/intro_day2.rpy:214 #-#-# translate crowdin intro_day2_2_e9edc676:
 msgid "[_n_] After a while you book a room in one of the few available motels."
-msgstr ""
+msgstr "[_n_] Dopo un po 'si prenota una stanza in uno dei pochi motel disponibili."
 
 # game/intro_day2.rpy:215 #-#-# translate crowdin intro_day2_2_54145f36:
 msgid "[_mcthink_] Not much choice here... I hope it's not a shit-hole."
-msgstr ""
+msgstr "[_mcthink_] Non molto scelta qui... Spero che non sia un buco di merda."
 
 # §translate crowdin strings: #|#|# # game/intro_day2.rpy:88
 msgid "No way, and tell her to never call again!"
-msgstr ""
+msgstr "Nessun modo, e dirle di non chiamare mai più!"
 
 # game/intro_day2.rpy:88
 msgid "...yeah."
-msgstr ""
+msgstr "...sì, sì."
 
