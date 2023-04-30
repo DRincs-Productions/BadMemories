@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day3-4.rpy:3 #-#-# translate crowdin intro_day3_8046137e:
 msgid "[_n_] Next morning in the motel [withdissolve]"
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:44 #-#-# translate crowdin intro_day3_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
-msgstr ""
+msgstr "[_n_] Некоторое время спустя [withdissolve]"
 
 # game/intro_day3-4.rpy:49 #-#-# translate crowdin intro_day3_bb39f960:
 msgid "[_n_] *rumble*{w=0.5}{nw} [withvpunch]"
@@ -294,7 +294,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:107 #-#-# translate crowdin intro_day3_8f7f5165:
 msgid "[_mc_] [m]?"
-msgstr ""
+msgstr "[_mc_] [m]?"
 
 # game/intro_day3-4.rpy:108 #-#-# translate crowdin intro_day3_7a5c1899:
 msgid "[_m_] Yes?"
