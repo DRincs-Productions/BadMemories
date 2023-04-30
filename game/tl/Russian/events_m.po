@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-04-30 02:53\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -3494,7 +3494,7 @@ msgstr ""
 
 # game/events_m.rpy:1322 #-#-# translate crowdin d6_rachel_pills_r_8f7f5165:
 msgid "[_mc_] [m]?"
-msgstr ""
+msgstr "[_mc_] [m]?"
 
 # game/events_m.rpy:1323 #-#-# translate crowdin d6_rachel_pills_r_e9b497fc:
 msgid "[_m_] Yes, Hun?"
@@ -3942,7 +3942,7 @@ msgstr ""
 
 # game/events_m.rpy:1521 #-#-# translate crowdin d8_rachel_talk_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Что?"
 
 # game/events_m.rpy:1523 #-#-# translate crowdin d8_rachel_talk_3a7c7d02:
 msgid "[_m_] ...the answer is no, [mc]."
@@ -4006,7 +4006,7 @@ msgstr ""
 
 # game/events_m.rpy:1551 #-#-# translate crowdin d8_rachel_pills_8f7f5165:
 msgid "[_mc_] [m]?"
-msgstr ""
+msgstr "[_mc_] [m]?"
 
 # game/events_m.rpy:1553 #-#-# translate crowdin d8_rachel_pills_7b75c766:
 msgid "[_m_] Hm? Oh, [mc]..."
@@ -4386,7 +4386,7 @@ msgstr ""
 
 # game/events_m.rpy:1687 #-#-# translate crowdin d8_rachel_pills_bbe4458e:
 msgid "[_mc_] Eh...?"
-msgstr ""
+msgstr "[_mc_] А...?"
 
 # game/events_m.rpy:1688 #-#-# translate crowdin d8_rachel_pills_f55a7021:
 msgid "[_mcthink_] Is she talking about... me?"
@@ -4454,7 +4454,7 @@ msgstr ""
 
 # game/events_m.rpy:1721 #-#-# translate crowdin d8_rachel_pills_085722e2:
 msgid "[_mc_] What?!"
-msgstr ""
+msgstr "[_mc_] Что?!"
 
 # game/events_m.rpy:1723 #-#-# translate crowdin d8_rachel_pills_a7b99095:
 msgid "[_n_] *Doorbell rings*"
@@ -4510,7 +4510,7 @@ msgstr ""
 
 # game/events_m.rpy:1752 #-#-# translate crowdin d8_rachel_pills_cd88fbb2:
 msgid "[_j_] Hey!"
-msgstr ""
+msgstr "[_j_] Эй!"
 
 # game/events_m.rpy:1753 #-#-# translate crowdin d8_rachel_pills_b240f384:
 msgid "[_mc_] What the fuck are you doing here?"
@@ -4618,7 +4618,7 @@ msgstr ""
 
 # game/events_m.rpy:1799 #-#-# translate crowdin d9_backhome_f34e5bff:
 msgid "[_mc_] Hey, [m]."
-msgstr ""
+msgstr "[_mc_] Эй, [m]."
 
 # game/events_m.rpy:1801 #-#-# translate crowdin d9_backhome_e4323e96:
 msgid "[_mc_] Err... [mmom]..."
@@ -4666,7 +4666,7 @@ msgstr ""
 
 # game/events_m.rpy:1819 #-#-# translate crowdin d9_backhome_019bcdde:
 msgid "[_m_] Thanks."
-msgstr ""
+msgstr "[_m_] Спасибо."
 
 # game/events_m.rpy:1821 #-#-# translate crowdin d9_backhome_e5eaabfd:
 msgid "[_m_] Well, I'm... I'll be in my room for a while until it's time to make dinner..."
@@ -4930,7 +4930,7 @@ msgstr ""
 
 # game/events_m.rpy:1954 #-#-# translate crowdin d10outdoor_a64e8bc0:
 msgid "[_mc_] Thanks."
-msgstr ""
+msgstr "[_mc_] Спасибо."
 
 # game/events_m.rpy:1956 #-#-# translate crowdin d10outdoor_e5423eef:
 msgid "[_mc_] Well, I'm definitely not in {b}top{/b} form, that's for sure..."
@@ -5158,7 +5158,7 @@ msgstr ""
 
 # game/events_m.rpy:2064 #-#-# translate crowdin d10outdoor_87a42edf:
 msgid "[_mcthink_] Whoa!"
-msgstr ""
+msgstr "[_mcthink_] Ого!"
 
 # game/events_m.rpy:2066 #-#-# translate crowdin d10outdoor_cfcb5eda:
 msgid "[_m_] You don't mind, do you? I just need to lean back for a short while."
@@ -5170,7 +5170,7 @@ msgstr ""
 
 # game/events_m.rpy:2070 #-#-# translate crowdin d10outdoor_ace95d68:
 msgid "[_m_] Thanks..."
-msgstr ""
+msgstr "[_m_] Спасибо..."
 
 # game/events_m.rpy:2072 #-#-# translate crowdin d10outdoor_d75a946c:
 msgid "[_m_] ...and thanks for listening, Hun..."
@@ -5370,7 +5370,7 @@ msgstr ""
 
 # game/events_m.rpy:2146 #-#-# translate crowdin d10outdoor_87a42edf_1:
 msgid "[_mcthink_] Whoa!"
-msgstr ""
+msgstr "[_mcthink_] Ого!"
 
 # game/events_m.rpy:2151 #-#-# translate crowdin d10outdoor_1be77741:
 msgid "[_mcthink_] Well that was unexpected..."
@@ -5774,7 +5774,7 @@ msgstr ""
 
 # game/events_m.rpy:2382 #-#-# translate crowdin d12rachel_8f7f5165:
 msgid "[_mc_] [m]?"
-msgstr ""
+msgstr "[_mc_] [m]?"
 
 # game/events_m.rpy:2383 #-#-# translate crowdin d12rachel_0e11bc7b:
 msgid "[_m_] {size=-10}Yes, give me a minute...{/size}"
@@ -6482,7 +6482,7 @@ msgstr ""
 
 # game/events_m.rpy:2788 #-#-# translate crowdin d12rachels_faa03e1a:
 msgid "[_mc_] Haha."
-msgstr ""
+msgstr "[_mc_] Хаха."
 
 # game/events_m.rpy:2789 #-#-# translate crowdin d12rachels_e612037c_5:
 msgid "[_m_] ..."
