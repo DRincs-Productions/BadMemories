@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-04-30 16:53\n"
+"PO-Revision-Date: 2023-05-01 05:01\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -3606,7 +3606,7 @@ msgstr "[_j_] Oh hey, [mc]."
 
 # game/events_j.rpy:1607 #-#-# translate crowdin d9_jhall_d791b237:
 msgid "[_mc_] What are you doing here, [j]? Didn't [m] tell you she doesn't want to get disturbed when she takes the pills?"
-msgstr ""
+msgstr "[_mc_] Che ci fai qui, [j]? [m] non ti ha detto che non vuole essere disturbata quando prende le pillole?"
 
 # game/events_j.rpy:1609 #-#-# translate crowdin d9_jhall_13050da8:
 msgid "[_j_] Uhh... no?"
