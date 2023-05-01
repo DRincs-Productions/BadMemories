@@ -10,98 +10,99 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-04-29 14:48\n"
+"PO-Revision-Date: 2023-05-01 17:21\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/gallery.rpy:130
 msgid "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
-msgstr ""
+msgstr "Un de mes tests les plus éalibés à partir de quand je travaillais sur le salon, a ajouté un char pour tester l'éclairage, kudos à vous si vous reconnarez le caractère, c'est une version très ancienne ;)"
 
 # game/gallery.rpy:130
 msgid "360° VR test render of Ellie. She looks great in VR ;)"
-msgstr ""
+msgstr "360 ° VR test rendu d'Ellie. Elle a l'air superbe en RV ;)"
 
 # game/gallery.rpy:130
 msgid "An early render of Ellie in a cake shop. I thought about adding a scene like that in the game, but didn't find an opportunity yet."
-msgstr ""
+msgstr "Un rendu précoce d'Ellie dans une pâtisserie. J'ai pensé à ajouter une scène comme ça dans le jeu, mais n'a pas encore trouvé d'opportunité."
 
 # game/gallery.rpy:130
 msgid "A test render I made for one of the in-game scenes, I thought it looked really cute, so I let it run for a while. There's some dirt on her mouth from the scene I was working on previously to this one. One of the reasons why test render are important."
-msgstr ""
+msgstr "Un test de rendu que j'ai fait pour l'une des scènes en jeu, j'ai pensé que ça semblait vraiment mignon, alors je l'ai laissé courir pendant un moment. Il y a de la terre sur sa bouche depuis la scène où je travaillais jusque là. L'une des raisons pour lesquelles le rendu de test est important."
 
 # game/gallery.rpy:130
 msgid "A special render I made for the winner of a contest on the f95zone forum."
-msgstr ""
+msgstr "Un rendu spécial que j'ai fait pour le gagnant d'un concours sur le forum f95zone."
 
 # game/gallery.rpy:130
 msgid "A test render I made while working on the scene where MC follows \"Katie\" to the old \"dopehead corner\". I was testing a few new camera and tone mapping styles I've learned.\n"
 "They look great imo, but are too different from the rest of the game, so I decided against using it in production."
-msgstr ""
+msgstr "Un test de rendu que j'ai fait en travaillant sur la scène où MC suit \"Katie\" à l'ancien \"coin dopé\". J'ai testé quelques nouveaux styles de caméra et de cartographie des tons que j'ai appris.\n"
+"Ils ont l'air très imo, mais sont trop différents du reste du jeu, donc j'ai décidé de ne pas l'utiliser dans la production."
 
 # game/gallery.rpy:130
 msgid "A special render I made for the invitation screen of a specific discord server ;)"
-msgstr ""
+msgstr "Un rendu spécial que j'ai fait pour l'écran d'invitation d'un serveur discorde spécifique ;)"
 
 # game/gallery.rpy:130
 msgid "A special render I made after getting a few requests for a Kat render in the style I was testing previously."
-msgstr ""
+msgstr "Un rendu spécial que j'ai fait après avoir reçu quelques requêtes pour un rendu de Kat dans le style que j'ai testé précédemment."
 
 # game/gallery.rpy:130
 msgid "A special render I made for fun. Hanna is one of my personal favorites in the game and I wanted to show a bit of her naughty side ;)"
-msgstr ""
+msgstr "Un rendu spécial que j'ai fait pour le plaisir. Hanna est l'une de mes favorites personnelles dans le jeu et je voulais montrer un peu de son côté méchant ;)"
 
 # game/gallery.rpy:130
 msgid "One of the earliest renders of Ellie :3"
-msgstr ""
+msgstr "Un des premiers rendu d'Ellie: 3"
 
 # game/gallery.rpy:130
 msgid "Like the previous render I made this one while thinking of some scenes in the early stages in development. The scene itself has changed a lot since then (including Ellie), but the main idea is still there: Ellie sends MC a photo made with her new phone."
-msgstr ""
+msgstr "Comme le rendu précédent, j'ai fait ça tout en pensant à certaines scènes dans les premières étapes du développement. La scène elle-même a beaucoup changé depuis lors (y compris Ellie), mais l'idée principale est toujours là: Ellie envoie MC une photo faite avec son nouveau téléphone."
 
 # game/gallery.rpy:130
 msgid "A render that didn't make it into the game because I made an error with the camera position and only noticed it after the render was finished."
-msgstr ""
+msgstr "Un rendu qui ne l'a pas fait dans le jeu parce que j'ai fait une erreur avec la position de la caméra et je l'ai remarqué seulement après que le rendu ait été fini."
 
 # game/gallery.rpy:130
 msgid "A random render I made after getting inspired by a painted image by the artist \"wlop\" on deviantart. The model is basically Ellie, I used her shape, but different hair and different skin."
-msgstr ""
+msgstr "Un rendu aléatoire que j'ai fait après avoir été inspiré par une image peinte de l'artiste \"wlop\" sur déviantart. Le modèle est fondamentalement Ellie, j'ai utilisé sa forme, mais différents cheveux et la peau différente."
 
 # game/gallery.rpy:130
 msgid "A render I made for a contest a loooooong while ago. Not my best tbh, but hey, it was fun^^"
-msgstr ""
+msgstr "Un rendu que j'ai fait pour un concours de loooooong il y a bien longtemps. Pas mon meilleur tbh, mais hé, c'était amusant ^ ^"
 
 # game/gallery.rpy:130
 msgid "The very first version of Jada's mom. Pose and background are just random and not really related to the game (I always try to make render look kinda special, even if I'm just testing stuff)."
-msgstr ""
+msgstr "La toute première version de la mère de Jada. Pose et fond sont juste aléatoires et ne sont pas vraiment liés au jeu (jais toujours essayer de rendre le rendu plus spécial, même si je ne fais que tester des trucs)."
 
 # game/gallery.rpy:130
 msgid "One of my patreon/subscribestar special render, the topic was \"preggo Ellie\" *shrug*."
-msgstr ""
+msgstr "Un de mes rendu spécial patreon / subscribestar, le sujet était \"preggo Ellie\" * arbuste *."
 
 # game/gallery.rpy:130
 msgid "Another patreon/ss special render. I really like this one, so I thought I'd include it here as well. There's a little non-canon story behind this. If you're wondering: Ellie and Jada are using a small tricycle for kids to search for MC^^"
-msgstr ""
+msgstr "Un autre patreon / ss spécial rendu. J'aime vraiment celui-ci, alors j'ai pensé que je l'inclurais ici aussi. Il y a une petite histoire non-canon derrière ça. Si vous vous demandez: Ellie et Jada utilisent un petit tricycle pour que les enfants cherchent le MC ^ ^"
 
 # game/gallery.rpy:130
 msgid "Unused render from the scene where Kat comes in our room to ask us some questions. I used a \"pussyshot\" instead ;)"
-msgstr ""
+msgstr "Un rendu inutilisé de la scène où Kat arrive dans notre chambre pour nous poser quelques questions. J'ai utilisé un \"pussyshot\" à la place ;)"
 
 # game/gallery.rpy:173
 msgid "Scenes"
-msgstr ""
+msgstr "Scènes"
 
 # game/gallery.rpy:174
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 # game/gallery.rpy:176
 msgid "Special"
-msgstr ""
+msgstr "Spécial"
 
 # game/gallery.rpy:190
 msgid "Male"
-msgstr ""
+msgstr "Homme"
 
 # game/gallery.rpy:191
 msgid "Female"
-msgstr ""
+msgstr "Femme"
 
