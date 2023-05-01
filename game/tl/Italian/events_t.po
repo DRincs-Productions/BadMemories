@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-05-01 05:01\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -518,7 +518,7 @@ msgstr "[_m_] E mi dispiace, oggi avrei dovuto parlarvi della sessione."
 
 # game/events_t.rpy:220 #-#-# translate crowdin talkTone_6c02c78b:
 msgid "[_mc_] Yeah, you should have. I hope you told [e] at least."
-msgstr ""
+msgstr "[_mc_] Sì, avresti dovuto. Spero che tu l'abbia detto almeno a [e]."
 
 # game/events_t.rpy:222 #-#-# translate crowdin talkTone_89d5aa4d:
 msgid "[_m_] Oh, [e] knows about her sessions with [t]. Better than me actually."
