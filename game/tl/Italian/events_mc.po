@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-05-01 05:01\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -5494,7 +5494,7 @@ msgstr "[_mcthink_] Forse invece dovrei inviarle un messaggio..."
 
 # game/events_mc.rpy:2394 #-#-# translate crowdin d9_backhome_pcroom_712cf995:
 msgid "[_h_] Yes, yes, I'm awake! Ah... I mean... hi [mc]!"
-msgstr ""
+msgstr "[_h_] Sì, sì, sono sveglio! Ah... cioè... ciao [mc]!"
 
 # game/events_mc.rpy:2395 #-#-# translate crowdin d9_backhome_pcroom_30d146da:
 msgid "[_mc_] Oh shit, did I wake you up? I'm sorry..."
@@ -6070,7 +6070,7 @@ msgstr "[_j_] Che tipo fastidioso."
 
 # game/events_mc.rpy:2615 #-#-# translate crowdin d10johnson_78fa2646:
 msgid "[_m_] Oh right, isn't there something you wanted to tell us, [j]? How did you and [oc] come to know each other?"
-msgstr ""
+msgstr "[_m_] Oh, giusto, non c'è qualcosa che volevi dirci, [j]? Come vi siete conosciuti tu e [oc]?"
 
 # game/events_mc.rpy:2617 #-#-# translate crowdin d10johnson_3773ac01:
 msgid "[_j_] Eh... it's nothing, really!"
