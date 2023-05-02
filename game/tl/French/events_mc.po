@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-01 17:21\n"
+"PO-Revision-Date: 2023-05-02 05:49\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -310,7 +310,7 @@ msgstr "[_mcthink_] Quel âge a-t-elle de toute façon?"
 
 # game/events_mc.rpy:128 #-#-# translate crowdin pcDream1_3b1b1443:
 msgid "[_mcthink_] Uhh..."
-msgstr "[_mcthink_] Uhh ..."
+msgstr "[_mcthink_] Uhh..."
 
 # game/events_mc.rpy:129 #-#-# translate crowdin pcDream1_2573fec6:
 msgid "[_mcthink_] Shit, I can't remember..."
