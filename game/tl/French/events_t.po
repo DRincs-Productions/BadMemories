@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-01 17:21\n"
+"PO-Revision-Date: 2023-05-02 17:46\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
-msgstr "[_n_] Heures plus tard [withdissolve]"
+msgstr "[_n_] Quelques heures plus tard [withdissolve]"
 
 # game/events_t.rpy:8 #-#-# translate crowdin tIntroductionDay1_8d5a1f41:
 msgid "[_mcthink_] ...alright, back to the livingroom. At least [m] and [e] are back now, so it shouldn't be that boring anymore..."
@@ -346,7 +346,7 @@ msgstr "[_t_]..."
 
 # game/events_t.rpy:156 #-#-# translate crowdin talkTone_daae00e4:
 msgid "[_mcthink_] What the hell?"
-msgstr "[_mcthink_] Qu'est-ce que l'enfer?"
+msgstr "[_mcthink_] C'est quoi ce bordel ?"
 
 # game/events_t.rpy:157 #-#-# translate crowdin talkTone_d84f94be:
 msgid "[_mc_] Are you writing something about me?"
@@ -638,7 +638,7 @@ msgstr "[_t_] Tu vas me frapper comme ton père a fait avec [m]?"
 
 # game/events_t.rpy:268 #-#-# translate crowdin coerceT1_085722e2:
 msgid "[_mc_] What?!"
-msgstr "[_mc_] Quoi? !"
+msgstr "[_mc_] Quoi ?!"
 
 # game/events_t.rpy:269 #-#-# translate crowdin coerceT1_6abe9a21:
 msgid "[_mc_] What the fuck is wrong with you?!"
@@ -942,7 +942,7 @@ msgstr "[_n_] *Slam *"
 
 # game/events_t.rpy:434 #-#-# translate crowdin tcoerce2_8308b4da:
 msgid "[_mcthink_] What the..."
-msgstr "[_mcthink_] Ce que ..."
+msgstr "[_mcthink_] Qu'est ce que..."
 
 # game/events_t.rpy:437 #-#-# translate crowdin tcoerce2_bd8031dd:
 msgid "[_mcthink_] Her???"
@@ -1054,7 +1054,7 @@ msgstr "[_t_] Avez-vous?"
 
 # game/events_t.rpy:478 #-#-# translate crowdin tcoerce2_dbf56cc9:
 msgid "[_mcthink_] Shit..."
-msgstr "[_mcthink_] Shit ..."
+msgstr "[_mcthink_] Merde..."
 
 # game/events_t.rpy:482 #-#-# translate crowdin tcoerce2_64b7d87f:
 msgid "[_mc_] Yes, but as I said, we were just kids!"
@@ -1070,7 +1070,7 @@ msgstr "[_t_] Je vois ... vous a-t-elle déjà touché ou la tenir pour qu'elle 
 
 # game/events_t.rpy:487 #-#-# translate crowdin tcoerce2_085722e2:
 msgid "[_mc_] What?!"
-msgstr "[_mc_] Quoi? !"
+msgstr "[_mc_] Quoi ?!"
 
 # game/events_t.rpy:489 #-#-# translate crowdin tcoerce2_034b8a66:
 msgid "[_t_] ...or do you do that only to people you don't know?"
@@ -1802,7 +1802,7 @@ msgstr "[_t_] HAAYYYA !"
 
 # game/events_t.rpy:846 #-#-# translate crowdin d7_city_d598c365:
 msgid "[_mc_] WHOA!"
-msgstr "[_mc_] WHOA !"
+msgstr "[_mc_] WHOUA !"
 
 # game/events_t.rpy:848 #-#-# translate crowdin d7_city_b379bdb7:
 msgid "[_t_] Y-You?!"
@@ -1866,7 +1866,7 @@ msgstr "[_t_] Tsk ! Idiot !"
 
 # game/events_t.rpy:870 #-#-# translate crowdin d7_city_daae00e4:
 msgid "[_mcthink_] What the hell?"
-msgstr "[_mcthink_] Qu'est-ce que l'enfer?"
+msgstr "[_mcthink_] C'est quoi ce bordel ?"
 
 # game/events_t.rpy:872 #-#-# translate crowdin d7_city_a0df5fd9:
 msgid "[_mc_] Jeez, why am I an idiot now... what the fuck is wrong with you?!"
@@ -2938,7 +2938,7 @@ msgstr "[_t_] Oui ..."
 
 # game/events_t.rpy:1336 #-#-# translate crowdin d10takekathome_a7bcf340:
 msgid "[_mc_] I see..."
-msgstr "[_mc_] Je vois ..."
+msgstr "[_mc_] Je voir..."
 
 # game/events_t.rpy:1338 #-#-# translate crowdin d10takekathome_1bb01731_3:
 msgid "[_t_] ..."
@@ -3094,7 +3094,7 @@ msgstr "[_t_]..."
 
 # game/events_t.rpy:1403 #-#-# translate crowdin d10takekathome_c33b515c:
 msgid "[_mc_] Err..."
-msgstr "[_mc_] Err ..."
+msgstr "[_mc_] Err..."
 
 # game/events_t.rpy:1404 #-#-# translate crowdin d10takekathome_2689b56d:
 msgid "[_mc_] That's it?"
@@ -3334,7 +3334,7 @@ msgstr "[_t_] Bye ..."
 
 # game/events_t.rpy:1522 #-#-# translate crowdin d10takekathome_085722e2:
 msgid "[_mc_] What?!"
-msgstr "[_mc_] Quoi? !"
+msgstr "[_mc_] Quoi ?!"
 
 # game/events_t.rpy:1523 #-#-# translate crowdin d10takekathome_15dcf8af:
 msgid "[_mcthink_] Ugh... bitch!"
@@ -4026,7 +4026,7 @@ msgstr "[_t_] ... et [j]."
 
 # game/events_t.rpy:1920 #-#-# translate crowdin lookatkat_085722e2:
 msgid "[_mc_] What?!"
-msgstr "[_mc_] Quoi? !"
+msgstr "[_mc_] Quoi ?!"
 
 # game/events_t.rpy:1922 #-#-# translate crowdin lookatkat_a6362013_2:
 msgid "[_t_] I..."
@@ -5566,7 +5566,7 @@ msgstr "[_t_] MERDE !"
 
 # game/events_t.rpy:2710 #-#-# translate crowdin d11tfirsts_6ad2d418:
 msgid "[_mc_] What the!?"
-msgstr "[_mc_] Quel est le !?"
+msgstr "[_mc_] Qu'est ce que!?"
 
 # game/events_t.rpy:2713 #-#-# translate crowdin d11tfirsts_9655811c:
 msgid "[_mc_] [j]?"
@@ -5830,7 +5830,7 @@ msgstr "[_j_] Allez, [t], il n'y a rien de mal à s'amuser avec ta copine."
 
 # game/events_t.rpy:2857 #-#-# translate crowdin d11tfirsts_c33b515c:
 msgid "[_mc_] Err..."
-msgstr "[_mc_] Err ..."
+msgstr "[_mc_] Err..."
 
 # game/events_t.rpy:2858 #-#-# translate crowdin d11tfirsts_8cf97b9c:
 msgid "[_j_] I won't tell anybody, promise."
@@ -5942,7 +5942,7 @@ msgstr "[_t_] Ugh, vous êtes toujours ..."
 
 # game/events_t.rpy:2920 #-#-# translate crowdin d11tfirsts_2b40a022:
 msgid "[_e_] Huh?"
-msgstr "[_e_] Huh?"
+msgstr "[_e_] Hein ?"
 
 # game/events_t.rpy:2922 #-#-# translate crowdin d11tfirsts_143db3d9:
 msgid "[_m_] Hey, what's going..."
