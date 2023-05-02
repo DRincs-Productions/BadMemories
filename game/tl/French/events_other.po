@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-01 17:21\n"
+"PO-Revision-Date: 2023-05-02 17:46\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_other.rpy:2 #-#-# translate crowdin cafeBeforeOffice_8514b197:
 msgid "[_mc_] Hey, [h]!"
@@ -654,7 +654,7 @@ msgstr "[_st_] Il m'a dit de vous fournir tout renseignement supplémentaire don
 
 # game/events_other.rpy:278 #-#-# translate crowdin job_d6_a7bcf340:
 msgid "[_mc_] I see..."
-msgstr "[_mc_] Je vois ..."
+msgstr "[_mc_] Je voir..."
 
 # game/events_other.rpy:280 #-#-# translate crowdin job_d6_10c4bf0d:
 msgid "[_st_] Well if you don't need anything... I have a lot to do, and I'm sure you do, too."
@@ -918,7 +918,7 @@ msgstr "[_st_] ...Je ferai le reste du travail seul, merci pour votre aide ..."
 
 # game/events_other.rpy:383 #-#-# translate crowdin job_d6_c33b515c:
 msgid "[_mc_] Err..."
-msgstr "[_mc_] Err ..."
+msgstr "[_mc_] Err..."
 
 # game/events_other.rpy:384 #-#-# translate crowdin job_d6_11324208:
 msgid "[_st_] Good bye..."
@@ -962,7 +962,7 @@ msgstr "[_st_]..."
 
 # game/events_other.rpy:396 #-#-# translate crowdin job_d6_d980a6b6:
 msgid "[_mcthink_] Damn..."
-msgstr "[_mcthink_] Damn ..."
+msgstr "[_mcthink_] Bon sang..."
 
 # game/events_other.rpy:398 #-#-# translate crowdin job_d6_15c524ef:
 msgid "[_mcthink_] Or it might annoy her... I better leave."
@@ -1390,7 +1390,7 @@ msgstr "[_ma_] Oui, mais avec la situation actuelle ..."
 
 # game/events_other.rpy:632 #-#-# translate crowdin maggy1_a7bcf340:
 msgid "[_mc_] I see..."
-msgstr "[_mc_] Je vois ..."
+msgstr "[_mc_] Je voir..."
 
 # game/events_other.rpy:633 #-#-# translate crowdin maggy1_ed1afacf:
 msgid "[_mcthink_] Maybe I should try to cheer her up and see where things go."
@@ -1462,7 +1462,7 @@ msgstr "[_ma_] Ou êtes-vous plus intéressé par ... {i}autres { /i } choses co
 
 # game/events_other.rpy:667 #-#-# translate crowdin maggy1_085722e2:
 msgid "[_mc_] What?!"
-msgstr "[_mc_] Quoi? !"
+msgstr "[_mc_] Quoi ?!"
 
 # game/events_other.rpy:668 #-#-# translate crowdin maggy1_bf3d8334:
 msgid "[_ma_] Oh sorry, I shouldn't ask questions like that... let's change the subject, shall we?"
@@ -2374,7 +2374,7 @@ msgstr "[_mc_] HNNNNGH !"
 
 # game/events_other.rpy:1052 #-#-# translate crowdin d10hdate_d9d300ad:
 msgid "[_mc_] Damn..."
-msgstr "[_mc_] Damn ..."
+msgstr "[_mc_] Merde..."
 
 # game/events_other.rpy:1054 #-#-# translate crowdin d10hdate_7a7fe652:
 msgid "[_h_] Maybe I should've made more sandwiches."
@@ -3686,7 +3686,7 @@ msgstr "[_st_] Oh, ok ... "
 
 # game/events_other.rpy:1738 #-#-# translate crowdin d11work_c33b515c:
 msgid "[_mc_] Err..."
-msgstr "[_mc_] Err ..."
+msgstr "[_mc_] Err..."
 
 # game/events_other.rpy:1740 #-#-# translate crowdin d11work_2d86cc87:
 msgid "[_mc_] So... where's the boss?"
@@ -4606,7 +4606,7 @@ msgstr "[_mc_] Sans doute !"
 
 # game/events_other.rpy:2203 #-#-# translate crowdin d11mabjm_d9d300ad:
 msgid "[_mc_] Damn..."
-msgstr "[_mc_] Damn ..."
+msgstr "[_mc_] Merde..."
 
 # game/events_other.rpy:2207 #-#-# translate crowdin d11malfm_ef532e4f:
 msgid "[_mc_] Suck my clit, [ma]."
@@ -4646,7 +4646,7 @@ msgstr "[_mc_] Fuck ! [withvpunch]"
 
 # game/events_other.rpy:2243 #-#-# translate crowdin d11malfm_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Fuck !"
+msgstr "[_mc_] Putain !"
 
 # game/events_other.rpy:2250 #-#-# translate crowdin d11malfm_6011d82f:
 msgid "[_mc_] Shit! [withvpunch]"
@@ -5566,7 +5566,7 @@ msgstr "[_ja_] Just look at you ... recouverte dans it ... so sexy."
 
 # game/events_other.rpy:2762 #-#-# translate crowdin d12stjadate_d980a6b6:
 msgid "[_mcthink_] Damn..."
-msgstr "[_mcthink_] Damn ..."
+msgstr "[_mcthink_] Bon sang..."
 
 # game/events_other.rpy:2766 #-#-# translate crowdin d12stjadate_90e82b25:
 msgid "[_ja_] Still so much left."
