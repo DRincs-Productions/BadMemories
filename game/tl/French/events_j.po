@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:46\n"
+"PO-Revision-Date: 2023-05-03 06:19\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -1178,19 +1178,19 @@ msgstr "[_j_] Nous y sommes~"
 
 # game/events_j.rpy:459 #-#-# translate crowdin bjhcum_450438c4:
 msgid "[_mc_] Looks nice."
-msgstr "[_mc_] Looks nice."
+msgstr "[_mc_] Ça a l'air sympa."
 
 # game/events_j.rpy:461 #-#-# translate crowdin bjhcum_2cc9f49c:
 msgid "[_j_] Yeah it's... decent..."
-msgstr "[_j_] Oui, c'est. .. décent ..."
+msgstr "[_j_] Ouais c'est... décent..."
 
 # game/events_j.rpy:462 #-#-# translate crowdin bjhcum_a25eae71:
 msgid "[_j_] Sorry, I'd {i}{b}love{/b}{/i} to invite you to cum inside, hehe, but my mom is..."
-msgstr "[_j_] Sorry, I'd {i}{b}love { /b } { /i } to invitation you to cum inside, hehe, but my mom is ..."
+msgstr "[_j_] Désolé, j'aurais {i}{b}aimé{/b}{/i} t'inviter à jouir à l'intérieur, héhé, mais ma mère est là..."
 
 # game/events_j.rpy:463 #-#-# translate crowdin bjhcum_f30f51ca:
 msgid "Jada's Mom [special_delimiter] [j]! Where the fuck have you been?!"
-msgstr "Jada's Mom [special_delimiter] [j]! Où as-tu été? !"
+msgstr "La maman de Jada [special_delimiter] [j]! Putain, où étais-tu ?!"
 
 # game/events_j.rpy:465 #-#-# translate crowdin bjhcum_e0d78c3b:
 msgid "[_j_] Ugh..."
@@ -1198,31 +1198,31 @@ msgstr "[_j_] Ugh ..."
 
 # game/events_j.rpy:466 #-#-# translate crowdin bjhcum_61573ae4:
 msgid "Jada's Mom [special_delimiter] I've been waiting for you all day!"
-msgstr "Jada's Mom [special_delimiter] Je t'attends toute la journée !"
+msgstr "La maman de Jada [special_delimiter] Je t'ai attendu toute la journée !"
 
 # game/events_j.rpy:467 #-#-# translate crowdin bjhcum_52595e81:
 msgid "[_j_] {size=-10}Shit, I'd hoped she'd be asleep already...{/size}"
-msgstr "[_j_] { size=-10 } Shit, j'espérais qu'elle dort déjà ... { /size }"
+msgstr "[_j_] {size=-10}Malédiction, j'avais espéré qu'elle serait déjà endormie...{/size}"
 
 # game/events_j.rpy:469 #-#-# translate crowdin bjhcum_28c3f36d:
 msgid "Jada's Mom [special_delimiter] I'm talking to you [j]!"
-msgstr "Jada's Mom [special_delimiter] Je vous parle [j]!"
+msgstr "La maman de Jada [special_delimiter] Je te parle [j]!"
 
 # game/events_j.rpy:470 #-#-# translate crowdin bjhcum_b5a705a9:
 msgid "[_mcthink_] Hum... I think I've seen her somewhere before..."
-msgstr "[_mcthink_] Hum ... Je pense que je l'ai vue quelque part avant ..."
+msgstr "[_mcthink_] Hum... Je crois l'avoir déjà vue quelque part..."
 
 # game/events_j.rpy:472 #-#-# translate crowdin bjhcum_56ae5588:
 msgid "[_j_] Mom! I'm nineteen, I'm not going to tell you every time I go out! You never cared anyway!"
-msgstr "[_j_] maman ! Je suis dix-neuf, je ne vais pas te dire à chaque fois que je sors ! Tu n'as jamais pris soin de toute façon !"
+msgstr "[_j_] Maman! J'ai dix-neuf ans, je ne vais pas te le dire à chaque fois que je sors! Tu ne t'en es jamais soucié de toute façon!"
 
 # game/events_j.rpy:473 #-#-# translate crowdin bjhcum_d309a5f6:
 msgid "[_mcthink_] Nineteen? She's older than [e]?"
-msgstr "[_mcthink_] Dix-neuf? Elle est plus âgée que [e]?"
+msgstr "[_mcthink_] Dix-neuf ans ? Elle est plus âgée que [e]?"
 
 # game/events_j.rpy:474 #-#-# translate crowdin bjhcum_037ac4ff:
 msgid "Jada's Mom [special_delimiter] Oh we'll see about that!"
-msgstr "Jada's Mom [special_delimiter] Oh, nous allons voir ça !"
+msgstr "La maman de Jada [special_delimiter] Oh, nous allons voir ça !"
 
 # game/events_j.rpy:475 #-#-# translate crowdin bjhcum_e0d78c3b_1:
 msgid "[_j_] Ugh..."
@@ -1230,19 +1230,19 @@ msgstr "[_j_] Ugh ..."
 
 # game/events_j.rpy:478 #-#-# translate crowdin bjhcum_d65d296c:
 msgid "Jada's Mom [special_delimiter] ... seriously [j], when do you plan to get yourself a boyfriend?!"
-msgstr "Jada's Mom [special_delimiter] ... sérieusement [j], quand avez-vous l'intention de vous faire un petit ami? !"
+msgstr "La maman de Jada [special_delimiter] ... sérieusement [j], quand avez-vous l'intention de vous faire un petit ami?!"
 
 # game/events_j.rpy:479 #-#-# translate crowdin bjhcum_d716a5c4:
 msgid "[_j_] MOM! I'm never going to have a stupid boyfriend!"
-msgstr "[_j_] MAMAN ! Je ne vais jamais avoir un petit ami stupide !"
+msgstr "[_j_] MAMAN! Je n'aurais jamais de petit ami stupide!"
 
 # game/events_j.rpy:480 #-#-# translate crowdin bjhcum_12482742:
 msgid "Jada's Mom [special_delimiter] Tch... get your lazy ass inside and don't make me come out here again..."
-msgstr "Jada's Mom [special_delimiter] Tch ... get your lazy ass inside and don't make me come out here again ..."
+msgstr "La maman de Jada [special_delimiter] Tch... rentre ton cul paresseux à l'intérieur et ne me fais plus venir ici..."
 
 # game/events_j.rpy:483 #-#-# translate crowdin bjhcum_ce3c6653:
 msgid "Jada's Mom [special_delimiter] Oh? Don't tell me you {i}{b}finally{/b}{/i} got yourself a boyfriend?!"
-msgstr "Jada's Mom [special_delimiter] Oh? Ne me dites pas que vous {i}{b}enfin { /b } { /i } vous avez un petit ami? !"
+msgstr "La maman de Jada [special_delimiter] Oh ? Ne me dis pas que tu as {i}{b}enfin{/b}{/i} un petit ami ?!"
 
 # game/events_j.rpy:484 #-#-# translate crowdin bjhcum_e8b3eedd:
 msgid "[_j_] MOM!"
@@ -1250,7 +1250,7 @@ msgstr "[_j_] MAMAN !"
 
 # game/events_j.rpy:485 #-#-# translate crowdin bjhcum_99e0568d:
 msgid "Jada's Mom [special_delimiter] What? I've already started to think that you're one of those lesbians..."
-msgstr "Jada's Mom [special_delimiter] Quoi? J'ai déjà commencé à penser que vous êtes une de ces lesbiennes ..."
+msgstr "La maman de Jada [special_delimiter] Quoi? J'ai déjà commencé à penser que vous êtes une de ces lesbiennes ..."
 
 # game/events_j.rpy:486 #-#-# translate crowdin bjhcum_17c8bd1c:
 msgid "[_j_] There is nothing wrong with that!"
@@ -1258,7 +1258,7 @@ msgstr "[_j_] Il n'y a rien de mal à cela !"
 
 # game/events_j.rpy:487 #-#-# translate crowdin bjhcum_07366fe2:
 msgid "Jada's Mom [special_delimiter] Whatever, move your ass inside and don't make me come out here again..."
-msgstr "Jada's Mom [special_delimiter] Quoi qu'il en soit, déplacez votre cul à l'intérieur et ne me faites pas sortir à nouveau ici ..."
+msgstr "La maman de Jada [special_delimiter] Quoi qu'il en soit, ramène ton cul à l'intérieur et ne m'oblige pas à revenir ici..."
 
 # game/events_j.rpy:489 #-#-# translate crowdin bjhcum_b4fa3fc0:
 msgid "[_j_] ..."
@@ -1266,63 +1266,63 @@ msgstr "[_j_]..."
 
 # game/events_j.rpy:490 #-#-# translate crowdin bjhcum_6110828c:
 msgid "[_j_] I'm sorry... she's usually in bed already at this time, but since she lost her job a few days ago..."
-msgstr "[_j_] Je suis désolé ... elle est habituellement au lit à ce moment-là, mais depuis qu'elle a perdu son emploi il y a quelques jours ..."
+msgstr "[_j_] Je suis désolé... d'habitude elle est déjà au lit à cette heure, mais depuis qu'elle a perdu son travail il y a quelques jours..."
 
 # game/events_j.rpy:491 #-#-# translate crowdin bjhcum_9351eb8a:
 msgid "[_mcthink_] Oh, she's... {b}was{/b} the receptionist from the hotel."
-msgstr "[_mcthink_] Oh, elle est. .. {b}était { /b } la réceptionniste de l'hôtel."
+msgstr "[_mcthink_] Oh, elle est... {b}était{/b} la réceptionniste de l'hôtel."
 
 # game/events_j.rpy:492 #-#-# translate crowdin bjhcum_0b15d407:
 msgid "[_mc_] Don't worry about it."
-msgstr "[_mc_] Ne vous inquiétez pas."
+msgstr "[_mc_] Ne vous en faites pas."
 
 # game/events_j.rpy:493 #-#-# translate crowdin bjhcum_37226696:
 msgid "[_mc_] Will you be alright?"
-msgstr "[_mc_] Est-ce que vous avez raison?"
+msgstr "[_mc_] Ça va aller ?"
 
 # game/events_j.rpy:495 #-#-# translate crowdin bjhcum_86e8d9f9:
 msgid "[_j_] Yeah... thanks."
-msgstr "[_j_] Oui ... merci."
+msgstr "[_j_] Oui... merci."
 
 # game/events_j.rpy:498 #-#-# translate crowdin bjhcum_c1583508:
 msgid "[_j_] *smooch*"
-msgstr "[_j_] * smooch *"
+msgstr "[_j_] *smooch*"
 
 # game/events_j.rpy:501 #-#-# translate crowdin bjhcum_b3ff86fe:
 msgid "[_j_] I hope you like {i}{b}your{/b}{/i} taste, hehe. I definitely did!"
-msgstr "[_j_] J'espère que vous aimez {i}{b}votre goût { /b } { /i }, hehe. Je l'ai vraiment fait !"
+msgstr "[_j_] J'espère que tu aimes {i}{b}ton{/b}{/i} goût, héhé. Je l'ai vraiment fait !"
 
 # game/events_j.rpy:502 #-#-# translate crowdin bjhcum_d5d5313c:
 msgid "[_j_] Anyway, good night."
-msgstr "[_j_] En tout cas, bonne nuit."
+msgstr "[_j_] Bref, bonne nuit."
 
 # game/events_j.rpy:503 #-#-# translate crowdin bjhcum_d050af0f:
 msgid "[_mc_] Yeah good night."
-msgstr "[_mc_] Oui, bonne nuit."
+msgstr "[_mc_] Ouais bonne nuit."
 
 # game/events_j.rpy:505 #-#-# translate crowdin bjhcum_38129fd2:
 msgid "[_j_] Oh and... have fun tomorrow."
-msgstr "[_j_] Oh et ... s'amusaient demain."
+msgstr "[_j_] Oh et... amuses-toi bien demain."
 
 # game/events_j.rpy:506 #-#-# translate crowdin bjhcum_e6e5b6e7:
 msgid "[_mc_] Huh?! What do you mean?"
-msgstr "[_mc_] Huh? ! Qu'est-ce que tu veux dire?"
+msgstr "[_mc_] Huh ?! Qu'est-ce que tu veux dire ?"
 
 # game/events_j.rpy:508 #-#-# translate crowdin bjhcum_b739a139:
 msgid "[_j_] Good niiiight~ hehe..."
-msgstr "[_j_] Bon niiiight ~ hehe ..."
+msgstr "[_j_] Bonne nuuiiit~ héhé..."
 
 # game/events_j.rpy:509 #-#-# translate crowdin bjhcum_2583aded:
 msgid "[_mcthink_] Damn, why does she have to be such a tease..."
-msgstr "[_mcthink_] Damn, pourquoi elle doit être une telle tease ..."
+msgstr "[_mcthink_] Merde, pourquoi doit-elle être si taquine..."
 
 # game/events_j.rpy:511 #-#-# translate crowdin bjhcum_445666f2:
 msgid "[_n_] You head back home..."
-msgstr "[_n_] Vous devez rentrer à la maison ..."
+msgstr "[_n_] Vous rentrez chez vous..."
 
 # game/events_j.rpy:517 #-#-# translate crowdin d6_wayBackHome_3bde9f79:
 msgid "[_n_] On your way back home."
-msgstr "[_n_] Sur votre chemin de retour à la maison."
+msgstr "[_n_] Sur le chemin du retour."
 
 # game/events_j.rpy:519 #-#-# translate crowdin d6_wayBackHome_f9f2d0b7:
 msgid "[_mcthink_] Damn, I should've taken the long way, who knew that the old shortcut doesn't exist anymore..."
