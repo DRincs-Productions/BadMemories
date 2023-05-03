@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:46\n"
+"PO-Revision-Date: 2023-05-03 18:15\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
-msgstr "[_mcthink_] SAINT !!!"
+msgstr "[_mcthink_] VRAIMENT!!!"
 
 # game/events_m.rpy:8 #-#-# translate crowdin rachelBathroomDay0_2b35b6fe:
 msgid "[_mc_] ..."
@@ -22,7 +22,7 @@ msgstr "[_mc_]..."
 
 # game/events_m.rpy:9 #-#-# translate crowdin rachelBathroomDay0_bf223809:
 msgid "[_mcthink_] Shit, that was [m]..."
-msgstr "[_mcthink_] Shit, c'était [m]..."
+msgstr "[_mcthink_] Merde, c'était [m]..."
 
 # game/events_m.rpy:10 #-#-# translate crowdin rachelBathroomDay0_457c6f63:
 msgid "[_mcthink_] ..."
@@ -30,11 +30,11 @@ msgstr "[_mcthink_]..."
 
 # game/events_m.rpy:11 #-#-# translate crowdin rachelBathroomDay0_4dd04583:
 msgid "[_mcthink_] I don't think I have ever seen her like that... she's actually hot!"
-msgstr "[_mcthink_] Je ne pense pas que je l'ai jamais vue comme ça ... elle est vraiment sexy !"
+msgstr "[_mcthink_] Je ne pense pas l'avoir déjà vue comme ça... elle est vraiment sexy !"
 
 # game/events_m.rpy:12 #-#-# translate crowdin rachelBathroomDay0_48fff1c7:
 msgid "[_mcthink_] Maybe I could..."
-msgstr "[_mcthink_] Peut-être que je pourrais ..."
+msgstr "[_mcthink_] Peut-être que je pourrais..."
 
 # game/events_m.rpy:13 #-#-# translate crowdin rachelBathroomDay0_2b35b6fe_1:
 msgid "[_mc_] ..."
@@ -42,7 +42,7 @@ msgstr "[_mc_]..."
 
 # game/events_m.rpy:16 #-#-# translate crowdin rachelBathroomDay0_34188e18:
 msgid "[_mcthink_] Wow... that ass..."
-msgstr "[_mcthink_] Wow ... that ass ..."
+msgstr "[_mcthink_] Wow... ce cul..."
 
 # game/events_m.rpy:18 #-#-# translate crowdin rachelBathroomDay0_c70865b9:
 msgid "[_mcthink_] I'd better leave now."
@@ -54,27 +54,27 @@ msgstr "[_mcthink_] Ça aurait été vraiment embarrassant pour nous deux si ell
 
 # game/events_m.rpy:22 #-#-# translate crowdin rachelBathroomDay0_9f4f5bc3:
 msgid "[_mcthink_] On the other hand, she doesn't know I'm lesbian, so she might not even care... hehe."
-msgstr "[_mcthink_] D'un autre côté, elle ne sait pas que je suis lesbienne, donc elle ne s'en soucie peut-être pas ... hehe."
+msgstr "[_mcthink_] D'un autre côté, elle ne sait pas que je suis lesbienne, donc elle pourrait ne pas s'en soucier... héhé."
 
 # game/events_m.rpy:24 #-#-# translate crowdin rachelBathroomDay0_c355cc15:
 msgid "[_mcthink_] Damn, I really need to use the bathroom..."
-msgstr "[_mcthink_] Damn, j'ai vraiment besoin d'utiliser la salle de bain ..."
+msgstr "[_mcthink_] Mince, j'ai vraiment besoin d'aller aux toilettes..."
 
 # game/events_m.rpy:25 #-#-# translate crowdin rachelBathroomDay0_6977b251:
 msgid "[_mcthink_] I guess I'll have to wait until she is done in there."
-msgstr "[_mcthink_] Je suppose que je vais devoir attendre jusqu'à ce qu'elle soit faite là-bas."
+msgstr "[_mcthink_] Je suppose que je vais devoir attendre qu'elle ait fini là-dedans."
 
 # game/events_m.rpy:27 #-#-# translate crowdin rachelBathroomDay0_38e53f54:
 msgid "[_n_] 1 Hour later [withdissolve]"
-msgstr "[_n_] 1 heure plus tard [withdissolve]"
+msgstr "[_n_] 1 Heure plus tard [withdissolve]"
 
 # game/events_m.rpy:32 #-#-# translate crowdin rachelBathroomDay0_a4af4e9b:
 msgid "[_mcthink_] Phew that was too close..."
-msgstr "[_mcthink_] Phew trop proche ..."
+msgstr "[_mcthink_] Ouf, c'était trop juste..."
 
 # game/events_m.rpy:35 #-#-# translate crowdin rachelBathroomDay0_cb664370:
 msgid "[_mcthink_] [m] really took her time in the shower."
-msgstr "[_mcthink_] [m] a vraiment pris son temps dans la douche."
+msgstr "[_mcthink_] [m] a vraiment pris son temps sous la douche."
 
 # game/events_m.rpy:36 #-#-# translate crowdin rachelBathroomDay0_457c6f63_1:
 msgid "[_mcthink_] ..."
@@ -82,7 +82,7 @@ msgstr "[_mcthink_]..."
 
 # game/events_m.rpy:39 #-#-# translate crowdin rachelBathroomDay0_583e49a9:
 msgid "[_mcthink_] It sounds like [m] is making breakfast, maybe I should help her..."
-msgstr "[_mcthink_] On dirait que [m] fait le petit déjeuner, peut-être que je devrais l'aider ..."
+msgstr "[_mcthink_] On dirait que [m] prépare le petit déjeuner, je devrais peut-être l'aider..."
 
 # game/events_m.rpy:41 #-#-# translate crowdin rachelBathroomDay0_1a4fb3e7:
 msgid "[_mcthink_] ...or maybe not."
@@ -786,7 +786,7 @@ msgstr "[_mcthink_] Attends, ça veut dire qu'elle oubliera tout ce que je dis o
 
 # game/events_m.rpy:326 #-#-# translate crowdin rachelPills2nd_48fff1c7:
 msgid "[_mcthink_] Maybe I could..."
-msgstr "[_mcthink_] Peut-être que je pourrais ..."
+msgstr "[_mcthink_] Peut-être que je pourrais..."
 
 # game/events_m.rpy:327 #-#-# translate crowdin rachelPills2nd_90f067d7:
 msgid "[_mc_] And you don't remember that you showed me your tits?"
@@ -2526,7 +2526,7 @@ msgstr "[_mcthink_] Ugh ... mais je devrais changer d'abord ..."
 
 # game/events_m.rpy:960 #-#-# translate crowdin rachelsaffair_8bf6dc88:
 msgid "[_n_] *Knock* *Knock*"
-msgstr "[_n_] *Knock * *Knock *"
+msgstr "[_n_] *Toc* *Toc*"
 
 # game/events_m.rpy:961 #-#-# translate crowdin rachelsaffair_8451c104:
 msgid "[_m_] Have you finished changing, Hun?"
@@ -2786,7 +2786,7 @@ msgstr "[_mcthink_] ... qui aurait deviné, hehe."
 
 # game/events_m.rpy:1065 #-#-# translate crowdin afterTcoerce2_8bf6dc88:
 msgid "[_n_] *Knock* *Knock*"
-msgstr "[_n_] *Knock * *Knock *"
+msgstr "[_n_] *Toc* *Toc*"
 
 # game/events_m.rpy:1067 #-#-# translate crowdin afterTcoerce2_15ea446a:
 msgid "[_m_] [mc]?"
@@ -3974,7 +3974,7 @@ msgstr "[_mcthink_] Alright, voyons comment ça fonctionne."
 
 # game/events_m.rpy:1537 #-#-# translate crowdin d8_rachel_pills_8bf6dc88:
 msgid "[_n_] *Knock* *Knock*"
-msgstr "[_n_] *Knock * *Knock *"
+msgstr "[_n_] *Toc* *Toc*"
 
 # game/events_m.rpy:1538 #-#-# translate crowdin d8_rachel_pills_bace71d6:
 msgid "[_mc_] {cps=15}...{/cps}"
@@ -4014,7 +4014,7 @@ msgstr "[_m_] Hm? Oh, [mc]..."
 
 # game/events_m.rpy:1555 #-#-# translate crowdin d8_rachel_pills_177d3eb2:
 msgid "[_mc_] What are you doing?"
-msgstr "[_mc_] Que faites-vous?"
+msgstr "[_mc_] Que fais-tu ?"
 
 # game/events_m.rpy:1557 #-#-# translate crowdin d8_rachel_pills_80b46fd4:
 msgid "[_m_] I'm just lying..."
@@ -4558,7 +4558,7 @@ msgstr "[_m_] Oui, et nous avons décidé que vous pouvez rester ici aussi longt
 
 # game/events_m.rpy:1771 #-#-# translate crowdin d8_rachel_pills_0d724a51:
 msgid "[_j_] Really?"
-msgstr "[_j_] Vraiement?"
+msgstr "[_j_] Vraiment?"
 
 # game/events_m.rpy:1772 #-#-# translate crowdin d8_rachel_pills_f639c6a8:
 msgid "[_mcthink_] For as long as she wants?"
@@ -6242,7 +6242,7 @@ msgstr "[_m_] Mhhh ... you can ... ahnn ... come inside me, if you want ... hnnn
 
 # game/events_m.rpy:2661 #-#-# translate crowdin d12rachels_cfce055e:
 msgid "[_mc_] Are you sure?"
-msgstr "[_mc_] Etes-vous sûr?"
+msgstr "[_mc_] Tu es sûr?"
 
 # game/events_m.rpy:2662 #-#-# translate crowdin d12rachels_f4a590a5:
 msgid "[_m_] I'm on the pill anyway... haaah..."
@@ -6358,7 +6358,7 @@ msgstr "[_m_] Vous avez raison ... ça ne marchera pas si je ne saute pas sur ma
 
 # game/events_m.rpy:2723 #-#-# translate crowdin d12rachels_cfce055e_1:
 msgid "[_mc_] Are you sure?"
-msgstr "[_mc_] Etes-vous sûr?"
+msgstr "[_mc_] Tu es sûr?"
 
 # game/events_m.rpy:2725 #-#-# translate crowdin d12rachels_6fe63bad:
 msgid "[_m_] Yes, I'll be more open from now on, a good relationship needs good sex. Otherwise it won't last long."
@@ -6574,7 +6574,7 @@ msgstr "[_mcthink_] Hmm, c'était beaucoup parler pour moins de changements que 
 
 # game/events_m.rpy:2845 #-#-# translate crowdin d12mevening_8bf6dc88:
 msgid "[_n_] *Knock* *Knock*"
-msgstr "[_n_] *Knock * *Knock *"
+msgstr "[_n_] *Toc* *Toc*"
 
 # game/events_m.rpy:2851 #-#-# translate crowdin d12mevening_1fbec05b:
 msgid "[_mc_] Hm? [mmom]? What's up?"
