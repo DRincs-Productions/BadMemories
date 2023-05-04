@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-03 18:15\n"
+"PO-Revision-Date: 2023-05-04 07:35\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -86,55 +86,55 @@ msgstr "[_mcthink_] On dirait que [m] prépare le petit déjeuner, je devrais pe
 
 # game/events_m.rpy:41 #-#-# translate crowdin rachelBathroomDay0_1a4fb3e7:
 msgid "[_mcthink_] ...or maybe not."
-msgstr "[_mcthink_] ... ou peut-être pas."
+msgstr "[_mcthink_] ...ou peut-être pas."
 
 # game/events_m.rpy:43 #-#-# translate crowdin rachelBathroomDay0_b7454f44:
 msgid "[_mcthink_] I mean, I still hate that bitch... right?"
-msgstr "[_mcthink_] Je veux dire, je déteste toujours cette salope ... pas vrai?"
+msgstr "[_mcthink_] Je veux dire, je déteste toujours cette salope... non ?"
 
 # game/events_m.rpy:45 #-#-# translate crowdin rachelBathroomDay0_faa39aa8:
 msgid "[_mcthink_] Right? ..."
-msgstr "[_mcthink_] Droit? ..."
+msgstr "[_mcthink_] D'accord? ..."
 
 # game/events_m.rpy:47 #-#-# translate crowdin rachelBathroomDay0_cb741fc3:
 msgid "[_m_] Good morning [mc]. Did you sleep well?"
-msgstr "[_m_] Bonjour [mc]. As-tu bien dormi?"
+msgstr "[_m_] Bonjour [mc]. As-tu bien dormi ?"
 
 # game/events_m.rpy:48 #-#-# translate crowdin rachelBathroomDay0_42b41c27:
 msgid "[_mc_] Uh... no not really to be honest. I guess that's what you get from sleeping in a chair..."
-msgstr "[_mc_] Uh ... pas vraiment d'être honnête. Je suppose que c'est ce que tu as de dormir dans une chaise ..."
+msgstr "[_mc_] Uh... non pas vraiment pour être honnête. Je suppose que c'est ce que tu obtiens en dormant dans une chaise..."
 
 # game/events_m.rpy:50 #-#-# translate crowdin rachelBathroomDay0_41bb9f0f:
 msgid "[_m_] Oh no! I'm sorry, I wasn't sure if I should wake you up. You looked so tired yesterday."
-msgstr "[_m_] Oh non ! Désolée, je n'étais pas sûre que je devrais te réveiller. Tu as l'air si fatigué hier."
+msgstr "[_m_] Oh non ! Je suis désolé, je n'étais pas sûr si je devais te réveiller. Tu avais l'air si fatigué hier."
 
 # game/events_m.rpy:51 #-#-# translate crowdin rachelBathroomDay0_271cd14d:
 msgid "[_mcthink_] Damn, doesn't she wear a bra?..."
-msgstr "[_mcthink_] Damn, ne porte-t-elle pas de soutien-gorge? ..."
+msgstr "[_mcthink_] Merde, elle ne porte pas de soutien-gorge ?..."
 
 # game/events_m.rpy:52 #-#-# translate crowdin rachelBathroomDay0_13f5c76d:
 msgid "[_mc_] Uhh... then it was you who put the blanket on me?"
-msgstr "[_mc_] Uhh ... alors c'est vous qui avez mis la couverture sur moi?"
+msgstr "[_mc_] Euh... alors c'est toi qui as mis la couverture sur moi ?"
 
 # game/events_m.rpy:54 #-#-# translate crowdin rachelBathroomDay0_439ec21e:
 msgid "[_m_] Yes, I hope that's okay?"
-msgstr "[_m_] Oui, j'espère que c'est bon?"
+msgstr "[_m_] Oui, j'espère que c'était bien ?"
 
 # game/events_m.rpy:55 #-#-# translate crowdin rachelBathroomDay0_bd22f869:
 msgid "[_mc_] Yeah... thanks."
-msgstr "[_mc_] Oui ... merci."
+msgstr "[_mc_] Oui... merci."
 
 # game/events_m.rpy:59 #-#-# translate crowdin rachelBathroomDay0_9c288c7c:
 msgid "[_q_] Ask if she needs help with the breakfast? [nointeract]"
-msgstr "[_q_] Demander si elle a besoin d'aide pour le petit déjeuner? [nointeract]"
+msgstr "[_q_] Lui demander si elle a besoin d'aide pour le petit-déjeuner ? [nointeract]"
 
 # game/events_m.rpy:61 #-#-# translate crowdin rachelBathroomDay0_dc4b5a60:
 msgid "[_m_] Oh that's nice of you to ask. Thank you. I'm almost done anyway, but..."
-msgstr "[_m_] Oh, c'est sympa de vous demander. Je vous remercie. Je suis presque fait de toute façon, mais ..."
+msgstr "[_m_] Oh c'est gentil de demander. Merci. J'ai presque fini de toute façon, mais..."
 
 # game/events_m.rpy:66 #-#-# translate crowdin breakfastDay0_4c818c4c:
 msgid "[_m_] Could you do me a favor and wake up [e]? Breakfast will be ready in a minute and she tends to oversleep."
-msgstr "[_m_] Pourriez-vous me faire une faveur et me réveiller [e]? Le petit déjeuner sera prêt dans une minute et elle a tendance à se surprendre."
+msgstr "[_m_] Pourrais-tu me faire une faveur et réveiller [e]? Le petit déjeuner sera prêt dans une minute et elle a tendance à trop dormir."
 
 # game/events_m.rpy:67 #-#-# translate crowdin breakfastDay0_b1ac94f7:
 msgid "[_mc_] Yeah, sure."
@@ -150,27 +150,27 @@ msgstr "[_n_]..."
 
 # game/events_m.rpy:72 #-#-# translate crowdin breakfastDay0_66759bab:
 msgid "[_mcthink_] Okay, [e]'s room should be the last one on the right."
-msgstr "[_mcthink_] Ok, [e]'s room should be the last one on the right."
+msgstr "[_mcthink_] Ok, la chambre de [e] devrait être la dernière à droite."
 
 # game/events_m.rpy:74 #-#-# translate crowdin breakfastDay0_b461f117:
 msgid "[_mcthink_] I guess I should knock..."
-msgstr "[_mcthink_] Je suppose que je devrais frapper ..."
+msgstr "[_mcthink_] Je suppose que je devrais frapper..."
 
 # game/events_m.rpy:78 #-#-# translate crowdin breakfastDay0_24cda31b:
 msgid "[_n_] *knock* *knock*"
-msgstr "[_n_] * bouton * *"
+msgstr "[_n_] *toc* *toc*"
 
 # game/events_m.rpy:79 #-#-# translate crowdin breakfastDay0_47f3d91c:
 msgid "[_mc_] Hey [e] are you awake?"
-msgstr "[_mc_] Hey [e] are you awake?"
+msgstr "[_mc_] Hé [e] tu es réveillée ?"
 
 # game/events_m.rpy:80 #-#-# translate crowdin breakfastDay0_d6743a84:
 msgid "[_mcthink_] No answer"
-msgstr "[_mcthink_] Aucune réponse"
+msgstr "[_mcthink_] Pas de réponse"
 
 # game/events_m.rpy:81 #-#-# translate crowdin breakfastDay0_04c802a8:
 msgid "[_mcthink_] Err... she doesn't talk, what did I expect?"
-msgstr "[_mcthink_] Err ... elle ne parle pas, qu'est-ce que j'attendais?"
+msgstr "[_mcthink_] Err... elle ne parle pas, à quoi je m'attendais ?"
 
 # game/events_m.rpy:82 #-#-# translate crowdin breakfastDay0_41381891:
 msgid "[_mc_] I'm coming in."
@@ -178,7 +178,7 @@ msgstr "[_mc_] Je rentre."
 
 # game/events_m.rpy:89 #-#-# translate crowdin rachelMorningKitchen_cb741fc3:
 msgid "[_m_] Good morning [mc]. Did you sleep well?"
-msgstr "[_m_] Bonjour [mc]. As-tu bien dormi?"
+msgstr "[_m_] Bonjour [mc]. As-tu bien dormi ?"
 
 # game/events_m.rpy:90 #-#-# translate crowdin rachelMorningKitchen_f6a6254c:
 msgid "[_mc_] Yeah, thanks."
@@ -186,43 +186,43 @@ msgstr "[_mc_] Oui, merci."
 
 # game/events_m.rpy:92 #-#-# translate crowdin rachelMorningKitchen_29009c22:
 msgid "[_n_] Ask if she needs help? [nointeract]"
-msgstr "[_n_] Demander si elle a besoin d'aide? [nointeract]"
+msgstr "[_n_] Lui demander si elle a besoin d'aide ? [nointeract]"
 
 # game/events_m.rpy:94 #-#-# translate crowdin rachelMorningKitchen_36df2b39:
 msgid "[_m_] Oh that's nice of you to ask. Thank you."
-msgstr "[_m_] Oh, c'est sympa de vous demander. Je vous remercie."
+msgstr "[_m_] Oh c'est gentil de demander. Merci."
 
 # game/events_m.rpy:100 #-#-# translate crowdin breakfast_4b0e7351:
 msgid "[_m_] Why don't you sit down, breakfast will be ready in a minute."
-msgstr "[_m_] Pourquoi ne pas vous asseoir, le petit déjeuner sera prêt dans une minute."
+msgstr "[_m_] Pourquoi ne pas t'asseoir, le petit déjeuner sera prêt dans une minute."
 
 # game/events_m.rpy:104 #-#-# translate crowdin mTellNotToDisturb_2e0430bd:
 msgid "[_m_] Hey [mc]."
-msgstr "[_m_] Hey [mc]."
+msgstr "[_m_] Salut [mc]."
 
 # game/events_m.rpy:106 #-#-# translate crowdin mTellNotToDisturb_260567b9:
 msgid "[_m_] How was your day?"
-msgstr "[_m_] Comment était votre journée?"
+msgstr "[_m_] Comment s'est passée ta journée ?"
 
 # game/events_m.rpy:107 #-#-# translate crowdin mTellNotToDisturb_2bc357cf:
 msgid "[_mc_] Hey... Nothing special. I slept half the day."
-msgstr "[_mc_] Hey ... Rien de spécial. J'ai dormi la moitié de la journée."
+msgstr "[_mc_] Hé... Rien de spécial. J'ai dormi la moitié de la journée."
 
 # game/events_m.rpy:108 #-#-# translate crowdin mTellNotToDisturb_87b6d14e:
 msgid "[_mcthink_] Does she ever wear a bra?"
-msgstr "[_mcthink_] Est-ce qu'elle porte un soutien-gorge?"
+msgstr "[_mcthink_] Est-ce qu'elle porte parfois un soutien-gorge ?"
 
 # game/events_m.rpy:109 #-#-# translate crowdin mTellNotToDisturb_5354416f:
 msgid "[_m_] Oh... Why didn't you go out?"
-msgstr "[_m_] Oh ... Pourquoi n'es-tu pas sortie?"
+msgstr "[_m_] Oh... Pourquoi n'es-tu pas sorti ?"
 
 # game/events_m.rpy:110 #-#-# translate crowdin mTellNotToDisturb_bb836d57:
 msgid "[_mc_] I was still a bit tired. The last night in the motel was kind of... short."
-msgstr "[_mc_] J'étais encore un peu fatigué. La dernière nuit dans le motel était plutôt ... courte."
+msgstr "[_mc_] J'étais encore un peu fatigué. La dernière nuit dans le motel a été un peu... courte."
 
 # game/events_m.rpy:111 #-#-# translate crowdin mTellNotToDisturb_abf5bba7:
 msgid "[_m_] Oh I see, then it's good you got a bit more sleep."
-msgstr "[_m_] Oh, je vois, alors c'est bien que tu as un peu plus de sommeil."
+msgstr "[_m_] Oh je vois, alors c'est bien que tu aies dormi un peu plus."
 
 # game/events_m.rpy:112 #-#-# translate crowdin mTellNotToDisturb_69c25b65:
 msgid "[_mc_] Yeah..."
@@ -230,11 +230,11 @@ msgstr "[_mc_] Oui ..."
 
 # game/events_m.rpy:113 #-#-# translate crowdin mTellNotToDisturb_4e80f06f:
 msgid "[_m_] Um... well, did you need something?"
-msgstr "[_m_] Um ... eh bien, avez-vous besoin de quelque chose?"
+msgstr "[_m_] Um... bien, tu as besoin de quelque chose ?"
 
 # game/events_m.rpy:114 #-#-# translate crowdin mTellNotToDisturb_8fa1be6f:
 msgid "[_mc_] No, I just wanted to grab a snack."
-msgstr "[_mc_] Non, je voulais juste prendre une collation."
+msgstr "[_mc_] Non, je voulais juste prendre un encas."
 
 # game/events_m.rpy:115 #-#-# translate crowdin mTellNotToDisturb_bcf5f116:
 msgid "[_m_] Oh okay. There's a lot in the fridge, grab whatever you like!"
@@ -338,7 +338,7 @@ msgstr "[_mcthink_] ... mais je devrais frapper, juste pour être sûr."
 
 # game/events_m.rpy:168 #-#-# translate crowdin rachelPills1st_24cda31b:
 msgid "[_n_] *knock* *knock*"
-msgstr "[_n_] * bouton * *"
+msgstr "[_n_] *toc* *toc*"
 
 # game/events_m.rpy:169 #-#-# translate crowdin rachelPills1st_a6a8db63:
 msgid "[_m_] Come in."
@@ -478,7 +478,7 @@ msgstr "[_n_] Le reste de la journée est assez peu mouvant et vous allez au lit
 
 # game/events_m.rpy:234 #-#-# translate crowdin rachelPills2nd_24cda31b:
 msgid "[_n_] *knock* *knock*"
-msgstr "[_n_] * bouton * *"
+msgstr "[_n_] *toc* *toc*"
 
 # game/events_m.rpy:235 #-#-# translate crowdin rachelPills2nd_a6a8db63:
 msgid "[_m_] Come in."
@@ -1474,7 +1474,7 @@ msgstr "[_n_] 30 minutes plus tard [withdissolve]"
 
 # game/events_m.rpy:575 #-#-# translate crowdin rachelPills3rd_24cda31b:
 msgid "[_n_] *knock* *knock*"
-msgstr "[_n_] * bouton * *"
+msgstr "[_n_] *toc* *toc*"
 
 # game/events_m.rpy:576 #-#-# translate crowdin rachelPills3rd_f1285a2b:
 msgid "[_m_] O-Oh... one second..."
