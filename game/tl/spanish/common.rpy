@@ -65,10 +65,6 @@ translate spanish strings:
     old "Opendyslexic"
     new "Opendyslexic"
 
-    # renpy/common/00accessibility.rpy:156
-    old "Text Size Scaling"
-    new "Escalado del tamaño del texto"
-
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
     new "Escalado del espacio de línea"

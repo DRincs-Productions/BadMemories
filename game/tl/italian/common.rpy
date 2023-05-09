@@ -65,10 +65,6 @@ translate italian strings:
     old "Opendyslexic"
     new "Opendyslexic"
 
-    # renpy/common/00accessibility.rpy:156
-    old "Text Size Scaling"
-    new "Text Size Scaling"
-
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
     new "Line Spacing Scaling"
