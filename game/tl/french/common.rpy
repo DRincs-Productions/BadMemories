@@ -65,10 +65,6 @@ translate french strings:
     old "Opendyslexic"
     new "Opendyslexic"
 
-    # renpy/common/00accessibility.rpy:168
-    old "Line Spacing Scaling"
-    new "Espacement vertical"
-
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
     new "Texte en contraste élevé (surbrillance)"
@@ -800,10 +796,6 @@ translate french strings:
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
     new "Forcer le moteur de rendu GLES2"
-
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Manette"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"

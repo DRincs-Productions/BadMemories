@@ -65,10 +65,6 @@ translate german strings:
     old "Opendyslexic"
     new "Opendyslexic"
 
-    # renpy/common/00accessibility.rpy:168
-    old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
-
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
     new "High Contrast Text"
@@ -800,10 +796,6 @@ translate german strings:
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
     new "Force GLES2 Renderer"
-
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Gamepad"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
