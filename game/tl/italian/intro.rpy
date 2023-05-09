@@ -1,18 +1,4 @@
-# msgid ""
-# msgstr ""
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: bad-memories\n"
-# "X-italian-Project-ID: 507994\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /main/game/tl/italian/intro.po\n"
-# "X-italian-File-ID: 3640\n"
-# "Project-Id-Version: bad-memories\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-07-16 23:15\n"
-
-# TODO: Translation updated at 2022-07-16 HH:HH
+# TODO: Translation updated at 2023-04-29 19:07
 
 # game/intro.rpy:5
 translate italian intro_af100c11:
@@ -21,112 +7,112 @@ translate italian intro_af100c11:
     n "Da qualche parte in cabina."
 
 # game/intro.rpy:8
-translate italian intro_e9f4d86d:
+translate italian intro_01c697a2:
 
-    # pcthink "Alright, almost there..."
-    pcthink "Va bene, quasi lì..."
+    # mcthink "Alright, almost there..."
+    mcthink "Va bene, ci siamo quasi..."
 
 # game/intro.rpy:9
-translate italian intro_9348e6f1:
+translate italian intro_e55dd2d3:
 
-    # pcthink "...it feels weird to come back here..."
-    pcthink "...ci si sente strano tornare qui..."
+    # mcthink "...it feels weird to come back here..."
+    mcthink "...è strano tornare qui..."
 
 # game/intro.rpy:10
-translate italian intro_9cfdb5e2:
+translate italian intro_d48be227:
 
-    # pcthink "After all these years to be back in my hometown..."
-    pcthink "Dopo tutti questi anni per tornare nella mia città..."
+    # mcthink "After all these years to be back in my hometown..."
+    mcthink "Dopo tutti questi anni, tornare nella mia città natale..."
 
 # game/intro.rpy:11
-translate italian intro_ba5dbe07:
+translate italian intro_96ccb4c8:
 
-    # pcthink "Who would have guessed I'd ever come back..."
-    pcthink "Chi avrebbe indovinato che avrei mai tornato..."
+    # mcthink "Who would have guessed I'd ever come back..."
+    mcthink "Chi l'avrebbe mai detto che sarei tornato..."
 
 # game/intro.rpy:12
-translate italian intro_02f782dd:
+translate italian intro_d77beb2e:
 
-    # pcthink "...just for a job."
-    pcthink "...solo per un lavoro."
+    # mcthink "...just for a job."
+    mcthink "...solo per un lavoro."
 
 # game/intro.rpy:13
-translate italian intro_f0cac90d:
+translate italian intro_457c6f63:
 
-    # pcthink "..."
-    pcthink "..."
+    # mcthink "..."
+    mcthink "..."
 
 # game/intro.rpy:16
-translate italian intro_0160ca12:
+translate italian intro_e4c039d6:
 
-    # pcthink "We must be close to the hotel..."
-    pcthink "Dobbiamo essere vicini all'hotel..."
+    # mcthink "We must be close to the hotel..."
+    mcthink "Dobbiamo essere vicini all'hotel..."
 
 # game/intro.rpy:17
-translate italian intro_68faa724:
+translate italian intro_cd66e642:
 
-    # pcthink "I hope the new apartment is ready when I move in, in a few days..."
-    pcthink "Spero che il nuovo appartamento sia pronto quando mi trasferisco, in pochi giorni..."
+    # mcthink "I hope the new apartment is ready when I move in, in a few days..."
+    mcthink "Spero che il nuovo appartamento sia pronto quando mi trasferirò, tra pochi giorni..."
 
 # game/intro.rpy:18
-translate italian intro_adfaae7e:
+translate italian intro_31613dc0:
 
-    # pcthink "And that it looks as good as it does in the pictures."
-    pcthink "E che sembra buono come fa nelle immagini."
+    # mcthink "And that it looks as good as it does in the pictures."
+    mcthink "E che sia bello come nelle foto."
 
 # game/intro.rpy:19
-translate italian intro_5c7d7e30:
+translate italian intro_9b9cd938:
 
-    # pcthink "...maybe I should have a look before I go to the hotel?"
-    pcthink "char@@0 forse dovrei dare un'occhiata prima di andare in albergo?"
+    # mcthink "...maybe I should have a look before I go to the hotel?"
+    mcthink "...forse dovrei dare un'occhiata prima di andare in albergo?"
 
 # game/intro.rpy:20
-translate italian intro_3e7c1fa3:
+translate italian intro_e1cb0469:
 
-    # pcthink "On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
-    pcthink "D'altra parte, la mia roba non sarà spedita per altri pochi giorni, e non posso muovermi ancora in comunque..."
+    # mcthink "On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
+    mcthink "D'altra parte, la mia roba non sarà spedita prima di qualche giorno e non posso ancora trasferirmi..."
 
 # game/intro.rpy:21
-translate italian intro_6dc07ea8:
+translate italian intro_c1a5851a:
 
-    # pcthink "Naaah, whatever, I'm too curious right now. I'll have a look!"
-    pcthink "Naaah, qualsiasi cosa, sono troppo curioso in questo momento. Ho un'occhiata!"
+    # mcthink "Naaah, whatever, I'm too curious right now. I'll have a look!"
+    mcthink "Naaah, non importa, sono troppo curiosa in questo momento. Darò un'occhiata!"
 
 # game/intro.rpy:25
 translate italian intro_ef06476f:
 
-    # Cab driver" "Alright, that's as close as we can get."
-    "Cab driver <unk> <unk> Alright, che è il più vicino che possiamo ottenere."
+    # "Cab driver" "Alright, that's as close as we can get."
+    "Tassista" "Va bene, questo è il massimo che possiamo ottenere."
 
 # game/intro.rpy:26
 translate italian intro_dbcbd63e:
 
-    # Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
-    "Cab driver <unk> <unk> Come ho detto prima, la strada è bloccata dai lavori di costruzione, ma non è lontano da qui comunque."
+    # "Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
+    "Autista di taxi" "Come ho detto prima, la strada è bloccata dai lavori, ma non è comunque lontana da qui."
 
 # game/intro.rpy:27
-translate italian intro_25e6aa2b:
+translate italian intro_d4f8633c:
 
-    # pc "That's okay, I'll walk."
-    pc "Va bene, camminerò."
+    # mc "That's okay, I'll walk."
+    mc "Non c'è problema, vado a piedi."
 
 # game/intro.rpy:28
 translate italian intro_40374778:
 
-    # Cab driver" "You know the way?"
-    "Cab driver <unk> <unk> Sai la strada?"
+    # "Cab driver" "You know the way?"
+    "Tassista" "Conosce la strada?"
 
 # game/intro.rpy:29
-translate italian intro_6f4510a3:
+translate italian intro_59b19076:
 
-    # pc "Yeah, I grew up in this town."
-    pc "Sì, sono cresciuto in questa città."
+    # mc "Yeah, I grew up in this town."
+    mc "Sì, sono cresciuto in questa città."
 
 # game/intro.rpy:30
 translate italian intro_f5a5e7ce:
 
-    # Cab driver" "'Kay, good luck."
-    "Cab driver <unk> <unk> 'Kay, buona fortuna."
+    # "Cab driver" "'Kay, good luck."
+    "Il tassista" "\"Bene, buona fortuna\"."
 
 # game/intro.rpy:32
 translate italian intro_942da871:
@@ -141,58 +127,58 @@ translate italian intro_da8fa4e5:
     n "Quando ti trasformi in un piccolo vicolo, nota una ragazza che ti guarda."
 
 # game/intro.rpy:35
-translate italian intro_7efbc3bf:
+translate italian intro_78a1b80f:
 
-    # pcthink "Huh?! Why is that girl looking at me like that?"
-    pcthink "Huh?! Perché quella ragazza mi sta guardando così?"
+    # mcthink "Huh?! Why is that girl looking at me like that?"
+    mcthink "Huh?! Perché quella ragazza mi guarda così?"
 
 # game/intro.rpy:36
-translate italian intro_09778f17:
+translate italian intro_b96a2916:
 
-    # pcthink "Do I know her?"
-    pcthink "La conosco?"
+    # mcthink "Do I know her?"
+    mcthink "La conosco?"
 
 # game/intro.rpy:38
-translate italian intro_593b24e3:
+translate italian intro_c6a5bd01:
 
-    # pcthink "She's cute... I guess I'd remember her."
-    pcthink "Lei è carina... Immagino che mi ricordo di lei."
+    # mcthink "She's cute... I guess I'd remember her."
+    mcthink "È carina... Credo che mi ricorderei di lei."
 
 # game/intro.rpy:40
-translate italian intro_32799b50:
+translate italian intro_bf980550:
 
-    # pcthink "I love her hair..."
-    pcthink "Amo i suoi capelli..."
+    # mcthink "I love her hair..."
+    mcthink "Adoro i suoi capelli..."
 
 # game/intro.rpy:41
-translate italian intro_0c2cb0a0:
+translate italian intro_e3288900:
 
-    # n "You give her a small smile as you walk by."
-    n "Le date un piccolo sorriso mentre cammini."
+    # n "You give her a slight smile as you walk by."
+    n "Le fai un leggero sorriso mentre passi."
 
 # game/intro.rpy:43
-translate italian intro_02a9cf51:
+translate italian intro_70c3ae80:
 
-    # pcthink "She must have fallen for me at first sight...haha."
-    pcthink "Lei deve essere caduta per me a prima vista...haha."
+    # mcthink "She must have fallen for me at first sight...haha."
+    mcthink "Deve essersi innamorata di me a prima vista... haha."
 
 # game/intro.rpy:44
-translate italian intro_26196185:
+translate italian intro_3dc8b368:
 
-    # pcthink "Anyway, my new apartment should be just around the corner."
-    pcthink "In ogni caso, il mio nuovo appartamento dovrebbe essere proprio dietro l'angolo."
+    # mcthink "Anyway, my new apartment should be just around the corner."
+    mcthink "Comunque, il mio nuovo appartamento dovrebbe essere dietro l'angolo."
 
 # game/intro.rpy:45
-translate italian intro_6bc4c69b:
+translate italian intro_e9e282fd:
 
-    # pcthink "My new home in my old hometown."
-    pcthink "La mia nuova casa nella mia vecchia città natale."
+    # mcthink "My new home in my old hometown."
+    mcthink "La mia nuova casa nella mia vecchia città natale."
 
 # game/intro.rpy:46
-translate italian intro_253b5b06:
+translate italian intro_b56c821e:
 
-    # pcthink "...What the?!"
-    pcthink "...Che cosa?!"
+    # mcthink "...What the?!"
+    mcthink "...che cosa?!"
 
 # game/intro.rpy:50
 translate italian intro_4f12e6ae:
@@ -209,74 +195,74 @@ translate italian intro_9e568e0a:
 # game/intro.rpy:53
 translate italian intro_bd5fb625:
 
-    # Cop" "Hey! Stop! What do you think you're doing?"
-    "Cop <unk> <unk> Hey! Fermatevi! Cosa pensi che stiate facendo?"
+    # "Cop" "Hey! Stop! What do you think you're doing?"
+    "Poliziotto" "Ehi! Fermati! Cosa pensi di fare?"
 
 # game/intro.rpy:54
-translate italian intro_f65bf6fb:
+translate italian intro_97a1406a:
 
-    # pc "T-That is my new apartment!"
-    pc "T-Questo è il mio nuovo appartamento!"
+    # mc "T-That is my new apartment!"
+    mc "Quello è il mio nuovo appartamento!"
 
 # game/intro.rpy:55
 translate italian intro_bfb964d4:
 
-    # Cop" "Your apartment?"
-    "Cop <unk> <unk> Il tuo appartamento?"
+    # "Cop" "Your apartment?"
+    "Poliziotto" "Il tuo appartamento?"
 
 # game/intro.rpy:56
-translate italian intro_01afdbd0:
+translate italian intro_d768ac49:
 
-    # pc "Y-yeah, I mean, I haven't moved in yet, but still..."
-    pc "Y-yeah, voglio dire, non mi sono ancora trasferito, ma ancora..."
+    # mc "Y-yeah, I mean, I haven't moved in yet, but still..."
+    mc "Si', cioe', non mi sono ancora trasferito, ma comunque..."
 
 # game/intro.rpy:57
 translate italian intro_de262cb5:
 
-    # Cop" "You haven't moved in yet, and it's already on fire?"
-    "Non vi siete ancora trasferiti e già va a fuoco?"
+    # "Cop" "You haven't moved in yet, and it's already on fire?"
+    "Poliziotto" "Non vi siete ancora trasferiti e già va a fuoco?"
 
 # game/intro.rpy:59
 translate italian intro_d011e9b5:
 
-    # Cop" "...that sounds fishy! Let me see your ID!"
-    "Cop <unk> <unk> ...che suona di pesce! Lasciami vedere il tuo ID!"
+    # "Cop" "...that sounds fishy! Let me see your ID!"
+    "Poliziotto" "... sembra strano! Fammi vedere i tuoi documenti!"
 
 # game/intro.rpy:60
-translate italian intro_8be234d7:
+translate italian intro_415a0a53:
 
-    # pc "What? I just arrived in the city! I haven't been here for years!!"
-    pc "Cosa? Sono appena arrivato in città! Non sono qui da anni!!"
+    # mc "What? I just arrived in the city! I haven't been here for years!!"
+    mc "Cosa? Sono appena arrivato in città! Sono anni che non vengo qui!!!"
 
 # game/intro.rpy:61
 translate italian intro_7144fd86:
 
-    # Cop" "Yeah, that's what they all say... Your ID!"
-    "Cop <unk> <unk> Yeah, è quello che tutti dicono... Il tuo ID!"
+    # "Cop" "Yeah, that's what they all say... Your ID!"
+    "Poliziotto" "Sì, è quello che dicono tutti... La tua carta d'identità!"
 
 # game/intro.rpy:62
-translate italian intro_ddbf7dad:
+translate italian intro_e7dd4f82:
 
-    # pc "Who are \"they\"? This doesn't make any sense!"
-    pc "Chi sono \"loro\"? Questo non ha alcun senso!"
+    # mc "Who are \"they\"? This doesn't make any sense!"
+    mc "Chi sono \"loro\"? Non ha alcun senso!"
 
 # game/intro.rpy:63
 translate italian intro_a512ea4d:
 
-    # Cop" "Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
-    "Cop <unk> <unk> Ascolta, [boygirl]! Se non mi mostri il tuo documento d'identità in questo momento, ho dei polsini confortevoli e una piccola cella accogliente che ti aspetta."
+    # "Cop" "Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
+    "Poliziotto" "Ascolta, [boygirl]! Se non mi mostri subito i tuoi documenti, ho delle comode manette e una piccola e accogliente cella di detenzione che ti aspettano."
 
 # game/intro.rpy:64
-translate italian intro_e617caae:
+translate italian intro_dadc482c:
 
-    # pc "Ugh, this is insane...!"
-    pc "Ugh, questo è pazzo...!"
+    # mc "Ugh, this is insane...!"
+    mc "E' una follia...!"
 
 # game/intro.rpy:65
-translate italian intro_19e002f0:
+translate italian intro_b5c3adfb:
 
-    # pc "Fine... Here is my ID... and don't call me [boygirl]..."
-    pc "Fine... Ecco il mio ID... e non chiamarmi [boygirl]..."
+    # mc "Fine... Here is my ID... and don't call me [boygirl]..."
+    mc "Bene... Ecco la mia carta d'identità... e non chiamatemi [boygirl]..."
 
 # game/intro.rpy:67
 translate italian intro_d5ceade4:
@@ -293,26 +279,26 @@ translate italian intro_12354bf5:
 # game/intro.rpy:70
 translate italian intro_69874e88:
 
-    # Cop" "...and you better stay in the city, or you'll be in trouble!"
-    "Cop <unk> <unk> ...ed è meglio soggiornare in città, o sarete nei guai!"
+    # "Cop" "...and you better stay in the city, or you'll be in trouble!"
+    "Poliziotto" "... e faresti meglio a rimanere in città, o sarai nei guai!"
 
 # game/intro.rpy:71
-translate italian intro_37a87cb8:
+translate italian intro_5ed32148:
 
-    # pc "Yeah, yeah, sure..."
-    pc "Sì, sì, certo..."
+    # mc "Yeah, yeah, sure..."
+    mc "Sì, sì, certo..."
 
 # game/intro.rpy:72
-translate italian intro_9495271e:
+translate italian intro_61e1063b:
 
-    # pcthink "Asshole..."
-    pcthink "Asshole..."
+    # mcthink "Asshole..."
+    mcthink "Stronzo..."
 
 # game/intro.rpy:75
-translate italian intro_42cb46de:
+translate italian intro_6387471a:
 
-    # pcthink "Damn, the day started out so well and now this..."
-    pcthink "Dannazione, la giornata è iniziata così bene e ora questo..."
+    # mcthink "Damn, the day started out so well and now this..."
+    mcthink "Accidenti, la giornata era iniziata così bene e ora questo..."
 
 # game/intro.rpy:76
 translate italian intro_932e84e0:
@@ -323,94 +309,94 @@ translate italian intro_932e84e0:
 # game/intro.rpy:80
 translate italian intro_a09e7d34:
 
-    # Receptionist" "Good evening, how can I help you?"
-    "Receptionist <unk> <unk> Buongiorno, come posso aiutarvi?"
+    # "Receptionist" "Good evening, how can I help you?"
+    "Receptionist" "Buonasera, come posso aiutarla?"
 
 # game/intro.rpy:81
-translate italian intro_da861a3e:
+translate italian intro_1d9905d0:
 
-    # pc "Hey, I booked a room for a few days, the name is..."
-    pc "Ehi, ho prenotato una stanza per alcuni giorni, il nome è..."
+    # mc "Hey, I booked a room for a few days, the name is..."
+    mc "Ehi, ho prenotato una stanza per qualche giorno, il nome è..."
 
 # game/intro.rpy:109
 translate italian intro_07b4f57e:
 
-    # Receptionist" "Uhm... uh-huh, yes..."
-    "Receptionist <unk> <unk> Uhm... uh-huh, sì..."
+    # "Receptionist" "Uhm... uh-huh, yes..."
+    "Receptionist" "Uhm... uh-huh, sì..."
 
 # game/intro.rpy:110
-translate italian intro_31133b56:
+translate italian intro_76dc0edd:
 
-    # pcthink "Hum... should I tell her that her areolas are peaking out of her top?"
-    pcthink "Uomo... le devo dire che le sue areole stanno superando la sua cima?"
+    # mcthink "Hum... should I tell her that her areolas are peaking out of her top?"
+    mcthink "Devo dirle che le sue areole spuntano dal top?"
 
 # game/intro.rpy:112
 translate italian intro_7dc85376:
 
-    # Receptionist" "It's room number 24 on the second floor."
-    "Receptionist <unk> <unk> È la stanza numero 24 al secondo piano."
+    # "Receptionist" "It's room number 24 on the second floor."
+    "Receptionist" "È la stanza numero 24 al secondo piano."
 
 # game/intro.rpy:114
 translate italian intro_e8b2bd40:
 
-    # Receptionist" "Here's the key. Have a pleasant stay!"
-    "Receptionist <unk> <unk> Ecco la chiave. Avere un piacevole soggiorno!"
+    # "Receptionist" "Here's the key. Have a pleasant stay!"
+    "Receptionist" "Ecco la chiave. Buon soggiorno!"
 
 # game/intro.rpy:115
-translate italian intro_0b71a1d8:
+translate italian intro_c7dd4914:
 
-    # pc "Thanks, I hope so."
-    pc "Grazie, spero di sì."
+    # mc "Thanks, I hope so."
+    mc "Grazie, lo spero."
 
 # game/intro.rpy:118
-translate italian intro_88960d3f:
+translate italian intro_0d472fd2:
 
-    # pc "At least the room seems to be okay..."
-    pc "Almeno la stanza sembra essere giusta..."
+    # mc "At least the room seems to be okay..."
+    mc "Almeno la stanza sembra essere a posto..."
 
 # game/intro.rpy:119
-translate italian intro_a69377ef:
+translate italian intro_2b35b6fe:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro.rpy:120
-translate italian intro_0af51236:
+translate italian intro_830c2d03:
 
-    # pc "Looks like I need to find a new apartment... As soon as possible!"
-    pc "Sembra che io abbia bisogno di trovare un nuovo appartamento... il prima possibile!"
+    # mc "Looks like I need to find a new apartment... As soon as possible!"
+    mc "Sembra che debba trovare un nuovo appartamento... Il prima possibile!"
 
 # game/intro.rpy:121
-translate italian intro_31dd763e:
+translate italian intro_0e8bcd4c:
 
-    # pc "Yaaaahwn..."
-    pc "Yaaaahwn..."
+    # mc "Yaaaahwn..."
+    mc "Yaaaahwn..."
 
 # game/intro.rpy:122
-translate italian intro_b1258519:
+translate italian intro_c1a15379:
 
-    # pc "...damn, I'm tired."
-    pc "...dannato, sono stanca."
+    # mc "...damn, I'm tired."
+    mc "...accidenti, sono stanco."
 
 # game/intro.rpy:123
-translate italian intro_c9bad2ec:
+translate italian intro_98c69f0c:
 
-    # pc "Shit, it's late already..."
-    pc "Merda, è già in ritardo..."
+    # mc "Shit, it's late already..."
+    mc "Merda, è già tardi..."
 
 # game/intro.rpy:124
-translate italian intro_b8e7ae91:
+translate italian intro_01bf7bb9:
 
-    # pc "I better go to bed... I can't do anything at this time anyway."
-    pc "È meglio andare a letto... Non posso fare nulla in questo momento."
+    # mc "I better go to bed... I can't do anything at this time anyway."
+    mc "È meglio che vada a letto... Tanto non posso fare nulla a quest'ora."
 
 translate italian strings:
 
     # game/intro.rpy:85
     old "Choose your first name."
-    new "Scegli il tuo nome."
+    new "Scegliete il vostro nome di battesimo."
 
     # game/intro.rpy:86
     old "Choose your last name."
-    new "Scegli il tuo cognome."
+    new "Scegliete il vostro cognome."
 

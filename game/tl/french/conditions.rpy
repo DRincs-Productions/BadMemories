@@ -1,162 +1,148 @@
-# msgid ""
-# msgstr ""
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: bad-memories\n"
-# "X-french-Project-ID: 507994\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /main/game/tl/french/conditions.po\n"
-# "X-french-File-ID: 3606\n"
-# "Project-Id-Version: bad-memories\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-07-21 12:27\n"
+# TODO: Translation updated at 2023-04-29 19:07
 
-# TODO: Translation updated at 2022-07-16 HH:HH
-
-# game/conditions.rpy:2209
+# game/conditions.rpy:2437
 translate french dateTime_3e0aad91:
 
     # n "{size=+30}[currentDay]{/size}"
-    n "{size=+30}[currentDay!t]{/size}"
+    n "{size=+30}[currentDay]{/size}"
 
-# game/conditions.rpy:2219
+# game/conditions.rpy:2447
 translate french whatToDoHome_970716ba:
 
     # q "What do you want to do?" nointeract
     q "Que voulez-vous faire?" nointeract
 
-# game/conditions.rpy:2222
-translate french whatToDoHome_87461463:
+# game/conditions.rpy:2450
+translate french whatToDoHome_5cbe9b52:
 
-    # pcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
-    pcthink "Je suppose que je pourrais dormir un peu plus. Il n'y a rien à faire de toute façon jusqu'à ce que mes affaires reprennent..."
+    # mcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
+    mcthink "Je suppose que je pourrais dormir un peu plus. Il n'y a rien à faire de toute façon jusqu'à ce que mes affaires reprennent..."
 
-# game/conditions.rpy:2242
+# game/conditions.rpy:2470
 translate french whatToDoHome_70aa1e0b:
 
     # n "Later" with dissolve
-    n "Plus tard" with dissolve
+    n "A plus tard" with dissolve
 
-# game/conditions.rpy:2254
-translate french hall_23b4c9e6:
+# game/conditions.rpy:2482
+translate french hall_b8fd27d2:
 
-    # pcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
-    pcthink "Ok, la salle de bain devrait être la dernière pièce sur la gauche si je me souviens bien..."
+    # mcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
+    mcthink "Ok, la salle de bain devrait être la dernière pièce sur la gauche si je me souviens bien..."
 
-# game/conditions.rpy:2282
-translate french livingroom_c0f55507:
+# game/conditions.rpy:2510
+translate french livingroom_b48d788b:
 
-    # pc "S-shit, sorry."
-    pc "M-merde, désolé."
+    # mc "S-shit, sorry."
+    mc "M-merde, désolé."
 
-# game/conditions.rpy:2297
-translate french pcStareMBath_85f8cf00:
+# game/conditions.rpy:2525
+translate french pcStareMBath_7ac8df1b:
 
-    # m "Um... [pc]? Are you staring at me?"
-    m "Um... [pc]? Est-ce que tu me fixes?"
+    # m "Um... [mc]? Are you staring at me?"
+    m "Um... [mc]? Est-ce que tu me fixes?"
 
-# game/conditions.rpy:2298
-translate french pcStareMBath_7d2421b6:
+# game/conditions.rpy:2526
+translate french pcStareMBath_ba45b3e3:
 
-    # pc "Ugh... shit, s-sorry."
-    pc "Pouah... merde, d-désolé."
+    # mc "Ugh... shit, s-sorry."
+    mc "Pouah... merde, d-désolé."
 
-# game/conditions.rpy:2320
-translate french bathroom_fd2724fb:
+# game/conditions.rpy:2548
+translate french bathroom_b06195ee:
 
-    # pcthink "Ups..."
-    pcthink "Oups..."
+    # mcthink "Whoops..."
+    mcthink "Oups..."
 
-# game/conditions.rpy:2326
-translate french bathroom_e0ffe4b5:
+# game/conditions.rpy:2554
+translate french bathroom_c2717674:
 
-    # pcthink "Whoa... looks like [m] just got out of the shower."
-    pcthink "Wouaa... on dirait que [m] vient de sortir de la douche."
+    # mcthink "Whoa... looks like [m] just got out of the shower."
+    mcthink "Wouaa... on dirait que [m] vient de sortir de la douche."
 
-# game/conditions.rpy:2330
-translate french bathroom_ed5a9fb8:
+# game/conditions.rpy:2558
+translate french bathroom_864caf06:
 
-    # m "[pc]!?"
-    m "[pc]!?"
+    # m "[mc]!?"
+    m "[mc]!?"
 
-# game/conditions.rpy:2331
-translate french bathroom_72087c33:
+# game/conditions.rpy:2559
+translate french bathroom_3b1b1443:
 
-    # pcthink "Uhh..."
-    pcthink "Ouhh..."
+    # mcthink "Uhh..."
+    mcthink "Uhh..."
 
 translate french strings:
 
-    # game/conditions.rpy:10
+    # game/conditions.rpy:11
+    old "man"
+    new "homme"
+
+    # game/conditions.rpy:12
     old "Mr."
     new "M."
 
-    # game/conditions.rpy:11
-    old "he"
-    new "il "
-
-    # game/conditions.rpy:12
-    old "boy"
-    new "garçon"
-
     # game/conditions.rpy:13
+    old "he"
+    new "elle"
+
+    # game/conditions.rpy:14
+    old "boy"
+    new "Garçon"
+
+    # game/conditions.rpy:15
     old "Daddy"
     new "Papa"
 
-    # game/conditions.rpy:14
+    # game/conditions.rpy:16
     old "son"
-    new "fils"
+    new "Fils"
 
-    # game/conditions.rpy:15
+    # game/conditions.rpy:17
     old "him"
     new "lui"
 
-    # game/conditions.rpy:16
+    # game/conditions.rpy:18
     old "John"
     new "John"
 
-    # game/conditions.rpy:17
+    # game/conditions.rpy:19
     old "brother"
-    new "frère"
+    new "Frère"
 
-    # game/conditions.rpy:18
+    # game/conditions.rpy:20
     old "his"
     new "son"
 
-    # game/conditions.rpy:21
-    old "male"
-    new "masculin"
-
-    # game/conditions.rpy:22
+    # game/conditions.rpy:24
     old "Doe"
     new "Doe"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Take a nap"
     new "Faire une sieste"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Look for [e]"
-    new "Chercher pour [e]"
+    new "Rechercher [e]"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Look for [m]"
-    new "Regarder pour [m]"
+    new "Rechercher [m]"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Turn the pc on"
     new "Allumer le PC"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Leave"
     new "Quitter"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Look around"
-    new "Regarder autour de vous"
+    new "Regarder autour"
 
-    # game/conditions.rpy:2327
+    # game/conditions.rpy:2555
     old "Look"
     new "Regarder"
 

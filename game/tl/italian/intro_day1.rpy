@@ -1,18 +1,4 @@
-# msgid ""
-# msgstr ""
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: bad-memories\n"
-# "X-italian-Project-ID: 507994\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /main/game/tl/italian/intro_day1.po\n"
-# "X-italian-File-ID: 3714\n"
-# "Project-Id-Version: bad-memories\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-07-16 23:15\n"
-
-# TODO: Translation updated at 2022-07-16 HH:HH
+# TODO: Translation updated at 2023-04-29 19:07
 
 # game/intro_day1.rpy:3
 translate italian intro_day1_26086d61:
@@ -27,190 +13,190 @@ translate italian intro_day1_c95d7cc7:
     n "Ti sei svegliato dal suono del tuo cellulare."
 
 # game/intro_day1.rpy:6
-translate italian intro_day1_e2ee86ba:
+translate italian intro_day1_dfd81e46:
 
-    # pc "Uhh..."
-    pc "Uhh..."
+    # mc "Uhh..."
+    mc "Uhh..."
 
 # game/intro_day1.rpy:8
-translate italian intro_day1_510548ac:
+translate italian intro_day1_d99f856b:
 
-    # pc "What time is it?"
-    pc "Che ora è?"
+    # mc "What time is it?"
+    mc "Che ora è?"
 
 # game/intro_day1.rpy:10
-translate italian intro_day1_b2c8d7cb:
+translate italian intro_day1_34b27f61:
 
-    # pc "Who the hell is calling so early..."
-    pc "Chi l'inferno sta chiamando così presto..."
+    # mc "Who the hell is calling so early..."
+    mc "Chi l'inferno sta chiamando così presto..."
 
 # game/intro_day1.rpy:12
-translate italian intro_day1_d72509a6:
+translate italian intro_day1_f49fff8f:
 
-    # pc "Yeah?"
-    pc "Sì?"
+    # mc "Yeah?"
+    mc "Sì?"
 
 # game/intro_day1.rpy:13
-translate italian intro_day1_6c2bd191:
+translate italian intro_day1_ac62e442:
 
-    # Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
-    "Voce <unk> <unk> Ciao [mrms] [pcsure], questo è Maggy Shelter. Mi dispiace ma ho cattive notizie per te."
+    # "Voice" "Hello [mrms] [mcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
+    "Voce" "Ciao [mrms] [mcsure], questo è Maggy Shelter. Mi dispiace ma ho cattive notizie per te."
 
 # game/intro_day1.rpy:14
-translate italian intro_day1_e76b2b51:
+translate italian intro_day1_621f9428:
 
-    # pcthink "Ah, Maggy, the office secretary from the rental company."
-    pcthink "Ah, Maggy, segretario di ufficio della società di noleggio."
+    # mcthink "Ah, Maggy, the office secretary from the rental company."
+    mcthink "Ah, Maggy, segretario di ufficio della società di noleggio."
 
 # game/intro_day1.rpy:15
-translate italian intro_day1_fd84307b:
+translate italian intro_day1_feb3afa2:
 
-    # pcthink "She's obviously about to tell me about the apartment. She doesn't know I was there..."
-    pcthink "Lei sta ovviamente per parlarmi dell'appartamento. Non sa che io ero lì..."
+    # mcthink "She's obviously about to tell me about the apartment. She doesn't know I was there..."
+    mcthink "Lei sta ovviamente per parlarmi dell'appartamento. Non sa che io ero lì..."
 
 # game/intro_day1.rpy:16
-translate italian intro_day1_7b411acf:
+translate italian intro_day1_13699a97:
 
-    # pc "Hey Maggy. I know about the fire already."
-    pc "Ehi Maggy. So già del fuoco."
+    # mc "Hey Maggy. I know about the fire already."
+    mc "Ehi Maggy. So già del fuoco."
 
 # game/intro_day1.rpy:17
 translate italian intro_day1_5889fa60:
 
-    # Maggy" "You know that the apartment burned down?"
-    "Maggy <unk> <unk> Sai che l'appartamento è bruciato?"
+    # "Maggy" "You know that the apartment burned down?"
+    "Maggy" "Sai che l'appartamento è bruciato?"
 
 # game/intro_day1.rpy:18
-translate italian intro_day1_6742a0b1:
+translate italian intro_day1_71b799ed:
 
-    # pc "Yeah, I arrived yesterday and wanted to have a look at the apartment."
-    pc "Sì, sono arrivato ieri e ho voluto dare un'occhiata all'appartamento."
+    # mc "Yeah, I arrived yesterday and wanted to have a look at the apartment."
+    mc "Sì, sono arrivato ieri e ho voluto dare un'occhiata all'appartamento."
 
 # game/intro_day1.rpy:19
 translate italian intro_day1_f6bfe289:
 
-    # Maggy" "Oh no, that must have been a shock to you."
-    "Maggy <unk> <unk> Oh no, che deve essere stato uno shock per voi."
+    # "Maggy" "Oh no, that must have been a shock to you."
+    "Maggy" "Oh no, che deve essere stato uno shock per voi."
 
 # game/intro_day1.rpy:20
-translate italian intro_day1_c396e8dd:
+translate italian intro_day1_0ea026f3:
 
-    # pc "It was quite a surprise..."
-    pc "È stata una sorpresa..."
+    # mc "It was quite a surprise..."
+    mc "È stata una sorpresa..."
 
 # game/intro_day1.rpy:21
-translate italian intro_day1_fe20b456:
+translate italian intro_day1_d33f81eb:
 
-    # Maggy" "I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
-    "Maggy <unk> <unk> Mi dispiace così tanto [mrms] [pcsure]. Hai un altro posto dove rimanere?"
+    # "Maggy" "I'm so sorry [mrms] [mcsure]. Do you have somewhere else to stay?"
+    "Maggy" "Mi dispiace così tanto [mrms] [mcsure]. Hai un altro posto dove rimanere?"
 
 # game/intro_day1.rpy:22
-translate italian intro_day1_b1b648a5:
+translate italian intro_day1_5489d803:
 
-    # pc "Yeah, I have a hotel room for a few days until my stuff arrives."
-    pc "Sì, ho una camera d'albergo per qualche giorno fino a quando non arriva la mia roba."
+    # mc "Yeah, I have a hotel room for a few days until my stuff arrives."
+    mc "Sì, ho una camera d'albergo per qualche giorno fino a quando non arriva la mia roba."
 
 # game/intro_day1.rpy:23
 translate italian intro_day1_1642f9e0:
 
-    # Maggy" "That's good to hear."
-    "Maggy <unk> <unk> È bello sentire."
+    # "Maggy" "That's good to hear."
+    "Maggy" "È bello sentire."
 
 # game/intro_day1.rpy:24
-translate italian intro_day1_15ea5f47:
+translate italian intro_day1_8a2327fd:
 
-    # pc "So... what about a replacement? Are there any other apartments?"
-    pc "Quindi... che dire di una sostituzione? Ci sono altri appartamenti?"
+    # mc "So... what about a replacement? Are there any other apartments?"
+    mc "Quindi... che dire di una sostituzione? Ci sono altri appartamenti?"
 
 # game/intro_day1.rpy:25
-translate italian intro_day1_1dd487f2:
+translate italian intro_day1_08dc83e3:
 
-    # Maggy" "No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
-    "Maggy <unk> <unk> No, mi dispiace [mrms] [pcsure], al momento non ci sono appartamenti gratuiti."
+    # "Maggy" "No, I'm sorry [mrms] [mcsure], there are no apartments free at the moment."
+    "Maggy" "No, mi dispiace [mrms] [mcsure], al momento non ci sono appartamenti gratuiti."
 
 # game/intro_day1.rpy:26
 translate italian intro_day1_e734f5df:
 
-    # Maggy" "There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
-    "Maggy <unk> Non c'è molto che posso fare, ma si può essere sicuri di ottenere il vostro denaro indietro e vi prometto di chiamare non appena abbiamo un altro appartamento per voi."
+    # "Maggy" "There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
+    "Maggy" "Non c'è molto che posso fare, ma si può essere sicuri di ottenere il vostro denaro indietro e vi prometto di chiamare non appena abbiamo un altro appartamento per voi."
 
 # game/intro_day1.rpy:27
-translate italian intro_day1_6971775b:
+translate italian intro_day1_bc262b52:
 
-    # pc "That's nice and all, but I can't go back to my old flat and I cannot live in a hotel forever. Don't you know anywhere else I could get an apartment, Maggy?"
-    pc "È bello e tutto, ma non posso tornare al mio vecchio appartamento e non posso vivere in un hotel per sempre. Non sai da nessuna altra parte potrei ottenere un appartamento, Maggy?"
+    # mc "That's nice and all, but I can't go back to my old flat and I cannot live in a hotel forever. Don't you know anywhere else I could get an apartment, Maggy?"
+    mc "È bello e tutto, ma non posso tornare al mio vecchio appartamento e non posso vivere in un hotel per sempre. Non sai da nessuna altra parte potrei ottenere un appartamento, Maggy?"
 
 # game/intro_day1.rpy:28
 translate italian intro_day1_830b6420:
 
-    # Maggy" "..."
+    # "Maggy" "..."
     "Maggy" "..."
 
 # game/intro_day1.rpy:29
 translate italian intro_day1_34d02470:
 
-    # Maggy" "I... I might... but I have to make a few calls first."
-    "Maggy <unk> I... potremo... ma devo fare un paio di chiamate prima."
+    # "Maggy" "I... I might... but I have to make a few calls first."
+    "Maggy" "Io... potremo... ma devo fare un paio di chiamate prima."
 
 # game/intro_day1.rpy:30
-translate italian intro_day1_77c1565b:
+translate italian intro_day1_d13ad9f6:
 
-    # pc "Great! Thanks Maggy. Really!"
-    pc "Ottimo! Grazie Maggy. Davvero!"
+    # mc "Great! Thanks Maggy. Really!"
+    mc "Ottimo! Grazie Maggy. Davvero!"
 
 # game/intro_day1.rpy:31
-translate italian intro_day1_adf9cc71:
+translate italian intro_day1_1d89ed6c:
 
-    # Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
-    "Maggy <unk> <unk> Non festeggia ancora. Non posso promettere nulla. Proverò il mio meglio, ma dovresti anche avere uno sguardo intorno per te [mrms] [pcsure]."
+    # "Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [mcsure]."
+    "Maggy" "Non festeggia ancora. Non posso promettere nulla. Proverò il mio meglio, ma dovresti anche avere uno sguardo intorno per te [mrms] [mcsure]."
 
 # game/intro_day1.rpy:32
-translate italian intro_day1_7232f241:
+translate italian intro_day1_f86f9603:
 
-    # pc "Of course, but at least you've given me some hope."
-    pc "Certo, ma almeno mi hai dato qualche speranza."
+    # mc "Of course, but at least you've given me some hope."
+    mc "Certo, ma almeno mi hai dato qualche speranza."
 
 # game/intro_day1.rpy:33
-translate italian intro_day1_b61b07dd:
+translate italian intro_day1_bf1e18b7:
 
-    # Maggy" "Okay then, I will call you as soon as I know something [mrms] [pcsure]."
-    "Maggy <unk> <unk> Va bene, allora ti chiamerò non appena conosco qualcosa di [mrms] [pcsure]."
+    # "Maggy" "Okay then, I will call you as soon as I know something [mrms] [mcsure]."
+    "Maggy" "Va bene, allora ti chiamerò non appena conosco qualcosa [mrms] [mcsure]."
 
 # game/intro_day1.rpy:34
-translate italian intro_day1_8931345c:
+translate italian intro_day1_5fabb0eb:
 
-    # pc "Thanks Maggy, and call me [pc]."
-    pc "Grazie Maggy, e chiamami [pc]."
+    # mc "Thanks Maggy, and call me [mc]."
+    mc "Grazie Maggy, e chiamami [mc]."
 
 # game/intro_day1.rpy:35
-translate italian intro_day1_827a732c:
+translate italian intro_day1_7f7fd912:
 
-    # Maggy" "Good bye [mrms].... ahem, [pc]."
-    "Maggy <unk> <unk> Buon addio [mrms].... ahem, [pc]."
+    # "Maggy" "Good bye [mrms].... ahem, [mc]."
+    "Maggy" "Buon addio [mrms].... ahem, [mc]."
 
 # game/intro_day1.rpy:36
-translate italian intro_day1_a77f3932:
+translate italian intro_day1_762e3ba2:
 
-    # pc "Bye Maggy."
-    pc "Bye Maggy."
+    # mc "Bye Maggy."
+    mc "Bye Maggy."
 
 # game/intro_day1.rpy:37
-translate italian intro_day1_ac93afbc:
+translate italian intro_day1_219661bc:
 
-    # pcthink "Damn that girl has a nice voice..."
-    pcthink "Dannazione che la ragazza ha una bella voce..."
+    # mcthink "Damn that girl has a nice voice..."
+    mcthink "Dannazione che la ragazza ha una bella voce..."
 
 # game/intro_day1.rpy:38
-translate italian intro_day1_f418612c:
+translate italian intro_day1_a93a2bcf:
 
-    # pcthink "I wonder what she looks like."
-    pcthink "Mi chiedo cosa assomiglia."
+    # mcthink "I wonder what she looks like."
+    mcthink "Mi chiedo cosa assomiglia."
 
 # game/intro_day1.rpy:39
-translate italian intro_day1_c1b3223b:
+translate italian intro_day1_6125e29b:
 
-    # pcthink "Anyway, she's right. I better get up and have look for another apartment myself."
-    pcthink "Comunque, lei ha ragione. Meglio alzarmi e cercare un altro appartamento da solo."
+    # mcthink "Anyway, she's right. I better get up and have a look for another apartment myself."
+    mcthink "Comunque, lei ha ragione. Meglio alzarmi e cercare un altro appartamento da solo."
 
 # game/intro_day1.rpy:42
 translate italian intro_day1_6245def4:
@@ -225,10 +211,10 @@ translate italian intro_day1_5336f9dd:
     n "Si fanno alcune telefonate per interessanti offerte di appartamento, ma non hanno fortuna."
 
 # game/intro_day1.rpy:44
-translate italian intro_day1_c740ea5d:
+translate italian intro_day1_1e83418f:
 
-    # pc "Damn, is every apartment in this town gone?!"
-    pc "Dannazione, ogni appartamento in questa città è finito?!"
+    # mc "Damn, is every apartment in this town gone?!"
+    mc "Dannazione, ogni appartamento in questa città è finito?!"
 
 # game/intro_day1.rpy:45
 translate italian intro_day1_617c099e:
@@ -243,40 +229,40 @@ translate italian intro_day1_3616666f:
     n "Il momento in cui stai per rinunciare, ricevi un'altra chiamata."
 
 # game/intro_day1.rpy:47
-translate italian intro_day1_6be6ff8e:
+translate italian intro_day1_4cd2aef4:
 
-    # pcthink "Huh? Must be Maggy again..."
-    pcthink "Huh? Deve essere di nuovo Maggy..."
+    # mcthink "Huh? Must be Maggy again..."
+    mcthink "Huh? Deve essere di nuovo Maggy..."
 
 # game/intro_day1.rpy:49
-translate italian intro_day1_c7379241:
+translate italian intro_day1_ebcf84b7:
 
-    # pc "Hey Maggy. Please tell me something positive."
-    pc "Ehi Maggy. Per favore, dimmi qualcosa di positivo."
+    # mc "Hey Maggy. Please tell me something positive."
+    mc "Ehi Maggy. Per favore, dimmi qualcosa di positivo."
 
 # game/intro_day1.rpy:50
-translate italian intro_day1_80fb1595:
+translate italian intro_day1_e0801792:
 
-    # Maggy" "Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
-    "Maggy <unk> <unk> Hey [mrms][pc]. Sì potrei avere qualcosa per voi, ma dovete sbrigarvi."
+    # "Maggy" "Hey [mrms]..[mc]. Yes I might have something for you, but you have to hurry."
+    "Maggy" "Ehi [mrms]..[mc]. Sì potrei avere qualcosa per te, ma devi sbrigarti."
 
 # game/intro_day1.rpy:51
 translate italian intro_day1_5b7ef6d3:
 
-    # Maggy" "It's an apartment in a nice part of town and it won't take long before it's gone again."
-    "Maggy <unk> <unk> E 'un appartamento in una bella parte della città e non ci vorrà molto prima che sia andato di nuovo."
+    # "Maggy" "It's an apartment in a nice part of town and it won't take long before it's gone again."
+    "Maggy" "Si tratta di un appartamento in una bella parte della città e non ci vorrà molto prima che sia andato di nuovo."
 
 # game/intro_day1.rpy:53
-translate italian intro_day1_3dcfbf46:
+translate italian intro_day1_82452325:
 
-    # pc "Great! Thanks Maggy. You just saved my day!"
-    pc "Ottimo! Grazie Maggy. Hai appena salvato la mia giornata!"
+    # mc "Great! Thanks Maggy. You just saved my day!"
+    mc "Ottimo! Grazie Maggy. Hai appena salvato la mia giornata!"
 
 # game/intro_day1.rpy:54
 translate italian intro_day1_3d21c59c:
 
-    # Maggy" "Haha, glad to help."
-    "Maggy <unk> Haha, felice di aiutare."
+    # "Maggy" "Haha, glad to help."
+    "Maggy" "Haha, felice di aiutare."
 
 # game/intro_day1.rpy:56
 translate italian intro_day1_237e9798:
@@ -291,94 +277,94 @@ translate italian intro_day1_846bba63:
     n "mezz'ora dopo" with dissolve
 
 # game/intro_day1.rpy:61
-translate italian intro_day1_12255e40:
+translate italian intro_day1_abe6b55d:
 
-    # pcthink "Okay, this is the address... looks okay I guess... hmm, I like the annex."
-    pcthink "Okay, questo è l'indirizzo... va bene indovino... hmm, mi piace l'allegato."
+    # mcthink "Okay, this is the address... looks okay I guess... hmm, I like the annex."
+    mcthink "Okay, questo è l'indirizzo... va bene indovino... hmm, mi piace l'allegato."
 
 # game/intro_day1.rpy:63
-translate italian intro_day1_5236aee1:
+translate italian intro_day1_e87b96f0:
 
-    # pcthink "Shit, this doesn't look good..."
-    pcthink "Merda, questo non sembra buono..."
+    # mcthink "Shit, this doesn't look good..."
+    mcthink "Merda, questo non sembra buono..."
 
 # game/intro_day1.rpy:65
-translate italian intro_day1_68797a1a:
+translate italian intro_day1_6dc5e9b2:
 
-    # pc "Uh, hey I'm here for the apartment."
-    pc "Uh, hey Sono qui per l'appartamento."
+    # mc "Uh, hey I'm here for the apartment."
+    mc "Uh, hey Sono qui per l'appartamento."
 
 # game/intro_day1.rpy:67
 translate italian intro_day1_4725ed56:
 
-    # Broker\" \"I'm sorry [mrms].."
-    "Broker\" \"Mi dispiace [mrms].."
+    # "Broker" "I'm sorry [mrms].."
+    "Broker" "mi dispiace [mrms].."
 
 # game/intro_day1.rpy:69
-translate italian intro_day1_8ff3f37e:
+translate italian intro_day1_42104d29:
 
-    # pc "[pcsure]."
-    pc "[pcsure]."
+    # mc "[mcsure]."
+    mc "[mcsure]."
 
 # game/intro_day1.rpy:71
-translate italian intro_day1_68528fb1:
+translate italian intro_day1_29b4540a:
 
-    # Broker\" \"[pcsure]? Hum... I don't remember your name, did we have an appointment?"
-    "Broker\" \"[pcsure]? Hum... Non ricordo il tuo nome, abbiamo un appuntamento?"
+    # "Broker" "[mcsure]? Hum... I don't remember your name, did we have an appointment?"
+    "Broker" "[mcsure]? Hum... Non ricordo il tuo nome, abbiamo un appuntamento?"
 
 # game/intro_day1.rpy:73
-translate italian intro_day1_88d7dcd5:
+translate italian intro_day1_49b20c9d:
 
-    # pc "No, a friend gave me the address."
-    pc "No, un amico mi ha dato l'indirizzo."
+    # mc "No, a friend gave me the address."
+    mc "No, un amico mi ha dato l'indirizzo."
 
 # game/intro_day1.rpy:76
 translate italian intro_day1_deb7173e:
 
-    # Guy" "You're too late, man."
-    "Ragazzo Sei troppo in ritardo, uomo."
+    # "Guy" "You're too late, man."
+    "Ragazzo" "Sei troppo in ritardo, uomo."
 
 # game/intro_day1.rpy:78
 translate italian intro_day1_8b6d7015:
 
-    # Guy" "You're too late. It's sold!"
-    "Ragazzo è troppo tardi. È venduto!"
+    # "Guy" "You're too late. It's sold!"
+    "Ragazzo" "Sei troppo tardi. È venduto!"
 
 # game/intro_day1.rpy:80
-translate italian intro_day1_e507774e:
+translate italian intro_day1_5a25fd41:
 
-    # Broker\" \"Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
-    "Broker\" \"Beh, mi dispiace [mrms] [pcsure]. Questa bella coppia qui ha appena chiuso l'accordo su questo appartamento."
+    # "Broker" "Well I'm sorry [mrms] [mcsure]. This lovely couple here just closed the deal on this apartment."
+    "Broker" "Beh, mi dispiace [mrms] [mcsure]. Questa bella coppia qui ha appena chiuso l'affare su questo appartamento."
 
 # game/intro_day1.rpy:81
-translate italian intro_day1_99dfcf7e:
+translate italian intro_day1_4d9b3a55:
 
-    # pcthink "Shit, this sucks... all the haste for nothing."
-    pcthink "Merda, questo succhia... tutta la fretta per niente."
+    # mcthink "Shit, this sucks... all the haste for nothing."
+    mcthink "Merda, questo succhia... tutta la fretta per niente."
 
 # game/intro_day1.rpy:82
-translate italian intro_day1_b1807a72:
+translate italian intro_day1_af8ca151:
 
-    # pcthink "Looks like I have to continue searching..."
-    pcthink "Sembra che io debba continuare la ricerca..."
+    # mcthink "Looks like I have to continue searching..."
+    mcthink "Sembra che io debba continuare la ricerca..."
 
 # game/intro_day1.rpy:85
-translate italian intro_day1_6c67ca50:
+translate italian intro_day1_1ac4702e:
 
-    # pcthink "Well I guess I'll head back to the hotel..."
-    pcthink "Beh, immagino che tornerò in albergo..."
+    # mcthink "Well I guess I'll head back to the hotel..."
+    mcthink "Beh, immagino che tornerò in albergo..."
 
 # game/intro_day1.rpy:86
-translate italian intro_day1_2d8c3578:
+translate italian intro_day1_43b033ce:
 
-    # pc "*stomach rumble*"
-    pc "*rumble allo stomaco"
+    # mc "*stomach rumble*"
+    mc "*rumble allo stomaco"
 
 # game/intro_day1.rpy:87
-translate italian intro_day1_6f7d35d7:
+translate italian intro_day1_56731d25:
 
-    # pcthink "...or get a snack first."
-    pcthink "...o prendi prima uno spuntino."
+    # mcthink "...or get a snack first."
+    mcthink "...o prendi prima uno spuntino."
 
 # game/intro_day1.rpy:88
 translate italian intro_day1_e73c363b:
@@ -389,56 +375,56 @@ translate italian intro_day1_e73c363b:
 # game/intro_day1.rpy:91
 translate italian intro_day1_e1d2b02a:
 
-    # Random Guy\" \"Oh and don't forget the other Ramen, and the Negi."
-    "Ragazzo casuale\" \"Oh e non dimenticare l'altro Ramen, e il Negi."
+    # "Random Guy" "Oh and don't forget the other Ramen, and the Negi."
+    "Ragazzo casuale" "Oh e non dimenticare l'altro Ramen, e il Negi."
 
 # game/intro_day1.rpy:92
 translate italian intro_day1_ec6c00f8:
 
-    # Girl" "Of course!"
-    "Ragazza <unk> <unk> Certo!"
+    # "Girl" "Of course!"
+    "Ragazza" "Certo!"
 
 # game/intro_day1.rpy:93
-translate italian intro_day1_f0cac90d:
+translate italian intro_day1_457c6f63:
 
-    # pcthink "..."
-    pcthink "..."
+    # mcthink "..."
+    mcthink "..."
 
 # game/intro_day1.rpy:95
-translate italian intro_day1_f8b5811f:
+translate italian intro_day1_f18e7e28:
 
-    # pcthink "What the... is that... [m]?"
-    pcthink "Che cosa... è... [m]?"
+    # mcthink "What the... is that... [m]?"
+    mcthink "Che cosa... è... [m]?"
 
 # game/intro_day1.rpy:96
-translate italian intro_day1_415ae20c:
+translate italian intro_day1_b241f979:
 
-    # pcthink "Fuck!"
-    pcthink "Fuck!"
+    # mcthink "Fuck!"
+    mcthink "Cazzo!"
 
 # game/intro_day1.rpy:100
-translate italian intro_day1_b83ed222:
+translate italian intro_day1_f3fd7f19:
 
-    # pcthink "This can't be fucking true!"
-    pcthink "Questo non può essere true!"
+    # mcthink "This can't be fucking true!"
+    mcthink "Questo non può essere true!"
 
 # game/intro_day1.rpy:101
-translate italian intro_day1_1efb0ba2:
+translate italian intro_day1_0971b539:
 
-    # pcthink "The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
-    pcthink "La giornata peggiorò ancora solo vedendola... L'unica persona che non ho mai voluto vedere di nuovo. Uno dei motivi per cui ho lasciato questa città."
+    # mcthink "The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
+    mcthink "La giornata peggiorò ancora solo vedendola... L'unica persona che non ho mai voluto vedere di nuovo. Uno dei motivi per cui ho lasciato questa città."
 
 # game/intro_day1.rpy:102
-translate italian intro_day1_26236927:
+translate italian intro_day1_212a14fd:
 
-    # pcthink "I’ll just pretend I haven’t seen her and leave right now..."
-    pcthink "Farò finta di non averla vista e di andarmene proprio ora..."
+    # mcthink "I’ll just pretend I haven’t seen her and leave right now..."
+    mcthink "Farò finta di non averla vista e di andarmene proprio ora..."
 
 # game/intro_day1.rpy:103
-translate italian intro_day1_74bf3e68:
+translate italian intro_day1_f964cdc5:
 
-    # pcthink "I might lose it and slap her right in the face if I stay..."
-    pcthink "Potrei perderlo e schiaffettarla in faccia se rimango..."
+    # mcthink "I might lose it and slap her right in the face if I stay..."
+    mcthink "Potrei perderlo e schiaffettarla in faccia se rimango..."
 
 # game/intro_day1.rpy:105
 translate italian intro_day1_b2b82112:
@@ -447,22 +433,22 @@ translate italian intro_day1_b2b82112:
     n "Ti rivolgi rapidamente nella direzione opposta e speriamo che non ti riconosca dopo tutti questi anni."
 
 # game/intro_day1.rpy:106
-translate italian intro_day1_46387776:
+translate italian intro_day1_c103f516:
 
-    # m "[pc]? Is that you?" with vpunch
-    m "[pc]? Sei tu?" with vpunch
+    # m "[mc]? Is that you?" with vpunch
+    m "[mc]? Sei tu?" with vpunch
 
 # game/intro_day1.rpy:107
-translate italian intro_day1_90a099af:
+translate italian intro_day1_0ff409f4:
 
-    # pcthink "Fuck..."
-    pcthink "Fuck..."
+    # mcthink "Fuck..."
+    mcthink "Cazzo..."
 
 # game/intro_day1.rpy:109
-translate italian intro_day1_6fbac882:
+translate italian intro_day1_b0e244cf:
 
-    # pc "Uh... hey [m]."
-    pc "Uh... hey [m]."
+    # mc "Uh... hey [m]."
+    mc "Uh... hey [m]."
 
 # game/intro_day1.rpy:110
 translate italian intro_day1_ea36c5f1:
@@ -477,16 +463,16 @@ translate italian intro_day1_e550049b:
     m "Non hai solo fingere di non avermi visto, vero?"
 
 # game/intro_day1.rpy:113
-translate italian intro_day1_f57fc75a:
+translate italian intro_day1_06b1e752:
 
-    # pc "Uhh, well..."
-    pc "Uhh, poco..."
+    # mc "Uhh, well..."
+    mc "Uhh, poco..."
 
 # game/intro_day1.rpy:115
-translate italian intro_day1_de907750:
+translate italian intro_day1_503c77ae:
 
-    # m "Ahaha! It's okay [pc]..."
-    m "Ahaha! Va bene [pc]..."
+    # m "Ahaha! It's okay [mc]..."
+    m "Ahaha! Va bene [mc]..."
 
 # game/intro_day1.rpy:116
 translate italian intro_day1_6bed729b:
@@ -495,10 +481,10 @@ translate italian intro_day1_6bed729b:
     m "Non ti incolpo."
 
 # game/intro_day1.rpy:117
-translate italian intro_day1_4aaebaf7:
+translate italian intro_day1_73310a96:
 
-    # pcthink "Why is she so friendly?"
-    pcthink "Perché è così amichevole?"
+    # mcthink "Why is she so friendly?"
+    mcthink "Perché è così amichevole?"
 
 # game/intro_day1.rpy:118
 translate italian intro_day1_715efcc0:
@@ -507,16 +493,16 @@ translate italian intro_day1_715efcc0:
     m "Ad essere onesti, non mi aspettavo di rivederti mai."
 
 # game/intro_day1.rpy:119
-translate italian intro_day1_a69377ef:
+translate italian intro_day1_2b35b6fe:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:120
-translate italian intro_day1_752a743c:
+translate italian intro_day1_3c440417:
 
-    # pcthink "I would’ve preferred it that way..."
-    pcthink "Lo avrei preferito in quel modo..."
+    # mcthink "I would’ve preferred it that way..."
+    mcthink "Lo avrei preferito in quel modo..."
 
 # game/intro_day1.rpy:122
 translate italian intro_day1_c854c817:
@@ -525,10 +511,10 @@ translate italian intro_day1_c854c817:
     m "Immagino che debba essere il destino allora."
 
 # game/intro_day1.rpy:123
-translate italian intro_day1_2ec1ddf5:
+translate italian intro_day1_5d94781a:
 
-    # pcthink "Or bad luck. I seem to have a lot of it lately..."
-    pcthink "O sfortuna. Mi sembra di averne un sacco ultimamente..."
+    # mcthink "Or bad luck. I seem to have a lot of it lately..."
+    mcthink "O sfortuna. Mi sembra di averne un sacco ultimamente..."
 
 # game/intro_day1.rpy:124
 translate italian intro_day1_e2b5906f:
@@ -537,10 +523,10 @@ translate italian intro_day1_e2b5906f:
     m "Cosa ti riporta indietro? Stai visitando alcuni vecchi amici?"
 
 # game/intro_day1.rpy:125
-translate italian intro_day1_bdf81fa1:
+translate italian intro_day1_79cdd2e8:
 
-    # pc "A new job..."
-    pc "Un nuovo lavoro..."
+    # mc "A new job..."
+    mc "Un nuovo lavoro..."
 
 # game/intro_day1.rpy:126
 translate italian intro_day1_a46dc5ac:
@@ -549,16 +535,16 @@ translate italian intro_day1_a46dc5ac:
     m "Davvero?! Qui in città?"
 
 # game/intro_day1.rpy:127
-translate italian intro_day1_fef852ff:
+translate italian intro_day1_69c25b65:
 
-    # pc "Yeah..."
-    pc "Sì..."
+    # mc "Yeah..."
+    mc "Sì..."
 
 # game/intro_day1.rpy:128
-translate italian intro_day1_5780b8c4:
+translate italian intro_day1_f39c30b4:
 
-    # pcthink "Shit, why did I tell her about that..."
-    pcthink "Merda, perché le ho detto di quello..."
+    # mcthink "Shit, why did I tell her about that..."
+    mcthink "Merda, perché le ho detto di quello..."
 
 # game/intro_day1.rpy:129
 translate italian intro_day1_52c1edbe:
@@ -567,10 +553,10 @@ translate italian intro_day1_52c1edbe:
     m "Wow, questa è una grande notizia!"
 
 # game/intro_day1.rpy:130
-translate italian intro_day1_d5a9da1c:
+translate italian intro_day1_764ffcfd:
 
-    # pcthink "...and why is she acting like she is happy to see me?"
-    pcthink "e perché si comporta come lei è felice di vedermi?"
+    # mcthink "...and why is she acting like she is happy to see me?"
+    mcthink "e perché si comporta come lei è felice di vedermi?"
 
 # game/intro_day1.rpy:131
 translate italian intro_day1_1012f0f3:
@@ -579,16 +565,16 @@ translate italian intro_day1_1012f0f3:
     m "Immagino che ci incontreremo più spesso allora."
 
 # game/intro_day1.rpy:132
-translate italian intro_day1_c3ba3aba:
+translate italian intro_day1_5c1d6a14:
 
-    # pcthink "God please no!"
-    pcthink "Dio per favore no!"
+    # mcthink "God please no!"
+    mcthink "Dio per favore no!"
 
 # game/intro_day1.rpy:133
-translate italian intro_day1_a69377ef_1:
+translate italian intro_day1_2b35b6fe_1:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:134
 translate italian intro_day1_e612037c:
@@ -603,10 +589,10 @@ translate italian intro_day1_5aeed744:
     m "Ascolta... So che dovete ancora essere arrabbiati con me, ma..."
 
 # game/intro_day1.rpy:137
-translate italian intro_day1_5fe6e05a:
+translate italian intro_day1_8576b8d6:
 
-    # pcthink "Mad? I fucking hate this bitch!"
-    pcthink "Mad? Io cazzo odio questa cagna!"
+    # mcthink "Mad? I fucking hate this bitch!"
+    mcthink "Mad? Io cazzo odio questa cagna!"
 
 # game/intro_day1.rpy:138
 translate italian intro_day1_519440ed:
@@ -615,10 +601,10 @@ translate italian intro_day1_519440ed:
     m "Le cose sono cambiate... Ho cambiato..."
 
 # game/intro_day1.rpy:139
-translate italian intro_day1_0cbb104e:
+translate italian intro_day1_353fad01:
 
-    # pcthink "Yeah, as if..."
-    pcthink "Sì, come se..."
+    # mcthink "Yeah, as if..."
+    mcthink "Sì, come se..."
 
 # game/intro_day1.rpy:141
 translate italian intro_day1_14af4d41:
@@ -627,16 +613,16 @@ translate italian intro_day1_14af4d41:
     m "Volevo davvero parlare con te e scusarmi per... beh, tutto."
 
 # game/intro_day1.rpy:142
-translate italian intro_day1_90a099af_1:
+translate italian intro_day1_0ff409f4_1:
 
-    # pcthink "Fuck..."
-    pcthink "Fuck..."
+    # mcthink "Fuck..."
+    mcthink "Cazzo..."
 
 # game/intro_day1.rpy:143
-translate italian intro_day1_52e6c205:
+translate italian intro_day1_b183b249:
 
-    # pc "Are you serious? Now? After all these years?"
-    pc "Sei serio? Ora? Dopo tutti questi anni?"
+    # mc "Are you serious? Now? After all these years?"
+    mc "Sei serio? Ora? Dopo tutti questi anni?"
 
 # game/intro_day1.rpy:145
 translate italian intro_day1_9e657d27:
@@ -651,28 +637,28 @@ translate italian intro_day1_ed766cce:
     m "Ti ho inviato una lettera un po' fa, ma probabilmente non l'hai mai letta... vero?"
 
 # game/intro_day1.rpy:148
-translate italian intro_day1_1946f409:
+translate italian intro_day1_db984639:
 
-    # pc "A letter?"
-    pc "Una lettera?"
+    # mc "A letter?"
+    mc "Una lettera?"
 
 # game/intro_day1.rpy:149
-translate italian intro_day1_51fbc24e:
+translate italian intro_day1_90a85843:
 
-    # pcthink "Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
-    pcthink "Ora che lei lo menziona, ho ricevuto una lettera qualche anno fa... e bruciato istantaneamente quando ho visto il suo nome su di esso..."
+    # mcthink "Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
+    mcthink "Ora che lei lo menziona, ho ricevuto una lettera qualche anno fa... e bruciato istantaneamente quando ho visto il suo nome su di esso..."
 
 # game/intro_day1.rpy:150
-translate italian intro_day1_66a63599:
+translate italian intro_day1_7ceec8dd:
 
-    # pcthink "I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
-    pcthink "Non so ancora come ha avuto il mio indirizzo. Sono rimasto lontano da ogni piattaforma di social media. Eliminato ogni account che avrebbe potuto conoscere e ancora, in qualche modo è riuscito a trovare il mio indirizzo di vita reale..."
+    # mcthink "I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
+    mcthink "Non so ancora come ha avuto il mio indirizzo. Sono rimasto lontano da ogni piattaforma di social media. Eliminato ogni account che avrebbe potuto conoscere e ancora, in qualche modo è riuscito a trovare il mio indirizzo di vita reale..."
 
 # game/intro_day1.rpy:151
-translate italian intro_day1_fb5871b4:
+translate italian intro_day1_e398cee4:
 
-    # pc "Yeah, I didn't read it..."
-    pc "Sì, non l'ho letto..."
+    # mc "Yeah, I didn't read it..."
+    mc "Sì, non l'ho letto..."
 
 # game/intro_day1.rpy:153
 translate italian intro_day1_cc431895:
@@ -681,10 +667,10 @@ translate italian intro_day1_cc431895:
     m "Ma non potete dirmi che non ho provato, giusto?"
 
 # game/intro_day1.rpy:154
-translate italian intro_day1_ee854e73:
+translate italian intro_day1_86159d30:
 
-    # pcthink "As if a letter would change anything."
-    pcthink "Come se una lettera cambiasse qualcosa."
+    # mcthink "As if a letter would change anything."
+    mcthink "Come se una lettera cambiasse qualcosa."
 
 # game/intro_day1.rpy:155
 translate italian intro_day1_e612037c_1:
@@ -693,10 +679,10 @@ translate italian intro_day1_e612037c_1:
     m "..."
 
 # game/intro_day1.rpy:156
-translate italian intro_day1_a69377ef_2:
+translate italian intro_day1_2b35b6fe_2:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:158
 translate italian intro_day1_e0bec7d8:
@@ -705,16 +691,16 @@ translate italian intro_day1_e0bec7d8:
     m "Umm... beh, ho un po' di tempo in questo momento. Non pensate che potremmo avere una tazza di caffè insieme e parlare un po 'almeno... dopo tutto questo tempo..."
 
 # game/intro_day1.rpy:159
-translate italian intro_day1_48847571:
+translate italian intro_day1_4234ca70:
 
-    # pcthink "Tch, seriously?..."
-    pcthink "Tch, seriamente?..."
+    # mcthink "Tch, seriously?..."
+    mcthink "Tch, seriamente?..."
 
 # game/intro_day1.rpy:160
-translate italian intro_day1_db60ad02:
+translate italian intro_day1_5f0e3ad3:
 
-    # pc "Sorry, I don't have the time right now..."
-    pc "Mi dispiace, non ho tempo in questo momento..."
+    # mc "Sorry, I don't have the time right now..."
+    mc "Mi dispiace, non ho tempo in questo momento..."
 
 # game/intro_day1.rpy:161
 translate italian intro_day1_a96d195f:
@@ -723,16 +709,16 @@ translate italian intro_day1_a96d195f:
     m "Davvero? O semplicemente non vuoi parlare con me?"
 
 # game/intro_day1.rpy:162
-translate italian intro_day1_4f08229f:
+translate italian intro_day1_250421ed:
 
-    # pcthink "Ugh...she's so... different."
-    pcthink "Ugh... è così... diverso."
+    # mcthink "Ugh...she's so... different."
+    mcthink "Ugh... è così... diverso."
 
 # game/intro_day1.rpy:163
-translate italian intro_day1_6fa95dd6:
+translate italian intro_day1_abe6342a:
 
-    # pcthink "...is she just acting?"
-    pcthink "...sta solo recitando?"
+    # mcthink "...is she just acting?"
+    mcthink "...sta solo recitando?"
 
 # game/intro_day1.rpy:164
 translate italian intro_day1_6135c0b8:
@@ -741,10 +727,10 @@ translate italian intro_day1_6135c0b8:
     m "...hm?"
 
 # game/intro_day1.rpy:165
-translate italian intro_day1_60dd7565:
+translate italian intro_day1_a8b05663:
 
-    # pcthink "There is definitely something different about her..."
-    pcthink "C'è sicuramente qualcosa di diverso riguardo a lei..."
+    # mcthink "There is definitely something different about her..."
+    mcthink "C'è sicuramente qualcosa di diverso riguardo a lei..."
 
 # game/intro_day1.rpy:166
 translate italian intro_day1_97b13dc4:
@@ -759,16 +745,16 @@ translate italian intro_day1_834ad353:
     n "Si gira e se ne va."
 
 # game/intro_day1.rpy:175
-translate italian intro_day1_9ed1c9d2:
+translate italian intro_day1_9cdd45a5:
 
-    # pcthink "Fuck that bitch..."
-    pcthink "Cazzo quella puttana..."
+    # mcthink "Fuck that bitch..."
+    mcthink "Cazzo quella puttana..."
 
 # game/intro_day1.rpy:178
-translate italian intro_day1_0074d843:
+translate italian intro_day1_7ee889ba:
 
-    # pc "Ugh... okay, fine... I guess I have a few minutes..."
-    pc "Ugh... okay, fine... Immagino di avere qualche minuto..."
+    # mc "Ugh... okay, fine... I guess I have a few minutes..."
+    mc "Ugh... okay, fine... Immagino di avere qualche minuto..."
 
 # game/intro_day1.rpy:180
 translate italian intro_day1_697beb79:
@@ -783,10 +769,10 @@ translate italian intro_day1_9ce36f0d:
     m "C'è un bel piccolo caffè laggiù. Scommetto che lo amerete."
 
 # game/intro_day1.rpy:184
-translate italian intro_day1_3b445d96:
+translate italian intro_day1_af4f0ced:
 
-    # pcthink "Damn, I hope I won't regret it..."
-    pcthink "Dannazione, spero di non pentirmi..."
+    # mcthink "Damn, I hope I won't regret it..."
+    mcthink "Dannazione, spero di non pentirmi..."
 
 # game/intro_day1.rpy:185
 translate italian intro_day1_719102df:
@@ -801,10 +787,10 @@ translate italian intro_day1_69397787:
     m "...e ti sei spostato fino in fondo solo per quel lavoro?"
 
 # game/intro_day1.rpy:190
-translate italian intro_day1_fef852ff_1:
+translate italian intro_day1_69c25b65_1:
 
-    # pc "Yeah..."
-    pc "Sì..."
+    # mc "Yeah..."
+    mc "Sì..."
 
 # game/intro_day1.rpy:192
 translate italian intro_day1_18c234c2:
@@ -825,16 +811,16 @@ translate italian intro_day1_3a9da8e8:
     m "Ma immagino che sia più facile quando l'hai fatto una volta prima..."
 
 # game/intro_day1.rpy:197
-translate italian intro_day1_a69377ef_3:
+translate italian intro_day1_2b35b6fe_3:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:198
-translate italian intro_day1_1cba0a9b:
+translate italian intro_day1_9515c722:
 
-    # pc "[m], why did you really want to talk to me?"
-    pc "[m], perché hai davvero voluto parlare con me?"
+    # mc "[m], why did you really want to talk to me?"
+    mc "[m], perché hai davvero voluto parlare con me?"
 
 # game/intro_day1.rpy:200
 translate italian intro_day1_b34c8b0f:
@@ -843,10 +829,10 @@ translate italian intro_day1_b34c8b0f:
     m "Beh, non ci siamo visti per un po' di tempo?"
 
 # game/intro_day1.rpy:202
-translate italian intro_day1_979b4245:
+translate italian intro_day1_c5006a4a:
 
-    # pc "Come on [m], I know that's not the real reason."
-    pc "Vieni [m], so che non è questa la vera ragione."
+    # mc "Come on [m], I know that's not the real reason."
+    mc "Vieni [m], so che non è questa la vera ragione."
 
 # game/intro_day1.rpy:204
 translate italian intro_day1_e612037c_2:
@@ -855,10 +841,10 @@ translate italian intro_day1_e612037c_2:
     m "..."
 
 # game/intro_day1.rpy:205
-translate italian intro_day1_1dc31bd7:
+translate italian intro_day1_bdebe6c9:
 
-    # m "[pc] I..."
-    m "[pc] I..."
+    # m "[mc] I..."
+    m "[mc] I..."
 
 # game/intro_day1.rpy:207
 translate italian intro_day1_859c53a1:
@@ -867,22 +853,22 @@ translate italian intro_day1_859c53a1:
     m "Lo intendevo quando ho detto che mi dispiace."
 
 # game/intro_day1.rpy:208
-translate italian intro_day1_15e72e84:
+translate italian intro_day1_dba3b484:
 
-    # pc "Yeah, sure..."
-    pc "Sì, sicuro..."
+    # mc "Yeah, sure..."
+    mc "Sì, certo..."
 
 # game/intro_day1.rpy:210
-translate italian intro_day1_4bc411f5:
+translate italian intro_day1_683946cc:
 
-    # m "Listen [pc], I know I wasn't the best mom you could think of..."
-    m "Ascoltate [pc], So che non ero la mamma migliore di cui potevi pensare..."
+    # m "Listen [mc], I know I wasn't the best mom you could think of..."
+    m "Ascoltate [mc], So che non ero la mamma migliore di cui potevi pensare..."
 
 # game/intro_day1.rpy:211
-translate italian intro_day1_779ce34b:
+translate italian intro_day1_a6ccbe02:
 
-    # pc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married." with hpunch
-    pc "Non sei mia mamma. Neanche la mia matrigna. Sei solo una donna che viveva con mio papà, non eravate nemmeno sposati." with hpunch
+    # mc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married." with hpunch
+    mc "Non sei mia mamma. Neanche la mia matrigna. Sei solo una donna che viveva con mio papà, non eravate nemmeno sposati." with hpunch
 
 # game/intro_day1.rpy:213
 translate italian intro_day1_e69acfb2:
@@ -903,10 +889,10 @@ translate italian intro_day1_9224d60f:
     m "E ho fallito miseramente."
 
 # game/intro_day1.rpy:218
-translate italian intro_day1_432a5d6a:
+translate italian intro_day1_d9155b14:
 
-    # pc "Tch... That's a BIG understatement."
-    pc "Tch... Questo è un sobrio eufemismo."
+    # mc "Tch... That's a BIG understatement."
+    mc "Tch... Questo è un sobrio eufemismo."
 
 # game/intro_day1.rpy:220
 translate italian intro_day1_e612037c_3:
@@ -915,10 +901,10 @@ translate italian intro_day1_e612037c_3:
     m "..."
 
 # game/intro_day1.rpy:221
-translate italian intro_day1_a69377ef_4:
+translate italian intro_day1_2b35b6fe_4:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:223
 translate italian intro_day1_42a7fbc0:
@@ -927,10 +913,10 @@ translate italian intro_day1_42a7fbc0:
     m "Sai cosa mi ha fatto tuo papà, vero?"
 
 # game/intro_day1.rpy:224
-translate italian intro_day1_a69377ef_5:
+translate italian intro_day1_2b35b6fe_5:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:225
 translate italian intro_day1_60b61954:
@@ -939,10 +925,10 @@ translate italian intro_day1_60b61954:
     m "So che ti ha tenuto lontano, ma devi aver notato!"
 
 # game/intro_day1.rpy:227
-translate italian intro_day1_891d2262:
+translate italian intro_day1_753afd92:
 
-    # pc "... that... doesn't give you the right to treat me the same way..."
-    pc "... che... non ti dà il diritto di trattarmi allo stesso modo..."
+    # mc "... that... doesn't give you the right to treat me the same way..."
+    mc "... che... non ti dà il diritto di trattarmi allo stesso modo..."
 
 # game/intro_day1.rpy:229
 translate italian intro_day1_eb3a4075:
@@ -975,10 +961,10 @@ translate italian intro_day1_8e89036a:
     m "Non sei mai stato come lui..."
 
 # game/intro_day1.rpy:236
-translate italian intro_day1_a69377ef_6:
+translate italian intro_day1_2b35b6fe_6:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:237
 translate italian intro_day1_e612037c_4:
@@ -993,10 +979,10 @@ translate italian intro_day1_cbd6000b:
     m "Io... meglio partire ora..."
 
 # game/intro_day1.rpy:240
-translate italian intro_day1_a376adb1:
+translate italian intro_day1_cc8dfee1:
 
-    # m "I'm sorry [pc]..."
-    m "I'm sorry [pc]..."
+    # m "I'm sorry [mc]..."
+    m "I'm sorry [mc]..."
 
 # game/intro_day1.rpy:242
 translate italian intro_day1_1baa200b:
@@ -1005,46 +991,46 @@ translate italian intro_day1_1baa200b:
     n "Lei corre con le lacrime negli occhi."
 
 # game/intro_day1.rpy:243
-translate italian intro_day1_48d33e95:
+translate italian intro_day1_3e0c0ef9:
 
-    # pc ".."
-    pc ".."
+    # mc ".."
+    mc ".."
 
 # game/intro_day1.rpy:244
-translate italian intro_day1_a69377ef_7:
+translate italian intro_day1_2b35b6fe_7:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:245
-translate italian intro_day1_709a16f1:
+translate italian intro_day1_5c090e89:
 
-    # pc "...."
-    pc "...."
+    # mc "...."
+    mc "...."
 
 # game/intro_day1.rpy:246
-translate italian intro_day1_26b08e4a:
+translate italian intro_day1_38cb8147:
 
-    # pc "Fuck!"
-    pc "Fuck!"
+    # mc "Fuck!"
+    mc "Cazzo!"
 
 # game/intro_day1.rpy:247
-translate italian intro_day1_323f8958:
+translate italian intro_day1_55aa9241:
 
-    # pcthink "Why do {i}I{/i} feel bad now?!"
-    pcthink "Perché {i}I{/i} si sente male adesso?!"
+    # mcthink "Why do {i}I{/i} feel bad now?!"
+    mcthink "Perché {i}I{/i} si sente male adesso?!"
 
 # game/intro_day1.rpy:248
-translate italian intro_day1_93b96f13:
+translate italian intro_day1_0b9198e7:
 
-    # pcthink "She's the one who treated me like shit back then..."
-    pcthink "Lei è quella che mi ha trattato come merda allora."
+    # mcthink "She's the one who treated me like shit back then..."
+    mcthink "Lei è quella che mi ha trattato come merda allora."
 
 # game/intro_day1.rpy:250
-translate italian intro_day1_a69377ef_8:
+translate italian intro_day1_2b35b6fe_8:
 
-    # pc "..."
-    pc "..."
+    # mc "..."
+    mc "..."
 
 # game/intro_day1.rpy:253
 translate italian intro_day1_2bb5dc6d:
@@ -1053,34 +1039,34 @@ translate italian intro_day1_2bb5dc6d:
     n "Si paga il conto per entrambi voi e tornare in hotel."
 
 # game/intro_day1.rpy:257
-translate italian intro_day1_2_a142a29c:
+translate italian intro_day1_2_996c92a4:
 
-    # pcthink "Damn what a fucked up day..."
-    pcthink "Dannazione che un giorno scopato..."
+    # mcthink "Damn what a fucked up day..."
+    mcthink "Dannazione che un giorno scopato..."
 
 # game/intro_day1.rpy:258
-translate italian intro_day1_2_bf444cc4:
+translate italian intro_day1_2_4cddd6d3:
 
-    # pcthink "I'm starting to regret my decision to come back..."
-    pcthink "Sto iniziando a rimpiangere la mia decisione di tornare..."
+    # mcthink "I'm starting to regret my decision to come back..."
+    mcthink "Sto iniziando a rimpiangere la mia decisione di tornare..."
 
 # game/intro_day1.rpy:259
-translate italian intro_day1_2_fa016ed7:
+translate italian intro_day1_2_f0f8921b:
 
-    # pcthink "...hopefully I'll have more luck tomorrow..."
-    pcthink "...spero che domani avrò più fortuna..."
+    # mcthink "...hopefully I'll have more luck tomorrow..."
+    mcthink "...spero che domani avrò più fortuna..."
 
 # game/intro_day1.rpy:260
-translate italian intro_day1_2_27e71253:
+translate italian intro_day1_2_61e0d2d8:
 
-    # pcthink "It's getting dark already..."
-    pcthink "Sta diventando buio già..."
+    # mcthink "It's getting dark already..."
+    mcthink "Sta diventando buio già..."
 
 # game/intro_day1.rpy:261
-translate italian intro_day1_2_1891b64c:
+translate italian intro_day1_2_75dd81eb:
 
-    # pcthink "I think I'm going to take a shower and just go to bed for now..."
-    pcthink "Penso che sto andando a fare una doccia e solo andare a letto per ora..."
+    # mcthink "I think I'm going to take a shower and just go to bed for now..."
+    mcthink "Penso che sto andando a fare una doccia e solo andare a letto per ora..."
 
 # game/intro_day1.rpy:263
 translate italian intro_day1_2_e52e13f1:
@@ -1092,9 +1078,9 @@ translate italian strings:
 
     # game/intro_day1.rpy:167
     old "Go with her."
-    new "Vai con lei."
+    new "Vada con lei."
 
     # game/intro_day1.rpy:167
     old "Just leave."
-    new "Basta andarsene."
+    new "Partite e basta."
 

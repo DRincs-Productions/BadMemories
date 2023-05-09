@@ -10,125 +10,125 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-16 23:16\n"
+"PO-Revision-Date: 2023-04-30 02:52\n"
 
-# TODO: Translation updated at 2022-07-16 HH:HH# game/conditions.rpy:2209 ## translate crowdin dateTime_3e0aad91:
-msgid "[n] {size=+30}[currentDay]{/size}"
+# TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/conditions.rpy:2437 #-#-# translate crowdin dateTime_3e0aad91:
+msgid "[_n_] {size=+30}[currentDay]{/size}"
+msgstr "[_n_] {size=+30}[currentDay]{/size}"
+
+# game/conditions.rpy:2447 #-#-# translate crowdin whatToDoHome_970716ba:
+msgid "[_q_] What do you want to do? [nointeract]"
+msgstr "[_q_] Что вы хотите делать? [nointeract]"
+
+# game/conditions.rpy:2450 #-#-# translate crowdin whatToDoHome_5cbe9b52:
+msgid "[_mcthink_] I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
+msgstr "[_mcthink_] Думаю, мне не помешает еще немного поспать. Все равно делать нечего, пока не прибудут мои вещи..."
+
+# game/conditions.rpy:2470 #-#-# translate crowdin whatToDoHome_70aa1e0b:
+msgid "[_n_] Later [withdissolve]"
+msgstr "[_n_] Позже [withdissolve]"
+
+# game/conditions.rpy:2482 #-#-# translate crowdin hall_b8fd27d2:
+msgid "[_mcthink_] Okay, the bathroom should be the last room on the left if I remember correctly..."
+msgstr "[_mcthink_] Так, ванная должна быть последней комнатой слева, если я правильно помню..."
+
+# game/conditions.rpy:2510 #-#-# translate crowdin livingroom_b48d788b:
+msgid "[_mc_] S-shit, sorry."
+msgstr "[_mc_] Черт, извини."
+
+# game/conditions.rpy:2525 #-#-# translate crowdin pcStareMBath_7ac8df1b:
+msgid "[_m_] Um... [mc]? Are you staring at me?"
+msgstr "[_m_] Эм... [mc]? Ты на меня пялишься?"
+
+# game/conditions.rpy:2526 #-#-# translate crowdin pcStareMBath_ba45b3e3:
+msgid "[_mc_] Ugh... shit, s-sorry."
+msgstr "[_mc_] Ух... черт, простите."
+
+# game/conditions.rpy:2548 #-#-# translate crowdin bathroom_b06195ee:
+msgid "[_mcthink_] Whoops..."
 msgstr ""
 
-# game/conditions.rpy:2219 ## translate crowdin whatToDoHome_970716ba:
-msgid "[q] What do you want to do? [nointeract]"
+# game/conditions.rpy:2554 #-#-# translate crowdin bathroom_c2717674:
+msgid "[_mcthink_] Whoa... looks like [m] just got out of the shower."
+msgstr "[_mcthink_] Ого... похоже, что [m] только что вышел из душа."
+
+# game/conditions.rpy:2558 #-#-# translate crowdin bathroom_864caf06:
+msgid "[_m_] [mc]!?"
 msgstr ""
 
-# game/conditions.rpy:2222 ## translate crowdin whatToDoHome_87461463:
-msgid "[pcthink] I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
+# game/conditions.rpy:2559 #-#-# translate crowdin bathroom_3b1b1443:
+msgid "[_mcthink_] Uhh..."
+msgstr "[_mcthink_] Ух..."
+
+# §translate crowdin strings: #|#|# # game/conditions.rpy:11
+msgid "man"
 msgstr ""
 
-# game/conditions.rpy:2242 ## translate crowdin whatToDoHome_70aa1e0b:
-msgid "[n] Later [withdissolve]"
+# game/conditions.rpy:12
+msgid "Mr."
 msgstr ""
 
-# game/conditions.rpy:2254 ## translate crowdin hall_23b4c9e6:
-msgid "[pcthink] Okay, the bathroom should be the last room on the left if I remember correctly..."
+# game/conditions.rpy:13
+msgid "he"
 msgstr ""
 
-# game/conditions.rpy:2282 ## translate crowdin livingroom_c0f55507:
-msgid "[pc] S-shit, sorry."
+# game/conditions.rpy:14
+msgid "boy"
 msgstr ""
 
-# game/conditions.rpy:2297 ## translate crowdin pcStareMBath_85f8cf00:
-msgid "[m] Um... [pc]? Are you staring at me?"
+# game/conditions.rpy:15
+msgid "Daddy"
 msgstr ""
 
-# game/conditions.rpy:2298 ## translate crowdin pcStareMBath_7d2421b6:
-msgid "[pc] Ugh... shit, s-sorry."
+# game/conditions.rpy:16
+msgid "son"
 msgstr ""
 
-# game/conditions.rpy:2320 ## translate crowdin bathroom_fd2724fb:
-msgid "[pcthink] Ups..."
+# game/conditions.rpy:17
+msgid "him"
 msgstr ""
 
-# game/conditions.rpy:2326 ## translate crowdin bathroom_e0ffe4b5:
-msgid "[pcthink] Whoa... looks like [m] just got out of the shower."
+# game/conditions.rpy:18
+msgid "John"
 msgstr ""
 
-# game/conditions.rpy:2330 ## translate crowdin bathroom_ed5a9fb8:
-msgid "[m] [pc]!?"
+# game/conditions.rpy:19
+msgid "brother"
 msgstr ""
 
-# game/conditions.rpy:2331 ## translate crowdin bathroom_72087c33:
-msgid "[pcthink] Uhh..."
+# game/conditions.rpy:20
+msgid "his"
 msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/conditions.rpy:10
-msgid "[mschoice] Mr."
+# game/conditions.rpy:24
+msgid "Doe"
 msgstr ""
 
-# XX## game/conditions.rpy:11
-msgid "[mschoice] he"
+# game/conditions.rpy:2446
+msgid "Take a nap"
 msgstr ""
 
-# XX## game/conditions.rpy:12
-msgid "[mschoice] boy"
+# game/conditions.rpy:2446
+msgid "Look for [e]"
 msgstr ""
 
-# XX## game/conditions.rpy:13
-msgid "[mschoice] Daddy"
+# game/conditions.rpy:2446
+msgid "Look for [m]"
 msgstr ""
 
-# XX## game/conditions.rpy:14
-msgid "[mschoice] son"
+# game/conditions.rpy:2446
+msgid "Turn the pc on"
 msgstr ""
 
-# XX## game/conditions.rpy:15
-msgid "[mschoice] him"
+# game/conditions.rpy:2446
+msgid "Leave"
 msgstr ""
 
-# XX## game/conditions.rpy:16
-msgid "[mschoice] John"
+# game/conditions.rpy:2446
+msgid "Look around"
 msgstr ""
 
-# XX## game/conditions.rpy:17
-msgid "[mschoice] brother"
-msgstr ""
-
-# XX## game/conditions.rpy:18
-msgid "[mschoice] his"
-msgstr ""
-
-# XX## game/conditions.rpy:21
-msgid "[mschoice] male"
-msgstr ""
-
-# XX## game/conditions.rpy:22
-msgid "[mschoice] Doe"
-msgstr ""
-
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Take a nap"
-msgstr ""
-
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Look for [e]"
-msgstr ""
-
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Look for [m]"
-msgstr ""
-
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Turn the pc on"
-msgstr ""
-
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Leave"
-msgstr ""
-
-# XX## game/conditions.rpy:2218
-msgid "[mschoice] Look around"
-msgstr ""
-
-# XX## game/conditions.rpy:2327
-msgid "[mschoice] Look"
+# game/conditions.rpy:2555
+msgid "Look"
 msgstr ""
 

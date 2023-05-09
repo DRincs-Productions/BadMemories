@@ -1,162 +1,148 @@
-# msgid ""
-# msgstr ""
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: bad-memories\n"
-# "X-italian-Project-ID: 507994\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /main/game/tl/italian/conditions.po\n"
-# "X-italian-File-ID: 3606\n"
-# "Project-Id-Version: bad-memories\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-07-16 23:15\n"
+# TODO: Translation updated at 2023-04-29 19:07
 
-# TODO: Translation updated at 2022-07-16 HH:HH
-
-# game/conditions.rpy:2209
+# game/conditions.rpy:2437
 translate italian dateTime_3e0aad91:
 
     # n "{size=+30}[currentDay]{/size}"
     n "{size=+30}[currentDay]{/size}"
 
-# game/conditions.rpy:2219
+# game/conditions.rpy:2447
 translate italian whatToDoHome_970716ba:
 
     # q "What do you want to do?" nointeract
     q "Cosa vuoi fare?" nointeract
 
-# game/conditions.rpy:2222
-translate italian whatToDoHome_87461463:
+# game/conditions.rpy:2450
+translate italian whatToDoHome_5cbe9b52:
 
-    # pcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
-    pcthink "Immagino che potrei usare un po' più di sonno. Non c'è niente da fare in ogni caso fino a quando non arriva la mia roba..."
+    # mcthink "I guess I could use a bit more sleep. There's nothing to do anyway until my stuff arrives..."
+    mcthink "Credo che mi farebbe bene dormire un po' di più. Comunque non c'è niente da fare finché non arriva la mia roba..."
 
-# game/conditions.rpy:2242
+# game/conditions.rpy:2470
 translate italian whatToDoHome_70aa1e0b:
 
     # n "Later" with dissolve
     n "Più tardi" with dissolve
 
-# game/conditions.rpy:2254
-translate italian hall_23b4c9e6:
+# game/conditions.rpy:2482
+translate italian hall_b8fd27d2:
 
-    # pcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
-    pcthink "Va bene, il bagno dovrebbe essere l'ultima stanza a sinistra se ricordo correttamente..."
+    # mcthink "Okay, the bathroom should be the last room on the left if I remember correctly..."
+    mcthink "Ok, il bagno dovrebbe essere l'ultima stanza a sinistra se ricordo bene..."
 
-# game/conditions.rpy:2282
-translate italian livingroom_c0f55507:
+# game/conditions.rpy:2510
+translate italian livingroom_b48d788b:
 
-    # pc "S-shit, sorry."
-    pc "S-shit, spiacente."
+    # mc "S-shit, sorry."
+    mc "Merda, scusa."
 
-# game/conditions.rpy:2297
-translate italian pcStareMBath_85f8cf00:
+# game/conditions.rpy:2525
+translate italian pcStareMBath_7ac8df1b:
 
-    # m "Um... [pc]? Are you staring at me?"
-    m "Um... [pc]? Mi stai fissando?"
+    # m "Um... [mc]? Are you staring at me?"
+    m "Um... [mc]? Mi stai fissando?"
 
-# game/conditions.rpy:2298
-translate italian pcStareMBath_7d2421b6:
+# game/conditions.rpy:2526
+translate italian pcStareMBath_ba45b3e3:
 
-    # pc "Ugh... shit, s-sorry."
-    pc "Ugh... merda, mi dispiace."
+    # mc "Ugh... shit, s-sorry."
+    mc "Ugh... merda, mi dispiace."
 
-# game/conditions.rpy:2320
-translate italian bathroom_fd2724fb:
+# game/conditions.rpy:2548
+translate italian bathroom_b06195ee:
 
-    # pcthink "Ups..."
-    pcthink "Su..."
+    # mcthink "Whoops..."
+    mcthink "Ops..."
 
-# game/conditions.rpy:2326
-translate italian bathroom_e0ffe4b5:
+# game/conditions.rpy:2554
+translate italian bathroom_c2717674:
 
-    # pcthink "Whoa... looks like [m] just got out of the shower."
-    pcthink "Whoa... sembra [m] appena uscito dalla doccia."
+    # mcthink "Whoa... looks like [m] just got out of the shower."
+    mcthink "Sembra che [m] sia appena uscito dalla doccia."
 
-# game/conditions.rpy:2330
-translate italian bathroom_ed5a9fb8:
+# game/conditions.rpy:2558
+translate italian bathroom_864caf06:
 
-    # m "[pc]!?"
-    m "[pc]!?"
+    # m "[mc]!?"
+    m "[mc]!?"
 
-# game/conditions.rpy:2331
-translate italian bathroom_72087c33:
+# game/conditions.rpy:2559
+translate italian bathroom_3b1b1443:
 
-    # pcthink "Uhh..."
-    pcthink "Uhh..."
+    # mcthink "Uhh..."
+    mcthink "Uhh..."
 
 translate italian strings:
 
-    # game/conditions.rpy:10
-    old "Mr."
-    new "Sig."
-
     # game/conditions.rpy:11
+    old "man"
+    new "uomo"
+
+    # game/conditions.rpy:12
+    old "Mr."
+    new "Il Sig."
+
+    # game/conditions.rpy:13
     old "he"
     new "lui"
 
-    # game/conditions.rpy:12
+    # game/conditions.rpy:14
     old "boy"
     new "ragazzo"
 
-    # game/conditions.rpy:13
+    # game/conditions.rpy:15
     old "Daddy"
     new "Papà"
 
-    # game/conditions.rpy:14
+    # game/conditions.rpy:16
     old "son"
     new "figlio"
 
-    # game/conditions.rpy:15
+    # game/conditions.rpy:17
     old "him"
     new "lui"
 
-    # game/conditions.rpy:16
+    # game/conditions.rpy:18
     old "John"
-    new "John"
+    new "Giovanni"
 
-    # game/conditions.rpy:17
+    # game/conditions.rpy:19
     old "brother"
     new "fratello"
 
-    # game/conditions.rpy:18
+    # game/conditions.rpy:20
     old "his"
-    new "suo"
+    new "il suo"
 
-    # game/conditions.rpy:21
-    old "male"
-    new "maschio"
-
-    # game/conditions.rpy:22
+    # game/conditions.rpy:24
     old "Doe"
-    new "Doe"
+    new "Sconosciuto"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Take a nap"
-    new "Scatta un nap"
+    new "Fare un pisolino"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Look for [e]"
-    new "Cerca [e]"
+    new "Cercare [e]"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Look for [m]"
-    new "Cerca [m]"
+    new "Cercare [m]"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Turn the pc on"
-    new "Accendi il pc"
+    new "Accendere il pc"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Leave"
     new "Lascia"
 
-    # game/conditions.rpy:2218
+    # game/conditions.rpy:2446
     old "Look around"
-    new "Guarda intorno"
+    new "Guardati intorno"
 
-    # game/conditions.rpy:2327
+    # game/conditions.rpy:2555
     old "Look"
-    new "Look"
+    new "Guarda"
 

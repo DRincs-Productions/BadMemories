@@ -1,18 +1,4 @@
-# msgid ""
-# msgstr ""
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: bad-memories\n"
-# "X-french-Project-ID: 507994\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /main/game/tl/french/intro_day1.po\n"
-# "X-french-File-ID: 3714\n"
-# "Project-Id-Version: bad-memories\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-07-16 23:15\n"
-
-# TODO: Translation updated at 2022-07-16 HH:HH
+# TODO: Translation updated at 2023-04-29 19:07
 
 # game/intro_day1.rpy:3
 translate french intro_day1_26086d61:
@@ -27,190 +13,190 @@ translate french intro_day1_c95d7cc7:
     n "Vous êtes réveillé par le son de votre téléphone portable."
 
 # game/intro_day1.rpy:6
-translate french intro_day1_e2ee86ba:
+translate french intro_day1_dfd81e46:
 
-    # pc "Uhh..."
-    pc "Uhh..."
+    # mc "Uhh..."
+    mc "Uhh ..."
 
 # game/intro_day1.rpy:8
-translate french intro_day1_510548ac:
+translate french intro_day1_d99f856b:
 
-    # pc "What time is it?"
-    pc "Quelle heure est-il ?"
+    # mc "What time is it?"
+    mc "Quelle heure est-il?"
 
 # game/intro_day1.rpy:10
-translate french intro_day1_b2c8d7cb:
+translate french intro_day1_34b27f61:
 
-    # pc "Who the hell is calling so early..."
-    pc "Qui diable appelle si tôt..."
+    # mc "Who the hell is calling so early..."
+    mc "Qui diable appelle si tôt..."
 
 # game/intro_day1.rpy:12
-translate french intro_day1_d72509a6:
+translate french intro_day1_f49fff8f:
 
-    # pc "Yeah?"
-    pc "Ouais ?"
+    # mc "Yeah?"
+    mc "Oui?"
 
 # game/intro_day1.rpy:13
-translate french intro_day1_6c2bd191:
+translate french intro_day1_ac62e442:
 
-    # Voice" "Hello [mrms] [pcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
-    "Voix" "Bonjour [mrms] [pcsure], c'est Maggy Shelter. Je suis désolée mais j'ai de mauvaises nouvelles pour vous."
+    # "Voice" "Hello [mrms] [mcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
+    "Voix" "Bonjour [mrms] [mcsure], c'est Maggy Shelter. Je suis désolée mais j'ai de mauvaises nouvelles pour vous."
 
 # game/intro_day1.rpy:14
-translate french intro_day1_e76b2b51:
+translate french intro_day1_621f9428:
 
-    # pcthink "Ah, Maggy, the office secretary from the rental company."
-    pcthink "Ah, Maggy, la secrétaire de la société de location."
+    # mcthink "Ah, Maggy, the office secretary from the rental company."
+    mcthink "Ah, Maggy, la secrétaire de la société de location."
 
 # game/intro_day1.rpy:15
-translate french intro_day1_fd84307b:
+translate french intro_day1_feb3afa2:
 
-    # pcthink "She's obviously about to tell me about the apartment. She doesn't know I was there..."
-    pcthink "Elle est manifestement sur le point de me parler de l'appartement. Elle ne sait pas que j'étais là..."
+    # mcthink "She's obviously about to tell me about the apartment. She doesn't know I was there..."
+    mcthink "Elle est manifestement sur le point de me parler de l'appartement. Elle ne sait pas que j'étais là..."
 
 # game/intro_day1.rpy:16
-translate french intro_day1_7b411acf:
+translate french intro_day1_13699a97:
 
-    # pc "Hey Maggy. I know about the fire already."
-    pc "Hé Maggy. Je suis déjà au courant pour l'incendie."
+    # mc "Hey Maggy. I know about the fire already."
+    mc "Hé Maggy. Je suis déjà au courant pour l'incendie."
 
 # game/intro_day1.rpy:17
 translate french intro_day1_5889fa60:
 
-    # Maggy" "You know that the apartment burned down?"
-    "Vous savez que l'appartement a brûlé ?"
+    # "Maggy" "You know that the apartment burned down?"
+    "Maggie" "Vous savez que l'appartement a brûlé?"
 
 # game/intro_day1.rpy:18
-translate french intro_day1_6742a0b1:
+translate french intro_day1_71b799ed:
 
-    # pc "Yeah, I arrived yesterday and wanted to have a look at the apartment."
-    pc "Oui, je suis arrivé hier et je voulais jeter un coup d'œil à l'appartement."
+    # mc "Yeah, I arrived yesterday and wanted to have a look at the apartment."
+    mc "Oui, je suis arrivé hier et je voulais jeter un coup d'œil à l'appartement."
 
 # game/intro_day1.rpy:19
 translate french intro_day1_f6bfe289:
 
-    # Maggy" "Oh no, that must have been a shock to you."
-    "Maggy" "Oh non, ça a dû être un choc pour vous."
+    # "Maggy" "Oh no, that must have been a shock to you."
+    "Maggieux" "Oh non, ça doit être un choc pour vous."
 
 # game/intro_day1.rpy:20
-translate french intro_day1_c396e8dd:
+translate french intro_day1_0ea026f3:
 
-    # pc "It was quite a surprise..."
-    pc "Ce fut une sacrée surprise..."
+    # mc "It was quite a surprise..."
+    mc "Ce fut une sacrée surprise..."
 
 # game/intro_day1.rpy:21
-translate french intro_day1_fe20b456:
+translate french intro_day1_d33f81eb:
 
-    # Maggy" "I'm so sorry [mrms] [pcsure]. Do you have somewhere else to stay?"
-    "Maggy" "Je suis vraiment désolée [mrms] [pcsure]. Avez-vous un autre endroit où aller ?"
+    # "Maggy" "I'm so sorry [mrms] [mcsure]. Do you have somewhere else to stay?"
+    "Maggy" "Je suis désolé [mrms] [mcsure]. Avez-vous quelque part d'autre pour dormir?"
 
 # game/intro_day1.rpy:22
-translate french intro_day1_b1b648a5:
+translate french intro_day1_5489d803:
 
-    # pc "Yeah, I have a hotel room for a few days until my stuff arrives."
-    pc "Ouais, j'ai une chambre d'hôtel pour quelques jours jusqu'à ce que mes affaires arrivent."
+    # mc "Yeah, I have a hotel room for a few days until my stuff arrives."
+    mc "Ouais, j'ai une chambre d'hôtel pour quelques jours jusqu'à ce que mes affaires arrivent."
 
 # game/intro_day1.rpy:23
 translate french intro_day1_1642f9e0:
 
-    # Maggy" "That's good to hear."
+    # "Maggy" "That's good to hear."
     "Maggy" "C'est bon à entendre."
 
 # game/intro_day1.rpy:24
-translate french intro_day1_15ea5f47:
+translate french intro_day1_8a2327fd:
 
-    # pc "So... what about a replacement? Are there any other apartments?"
-    pc "Alors... qu'en est-il d'un remplacement? Y a-t-il d'autres appartements?"
+    # mc "So... what about a replacement? Are there any other apartments?"
+    mc "Alors... qu'en est-il d'un remplacement? Y a-t-il d'autres appartements?"
 
 # game/intro_day1.rpy:25
-translate french intro_day1_1dd487f2:
+translate french intro_day1_08dc83e3:
 
-    # Maggy" "No, I'm sorry [mrms] [pcsure], there are no apartments free at the moment."
-    "Maggy" "Non, je suis désolé [mrms] [pcsure], il n'y a pas d'appartements libres pour le moment."
+    # "Maggy" "No, I'm sorry [mrms] [mcsure], there are no apartments free at the moment."
+    "Maggy" "Non, je suis désolé [mrms] [mcsure], il n'y a pas d'appartements libres pour le moment."
 
 # game/intro_day1.rpy:26
 translate french intro_day1_e734f5df:
 
-    # Maggy" "There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
-    "Je ne peux pas faire grand-chose, mais vous pouvez être sûr de récupérer votre argent et je vous promets de vous appeler dès que nous aurons un autre appartement pour vous."
+    # "Maggy" "There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
+    "Maggy" "Il n'y a pas grand chose que je peux faire, mais vous pouvez être sûr de récupérer votre argent et je vous promets de vous appeler dès que nous avons un autre appartement pour vous."
 
 # game/intro_day1.rpy:27
-translate french intro_day1_6971775b:
+translate french intro_day1_bc262b52:
 
-    # pc "That's nice and all, but I can't go back to my old flat and I cannot live in a hotel forever. Don't you know anywhere else I could get an apartment, Maggy?"
-    pc "C'est bien et tout, mais je ne peux pas retourner dans mon ancien appartement et je ne peux pas vivre dans un hôtel pour toujours. Vous ne connaissez pas un autre endroit où je pourrais trouver un appartement, Maggy?"
+    # mc "That's nice and all, but I can't go back to my old flat and I cannot live in a hotel forever. Don't you know anywhere else I could get an apartment, Maggy?"
+    mc "C'est sympa et tout, mais je ne peux pas retourner à mon vieux appartement et je ne peux pas vivre dans un hôtel pour toujours. Vous ne savez pas où je pourrais avoir un appartement, Maggy?"
 
 # game/intro_day1.rpy:28
 translate french intro_day1_830b6420:
 
-    # Maggy" "..."
-    "Maggy" "..."
+    # "Maggy" "..."
+    "Maggy [special_delimiter]..."
 
 # game/intro_day1.rpy:29
 translate french intro_day1_34d02470:
 
-    # Maggy" "I... I might... but I have to make a few calls first."
-    "Maggy" "Je... Je pourrais... mais je dois d'abord passer quelques coups de fil."
+    # "Maggy" "I... I might... but I have to make a few calls first."
+    "Maggy" "Je... Je pourrais ... mais je dois d'abord faire quelques appels."
 
 # game/intro_day1.rpy:30
-translate french intro_day1_77c1565b:
+translate french intro_day1_d13ad9f6:
 
-    # pc "Great! Thanks Maggy. Really!"
-    pc "Super! Merci Maggy. Vraiment!"
+    # mc "Great! Thanks Maggy. Really!"
+    mc "Super! Merci Maggy. Vraiment!"
 
 # game/intro_day1.rpy:31
-translate french intro_day1_adf9cc71:
+translate french intro_day1_1d89ed6c:
 
-    # Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [pcsure]."
-    "Ne vous réjouissez pas tout de suite. Je ne peux rien vous promettre. Je ferai de mon mieux, mais vous devrez aussi jeter un coup d'œil par vous-même [mrms] [pcsure]."
+    # "Maggy" "Don't celebrate just yet. I can't promise anything. I'll try my best, but you should also have a look around for yourself [mrms] [mcsure]."
+    "Maggy" "Ne vous réjouissez pas tout de suite. Je ne peux rien vous promettre. Je ferai de mon mieux, mais vous devrez aussi jeter un coup d'œil par vous-même [mrms] [mcsure]."
 
 # game/intro_day1.rpy:32
-translate french intro_day1_7232f241:
+translate french intro_day1_f86f9603:
 
-    # pc "Of course, but at least you've given me some hope."
-    pc "Bien sûr, mais au moins vous m'avez donné un peu d'espoir."
+    # mc "Of course, but at least you've given me some hope."
+    mc "Bien sûr, mais au moins vous m'avez donné de l'espoir."
 
 # game/intro_day1.rpy:33
-translate french intro_day1_b61b07dd:
+translate french intro_day1_bf1e18b7:
 
-    # Maggy" "Okay then, I will call you as soon as I know something [mrms] [pcsure]."
-    "Maggy" "Ok alors, je vous appelle dès que je sais quelque chose [mrms] [pcsure]."
+    # "Maggy" "Okay then, I will call you as soon as I know something [mrms] [mcsure]."
+    "MaggyMaggy" "Ok alors, je vous appelle dès que je sais quelque chose [mrms] [mcsure]."
 
 # game/intro_day1.rpy:34
-translate french intro_day1_8931345c:
+translate french intro_day1_5fabb0eb:
 
-    # pc "Thanks Maggy, and call me [pc]."
-    pc "Merci Maggy, et appellez-moi [pc]."
+    # mc "Thanks Maggy, and call me [mc]."
+    mc "Merci Maggy, et appellez-moi [mc]."
 
 # game/intro_day1.rpy:35
-translate french intro_day1_827a732c:
+translate french intro_day1_7f7fd912:
 
-    # Maggy" "Good bye [mrms].... ahem, [pc]."
-    "Maggy" "Au revoir [mrms].... ahem, [pc]."
+    # "Maggy" "Good bye [mrms].... ahem, [mc]."
+    "Maggy" "Au revoir [mrms].... ahem, [mc]."
 
 # game/intro_day1.rpy:36
-translate french intro_day1_a77f3932:
+translate french intro_day1_762e3ba2:
 
-    # pc "Bye Maggy."
-    pc "Au revoir Maggy."
+    # mc "Bye Maggy."
+    mc "Au revoir Maggy."
 
 # game/intro_day1.rpy:37
-translate french intro_day1_ac93afbc:
+translate french intro_day1_219661bc:
 
-    # pcthink "Damn that girl has a nice voice..."
-    pcthink "Bon sang, cette fille a une belle voix..."
+    # mcthink "Damn that girl has a nice voice..."
+    mcthink "Bon sang, cette fille a une belle voix..."
 
 # game/intro_day1.rpy:38
-translate french intro_day1_f418612c:
+translate french intro_day1_a93a2bcf:
 
-    # pcthink "I wonder what she looks like."
-    pcthink "Je me demande à quoi elle ressemble."
+    # mcthink "I wonder what she looks like."
+    mcthink "Je me demande à quoi elle ressemble."
 
 # game/intro_day1.rpy:39
-translate french intro_day1_c1b3223b:
+translate french intro_day1_6125e29b:
 
-    # pcthink "Anyway, she's right. I better get up and have look for another apartment myself."
-    pcthink "De toute façon, elle a raison. Je ferais mieux de me lever et de chercher un autre appartement par moi-même."
+    # mcthink "Anyway, she's right. I better get up and have a look for another apartment myself."
+    mcthink "De toute façon, elle a raison. Je ferais mieux de me lever et de chercher un autre appartement par moi-même."
 
 # game/intro_day1.rpy:42
 translate french intro_day1_6245def4:
@@ -225,10 +211,10 @@ translate french intro_day1_5336f9dd:
     n "Vous passez quelques coups de fil pour trouver des offres d'appartements intéressantes, mais vous n'avez pas de chance."
 
 # game/intro_day1.rpy:44
-translate french intro_day1_c740ea5d:
+translate french intro_day1_1e83418f:
 
-    # pc "Damn, is every apartment in this town gone?!"
-    pc "Merde, est-ce que tous les appartements de cette ville sont pris?!"
+    # mc "Damn, is every apartment in this town gone?!"
+    mc "Merde, est-ce que tous les appartements de cette ville sont pris?!"
 
 # game/intro_day1.rpy:45
 translate french intro_day1_617c099e:
@@ -243,40 +229,40 @@ translate french intro_day1_3616666f:
     n "Au moment où vous êtes sur le point d'abandonner, vous recevez un autre appel."
 
 # game/intro_day1.rpy:47
-translate french intro_day1_6be6ff8e:
+translate french intro_day1_4cd2aef4:
 
-    # pcthink "Huh? Must be Maggy again..."
-    pcthink "Huh ? Ça doit être encore Maggy..."
+    # mcthink "Huh? Must be Maggy again..."
+    mcthink "Huh ? Ça doit être encore Maggy..."
 
 # game/intro_day1.rpy:49
-translate french intro_day1_c7379241:
+translate french intro_day1_ebcf84b7:
 
-    # pc "Hey Maggy. Please tell me something positive."
-    pc "Hé Maggy. S'il te plaît, dis-moi quelque chose de positif."
+    # mc "Hey Maggy. Please tell me something positive."
+    mc "Hé Maggy. S'il vous plaît, dites-moi quelque chose de positif."
 
 # game/intro_day1.rpy:50
-translate french intro_day1_80fb1595:
+translate french intro_day1_e0801792:
 
-    # Maggy" "Hey [mrms]..[pc]. Yes I might have something for you, but you have to hurry."
-    "Maggy" "Hé [mrms]..[pc]. Oui, j'ai peut-être quelque chose pour toi, mais tu dois te dépêcher."
+    # "Maggy" "Hey [mrms]..[mc]. Yes I might have something for you, but you have to hurry."
+    "Maggy" "Hé [mrms]..[mc]. Oui, j'ai peut-être quelque chose pour vous, mais vous devez vous dépêcher."
 
 # game/intro_day1.rpy:51
 translate french intro_day1_5b7ef6d3:
 
-    # Maggy" "It's an apartment in a nice part of town and it won't take long before it's gone again."
-    "C'est un appartement dans un quartier sympa de la ville et il ne faudra pas longtemps avant qu'il ne disparaisse à nouveau."
+    # "Maggy" "It's an apartment in a nice part of town and it won't take long before it's gone again."
+    "Maggy" "C'est un appartement dans un quartier sympa de la ville et il ne faudra pas longtemps avant qu'il ne disparaisse à nouveau."
 
 # game/intro_day1.rpy:53
-translate french intro_day1_3dcfbf46:
+translate french intro_day1_82452325:
 
-    # pc "Great! Thanks Maggy. You just saved my day!"
-    pc "Super! Merci Maggy. Tu viens de me sauver la mise!"
+    # mc "Great! Thanks Maggy. You just saved my day!"
+    mc "Super! Merci Maggy. Tu viens de me sauver la mise!"
 
 # game/intro_day1.rpy:54
 translate french intro_day1_3d21c59c:
 
-    # Maggy" "Haha, glad to help."
-    "Maggy" "Haha, heureux de vous aider."
+    # "Maggy" "Haha, glad to help."
+    "Maggy" "Haha, heureux d'aider."
 
 # game/intro_day1.rpy:56
 translate french intro_day1_237e9798:
@@ -291,94 +277,94 @@ translate french intro_day1_846bba63:
     n "Une demi-heure plus tard" with dissolve
 
 # game/intro_day1.rpy:61
-translate french intro_day1_12255e40:
+translate french intro_day1_abe6b55d:
 
-    # pcthink "Okay, this is the address... looks okay I guess... hmm, I like the annex."
-    pcthink "Ok, c'est l'adresse... ça a l'air correct je suppose... hmm, j'aime bien l'annexe."
+    # mcthink "Okay, this is the address... looks okay I guess... hmm, I like the annex."
+    mcthink "Ok, c'est l'adresse... ça a l'air correct je suppose... hmm, j'aime bien l'annexe."
 
 # game/intro_day1.rpy:63
-translate french intro_day1_5236aee1:
+translate french intro_day1_e87b96f0:
 
-    # pcthink "Shit, this doesn't look good..."
-    pcthink "Merde, ça n'a pas l'air bon..."
+    # mcthink "Shit, this doesn't look good..."
+    mcthink "Merde, ça n'a pas l'air bon..."
 
 # game/intro_day1.rpy:65
-translate french intro_day1_68797a1a:
+translate french intro_day1_6dc5e9b2:
 
-    # pc "Uh, hey I'm here for the apartment."
-    pc "Uh, hé je suis ici pour l'appartement."
+    # mc "Uh, hey I'm here for the apartment."
+    mc "Uh, hé je suis ici pour l'appartement."
 
 # game/intro_day1.rpy:67
 translate french intro_day1_4725ed56:
 
-    # Broker\" \"I'm sorry [mrms].."
+    # "Broker" "I'm sorry [mrms].."
     "Courtier" "Je suis désolé [mrms].."
 
 # game/intro_day1.rpy:69
-translate french intro_day1_8ff3f37e:
+translate french intro_day1_42104d29:
 
-    # pc "[pcsure]."
-    pc "[pcsure]."
+    # mc "[mcsure]."
+    mc "[mcsure]."
 
 # game/intro_day1.rpy:71
-translate french intro_day1_68528fb1:
+translate french intro_day1_29b4540a:
 
-    # Broker\" \"[pcsure]? Hum... I don't remember your name, did we have an appointment?"
-    "Courtier" "[pcsure]? Hum... Je ne me souviens pas de votre nom, avons-nous eu un rendez-vous?"
+    # "Broker" "[mcsure]? Hum... I don't remember your name, did we have an appointment?"
+    "Courtier" "[mcsure]? Hum ... Je ne me souviens pas de votre nom, avons-nous eu une nomination?"
 
 # game/intro_day1.rpy:73
-translate french intro_day1_88d7dcd5:
+translate french intro_day1_49b20c9d:
 
-    # pc "No, a friend gave me the address."
-    pc "Non, une amie m'a donné l'adresse."
+    # mc "No, a friend gave me the address."
+    mc "Non, une amie m'a donné l'adresse."
 
 # game/intro_day1.rpy:76
 translate french intro_day1_deb7173e:
 
-    # Guy" "You're too late, man."
-    "Gars" "C'est trop tard, mec."
+    # "Guy" "You're too late, man."
+    "Homme" "Vous êtes arrivé trop tard, mec."
 
 # game/intro_day1.rpy:78
 translate french intro_day1_8b6d7015:
 
-    # Guy" "You're too late. It's sold!"
-    "Gars" "C'est trop tard. C'est vendu!"
+    # "Guy" "You're too late. It's sold!"
+    "Homme" "Vous êtes arrivé trop tard. C'est vendu !"
 
 # game/intro_day1.rpy:80
-translate french intro_day1_e507774e:
+translate french intro_day1_5a25fd41:
 
-    # Broker\" \"Well I'm sorry [mrms] [pcsure]. This lovely couple here just closed the deal on this apartment."
-    "Courtier" "Eh bien, je suis désolé [mrms] [pcsure]. Ce charmant couple ici vient de conclure l'affaire pour cet appartement."
+    # "Broker" "Well I'm sorry [mrms] [mcsure]. This lovely couple here just closed the deal on this apartment."
+    "Courtier" "Eh bien, je suis désolé [mrms] [mcsure]. Ce charmant couple ici vient de conclure l'affaire pour cet appartement."
 
 # game/intro_day1.rpy:81
-translate french intro_day1_99dfcf7e:
+translate french intro_day1_4d9b3a55:
 
-    # pcthink "Shit, this sucks... all the haste for nothing."
-    pcthink "Merde, ça craint... toute cette hâte pour rien."
+    # mcthink "Shit, this sucks... all the haste for nothing."
+    mcthink "Merde, ça craint... toute cette hâte pour rien."
 
 # game/intro_day1.rpy:82
-translate french intro_day1_b1807a72:
+translate french intro_day1_af8ca151:
 
-    # pcthink "Looks like I have to continue searching..."
-    pcthink "On dirait que je dois continuer à chercher..."
+    # mcthink "Looks like I have to continue searching..."
+    mcthink "On dirait que je dois continuer à chercher..."
 
 # game/intro_day1.rpy:85
-translate french intro_day1_6c67ca50:
+translate french intro_day1_1ac4702e:
 
-    # pcthink "Well I guess I'll head back to the hotel..."
-    pcthink "Bon, je crois que je vais rentrer à l'hôtel..."
+    # mcthink "Well I guess I'll head back to the hotel..."
+    mcthink "Bon, je crois que je vais rentrer à l'hôtel..."
 
 # game/intro_day1.rpy:86
-translate french intro_day1_2d8c3578:
+translate french intro_day1_43b033ce:
 
-    # pc "*stomach rumble*"
-    pc "*grognement d'estomac*"
+    # mc "*stomach rumble*"
+    mc "*grognement d'estomac*"
 
 # game/intro_day1.rpy:87
-translate french intro_day1_6f7d35d7:
+translate french intro_day1_56731d25:
 
-    # pcthink "...or get a snack first."
-    pcthink "...ou prendre un encas avant."
+    # mcthink "...or get a snack first."
+    mcthink "...ou prendre un encas avant."
 
 # game/intro_day1.rpy:88
 translate french intro_day1_e73c363b:
@@ -389,56 +375,56 @@ translate french intro_day1_e73c363b:
 # game/intro_day1.rpy:91
 translate french intro_day1_e1d2b02a:
 
-    # Random Guy\" \"Oh and don't forget the other Ramen, and the Negi."
-    "Gars au hasard" "Oh et n'oublie pas l'autre Ramen, et le Negi."
+    # "Random Guy" "Oh and don't forget the other Ramen, and the Negi."
+    "Homme croisé au hasard" " Oh et n'oublie pas l'autre Ramen, et le Negi."
 
 # game/intro_day1.rpy:92
 translate french intro_day1_ec6c00f8:
 
-    # Girl" "Of course!"
-    "Fille" "Bien sûr!"
+    # "Girl" "Of course!"
+    "Fille" "Bien sûr !"
 
 # game/intro_day1.rpy:93
-translate french intro_day1_f0cac90d:
+translate french intro_day1_457c6f63:
 
-    # pcthink "..."
-    "[pcthink]..."
+    # mcthink "..."
+    "[_mcthink_]..."
 
 # game/intro_day1.rpy:95
-translate french intro_day1_f8b5811f:
+translate french intro_day1_f18e7e28:
 
-    # pcthink "What the... is that... [m]?"
-    pcthink "Qu'est-ce que... c'est... [m]?"
+    # mcthink "What the... is that... [m]?"
+    mcthink "Qu'est-ce que... c'est... [m]?"
 
 # game/intro_day1.rpy:96
-translate french intro_day1_415ae20c:
+translate french intro_day1_b241f979:
 
-    # pcthink "Fuck!"
-    pcthink "Merde!"
+    # mcthink "Fuck!"
+    mcthink "Putain !"
 
 # game/intro_day1.rpy:100
-translate french intro_day1_b83ed222:
+translate french intro_day1_f3fd7f19:
 
-    # pcthink "This can't be fucking true!"
-    pcthink "Ce n'est pas possible, putain !"
+    # mcthink "This can't be fucking true!"
+    mcthink "Ce n'est pas possible, putain !"
 
 # game/intro_day1.rpy:101
-translate french intro_day1_1efb0ba2:
+translate french intro_day1_0971b539:
 
-    # pcthink "The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
-    pcthink "La journée est devenue encore pire rien qu'en la voyant... La seule personne que je ne voulais plus jamais revoir. Une des raisons pour lesquelles j'ai quitté cette ville."
+    # mcthink "The day got even worse just by seeing her... The one person I never wanted to see again. One of the reasons why I left this town."
+    mcthink "La journée est devenue encore pire rien qu'en la voyant... La seule personne que je ne voulais plus jamais revoir. Une des raisons pour lesquelles j'ai quitté cette ville."
 
 # game/intro_day1.rpy:102
-translate french intro_day1_26236927:
+translate french intro_day1_212a14fd:
 
-    # pcthink "I’ll just pretend I haven’t seen her and leave right now..."
-    pcthink "Je vais faire comme si je ne l'avais pas vue et partir tout de suite..."
+    # mcthink "I’ll just pretend I haven’t seen her and leave right now..."
+    mcthink "Je vais faire comme si je ne l'avais pas vue et partir tout de suite..."
 
 # game/intro_day1.rpy:103
-translate french intro_day1_74bf3e68:
+translate french intro_day1_f964cdc5:
 
-    # pcthink "I might lose it and slap her right in the face if I stay..."
-    pcthink "Je pourrais perdre la tête et la gifler en plein visage si je reste..."
+    # mcthink "I might lose it and slap her right in the face if I stay..."
+    mcthink "Je pourrais perdre la tête et la gifler en plein visage si je reste..."
 
 # game/intro_day1.rpy:105
 translate french intro_day1_b2b82112:
@@ -447,22 +433,22 @@ translate french intro_day1_b2b82112:
     n "Vous vous tournez rapidement dans la direction opposée en espérant qu'elle ne vous reconnaisse pas après toutes ces années."
 
 # game/intro_day1.rpy:106
-translate french intro_day1_46387776:
+translate french intro_day1_c103f516:
 
-    # m "[pc]? Is that you?" with vpunch
-    m "[pc]? C'est toi?" with vpunch
+    # m "[mc]? Is that you?" with vpunch
+    m "[mc]? C'est toi?" with vpunch
 
 # game/intro_day1.rpy:107
-translate french intro_day1_90a099af:
+translate french intro_day1_0ff409f4:
 
-    # pcthink "Fuck..."
-    pcthink "Putain..."
+    # mcthink "Fuck..."
+    mcthink "Putain ..."
 
 # game/intro_day1.rpy:109
-translate french intro_day1_6fbac882:
+translate french intro_day1_b0e244cf:
 
-    # pc "Uh... hey [m]."
-    pc "Um... hé [m]."
+    # mc "Uh... hey [m]."
+    mc "Um... hé [m]."
 
 # game/intro_day1.rpy:110
 translate french intro_day1_ea36c5f1:
@@ -477,16 +463,16 @@ translate french intro_day1_e550049b:
     m "Tu n'as pas fait semblant de ne pas me voir, n'est-ce pas?"
 
 # game/intro_day1.rpy:113
-translate french intro_day1_f57fc75a:
+translate french intro_day1_06b1e752:
 
-    # pc "Uhh, well..."
-    pc "Umm, et bien..."
+    # mc "Uhh, well..."
+    mc "Umm, et bien..."
 
 # game/intro_day1.rpy:115
-translate french intro_day1_de907750:
+translate french intro_day1_503c77ae:
 
-    # m "Ahaha! It's okay [pc]..."
-    m "Ahaha! C'est bon [pc]..."
+    # m "Ahaha! It's okay [mc]..."
+    m "Ahaha! C'est bon [mc]..."
 
 # game/intro_day1.rpy:116
 translate french intro_day1_6bed729b:
@@ -495,10 +481,10 @@ translate french intro_day1_6bed729b:
     m "Je ne t'en veux pas."
 
 # game/intro_day1.rpy:117
-translate french intro_day1_4aaebaf7:
+translate french intro_day1_73310a96:
 
-    # pcthink "Why is she so friendly?"
-    pcthink "Pourquoi est-elle si amicale?"
+    # mcthink "Why is she so friendly?"
+    mcthink "Pourquoi est-elle si amicale?"
 
 # game/intro_day1.rpy:118
 translate french intro_day1_715efcc0:
@@ -507,16 +493,16 @@ translate french intro_day1_715efcc0:
     m "Pour être honnête, je ne m'attendais pas à te revoir un jour."
 
 # game/intro_day1.rpy:119
-translate french intro_day1_a69377ef:
+translate french intro_day1_2b35b6fe:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:120
-translate french intro_day1_752a743c:
+translate french intro_day1_3c440417:
 
-    # pcthink "I would’ve preferred it that way..."
-    pcthink "J'aurais préféré que ce soit comme ça..."
+    # mcthink "I would’ve preferred it that way..."
+    mcthink "J'aurais préféré que ce soit comme ça..."
 
 # game/intro_day1.rpy:122
 translate french intro_day1_c854c817:
@@ -525,10 +511,10 @@ translate french intro_day1_c854c817:
     m "Je suppose que ça doit être le destin alors."
 
 # game/intro_day1.rpy:123
-translate french intro_day1_2ec1ddf5:
+translate french intro_day1_5d94781a:
 
-    # pcthink "Or bad luck. I seem to have a lot of it lately..."
-    pcthink "Ou la malchance. Je semble en avoir beaucoup ces derniers temps..."
+    # mcthink "Or bad luck. I seem to have a lot of it lately..."
+    mcthink "Ou la malchance. Je semble en avoir beaucoup ces derniers temps..."
 
 # game/intro_day1.rpy:124
 translate french intro_day1_e2b5906f:
@@ -537,10 +523,10 @@ translate french intro_day1_e2b5906f:
     m "Qu'est-ce qui te ramène? Tu rends visite à de vieux amis?"
 
 # game/intro_day1.rpy:125
-translate french intro_day1_bdf81fa1:
+translate french intro_day1_79cdd2e8:
 
-    # pc "A new job..."
-    pc "Un nouveau travail..."
+    # mc "A new job..."
+    mc "Un nouveau travail..."
 
 # game/intro_day1.rpy:126
 translate french intro_day1_a46dc5ac:
@@ -549,16 +535,16 @@ translate french intro_day1_a46dc5ac:
     m "Vraiment?! Ici, en ville?"
 
 # game/intro_day1.rpy:127
-translate french intro_day1_fef852ff:
+translate french intro_day1_69c25b65:
 
-    # pc "Yeah..."
-    pc "Ouais..."
+    # mc "Yeah..."
+    mc "Oui ..."
 
 # game/intro_day1.rpy:128
-translate french intro_day1_5780b8c4:
+translate french intro_day1_f39c30b4:
 
-    # pcthink "Shit, why did I tell her about that..."
-    pcthink "Merde, pourquoi je lui ai parlé de ça..."
+    # mcthink "Shit, why did I tell her about that..."
+    mcthink "Merde, pourquoi je lui ai parlé de ça..."
 
 # game/intro_day1.rpy:129
 translate french intro_day1_52c1edbe:
@@ -567,10 +553,10 @@ translate french intro_day1_52c1edbe:
     m "Wow, c'est une excellente nouvelle!"
 
 # game/intro_day1.rpy:130
-translate french intro_day1_d5a9da1c:
+translate french intro_day1_764ffcfd:
 
-    # pcthink "...and why is she acting like she is happy to see me?"
-    pcthink "...et pourquoi elle agit comme si elle était heureuse de me voir ?"
+    # mcthink "...and why is she acting like she is happy to see me?"
+    mcthink "...et pourquoi elle agit comme si elle était heureuse de me voir ?"
 
 # game/intro_day1.rpy:131
 translate french intro_day1_1012f0f3:
@@ -579,22 +565,22 @@ translate french intro_day1_1012f0f3:
     m "Je suppose que nous nous rencontrerons plus souvent alors."
 
 # game/intro_day1.rpy:132
-translate french intro_day1_c3ba3aba:
+translate french intro_day1_5c1d6a14:
 
-    # pcthink "God please no!"
-    pcthink "Dieu s'il te plaît non!"
+    # mcthink "God please no!"
+    mcthink "Dieu s'il te plaît non!"
 
 # game/intro_day1.rpy:133
-translate french intro_day1_a69377ef_1:
+translate french intro_day1_2b35b6fe_1:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:134
 translate french intro_day1_e612037c:
 
     # m "..."
-    "[m]..."
+    "[_m_]..."
 
 # game/intro_day1.rpy:136
 translate french intro_day1_5aeed744:
@@ -603,10 +589,10 @@ translate french intro_day1_5aeed744:
     m "Ecoute... Je sais que tu dois être encore en colère contre moi, mais..."
 
 # game/intro_day1.rpy:137
-translate french intro_day1_5fe6e05a:
+translate french intro_day1_8576b8d6:
 
-    # pcthink "Mad? I fucking hate this bitch!"
-    pcthink "En colère? Je déteste cette salope!"
+    # mcthink "Mad? I fucking hate this bitch!"
+    mcthink "En colère? Je déteste cette salope!"
 
 # game/intro_day1.rpy:138
 translate french intro_day1_519440ed:
@@ -615,10 +601,10 @@ translate french intro_day1_519440ed:
     m "Les choses ont changé... J'ai changé..."
 
 # game/intro_day1.rpy:139
-translate french intro_day1_0cbb104e:
+translate french intro_day1_353fad01:
 
-    # pcthink "Yeah, as if..."
-    pcthink "Ouais, comme si..."
+    # mcthink "Yeah, as if..."
+    mcthink "Ouais, comme si..."
 
 # game/intro_day1.rpy:141
 translate french intro_day1_14af4d41:
@@ -627,16 +613,16 @@ translate french intro_day1_14af4d41:
     m "Je voulais vraiment te parler et m'excuser pour... eh bien, tout."
 
 # game/intro_day1.rpy:142
-translate french intro_day1_90a099af_1:
+translate french intro_day1_0ff409f4_1:
 
-    # pcthink "Fuck..."
-    pcthink "Putain..."
+    # mcthink "Fuck..."
+    mcthink "Putain ..."
 
 # game/intro_day1.rpy:143
-translate french intro_day1_52e6c205:
+translate french intro_day1_b183b249:
 
-    # pc "Are you serious? Now? After all these years?"
-    pc "Tu es sérieuse? Maintenant? Après toutes ces années?"
+    # mc "Are you serious? Now? After all these years?"
+    mc "Tu es sérieuse? Maintenant? Après toutes ces années?"
 
 # game/intro_day1.rpy:145
 translate french intro_day1_9e657d27:
@@ -651,28 +637,28 @@ translate french intro_day1_ed766cce:
     m "Je t'ai envoyé une lettre il y a quelque temps, mais tu ne l'as probablement jamais lue... si?"
 
 # game/intro_day1.rpy:148
-translate french intro_day1_1946f409:
+translate french intro_day1_db984639:
 
-    # pc "A letter?"
-    pc "Une lettre ?"
+    # mc "A letter?"
+    mc "Une lettre ?"
 
 # game/intro_day1.rpy:149
-translate french intro_day1_51fbc24e:
+translate french intro_day1_90a85843:
 
-    # pcthink "Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
-    pcthink "Maintenant qu'elle le mentionne, j'ai reçu une lettre il y a quelques années... et je l'ai brûlée instantanément quand j'ai vu son nom dessus...."
+    # mcthink "Now that she mentions it, I got a letter a few years ago... and burned it instantly when I saw her name on it..."
+    mcthink "Maintenant qu'elle le mentionne, j'ai reçu une lettre il y a quelques années... et je l'ai brûlée instantanément quand j'ai vu son nom dessus...."
 
 # game/intro_day1.rpy:150
-translate french intro_day1_66a63599:
+translate french intro_day1_7ceec8dd:
 
-    # pcthink "I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
-    pcthink "Je ne sais toujours pas comment elle a eu mon adresse. Je suis resté à l'écart de toutes les plateformes de médias sociaux. J'ai supprimé tous les comptes qu'elle aurait pu connaître et pourtant, elle a réussi à trouver mon adresse réelle..."
+    # mcthink "I still don't know how she got my address. I stayed away from every social media platform. Deleted every account she might have known about and still, she somehow managed to find my real life address..."
+    mcthink "Je ne sais toujours pas comment elle a eu mon adresse. Je suis resté à l'écart de toutes les plateformes de médias sociaux. J'ai supprimé tous les comptes qu'elle aurait pu connaître et pourtant, elle a réussi à trouver mon adresse réelle..."
 
 # game/intro_day1.rpy:151
-translate french intro_day1_fb5871b4:
+translate french intro_day1_e398cee4:
 
-    # pc "Yeah, I didn't read it..."
-    pc "Oui, je ne l'ai pas lu..."
+    # mc "Yeah, I didn't read it..."
+    mc "Oui, je ne l'ai pas lu..."
 
 # game/intro_day1.rpy:153
 translate french intro_day1_cc431895:
@@ -681,22 +667,22 @@ translate french intro_day1_cc431895:
     m "Mais tu ne peux pas me dire que je n'ai pas essayé, non ?"
 
 # game/intro_day1.rpy:154
-translate french intro_day1_ee854e73:
+translate french intro_day1_86159d30:
 
-    # pcthink "As if a letter would change anything."
-    pcthink "Comme si une lettre allait changer quelque chose."
+    # mcthink "As if a letter would change anything."
+    mcthink "Comme si une lettre allait changer quelque chose."
 
 # game/intro_day1.rpy:155
 translate french intro_day1_e612037c_1:
 
     # m "..."
-    "[m]..."
+    "[_m_]..."
 
 # game/intro_day1.rpy:156
-translate french intro_day1_a69377ef_2:
+translate french intro_day1_2b35b6fe_2:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:158
 translate french intro_day1_e0bec7d8:
@@ -705,16 +691,16 @@ translate french intro_day1_e0bec7d8:
     m "Umm... eh bien, j'ai un peu de temps en ce moment. Ne penses-tu pas que nous pourrions prendre une tasse de café ensemble et parler un peu au moins... après tout ce temps ..."
 
 # game/intro_day1.rpy:159
-translate french intro_day1_48847571:
+translate french intro_day1_4234ca70:
 
-    # pcthink "Tch, seriously?..."
-    pcthink "Tch, sérieusement ?..."
+    # mcthink "Tch, seriously?..."
+    mcthink "Tch, sérieusement? ..."
 
 # game/intro_day1.rpy:160
-translate french intro_day1_db60ad02:
+translate french intro_day1_5f0e3ad3:
 
-    # pc "Sorry, I don't have the time right now..."
-    pc "Désolé, je n'ai pas le temps pour le moment..."
+    # mc "Sorry, I don't have the time right now..."
+    mc "Désolé, je n'ai pas le temps pour le moment..."
 
 # game/intro_day1.rpy:161
 translate french intro_day1_a96d195f:
@@ -723,28 +709,28 @@ translate french intro_day1_a96d195f:
     m "Vraiment ? Ou est-ce que tu ne veux tout simplement pas me parler ?"
 
 # game/intro_day1.rpy:162
-translate french intro_day1_4f08229f:
+translate french intro_day1_250421ed:
 
-    # pcthink "Ugh...she's so... different."
-    pcthink "Ugh...elle est tellement...différente."
+    # mcthink "Ugh...she's so... different."
+    mcthink "Ugh...elle est tellement...différente."
 
 # game/intro_day1.rpy:163
-translate french intro_day1_6fa95dd6:
+translate french intro_day1_abe6342a:
 
-    # pcthink "...is she just acting?"
-    pcthink "...est-elle juste une actrice ?"
+    # mcthink "...is she just acting?"
+    mcthink "...est-elle juste une actrice ?"
 
 # game/intro_day1.rpy:164
 translate french intro_day1_6135c0b8:
 
     # m "...hm?"
-    m "...hm ?"
+    m "... hm?"
 
 # game/intro_day1.rpy:165
-translate french intro_day1_60dd7565:
+translate french intro_day1_a8b05663:
 
-    # pcthink "There is definitely something different about her..."
-    pcthink "Il y a définitivement quelque chose de différent chez elle..."
+    # mcthink "There is definitely something different about her..."
+    mcthink "Il y a définitivement quelque chose de différent chez elle..."
 
 # game/intro_day1.rpy:166
 translate french intro_day1_97b13dc4:
@@ -759,22 +745,22 @@ translate french intro_day1_834ad353:
     n "Vous vous retournez et partez."
 
 # game/intro_day1.rpy:175
-translate french intro_day1_9ed1c9d2:
+translate french intro_day1_9cdd45a5:
 
-    # pcthink "Fuck that bitch..."
-    pcthink "Merde à cette chienne..."
+    # mcthink "Fuck that bitch..."
+    mcthink "Merde à cette chienne..."
 
 # game/intro_day1.rpy:178
-translate french intro_day1_0074d843:
+translate french intro_day1_7ee889ba:
 
-    # pc "Ugh... okay, fine... I guess I have a few minutes..."
-    pc "Ugh... ok, bien... Je suppose que j'ai quelques minutes ..."
+    # mc "Ugh... okay, fine... I guess I have a few minutes..."
+    mc "Ugh... ok, bien... Je suppose que j'ai quelques minutes ..."
 
 # game/intro_day1.rpy:180
 translate french intro_day1_697beb79:
 
     # m "Great!"
-    m "Super !"
+    m "Super!"
 
 # game/intro_day1.rpy:181
 translate french intro_day1_9ce36f0d:
@@ -783,10 +769,10 @@ translate french intro_day1_9ce36f0d:
     m "Il y a un petit café sympa par là. Je parie que tu vas l'adorer."
 
 # game/intro_day1.rpy:184
-translate french intro_day1_3b445d96:
+translate french intro_day1_af4f0ced:
 
-    # pcthink "Damn, I hope I won't regret it..."
-    pcthink "Merde, j'espère que je ne le regretterais pas..."
+    # mcthink "Damn, I hope I won't regret it..."
+    mcthink "Merde, j'espère que je ne le regretterais pas..."
 
 # game/intro_day1.rpy:185
 translate french intro_day1_719102df:
@@ -801,10 +787,10 @@ translate french intro_day1_69397787:
     m "...et tu as déménagé ici juste pour ce travail ?"
 
 # game/intro_day1.rpy:190
-translate french intro_day1_fef852ff_1:
+translate french intro_day1_69c25b65_1:
 
-    # pc "Yeah..."
-    pc "Ouais..."
+    # mc "Yeah..."
+    mc "Oui ..."
 
 # game/intro_day1.rpy:192
 translate french intro_day1_18c234c2:
@@ -825,16 +811,16 @@ translate french intro_day1_3a9da8e8:
     m "Mais je suppose que c'est plus facile quand on l'a déjà fait une fois..."
 
 # game/intro_day1.rpy:197
-translate french intro_day1_a69377ef_3:
+translate french intro_day1_2b35b6fe_3:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:198
-translate french intro_day1_1cba0a9b:
+translate french intro_day1_9515c722:
 
-    # pc "[m], why did you really want to talk to me?"
-    pc "[m], pourquoi voulais-tu vraiment me parler ?"
+    # mc "[m], why did you really want to talk to me?"
+    mc "[m], pourquoi voulais-tu vraiment me parler ?"
 
 # game/intro_day1.rpy:200
 translate french intro_day1_b34c8b0f:
@@ -843,22 +829,22 @@ translate french intro_day1_b34c8b0f:
     m "Eh bien, nous ne nous sommes pas vus depuis un moment, n'est-ce pas ?"
 
 # game/intro_day1.rpy:202
-translate french intro_day1_979b4245:
+translate french intro_day1_c5006a4a:
 
-    # pc "Come on [m], I know that's not the real reason."
-    pc "Aller [m], je sais que ce n'est pas la vraie raison."
+    # mc "Come on [m], I know that's not the real reason."
+    mc "Aller [m], je sais que ce n'est pas la vraie raison."
 
 # game/intro_day1.rpy:204
 translate french intro_day1_e612037c_2:
 
     # m "..."
-    "[m]..."
+    "[_m_]..."
 
 # game/intro_day1.rpy:205
-translate french intro_day1_1dc31bd7:
+translate french intro_day1_bdebe6c9:
 
-    # m "[pc] I..."
-    m "[pc] Je..."
+    # m "[mc] I..."
+    m "[mc] Je..."
 
 # game/intro_day1.rpy:207
 translate french intro_day1_859c53a1:
@@ -867,22 +853,22 @@ translate french intro_day1_859c53a1:
     m "Je le pensais quand je disais que j'étais désolée."
 
 # game/intro_day1.rpy:208
-translate french intro_day1_15e72e84:
+translate french intro_day1_dba3b484:
 
-    # pc "Yeah, sure..."
-    pc "Ouais, bien sûr..."
+    # mc "Yeah, sure..."
+    mc "Oui, sûr ..."
 
 # game/intro_day1.rpy:210
-translate french intro_day1_4bc411f5:
+translate french intro_day1_683946cc:
 
-    # m "Listen [pc], I know I wasn't the best mom you could think of..."
-    m "Ecoutes [pc], je sais que je n'étais pas la meilleure mère que tu pouvais imaginer..."
+    # m "Listen [mc], I know I wasn't the best mom you could think of..."
+    m "Ecoutes [mc], je sais que je n'étais pas la meilleure mère que tu pouvais imaginer..."
 
 # game/intro_day1.rpy:211
-translate french intro_day1_779ce34b:
+translate french intro_day1_a6ccbe02:
 
-    # pc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married." with hpunch
-    pc "Tu N'es PAS ma mère. Ni même ma belle-mère. Tu es juste une femme qui vivait avec mon père, tu n'étais même pas mariée à lui." with hpunch
+    # mc "You are NOT my mom. Not even my stepmom. You're just some woman who used to live with my dad, you weren't even married." with hpunch
+    mc "Tu N'es PAS ma mère. Ni même ma belle-mère. Tu es juste une femme qui vivait avec mon père, tu n'étais même pas mariée à lui." with hpunch
 
 # game/intro_day1.rpy:213
 translate french intro_day1_e69acfb2:
@@ -903,22 +889,22 @@ translate french intro_day1_9224d60f:
     m "Et j'ai échoué lamentablement."
 
 # game/intro_day1.rpy:218
-translate french intro_day1_432a5d6a:
+translate french intro_day1_d9155b14:
 
-    # pc "Tch... That's a BIG understatement."
-    pc "Tch... C'est un GROS euphémisme."
+    # mc "Tch... That's a BIG understatement."
+    mc "Tch... C'est un GROS euphémisme."
 
 # game/intro_day1.rpy:220
 translate french intro_day1_e612037c_3:
 
     # m "..."
-    "[m]..."
+    "[_m_]..."
 
 # game/intro_day1.rpy:221
-translate french intro_day1_a69377ef_4:
+translate french intro_day1_2b35b6fe_4:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:223
 translate french intro_day1_42a7fbc0:
@@ -927,10 +913,10 @@ translate french intro_day1_42a7fbc0:
     m "Tu sais ce que ton père m'a fait, n'est-ce pas?!"
 
 # game/intro_day1.rpy:224
-translate french intro_day1_a69377ef_5:
+translate french intro_day1_2b35b6fe_5:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:225
 translate french intro_day1_60b61954:
@@ -939,10 +925,10 @@ translate french intro_day1_60b61954:
     m "Je sais qu'il t'a tenu à l'écart, mais tu as dû le remarquer !"
 
 # game/intro_day1.rpy:227
-translate french intro_day1_891d2262:
+translate french intro_day1_753afd92:
 
-    # pc "... that... doesn't give you the right to treat me the same way..."
-    pc "... que... ça ne te donne pas le droit de me traiter de la même façon..."
+    # mc "... that... doesn't give you the right to treat me the same way..."
+    mc "... que... ça ne te donne pas le droit de me traiter de la même façon..."
 
 # game/intro_day1.rpy:229
 translate french intro_day1_eb3a4075:
@@ -954,7 +940,7 @@ translate french intro_day1_eb3a4075:
 translate french intro_day1_6f457da1:
 
     # m "But still..."
-    m "Mais quand même..."
+    m "Mais quand même ..."
 
 # game/intro_day1.rpy:232
 translate french intro_day1_bebb5211:
@@ -975,16 +961,16 @@ translate french intro_day1_8e89036a:
     m "Tu n'as jamais été comme lui..."
 
 # game/intro_day1.rpy:236
-translate french intro_day1_a69377ef_6:
+translate french intro_day1_2b35b6fe_6:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:237
 translate french intro_day1_e612037c_4:
 
     # m "..."
-    "[m]..."
+    "[_m_]..."
 
 # game/intro_day1.rpy:238
 translate french intro_day1_cbd6000b:
@@ -993,10 +979,10 @@ translate french intro_day1_cbd6000b:
     m "Je... ferais mieux de partir maintenant..."
 
 # game/intro_day1.rpy:240
-translate french intro_day1_a376adb1:
+translate french intro_day1_cc8dfee1:
 
-    # m "I'm sorry [pc]..."
-    m "Je suis désolée [pc]..."
+    # m "I'm sorry [mc]..."
+    m "Je suis désolée [mc]..."
 
 # game/intro_day1.rpy:242
 translate french intro_day1_1baa200b:
@@ -1005,46 +991,46 @@ translate french intro_day1_1baa200b:
     n "Elle s'enfuit avec des larmes dans les yeux."
 
 # game/intro_day1.rpy:243
-translate french intro_day1_48d33e95:
+translate french intro_day1_3e0c0ef9:
 
-    # pc ".."
-    pc ".."
+    # mc ".."
+    "[_mc_].."
 
 # game/intro_day1.rpy:244
-translate french intro_day1_a69377ef_7:
+translate french intro_day1_2b35b6fe_7:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:245
-translate french intro_day1_709a16f1:
+translate french intro_day1_5c090e89:
 
-    # pc "...."
-    pc "...."
+    # mc "...."
+    "[_mc_]...."
 
 # game/intro_day1.rpy:246
-translate french intro_day1_26b08e4a:
+translate french intro_day1_38cb8147:
 
-    # pc "Fuck!"
-    pc "Merde!"
+    # mc "Fuck!"
+    mc "Putain !"
 
 # game/intro_day1.rpy:247
-translate french intro_day1_323f8958:
+translate french intro_day1_55aa9241:
 
-    # pcthink "Why do {i}I{/i} feel bad now?!"
-    pcthink "Pourquoi {i}je{/i} me sens mal maintenant?!"
+    # mcthink "Why do {i}I{/i} feel bad now?!"
+    mcthink "Pourquoi {i}je{/i} me sens mal maintenant?!"
 
 # game/intro_day1.rpy:248
-translate french intro_day1_93b96f13:
+translate french intro_day1_0b9198e7:
 
-    # pcthink "She's the one who treated me like shit back then..."
-    pcthink "C'est elle qui m'a traité comme une merde à l'époque..."
+    # mcthink "She's the one who treated me like shit back then..."
+    mcthink "C'est elle qui m'a traité comme une merde à l'époque..."
 
 # game/intro_day1.rpy:250
-translate french intro_day1_a69377ef_8:
+translate french intro_day1_2b35b6fe_8:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro_day1.rpy:253
 translate french intro_day1_2bb5dc6d:
@@ -1053,34 +1039,34 @@ translate french intro_day1_2bb5dc6d:
     n "Vous payez l'addition pour tous les deux et retournez à l'hôtel."
 
 # game/intro_day1.rpy:257
-translate french intro_day1_2_a142a29c:
+translate french intro_day1_2_996c92a4:
 
-    # pcthink "Damn what a fucked up day..."
-    pcthink "Putain, quelle journée de merde..."
+    # mcthink "Damn what a fucked up day..."
+    mcthink "Putain, quelle journée de merde..."
 
 # game/intro_day1.rpy:258
-translate french intro_day1_2_bf444cc4:
+translate french intro_day1_2_4cddd6d3:
 
-    # pcthink "I'm starting to regret my decision to come back..."
-    pcthink "Je commence à regretter ma décision de revenir..."
+    # mcthink "I'm starting to regret my decision to come back..."
+    mcthink "Je commence à regretter ma décision de revenir..."
 
 # game/intro_day1.rpy:259
-translate french intro_day1_2_fa016ed7:
+translate french intro_day1_2_f0f8921b:
 
-    # pcthink "...hopefully I'll have more luck tomorrow..."
-    pcthink "...j'espère avoir plus de chance demain..."
+    # mcthink "...hopefully I'll have more luck tomorrow..."
+    mcthink "...j'espère avoir plus de chance demain..."
 
 # game/intro_day1.rpy:260
-translate french intro_day1_2_27e71253:
+translate french intro_day1_2_61e0d2d8:
 
-    # pcthink "It's getting dark already..."
-    pcthink "Il fait déjà nuit..."
+    # mcthink "It's getting dark already..."
+    mcthink "Il fait déjà nuit..."
 
 # game/intro_day1.rpy:261
-translate french intro_day1_2_1891b64c:
+translate french intro_day1_2_75dd81eb:
 
-    # pcthink "I think I'm going to take a shower and just go to bed for now..."
-    pcthink "Je pense que je vais prendre une douche et aller me coucher pour l'instant..."
+    # mcthink "I think I'm going to take a shower and just go to bed for now..."
+    mcthink "Je pense que je vais prendre une douche et aller me coucher pour l'instant..."
 
 # game/intro_day1.rpy:263
 translate french intro_day1_2_e52e13f1:
@@ -1092,7 +1078,7 @@ translate french strings:
 
     # game/intro_day1.rpy:167
     old "Go with her."
-    new "Aller avec elle."
+    new "Allez avec elle."
 
     # game/intro_day1.rpy:167
     old "Just leave."

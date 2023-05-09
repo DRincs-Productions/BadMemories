@@ -1,18 +1,4 @@
-# msgid ""
-# msgstr ""
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: bad-memories\n"
-# "X-french-Project-ID: 507994\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /main/game/tl/french/intro.po\n"
-# "X-french-File-ID: 3640\n"
-# "Project-Id-Version: bad-memories\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-07-22 00:31\n"
-
-# TODO: Translation updated at 2022-07-16 HH:HH
+# TODO: Translation updated at 2023-04-29 19:07
 
 # game/intro.rpy:5
 translate french intro_af100c11:
@@ -21,112 +7,112 @@ translate french intro_af100c11:
     n "Quelque part dans un taxi."
 
 # game/intro.rpy:8
-translate french intro_e9f4d86d:
+translate french intro_01c697a2:
 
-    # pcthink "Alright, almost there..."
-    pcthink "Très bien, on y est presque..."
+    # mcthink "Alright, almost there..."
+    mcthink "Très bien, on y est presque..."
 
 # game/intro.rpy:9
-translate french intro_9348e6f1:
+translate french intro_e55dd2d3:
 
-    # pcthink "...it feels weird to come back here..."
-    pcthink "...ça fait bizarre de revenir ici..."
+    # mcthink "...it feels weird to come back here..."
+    mcthink "... c'est bizarre de revenir ici ..."
 
 # game/intro.rpy:10
-translate french intro_9cfdb5e2:
+translate french intro_d48be227:
 
-    # pcthink "After all these years to be back in my hometown..."
-    pcthink "Après toutes ces années, être de retour dans ma ville natale..."
+    # mcthink "After all these years to be back in my hometown..."
+    mcthink "Après toutes ces années, être de retour dans ma ville natale..."
 
 # game/intro.rpy:11
-translate french intro_ba5dbe07:
+translate french intro_96ccb4c8:
 
-    # pcthink "Who would have guessed I'd ever come back..."
-    pcthink "Qui aurait cru que je reviendrais un jour..."
+    # mcthink "Who would have guessed I'd ever come back..."
+    mcthink "Qui aurait cru que je reviendrais un jour..."
 
 # game/intro.rpy:12
-translate french intro_02f782dd:
+translate french intro_d77beb2e:
 
-    # pcthink "...just for a job."
-    pcthink "...juste pour un travail."
+    # mcthink "...just for a job."
+    mcthink "...juste pour un travail."
 
 # game/intro.rpy:13
-translate french intro_f0cac90d:
+translate french intro_457c6f63:
 
-    # pcthink "..."
-    "[pcthink]..."
+    # mcthink "..."
+    "[_mcthink_]..."
 
 # game/intro.rpy:16
-translate french intro_0160ca12:
+translate french intro_e4c039d6:
 
-    # pcthink "We must be close to the hotel..."
-    pcthink "On doit être près de l'hôtel..."
+    # mcthink "We must be close to the hotel..."
+    mcthink "On doit être près de l'hôtel..."
 
 # game/intro.rpy:17
-translate french intro_68faa724:
+translate french intro_cd66e642:
 
-    # pcthink "I hope the new apartment is ready when I move in, in a few days..."
-    pcthink "J'espère que le nouvel appartement sera prêt quand j'emménagerai, dans quelques jours...."
+    # mcthink "I hope the new apartment is ready when I move in, in a few days..."
+    mcthink "J'espère que le nouvel appartement sera prêt quand j'emménagerai, dans quelques jours...."
 
 # game/intro.rpy:18
-translate french intro_adfaae7e:
+translate french intro_31613dc0:
 
-    # pcthink "And that it looks as good as it does in the pictures."
-    pcthink "Et qu'il soit aussi beau que sur les photos."
+    # mcthink "And that it looks as good as it does in the pictures."
+    mcthink "Et qu'il soit aussi beau que sur les photos."
 
 # game/intro.rpy:19
-translate french intro_5c7d7e30:
+translate french intro_9b9cd938:
 
-    # pcthink "...maybe I should have a look before I go to the hotel?"
-    pcthink "...je devrais peut-être jeter un coup d'œil avant d'aller à l'hôtel ?"
+    # mcthink "...maybe I should have a look before I go to the hotel?"
+    mcthink "...je devrais peut-être jeter un coup d'œil avant d'aller à l'hôtel ?"
 
 # game/intro.rpy:20
-translate french intro_3e7c1fa3:
+translate french intro_e1cb0469:
 
-    # pcthink "On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
-    pcthink "D'un autre côté, mes affaires ne seront pas expédiées avant quelques jours, et je ne peux pas encore emménager de toute façon...."
+    # mcthink "On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
+    mcthink "D'un autre côté, mes affaires ne seront pas expédiées avant quelques jours, et je ne peux pas encore emménager de toute façon...."
 
 # game/intro.rpy:21
-translate french intro_6dc07ea8:
+translate french intro_c1a5851a:
 
-    # pcthink "Naaah, whatever, I'm too curious right now. I'll have a look!"
-    pcthink "Noooaaann, peu importe, je suis trop curieux en ce moment. Je vais jeter un coup d'œil !"
+    # mcthink "Naaah, whatever, I'm too curious right now. I'll have a look!"
+    mcthink "Noooaaann, peu importe, je suis trop curieux en ce moment. Je vais jeter un coup d'œil !"
 
 # game/intro.rpy:25
 translate french intro_ef06476f:
 
-    # Cab driver" "Alright, that's as close as we can get."
-    "Chauffeur de taxi" "D'accord, c'est aussi proche que possible."
+    # "Cab driver" "Alright, that's as close as we can get."
+    "Chauffeur" "D'accord, c'est aussi proche que possible."
 
 # game/intro.rpy:26
 translate french intro_dbcbd63e:
 
-    # Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
+    # "Cab driver" "As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
     "Chauffeur de taxi" "Comme je l'ai dit plus tôt, la route est bloquée par des travaux de construction, mais ce n'est pas loin d'ici de toute façon."
 
 # game/intro.rpy:27
-translate french intro_25e6aa2b:
+translate french intro_d4f8633c:
 
-    # pc "That's okay, I'll walk."
-    pc "C'est bon, je vais marcher."
+    # mc "That's okay, I'll walk."
+    mc "C'est bon, je vais marcher."
 
 # game/intro.rpy:28
 translate french intro_40374778:
 
-    # Cab driver" "You know the way?"
-    "Vous connaissez le chemin ?"
+    # "Cab driver" "You know the way?"
+    "Chauffeur de taxi" "Vous connaissez le chemin ?"
 
 # game/intro.rpy:29
-translate french intro_6f4510a3:
+translate french intro_59b19076:
 
-    # pc "Yeah, I grew up in this town."
-    pc "Oui, j'ai grandi dans cette ville."
+    # mc "Yeah, I grew up in this town."
+    mc "Oui, j'ai grandi dans cette ville."
 
 # game/intro.rpy:30
 translate french intro_f5a5e7ce:
 
-    # Cab driver" "'Kay, good luck."
-    "Chauffeur de taxi" "'Ok, bonne chance."
+    # "Cab driver" "'Kay, good luck."
+    "Chauffeur de taxi" "'Kay, bonne chance."
 
 # game/intro.rpy:32
 translate french intro_942da871:
@@ -141,58 +127,58 @@ translate french intro_da8fa4e5:
     n "En tournant dans une petite ruelle, vous remarquez une fille qui vous regarde."
 
 # game/intro.rpy:35
-translate french intro_7efbc3bf:
+translate french intro_78a1b80f:
 
-    # pcthink "Huh?! Why is that girl looking at me like that?"
-    pcthink "Huh ?! Pourquoi cette fille me regarde-t-elle comme ça ?"
+    # mcthink "Huh?! Why is that girl looking at me like that?"
+    mcthink "Huh ?! Pourquoi cette fille me regarde-t-elle comme ça ?"
 
 # game/intro.rpy:36
-translate french intro_09778f17:
+translate french intro_b96a2916:
 
-    # pcthink "Do I know her?"
-    pcthink "Est-ce que je la connais ?"
+    # mcthink "Do I know her?"
+    mcthink "Est-ce que je la connais ?"
 
 # game/intro.rpy:38
-translate french intro_593b24e3:
+translate french intro_c6a5bd01:
 
-    # pcthink "She's cute... I guess I'd remember her."
-    pcthink "Elle est mignonne... Je suppose que je me souviendrais d'elle."
+    # mcthink "She's cute... I guess I'd remember her."
+    mcthink "Elle est mignonne... Je suppose que je me souviendrais d'elle."
 
 # game/intro.rpy:40
-translate french intro_32799b50:
+translate french intro_bf980550:
 
-    # pcthink "I love her hair..."
-    pcthink "J'aime ses cheveux..."
+    # mcthink "I love her hair..."
+    mcthink "J'aime ses cheveux..."
 
 # game/intro.rpy:41
-translate french intro_0c2cb0a0:
+translate french intro_e3288900:
 
-    # n "You give her a small smile as you walk by."
+    # n "You give her a slight smile as you walk by."
     n "Vous lui adressez un petit sourire en passant devant elle."
 
 # game/intro.rpy:43
-translate french intro_02a9cf51:
+translate french intro_70c3ae80:
 
-    # pcthink "She must have fallen for me at first sight...haha."
-    pcthink "Elle a dû tomber amoureuse de moi au premier regard...haha."
+    # mcthink "She must have fallen for me at first sight...haha."
+    mcthink "Elle a dû tomber amoureuse de moi au premier regard...haha."
 
 # game/intro.rpy:44
-translate french intro_26196185:
+translate french intro_3dc8b368:
 
-    # pcthink "Anyway, my new apartment should be just around the corner."
-    pcthink "Bref, mon nouvel appartement devrait être juste au coin de la rue."
+    # mcthink "Anyway, my new apartment should be just around the corner."
+    mcthink "Bref, mon nouvel appartement devrait être juste au coin de la rue."
 
 # game/intro.rpy:45
-translate french intro_6bc4c69b:
+translate french intro_e9e282fd:
 
-    # pcthink "My new home in my old hometown."
-    pcthink "Ma nouvelle maison dans mon ancienne ville natale."
+    # mcthink "My new home in my old hometown."
+    mcthink "Ma nouvelle maison dans mon ancienne ville natale."
 
 # game/intro.rpy:46
-translate french intro_253b5b06:
+translate french intro_b56c821e:
 
-    # pcthink "...What the?!"
-    pcthink "...Que se passe-t-il ?!"
+    # mcthink "...What the?!"
+    mcthink "...Que se passe-t-il ?!"
 
 # game/intro.rpy:50
 translate french intro_4f12e6ae:
@@ -209,74 +195,74 @@ translate french intro_9e568e0a:
 # game/intro.rpy:53
 translate french intro_bd5fb625:
 
-    # Cop" "Hey! Stop! What do you think you're doing?"
-    "Hé ! Arrêtez ! Qu'est-ce que vous faites ?"
+    # "Cop" "Hey! Stop! What do you think you're doing?"
+    "Policier" "Hé ! Stop! Que pensez-vous que vous faites?"
 
 # game/intro.rpy:54
-translate french intro_f65bf6fb:
+translate french intro_97a1406a:
 
-    # pc "T-That is my new apartment!"
-    pc "C-C'est mon nouvel appartement !"
+    # mc "T-That is my new apartment!"
+    mc "C-C'est mon nouvel appartement !"
 
 # game/intro.rpy:55
 translate french intro_bfb964d4:
 
-    # Cop" "Your apartment?"
-    "Votre appartement ?"
+    # "Cop" "Your apartment?"
+    "Policier" "Votre appartement ?"
 
 # game/intro.rpy:56
-translate french intro_01afdbd0:
+translate french intro_d768ac49:
 
-    # pc "Y-yeah, I mean, I haven't moved in yet, but still..."
-    pc "O-oui, je veux dire, je n'ai pas encore emménagé, mais quand même..."
+    # mc "Y-yeah, I mean, I haven't moved in yet, but still..."
+    mc "O-oui, je veux dire, je n'ai pas encore emménagé, mais quand même..."
 
 # game/intro.rpy:57
 translate french intro_de262cb5:
 
-    # Cop" "You haven't moved in yet, and it's already on fire?"
-    "Vous n'avez pas encore emménagé et il y a déjà le feu ?"
+    # "Cop" "You haven't moved in yet, and it's already on fire?"
+    "Policier" "Vous n'avez pas encore déménagé et il est déjà en feu ?"
 
 # game/intro.rpy:59
 translate french intro_d011e9b5:
 
-    # Cop" "...that sounds fishy! Let me see your ID!"
-    "Policier" "...ça a l'air louche! Montrez-moi votre carte d'identité!"
+    # "Cop" "...that sounds fishy! Let me see your ID!"
+    "Policier" "...cela a l'air louche ! Laissez-moi voir votre pièce d'identité !"
 
 # game/intro.rpy:60
-translate french intro_8be234d7:
+translate french intro_415a0a53:
 
-    # pc "What? I just arrived in the city! I haven't been here for years!!"
-    pc "Quoi? Je viens d'arriver en ville! Je ne suis pas venu ici depuis des années!!"
+    # mc "What? I just arrived in the city! I haven't been here for years!!"
+    mc "Quoi? Je viens d'arriver en ville! Je ne suis pas venu ici depuis des années!!"
 
 # game/intro.rpy:61
 translate french intro_7144fd86:
 
-    # Cop" "Yeah, that's what they all say... Your ID!"
-    "Policier" "Ouais, c'est ce qu'ils disent tous... Votre carte d'identité!"
+    # "Cop" "Yeah, that's what they all say... Your ID!"
+    "Policier" "Oui, c'est ce qu'ils disent tous... Votre ID!"
 
 # game/intro.rpy:62
-translate french intro_ddbf7dad:
+translate french intro_e7dd4f82:
 
-    # pc "Who are \"they\"? This doesn't make any sense!"
-    pc "Qui sont 'ils'? Cela n'a aucun sens!"
+    # mc "Who are \"they\"? This doesn't make any sense!"
+    mc "Qui sont 'ils'? Cela n'a aucun sens!"
 
 # game/intro.rpy:63
 translate french intro_a512ea4d:
 
-    # Cop" "Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
+    # "Cop" "Listen, [boygirl]! If you don't show me your ID right now, I have some comfortable cuffs and a cosy little holding cell waiting for you."
     "Policier" "Ecoutez, [boygirl]! Si vous ne me montrez pas votre carte d'identité tout de suite, j'ai des menottes confortables et une petite cellule de détention confortable qui vous attend."
 
 # game/intro.rpy:64
-translate french intro_e617caae:
+translate french intro_dadc482c:
 
-    # pc "Ugh, this is insane...!"
-    pc "Ugh, c'est de la folie... !"
+    # mc "Ugh, this is insane...!"
+    mc "Ugh, c'est de la folie... !"
 
 # game/intro.rpy:65
-translate french intro_19e002f0:
+translate french intro_b5c3adfb:
 
-    # pc "Fine... Here is my ID... and don't call me [boygirl]..."
-    pc "Bien... Voici ma carte... et ne m'appelez pas [boygirl]..."
+    # mc "Fine... Here is my ID... and don't call me [boygirl]..."
+    mc "Bien... Voici ma carte... et ne m'appelez pas [boygirl]..."
 
 # game/intro.rpy:67
 translate french intro_d5ceade4:
@@ -293,26 +279,26 @@ translate french intro_12354bf5:
 # game/intro.rpy:70
 translate french intro_69874e88:
 
-    # Cop" "...and you better stay in the city, or you'll be in trouble!"
-    "Policier" "...et vous feriez mieux de rester en ville, ou vous aurez des ennuis !"
+    # "Cop" "...and you better stay in the city, or you'll be in trouble!"
+    "Policier" "...et vous feriez mieux de séjourner en ville, ou vous serez en difficulté!"
 
 # game/intro.rpy:71
-translate french intro_37a87cb8:
+translate french intro_5ed32148:
 
-    # pc "Yeah, yeah, sure..."
-    pc "Ouais, ouais, bien sûr..."
+    # mc "Yeah, yeah, sure..."
+    mc "Ouais, ouais, bien sûr..."
 
 # game/intro.rpy:72
-translate french intro_9495271e:
+translate french intro_61e1063b:
 
-    # pcthink "Asshole..."
-    pcthink "Trou du cul..."
+    # mcthink "Asshole..."
+    mcthink "Trou du cul..."
 
 # game/intro.rpy:75
-translate french intro_42cb46de:
+translate french intro_6387471a:
 
-    # pcthink "Damn, the day started out so well and now this..."
-    pcthink "Merde, la journée avait si bien commencé et maintenant ça..."
+    # mcthink "Damn, the day started out so well and now this..."
+    mcthink "Merde, la journée avait si bien commencé et maintenant ça..."
 
 # game/intro.rpy:76
 translate french intro_932e84e0:
@@ -323,86 +309,86 @@ translate french intro_932e84e0:
 # game/intro.rpy:80
 translate french intro_a09e7d34:
 
-    # Receptionist" "Good evening, how can I help you?"
-    "Réceptionniste" "Bonsoir, comment puis-je vous aider?"
+    # "Receptionist" "Good evening, how can I help you?"
+    "Réceptionniste" "Bonsoir comment puis-je vous aider?"
 
 # game/intro.rpy:81
-translate french intro_da861a3e:
+translate french intro_1d9905d0:
 
-    # pc "Hey, I booked a room for a few days, the name is..."
-    pc "Bonjour, j'ai réservé une chambre pour quelques jours, mon nom est..."
+    # mc "Hey, I booked a room for a few days, the name is..."
+    mc "Bonjour, j'ai réservé une chambre pour quelques jours, mon nom est..."
 
 # game/intro.rpy:109
 translate french intro_07b4f57e:
 
-    # Receptionist" "Uhm... uh-huh, yes..."
-    "Réceptionniste" "Euh... Euh, oui..."
+    # "Receptionist" "Uhm... uh-huh, yes..."
+    "Réceptionniste" "Uhm... uh-huh, oui..."
 
 # game/intro.rpy:110
-translate french intro_31133b56:
+translate french intro_76dc0edd:
 
-    # pcthink "Hum... should I tell her that her areolas are peaking out of her top?"
-    pcthink "Hum... devrais-je lui dire que ses tétons dépassent de son haut?"
+    # mcthink "Hum... should I tell her that her areolas are peaking out of her top?"
+    mcthink "Hum... devrais-je lui dire que ses tétons dépassent de son haut?"
 
 # game/intro.rpy:112
 translate french intro_7dc85376:
 
-    # Receptionist" "It's room number 24 on the second floor."
+    # "Receptionist" "It's room number 24 on the second floor."
     "Réceptionniste" "C'est la chambre numéro 24 au deuxième étage."
 
 # game/intro.rpy:114
 translate french intro_e8b2bd40:
 
-    # Receptionist" "Here's the key. Have a pleasant stay!"
-    "Réceptionniste" "Voici la clé. Bon séjour!"
+    # "Receptionist" "Here's the key. Have a pleasant stay!"
+    "Réceptionniste" "Voici la clé. Passez un agréable séjour !"
 
 # game/intro.rpy:115
-translate french intro_0b71a1d8:
+translate french intro_c7dd4914:
 
-    # pc "Thanks, I hope so."
-    pc "Merci, je l'espère."
+    # mc "Thanks, I hope so."
+    mc "Merci, je l'espère."
 
 # game/intro.rpy:118
-translate french intro_88960d3f:
+translate french intro_0d472fd2:
 
-    # pc "At least the room seems to be okay..."
-    pc "Au moins la pièce semble être en bon état..."
+    # mc "At least the room seems to be okay..."
+    mc "Au moins la pièce semble être en bon état..."
 
 # game/intro.rpy:119
-translate french intro_a69377ef:
+translate french intro_2b35b6fe:
 
-    # pc "..."
-    "[pc]..."
+    # mc "..."
+    "[_mc_]..."
 
 # game/intro.rpy:120
-translate french intro_0af51236:
+translate french intro_830c2d03:
 
-    # pc "Looks like I need to find a new apartment... As soon as possible!"
-    pc "On dirait que je dois trouver un nouvel appartement... Le plus vite possible !"
+    # mc "Looks like I need to find a new apartment... As soon as possible!"
+    mc "On dirait que je dois trouver un nouvel appartement... Le plus vite possible !"
 
 # game/intro.rpy:121
-translate french intro_31dd763e:
+translate french intro_0e8bcd4c:
 
-    # pc "Yaaaahwn..."
-    pc "Yaaaahwn..."
+    # mc "Yaaaahwn..."
+    mc "Yaaaahwn..."
 
 # game/intro.rpy:122
-translate french intro_b1258519:
+translate french intro_c1a15379:
 
-    # pc "...damn, I'm tired."
-    pc "...bon sang, je suis fatigué."
+    # mc "...damn, I'm tired."
+    mc "...bon sang, je suis fatigué."
 
 # game/intro.rpy:123
-translate french intro_c9bad2ec:
+translate french intro_98c69f0c:
 
-    # pc "Shit, it's late already..."
-    pc "Merde, il est déjà tard..."
+    # mc "Shit, it's late already..."
+    mc "Merde, il est déjà tard..."
 
 # game/intro.rpy:124
-translate french intro_b8e7ae91:
+translate french intro_01bf7bb9:
 
-    # pc "I better go to bed... I can't do anything at this time anyway."
-    pc "Je ferais mieux d'aller me coucher... Je ne peux rien faire à cette heure-ci de toute façon."
+    # mc "I better go to bed... I can't do anything at this time anyway."
+    mc "Je ferais mieux d'aller me coucher... Je ne peux rien faire à cette heure-ci de toute façon."
 
 translate french strings:
 
@@ -412,5 +398,5 @@ translate french strings:
 
     # game/intro.rpy:86
     old "Choose your last name."
-    new "Choisissez votre nom de famille."
+    new "Choisissez votre nom."
 

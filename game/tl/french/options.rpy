@@ -1,18 +1,4 @@
-# msgid ""
-# msgstr ""
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: bad-memories\n"
-# "X-french-Project-ID: 507994\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /main/game/tl/french/options.po\n"
-# "X-french-File-ID: 3574\n"
-# "Project-Id-Version: bad-memories\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-07-16 23:15\n"
-
-# TODO: Translation updated at 2022-07-16 HH:HH
+# TODO: Translation updated at 2023-04-29 19:07
 
 translate french strings:
 
