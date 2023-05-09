@@ -1,8 +1,8 @@
+import os
+import re
+import shutil
 from fileinput import FileInput
 from glob import glob
-import os
-import shutil
-import re
 
 # ATTENTION: there must not be 2 equal key or value
 # regex: https://www.w3schools.com/python/python_regex.asp
@@ -144,4 +144,5 @@ def fileRename(pathFile, extension):
     return pre + extension
 
 
-potorpy("crowdin")
+potorpy("italian")
+potorpy("french")
