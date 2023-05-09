@@ -117,10 +117,6 @@ translate italian strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Indietro"
-
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
     new "{#weekday}Lunedì"
@@ -300,18 +296,6 @@ translate italian strings:
     # renpy/common/00action_file.rpy:581
     old "File page [text]"
     new "File page [text]"
-
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Pagina {}"
-
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Salvataggi automatici"
-
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Salvataggi rapidi"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -800,10 +784,6 @@ translate italian strings:
     # renpy/common/00gallery.rpy:649
     old "slideshow"
     new "presentazione"
-
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "chiudi"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"

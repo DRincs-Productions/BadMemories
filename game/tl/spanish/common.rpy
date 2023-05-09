@@ -117,10 +117,6 @@ translate spanish strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "Las opciones en este menú están destinadas a mejorar la accesibilidad. Es posible que no funcionen con todos los juegos, y algunas combinaciones de opciones pueden hacer que el juego no se pueda jugar. Esto no es un problema con el juego o el motor. Para obtener los mejores resultados al cambiar las fuentes, intenta mantener el tamaño del texto igual al original."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Volver"
-
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
     new "Lunes"
@@ -300,18 +296,6 @@ translate spanish strings:
     # renpy/common/00action_file.rpy:581
     old "File page [text]"
     new "Página de archivos [text]"
-
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Página {}"
-
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Grabación automática"
-
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Grabación rápida"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -800,10 +784,6 @@ translate spanish strings:
     # renpy/common/00gallery.rpy:649
     old "slideshow"
     new "presentación"
-
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "volver"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
