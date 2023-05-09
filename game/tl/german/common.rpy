@@ -69,10 +69,6 @@ translate german strings:
     old "Text Size Scaling"
     new "Text Size Scaling"
 
-    # renpy/common/00accessibility.rpy:162
-    old "Reset"
-    new "Reset"
-
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
     new "Line Spacing Scaling"
@@ -84,10 +80,6 @@ translate german strings:
     # renpy/common/00accessibility.rpy:182
     old "Enable"
     new "Enable"
-
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Disable"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -764,10 +756,6 @@ translate german strings:
     # renpy/common/00updater.rpy:1666
     old "Proceed"
     new "Fortsetzen"
-
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Vollbild"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
