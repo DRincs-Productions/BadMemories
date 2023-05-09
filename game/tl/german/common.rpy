@@ -877,10 +877,6 @@ translate german strings:
     old "Changes will take effect the next time this program is run."
     new "Die Änderungen werden beim nächsten Neustart des Programms übernommen."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Beenden"
-
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
     new "Performance Warnung"

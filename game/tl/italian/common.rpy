@@ -877,10 +877,6 @@ translate italian strings:
     old "Changes will take effect the next time this program is run."
     new "Le modifiche avranno effetto al prossimo avvio di questo programma."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Esci"
-
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
     new "Avviso Prestazioni"

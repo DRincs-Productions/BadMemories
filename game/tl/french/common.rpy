@@ -877,10 +877,6 @@ translate french strings:
     old "Changes will take effect the next time this program is run."
     new "Les changements prendront effet au prochain démarrage du programme."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Quitter"
-
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
     new "Alerte de performance."
