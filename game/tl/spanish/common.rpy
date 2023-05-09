@@ -801,10 +801,6 @@ translate spanish strings:
     old "Enable (No Blocklist)"
     new "Habilitar (sin Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrar"
-
     # renpy/common/00gltest.rpy:159
     old "Powersave"
     new "Ahorro de energía"

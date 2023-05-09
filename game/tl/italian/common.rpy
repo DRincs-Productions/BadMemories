@@ -801,10 +801,6 @@ translate italian strings:
     old "Enable (No Blocklist)"
     new "Enable (No Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibra"
-
     # renpy/common/00gltest.rpy:159
     old "Powersave"
     new "Powersave"
