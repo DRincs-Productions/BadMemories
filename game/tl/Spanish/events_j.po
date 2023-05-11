@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-11 01:07\n"
+"PO-Revision-Date: 2023-05-11 13:11\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -4354,7 +4354,7 @@ msgstr ""
 
 # game/events_j.rpy:1958 #-#-# translate crowdin d11jbeforlsex_b7ae879e:
 msgid "[_j_] Haha."
-msgstr ""
+msgstr "[_j_] Haha."
 
 # game/events_j.rpy:1962 #-#-# translate crowdin d11jbeforlsex_264644a3:
 msgid "[_j_] One more thing..."
