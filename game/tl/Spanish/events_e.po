@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-11 01:07\n"
+"PO-Revision-Date: 2023-05-11 13:11\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -658,35 +658,35 @@ msgstr "[_mcthink_] Supongo que mejor me apresuro a encontrar un regalo impresio
 
 # game/events_e.rpy:333 #-#-# translate crowdin ebdLookForE_2e9aa731:
 msgid "[_m_] ...and then [mc] jumped up and ran after him."
-msgstr ""
+msgstr "[_m_] ...y entonces [mc] saltó y corrió detrás después de él."
 
 # game/events_e.rpy:335 #-#-# translate crowdin ebdLookForE_b7ae879e:
 msgid "[_j_] Haha."
-msgstr ""
+msgstr "[_j_] Haha."
 
 # game/events_e.rpy:336 #-#-# translate crowdin ebdLookForE_340eb60b:
 msgid "[_m_] At first I wasn't even sure what happened, but when I saw [e] crying, I knew *hic*"
-msgstr ""
+msgstr "[_m_] Al principio no estaba ni siquiera seguro de lo que pasó, pero cuando vi a [e] llorando, sabía *hic*"
 
 # game/events_e.rpy:339 #-#-# translate crowdin ebdLookForE_ab709cce:
 msgid "[_j_] [mc] the heroine, hehe."
-msgstr ""
+msgstr "[_j_] [mc] la heroína, jeje."
 
 # game/events_e.rpy:341 #-#-# translate crowdin ebdLookForE_c82f1a7a:
 msgid "[_j_] [mc] the hero, hehe."
-msgstr ""
+msgstr "[_j_] [mc] el héroe, jeje."
 
 # game/events_e.rpy:342 #-#-# translate crowdin ebdLookForE_5400efb8:
 msgid "[_m_] Haha, yes [heshe] was always like that when it came to [e]..."
-msgstr ""
+msgstr "[_m_] Haha, sí [heshe] siempre fue así cuando se trata de [e]..."
 
 # game/events_e.rpy:345 #-#-# translate crowdin ebdLookForE_3dad1e68:
 msgid "[_t_] I wonder how much is left of that heroine nowadays."
-msgstr ""
+msgstr "[_t_] Me pregunto cuánto queda de esa heroína hoy en día."
 
 # game/events_e.rpy:347 #-#-# translate crowdin ebdLookForE_fed36e56:
 msgid "[_t_] I wonder how much is left of that hero nowadays."
-msgstr ""
+msgstr "[_t_] Me pregunto cuánto queda de ese héroe hoy en día."
 
 # game/events_e.rpy:348 #-#-# translate crowdin ebdLookForE_2b35b6fe:
 msgid "[_mc_] ..."
@@ -694,7 +694,7 @@ msgstr "[_mc_] ..."
 
 # game/events_e.rpy:349 #-#-# translate crowdin ebdLookForE_f72ffc4e:
 msgid "[_m_] *hic*"
-msgstr ""
+msgstr "[_m_] *hic*"
 
 # game/events_e.rpy:351 #-#-# translate crowdin ebdLookForE_d9eb849e:
 msgid "[_t_] Are you sure there is no alcohol in the punch [m]?"
