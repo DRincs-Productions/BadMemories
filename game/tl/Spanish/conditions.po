@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-30 02:52\n"
+"PO-Revision-Date: 2023-05-11 01:07\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/conditions.rpy:2437 #-#-# translate crowdin dateTime_3e0aad91:
 msgid "[_n_] {size=+30}[currentDay]{/size}"
-msgstr ""
+msgstr "[_n_] {size=+30}[currentDay]{/size}"
 
 # game/conditions.rpy:2447 #-#-# translate crowdin whatToDoHome_970716ba:
 msgid "[_q_] What do you want to do? [nointeract]"
@@ -46,7 +46,7 @@ msgstr "[_mc_] Ugh... mierda, lo siento."
 
 # game/conditions.rpy:2548 #-#-# translate crowdin bathroom_b06195ee:
 msgid "[_mcthink_] Whoops..."
-msgstr ""
+msgstr "[_mcthink_] Ups..."
 
 # game/conditions.rpy:2554 #-#-# translate crowdin bathroom_c2717674:
 msgid "[_mcthink_] Whoa... looks like [m] just got out of the shower."
@@ -54,7 +54,7 @@ msgstr "[_mcthink_] Vaya... parece que [m] acaba de salir de la ducha."
 
 # game/conditions.rpy:2558 #-#-# translate crowdin bathroom_864caf06:
 msgid "[_m_] [mc]!?"
-msgstr ""
+msgstr "[_m_] [mc]!?"
 
 # game/conditions.rpy:2559 #-#-# translate crowdin bathroom_3b1b1443:
 msgid "[_mcthink_] Uhh..."
@@ -62,35 +62,35 @@ msgstr "[_mcthink_] Uhh..."
 
 # §translate crowdin strings: #|#|# # game/conditions.rpy:11
 msgid "man"
-msgstr ""
+msgstr "hombre"
 
 # game/conditions.rpy:12
 msgid "Mr."
-msgstr ""
+msgstr "Sr."
 
 # game/conditions.rpy:13
 msgid "he"
-msgstr ""
+msgstr "él"
 
 # game/conditions.rpy:14
 msgid "boy"
-msgstr ""
+msgstr "chico"
 
 # game/conditions.rpy:15
 msgid "Daddy"
-msgstr ""
+msgstr "Papi"
 
 # game/conditions.rpy:16
 msgid "son"
-msgstr ""
+msgstr "hijo"
 
 # game/conditions.rpy:17
 msgid "him"
-msgstr ""
+msgstr "él"
 
 # game/conditions.rpy:18
 msgid "John"
-msgstr ""
+msgstr "John"
 
 # game/conditions.rpy:19
 msgid "brother"
@@ -98,37 +98,37 @@ msgstr "hermano"
 
 # game/conditions.rpy:20
 msgid "his"
-msgstr ""
+msgstr "su"
 
 # game/conditions.rpy:24
 msgid "Doe"
-msgstr ""
+msgstr "Doe"
 
 # game/conditions.rpy:2446
 msgid "Take a nap"
-msgstr ""
+msgstr "Echar una siesta"
 
 # game/conditions.rpy:2446
 msgid "Look for [e]"
-msgstr ""
+msgstr "Buscar [e]"
 
 # game/conditions.rpy:2446
 msgid "Look for [m]"
-msgstr ""
+msgstr "Buscar [m]"
 
 # game/conditions.rpy:2446
 msgid "Turn the pc on"
-msgstr ""
+msgstr "Encender el PC"
 
 # game/conditions.rpy:2446
 msgid "Leave"
-msgstr ""
+msgstr "Salir"
 
 # game/conditions.rpy:2446
 msgid "Look around"
-msgstr ""
+msgstr "Mirar alrededor"
 
 # game/conditions.rpy:2555
 msgid "Look"
-msgstr ""
+msgstr "Mirar"
 
