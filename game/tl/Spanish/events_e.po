@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-11 13:11\n"
+"PO-Revision-Date: 2023-05-29 16:33\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -18,7 +18,7 @@ msgstr "[_mcthink_] ¿Qué?! [e]?"
 
 # game/events_e.rpy:5 #-#-# translate crowdin elliePCRoomSleepDay0_96b18f42:
 msgid "[_mcthink_] Why is she sleeping in my bed?"
-msgstr "[_mcthink_] ¿Por qué está dormida en mi cama?"
+msgstr "[_mcthink_] ¿Por qué está durmiendo en mi cama?"
 
 # game/events_e.rpy:14 #-#-# translate crowdin elliePCRoomSleepDay0_2e832735:
 msgid "[_mcthink_] She looks so cute when she's sleeping..."
@@ -58,7 +58,7 @@ msgstr "[_e_] Khehehe..."
 
 # game/events_e.rpy:43 #-#-# translate crowdin ellieWakeup_561e4411:
 msgid "[_mc_] Gosh, [e]! I almost had a heart attack!"
-msgstr "[_mc_] ¡Dios mío, [e]! ¡Casi tuve un ataque al corazón!"
+msgstr "[_mc_] ¡Dios mío, [e]! ¡Casi me das un ataque al corazón!"
 
 # game/events_e.rpy:44 #-#-# translate crowdin ellieWakeup_72a33094:
 msgid "[_e_] ..."
@@ -698,15 +698,15 @@ msgstr "[_m_] *hic*"
 
 # game/events_e.rpy:351 #-#-# translate crowdin ebdLookForE_d9eb849e:
 msgid "[_t_] Are you sure there is no alcohol in the punch [m]?"
-msgstr ""
+msgstr "[_t_] ¿Estás seguro de que no hay alcohol en el ponche[m]?"
 
 # game/events_e.rpy:353 #-#-# translate crowdin ebdLookForE_3e0e7543:
 msgid "[_m_] Yes, of course, I'm sure..."
-msgstr ""
+msgstr "[_m_] Sí, obvio, estoy seguro..."
 
 # game/events_e.rpy:355 #-#-# translate crowdin ebdLookForE_303d55d9:
 msgid "[_t_] I have to admit, I feel a bit dizzy..."
-msgstr ""
+msgstr "[_t_] Tengo que admitir que me siento un poco mareada..."
 
 # game/events_e.rpy:357 #-#-# translate crowdin ebdLookForE_337564ea:
 msgid "[_m_] Hum... now that you mention it, I'm feeling a bit weird myself..."
