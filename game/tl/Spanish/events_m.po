@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-11 01:07\n"
+"PO-Revision-Date: 2023-06-01 20:05\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -898,7 +898,7 @@ msgstr ""
 
 # game/events_m.rpy:354 #-#-# translate crowdin rachelPills2nd_3c2e62b5:
 msgid "[_m_] Why would I, Hun?"
-msgstr ""
+msgstr "[_m_] ¿Por qué yo, Hun?"
 
 # game/events_m.rpy:355 #-#-# translate crowdin rachelPills2nd_71681fcb:
 msgid "[_mcthink_] Fuck! Why did she have to say that..."
