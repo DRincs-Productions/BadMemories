@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-06-02 08:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro.rpy:5 #-#-# translate crowdin intro_af100c11:
 msgid "[_n_] Somewhere in a cab."
-msgstr ""
+msgstr "[_n_] Где-то в такси."
 
 # game/intro.rpy:8 #-#-# translate crowdin intro_01c697a2:
 msgid "[_mcthink_] Alright, almost there..."
-msgstr ""
+msgstr "[_mcthink_] Хорошо, почти здесь..."
 
 # game/intro.rpy:9 #-#-# translate crowdin intro_e55dd2d3:
 msgid "[_mcthink_] ...it feels weird to come back here..."
-msgstr ""
+msgstr "[_mcthink_] ... как-то странно вернуться сюда ..."
 
 # game/intro.rpy:10 #-#-# translate crowdin intro_d48be227:
 msgid "[_mcthink_] After all these years to be back in my hometown..."
-msgstr ""
+msgstr "[_mcthink_] После всех этих лет вернуться в мой родной город..."
 
 # game/intro.rpy:11 #-#-# translate crowdin intro_96ccb4c8:
 msgid "[_mcthink_] Who would have guessed I'd ever come back..."
-msgstr ""
+msgstr "[_mcthink_] Кто бы мог догадаться, что я когда-нибудь вернусь..."
 
 # game/intro.rpy:12 #-#-# translate crowdin intro_d77beb2e:
 msgid "[_mcthink_] ...just for a job."
-msgstr ""
+msgstr "[_mcthink_] ...только для работы."
 
 # game/intro.rpy:13 #-#-# translate crowdin intro_457c6f63:
 msgid "[_mcthink_] ..."
@@ -42,19 +42,19 @@ msgstr ""
 
 # game/intro.rpy:16 #-#-# translate crowdin intro_e4c039d6:
 msgid "[_mcthink_] We must be close to the hotel..."
-msgstr ""
+msgstr "[_mcthink_] Мы должны быть рядом с отелем..."
 
 # game/intro.rpy:17 #-#-# translate crowdin intro_cd66e642:
 msgid "[_mcthink_] I hope the new apartment is ready when I move in, in a few days..."
-msgstr ""
+msgstr "[_mcthink_] Я надеюсь, что новая квартира будет готова, когда я заселюсь, через несколько дней..."
 
 # game/intro.rpy:18 #-#-# translate crowdin intro_31613dc0:
 msgid "[_mcthink_] And that it looks as good as it does in the pictures."
-msgstr ""
+msgstr "[_mcthink_] И что выглядит так же хорошо, как и в фотографиях."
 
 # game/intro.rpy:19 #-#-# translate crowdin intro_9b9cd938:
 msgid "[_mcthink_] ...maybe I should have a look before I go to the hotel?"
-msgstr ""
+msgstr "[_mcthink_] ... возможно, мне стоит осмотреться, прежде чем я пойду в отель?"
 
 # game/intro.rpy:20 #-#-# translate crowdin intro_e1cb0469:
 msgid "[_mcthink_] On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
