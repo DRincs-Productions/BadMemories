@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:52\n"
+"PO-Revision-Date: 2023-06-02 08:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/conditions.rpy:2437 #-#-# translate crowdin dateTime_3e0aad91:
 msgid "[_n_] {size=+30}[currentDay]{/size}"
@@ -46,7 +46,7 @@ msgstr "[_mc_] Ух... черт, простите."
 
 # game/conditions.rpy:2548 #-#-# translate crowdin bathroom_b06195ee:
 msgid "[_mcthink_] Whoops..."
-msgstr ""
+msgstr "[_mcthink_] Упс..."
 
 # game/conditions.rpy:2554 #-#-# translate crowdin bathroom_c2717674:
 msgid "[_mcthink_] Whoa... looks like [m] just got out of the shower."
@@ -54,7 +54,7 @@ msgstr "[_mcthink_] Ого... похоже, что [m] только что вы�
 
 # game/conditions.rpy:2558 #-#-# translate crowdin bathroom_864caf06:
 msgid "[_m_] [mc]!?"
-msgstr ""
+msgstr "[_m_] [mc]!?"
 
 # game/conditions.rpy:2559 #-#-# translate crowdin bathroom_3b1b1443:
 msgid "[_mcthink_] Uhh..."
@@ -62,73 +62,73 @@ msgstr "[_mcthink_] Ух..."
 
 # §translate crowdin strings: #|#|# # game/conditions.rpy:11
 msgid "man"
-msgstr ""
+msgstr "человек"
 
 # game/conditions.rpy:12
 msgid "Mr."
-msgstr ""
+msgstr "Г-н"
 
 # game/conditions.rpy:13
 msgid "he"
-msgstr ""
+msgstr "он"
 
 # game/conditions.rpy:14
 msgid "boy"
-msgstr ""
+msgstr "мальчик"
 
 # game/conditions.rpy:15
 msgid "Daddy"
-msgstr ""
+msgstr "Папочка"
 
 # game/conditions.rpy:16
 msgid "son"
-msgstr ""
+msgstr "сын"
 
 # game/conditions.rpy:17
 msgid "him"
-msgstr ""
+msgstr "ему"
 
 # game/conditions.rpy:18
 msgid "John"
-msgstr ""
+msgstr "Джон"
 
 # game/conditions.rpy:19
 msgid "brother"
-msgstr ""
+msgstr "брат"
 
 # game/conditions.rpy:20
 msgid "his"
-msgstr ""
+msgstr "его"
 
 # game/conditions.rpy:24
 msgid "Doe"
-msgstr ""
+msgstr "Доэ"
 
 # game/conditions.rpy:2446
 msgid "Take a nap"
-msgstr ""
+msgstr "Вздремнуть"
 
 # game/conditions.rpy:2446
 msgid "Look for [e]"
-msgstr ""
+msgstr "Искать [e]"
 
 # game/conditions.rpy:2446
 msgid "Look for [m]"
-msgstr ""
+msgstr "Искать [m]"
 
 # game/conditions.rpy:2446
 msgid "Turn the pc on"
-msgstr ""
+msgstr "Включить ПК"
 
 # game/conditions.rpy:2446
 msgid "Leave"
-msgstr ""
+msgstr "Уйти"
 
 # game/conditions.rpy:2446
 msgid "Look around"
-msgstr ""
+msgstr "Осмотреться"
 
 # game/conditions.rpy:2555
 msgid "Look"
-msgstr ""
+msgstr "Смотреть"
 
