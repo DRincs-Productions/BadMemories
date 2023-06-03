@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-06-03 16:26\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_other.rpy:2 #-#-# translate crowdin cafeBeforeOffice_8514b197:
 msgid "[_mc_] Hey, [h]!"
@@ -190,7 +190,7 @@ msgstr ""
 
 # game/events_other.rpy:72 #-#-# translate crowdin cafeBeforeOffice_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:75 #-#-# translate crowdin cafeBeforeOffice_4012b063:
 msgid "[_h_] Didn't you want to have the bill, sir?"
@@ -1110,7 +1110,7 @@ msgstr ""
 
 # game/events_other.rpy:486 #-#-# translate crowdin porngirls_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:489 #-#-# translate crowdin porngirls_3439020b:
 msgid "[_boss_] I see..."
@@ -2318,7 +2318,7 @@ msgstr ""
 
 # game/events_other.rpy:1026 #-#-# translate crowdin d10hdate_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:1028 #-#-# translate crowdin d10hdate_acaa5091:
 msgid "[_h_] I think it's starting to rain."
@@ -5018,7 +5018,7 @@ msgstr ""
 
 # game/events_other.rpy:2438 #-#-# translate crowdin d12stdate_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:2443 #-#-# translate crowdin d12stdate_2b889f23:
 msgid "[_mc_] Looks like they're going to close, we should probably leave."
