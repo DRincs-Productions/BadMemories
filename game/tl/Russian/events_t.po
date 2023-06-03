@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-06-03 16:25\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -966,7 +966,7 @@ msgstr ""
 
 # game/events_t.rpy:443 #-#-# translate crowdin tcoerce2_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_t.rpy:444 #-#-# translate crowdin tcoerce2_779768aa:
 msgid "[_t_] It's obvious that you play a big role in [e]'s condition, so I have to include you in my research..."
@@ -4018,7 +4018,7 @@ msgstr ""
 
 # game/events_t.rpy:1916 #-#-# translate crowdin lookatkat_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_t.rpy:1919 #-#-# translate crowdin lookatkat_4410a8ed:
 msgid "[_t_] ...and [j]."
@@ -4730,7 +4730,7 @@ msgstr ""
 
 # game/events_t.rpy:2237 #-#-# translate crowdin d11tfirst_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_t.rpy:2239 #-#-# translate crowdin d11tfirst_9655811c:
 msgid "[_mc_] [j]?"
