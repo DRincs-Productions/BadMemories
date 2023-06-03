@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-06-03 16:25\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -1510,7 +1510,7 @@ msgstr ""
 
 # game/events_j.rpy:590 #-#-# translate crowdin d6_wayBackHome_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_j.rpy:609 #-#-# translate crowdin d6_wayBackHome_bce47427:
 msgid "[_mc_] Alright, let's go."
@@ -2570,7 +2570,7 @@ msgstr ""
 
 # game/events_j.rpy:1098 #-#-# translate crowdin d7_motel_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_j.rpy:1099 #-#-# translate crowdin d7_motel_afc5ac67:
 msgid "Girl [special_delimiter] Yes, can you believe it? They're so bad!"
@@ -2846,7 +2846,7 @@ msgstr ""
 
 # game/events_j.rpy:1220 #-#-# translate crowdin d7_motel_r_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_j.rpy:1222 #-#-# translate crowdin d7_motel_r_e429e23b:
 msgid "[_mc_] Did we have something to make up for?"
@@ -5314,7 +5314,7 @@ msgstr ""
 
 # game/events_j.rpy:2455 #-#-# translate crowdin d12shed_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_j.rpy:2457 #-#-# translate crowdin d12shed_2a51dd16:
 msgid "[_mc_] [e]!"
@@ -6446,7 +6446,7 @@ msgstr ""
 
 # game/events_j.rpy:3096 #-#-# translate crowdin d12jfunend_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_j.rpy:3097 #-#-# translate crowdin d12jfunend_62b01403:
 msgid "[_mc_] Isn't that [st]'s number?"
