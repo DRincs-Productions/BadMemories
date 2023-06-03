@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-06-03 16:25\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -694,7 +694,7 @@ msgstr ""
 
 # game/events_m.rpy:303 #-#-# translate crowdin rachelPills2nd_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_m.rpy:304 #-#-# translate crowdin rachelPills2nd_8e6ba7b7:
 msgid "[_m_] After all, you don't have to pay any rent."
