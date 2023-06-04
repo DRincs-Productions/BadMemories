@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-29 16:33\n"
+"PO-Revision-Date: 2023-06-04 04:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -710,35 +710,35 @@ msgstr "[_t_] Tengo que admitir que me siento un poco mareada..."
 
 # game/events_e.rpy:357 #-#-# translate crowdin ebdLookForE_337564ea:
 msgid "[_m_] Hum... now that you mention it, I'm feeling a bit weird myself..."
-msgstr ""
+msgstr "[_m_] Hum... ahora que lo mencionas, me siento un poco raro..."
 
 # game/events_e.rpy:359 #-#-# translate crowdin ebdLookForE_f78253ad:
 msgid "[_j_] Maybe it's the weather, it's really hot today, hehe."
-msgstr ""
+msgstr "[_j_] Tal vez sea el clima, es realmente caluroso hoy, je."
 
 # game/events_e.rpy:361 #-#-# translate crowdin ebdLookForE_6ec464da:
 msgid "[_t_] I doubt that."
-msgstr ""
+msgstr "[_t_] Lo dudo."
 
 # game/events_e.rpy:363 #-#-# translate crowdin ebdLookForE_e2c722ef:
 msgid "[_m_] Oh I hope it's not the fruit. I made extra sure they were fresh..."
-msgstr ""
+msgstr "[_m_] Oh, espero que no sea la fruta. Me aseguré de que estaban frescos ..."
 
 # game/events_e.rpy:365 #-#-# translate crowdin ebdLookForE_e3f7c481:
 msgid "[_j_] I feel good and the punch tastes as awesome as always [m]."
-msgstr ""
+msgstr "[_j_] Me siento bien y el puñetazo sabe tan impresionante como siempre [m]."
 
 # game/events_e.rpy:366 #-#-# translate crowdin ebdLookForE_8d381bc6:
 msgid "[_m_] Thanks, [j]."
-msgstr ""
+msgstr "[_m_] Gracias, [j]."
 
 # game/events_e.rpy:368 #-#-# translate crowdin ebdLookForE_bd52da88:
 msgid "[_m_] How about you [mc]?"
-msgstr ""
+msgstr "[_m_] ¿Qué te parece [mc]?"
 
 # game/events_e.rpy:369 #-#-# translate crowdin ebdLookForE_a0199fe1:
 msgid "[_mc_] I didn't notice anything and it tastes really good."
-msgstr ""
+msgstr "[_mc_] No me di cuenta de nada y sabe muy bien."
 
 # game/events_e.rpy:371 #-#-# translate crowdin ebdLookForE_6f4c46dc:
 msgid "[_m_] Thanks, Hun."
