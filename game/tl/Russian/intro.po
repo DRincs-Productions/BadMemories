@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-02 21:02\n"
+"PO-Revision-Date: 2023-06-04 04:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro.rpy:5 #-#-# translate crowdin intro_af100c11:
 msgid "[_n_] Somewhere in a cab."
@@ -38,7 +38,7 @@ msgstr "[_mcthink_] ...только для работы."
 
 # game/intro.rpy:13 #-#-# translate crowdin intro_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro.rpy:16 #-#-# translate crowdin intro_e4c039d6:
 msgid "[_mcthink_] We must be close to the hotel..."
@@ -250,7 +250,7 @@ msgstr "[_mc_] По крайней мере, комната, кажется, в 
 
 # game/intro.rpy:119 #-#-# translate crowdin intro_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/intro.rpy:120 #-#-# translate crowdin intro_830c2d03:
 msgid "[_mc_] Looks like I need to find a new apartment... As soon as possible!"
