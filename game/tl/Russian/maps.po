@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-02 21:02\n"
+"PO-Revision-Date: 2023-06-04 04:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
@@ -42,7 +42,7 @@ msgstr "[_mcthink_] \"{b}Инцест {/b}-если вы собираетесь 
 
 # game/maps.rpy:165 #-#-# translate crowdin eboard_a42aba90:
 msgid "[_mcthink_] Well that's interesting..."
-msgstr ""
+msgstr "[_mcthink_] О, интересненько..."
 
 # game/maps.rpy:166 #-#-# translate crowdin eboard_29a18555:
 msgid "[_mcthink_] I wonder if [m] has ever seen it..."
@@ -130,15 +130,15 @@ msgstr ""
 
 # game/maps.rpy:311 #-#-# translate crowdin halldesk_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:312 #-#-# translate crowdin halldesk_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:313 #-#-# translate crowdin halldesk_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:314 #-#-# translate crowdin halldesk_66cd34a7:
 msgid "[_mcthink_] Hmm? What's this?"
