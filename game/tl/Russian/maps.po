@@ -10,63 +10,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-06-04 04:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
-msgstr ""
+msgstr "[_mcthink_] Мне нужно использовать ванную..."
 
 # game/maps.rpy:109 #-#-# translate crowdin pcroom_cf6641dc:
 msgid "[_mcthink_] I should let her sleep."
-msgstr ""
+msgstr "[_mcthink_] Я должен дать ей поспать."
 
 # game/maps.rpy:123 #-#-# translate crowdin pcroom_fd937ee1:
 msgid "[_mcthink_] Did I forget anything?"
-msgstr ""
+msgstr "[_mcthink_] Я что-нибудь забыл?"
 
 # game/maps.rpy:136 #-#-# translate crowdin pcroom_0eb0fc14:
 msgid "[_mcthink_] I need to find [e]."
-msgstr ""
+msgstr "[_mcthink_] Мне нужно найти [e]."
 
 # game/maps.rpy:140 #-#-# translate crowdin pcroom_1633fd49:
 msgid "[_mcthink_] She's not here..."
-msgstr ""
+msgstr "[_mcthink_] Её здесь нет..."
 
 # game/maps.rpy:163 #-#-# translate crowdin eboard_d5ac03e9:
 msgid "[_mcthink_] Hmm, what does the image say... \"I'll be making noise with my brother tonight, so please bear with us, sorry.\""
-msgstr ""
+msgstr "[_mcthink_] Хм, что говорит изображение... \"Я буду шуметь с моим братом сегодня вечером, так что, пожалуйста, потерпите, извините\""
 
 # game/maps.rpy:164 #-#-# translate crowdin eboard_30778f4f:
 msgid "[_mcthink_] \"{b}Incest{/b} - if you're about to do it, please inform your neighbours, so they know what's going on.\""
-msgstr ""
+msgstr "[_mcthink_] \"{b}Инцест {/b}-если вы собираетесь сделать это, пожалуйста, сообщите своим соседям, чтобы они знали, что происходит \""
 
 # game/maps.rpy:165 #-#-# translate crowdin eboard_a42aba90:
 msgid "[_mcthink_] Well that's interesting..."
-msgstr ""
+msgstr "[_mcthink_] О, интересненько..."
 
 # game/maps.rpy:166 #-#-# translate crowdin eboard_29a18555:
 msgid "[_mcthink_] I wonder if [m] has ever seen it..."
-msgstr ""
+msgstr "[_mcthink_] Интересно, что [m] когда-нибудь видел это..."
 
 # game/maps.rpy:168 #-#-# translate crowdin eboard_3c2a2b40:
 msgid "[_mcthink_] ...but she probably never really took a closer look..."
-msgstr ""
+msgstr "[_mcthink_] ...но, наверное, она никогда не видело близко..."
 
 # game/maps.rpy:170 #-#-# translate crowdin eboard_e6ac30c0:
 msgid "[_mcthink_] ...but she probably doesn't even understand english..."
-msgstr ""
+msgstr "[_mcthink_] ... но она, вероятно, даже не понимает английского ..."
 
 # game/maps.rpy:183 #-#-# translate crowdin ehifi_347a5127:
 msgid "[_mcthink_] Hmm... the clock is showing the wrong time..."
-msgstr ""
+msgstr "[_mcthink_] Хмм... часы показывают неправильное время..."
 
 # game/maps.rpy:189 #-#-# translate crowdin childroom_38dd87b1:
 msgid "[_mcthink_] I have to talk with [m] about that Therapist!"
-msgstr ""
+msgstr "[_mcthink_] Мне нужно поговорить с [m] об этом психотерапевте!"
 
 # game/maps.rpy:191 #-#-# translate crowdin childroom_dd39b3ff:
 msgid "[_mcthink_] I have to talk with [m]."
-msgstr ""
+msgstr "[_mcthink_] Мне нужно поговорить с [m]."
 
 # game/maps.rpy:206 #-#-# translate crowdin childroom_b0aeb3f9:
 msgid "[_mcthink_] Huh? What's this?"
@@ -74,23 +74,23 @@ msgstr ""
 
 # game/maps.rpy:224 #-#-# translate crowdin childroom_b52eb456:
 msgid "[_mcthink_] I shouldn't go in there when she's not home."
-msgstr ""
+msgstr "[_mcthink_] я не должен идти туда, когда её нет дома."
 
 # game/maps.rpy:226 #-#-# translate crowdin childroom_239fa763:
 msgid "[_mcthink_] I have no reason to go in there at the moment."
-msgstr ""
+msgstr "[_mcthink_] У меня нет причин идти туда в данный момент."
 
 # game/maps.rpy:248 #-#-# translate crowdin bedroom_d988bb36:
 msgid "[_mcthink_] Nobody here..."
-msgstr ""
+msgstr "[_mcthink_] Никого здесь нет..."
 
 # game/maps.rpy:261 #-#-# translate crowdin ebc__6ff963c9:
 msgid "[_mcthink_] Huh, what's that?"
-msgstr ""
+msgstr "[_mcthink_] А, что это?"
 
 # game/maps.rpy:264 #-#-# translate crowdin ebc__f4067311:
 msgid "[_mcthink_] So she really is..."
-msgstr ""
+msgstr "[_mcthink_] Так что она действительно..."
 
 # game/maps.rpy:266 #-#-# translate crowdin ebc__a7d9f74e:
 msgid "[_mcthink_] The old man didn't seem too confident though..."
@@ -130,15 +130,15 @@ msgstr ""
 
 # game/maps.rpy:311 #-#-# translate crowdin halldesk_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:312 #-#-# translate crowdin halldesk_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:313 #-#-# translate crowdin halldesk_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:314 #-#-# translate crowdin halldesk_66cd34a7:
 msgid "[_mcthink_] Hmm? What's this?"

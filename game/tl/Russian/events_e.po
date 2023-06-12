@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-06-04 04:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -62,7 +62,7 @@ msgstr "[_mc_] Боже, [e]! У меня чуть инфаркт не случ�
 
 # game/events_e.rpy:44 #-#-# translate crowdin ellieWakeup_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:45 #-#-# translate crowdin ellieWakeup_e7449d19:
 msgid "[_mc_] Anyway, [m] says breakfast is almost finished, so you better get up..."
@@ -106,11 +106,11 @@ msgstr "[_n_] Дверь в вашу комнату открывается."
 
 # game/events_e.rpy:66 #-#-# translate crowdin eOnLap_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_e.rpy:68 #-#-# translate crowdin eOnLap_22e5faef:
 msgid "[_mc_] Hey [e], what's up?"
-msgstr ""
+msgstr "[_mc_] Эй [e], что такое?"
 
 # game/events_e.rpy:71 #-#-# translate crowdin eOnLap_9fe0d0ed:
 msgid "[_mc_] What's wrong? Why are you being shy now?"
@@ -130,11 +130,11 @@ msgstr "[_mcthink_] Ладно, точно не стесняюсь!"
 
 # game/events_e.rpy:82 #-#-# translate crowdin eOnLap_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:83 #-#-# translate crowdin eOnLap_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:84 #-#-# translate crowdin eOnLap_904069d0:
 msgid "[_mc_] This [t] is quite annoying, huh?"
@@ -142,11 +142,11 @@ msgstr "[_mc_] Этот [t] очень раздражает, да?"
 
 # game/events_e.rpy:86 #-#-# translate crowdin eOnLap_72a33094_1:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:87 #-#-# translate crowdin eOnLap_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:88 #-#-# translate crowdin eOnLap_54787d43:
 msgid "[_mc_] Yeah, I don't like her either..."
@@ -170,7 +170,7 @@ msgstr "[_mc_] Я скучала по тебе, сестренка..."
 
 # game/events_e.rpy:97 #-#-# translate crowdin eOnLap_4a5e5694:
 msgid "[_mc_] ???"
-msgstr ""
+msgstr "[_mc_] ???"
 
 # game/events_e.rpy:101 #-#-# translate crowdin eOnLap_c3b845e5:
 msgid "[_mcthink_] Wow, I guess she missed me, too."
@@ -186,7 +186,7 @@ msgstr "[_n_] Ночь [withdissolve]"
 
 # game/events_e.rpy:114 #-#-# translate crowdin eNightTwo_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:115 #-#-# translate crowdin eNightTwo_6b729f69:
 msgid "[_mcthink_] I wonder if [e] is going to sneak over again..."
@@ -202,7 +202,7 @@ msgstr "[_mcthink_] Все началось после смерти отца..."
 
 # game/events_e.rpy:118 #-#-# translate crowdin eNightTwo_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:119 #-#-# translate crowdin eNightTwo_7a4696f3:
 msgid "[_mcthink_] ...it's a bit weird that she is still doing it..."
@@ -218,7 +218,7 @@ msgstr "[_n_] Вы можете слышать, как медленно двиг
 
 # game/events_e.rpy:123 #-#-# translate crowdin eNightTwo_582359ea:
 msgid "[_mc_] Hm?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_e.rpy:124 #-#-# translate crowdin eNightTwo_e3f7187d:
 msgid "[_mcthink_] I guess there is my answer..."
@@ -246,19 +246,19 @@ msgstr "[_n_] [e] немного возится с одеялом, вы пред
 
 # game/events_e.rpy:131 #-#-# translate crowdin eNightTwo_9ab1a7a1:
 msgid "[_mcthink_] Alright, this is my chance for a surprise attack!"
-msgstr ""
+msgstr "[_mcthink_] Хорошо, это мой шанс внезапно напасть!"
 
 # game/events_e.rpy:133 #-#-# translate crowdin eNightTwo_98981a47:
 msgid "[_mcthink_] What the... she isn't trying to get under the blanket! She is staring at my crotch!"
-msgstr ""
+msgstr "[_mcthink_] Что за... она не пытается залезть под одеяло! Она смотрит мне между ног!"
 
 # game/events_e.rpy:134 #-#-# translate crowdin eNightTwo_4738fb51:
 msgid "[_mcthink_] Shit, I didn't expect this..."
-msgstr ""
+msgstr "[_mcthink_] Черт, этого я не ожидал..."
 
 # game/events_e.rpy:136 #-#-# translate crowdin eNightTwo_f5767e49:
 msgid "[_mc_] Gotcha!"
-msgstr ""
+msgstr "[_mc_] Попалась!"
 
 # game/events_e.rpy:138 #-#-# translate crowdin eNightTwo_7a55dfbe:
 msgid "[_e_] *Squeak*"
@@ -266,19 +266,19 @@ msgstr "[_e_] *Писк*"
 
 # game/events_e.rpy:140 #-#-# translate crowdin eNightTwo_0af336e2:
 msgid "[_mc_] Haha, too bad I'm wearing shorts this time, eh [e]?"
-msgstr ""
+msgstr "[_mc_] Хаха, жаль, что на этот раз я в шортах, да [e]?"
 
 # game/events_e.rpy:141 #-#-# translate crowdin eNightTwo_d9e6d20c:
 msgid "[_mc_] Naughty little sis, did you do that yesterday too?"
-msgstr ""
+msgstr "[_mc_] Нехорошая младшая сестра, ты это и вчера делала?"
 
 # game/events_e.rpy:143 #-#-# translate crowdin eNightTwo_16996926:
 msgid "[_n_] She shakes her head fiercely, still hiding behind the blanket."
-msgstr ""
+msgstr "[_n_] Она отчаянно качает головой, все еще прячась под одеялом."
 
 # game/events_e.rpy:144 #-#-# translate crowdin eNightTwo_1990ce24:
 msgid "[_mcthink_] Damn, she's so cute..."
-msgstr ""
+msgstr "[_mcthink_] Блин, она такая милая..."
 
 # game/events_e.rpy:146 #-#-# translate crowdin eNightTwo_c6f1863c:
 msgid "[_mc_] Whoa!"
@@ -286,87 +286,87 @@ msgstr "[_mc_] Ого!"
 
 # game/events_e.rpy:149 #-#-# translate crowdin eNightTwo_2b35b6fe_2:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:150 #-#-# translate crowdin eNightTwo_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:151 #-#-# translate crowdin eNightTwo_fdd79761:
 msgid "[_mc_] You know, as the older one of us I should mention that this is quite inappropriate..."
-msgstr ""
+msgstr "[_mc_] Вообще-то, как старший, я должен отметить, что это совсем неуместно..."
 
 # game/events_e.rpy:154 #-#-# translate crowdin eNightTwo_35d3fed2:
 msgid "[_mc_] ...but who cares, right?"
-msgstr ""
+msgstr "[_mc_]...но кого это волнует, так ведь?"
 
 # game/events_e.rpy:155 #-#-# translate crowdin eNightTwo_36c3f881:
 msgid "[_mcthink_] She obviously doesn't..."
-msgstr ""
+msgstr "[_mcthink_] Уж точно не ее..."
 
 # game/events_e.rpy:156 #-#-# translate crowdin eNightTwo_2b35b6fe_3:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:158 #-#-# translate crowdin eNightTwo_e21ce108:
 msgid "[_mcthink_] Damn, I can feel her pussy lips on my leg..."
-msgstr ""
+msgstr "[_mcthink_] Блин, я чувствую ее половые губы на ноге..."
 
 # game/events_e.rpy:159 #-#-# translate crowdin eNightTwo_fdfb7fe0:
 msgid "[_mcthink_] It almost feels like she isn't wearing anything under her pyjamas..."
-msgstr ""
+msgstr "[_mcthink_] Похоже, у нее нет ничего под пижамой..."
 
 # game/events_e.rpy:160 #-#-# translate crowdin eNightTwo_db5b4f16:
 msgid "[_mcthink_] Wait!"
-msgstr ""
+msgstr "[_mcthink_] Стоп!"
 
 # game/events_e.rpy:161 #-#-# translate crowdin eNightTwo_e32e6669:
 msgid "[_mcthink_] She {b}isn't{/b} wearing anything under her pyjamas!"
-msgstr ""
+msgstr "[_mcthink_] У нее {b}точно{/b} нет ничего под пижамой!"
 
 # game/events_e.rpy:162 #-#-# translate crowdin eNightTwo_3fd6d342:
 msgid "[_mcthink_] Fuck... is she wet?"
-msgstr ""
+msgstr "[_mcthink_] Бля... она влажная?"
 
 # game/events_e.rpy:163 #-#-# translate crowdin eNightTwo_5916f987:
 msgid "[_e_] Hnn..."
-msgstr ""
+msgstr "[_e_] Ммм..."
 
 # game/events_e.rpy:164 #-#-# translate crowdin eNightTwo_254b84a8:
 msgid "[_n_] You notice that she very subtly grinds on your leg."
-msgstr ""
+msgstr "[_n_] Ты замечаешь, как она незаметно трется об твою ногу."
 
 # game/events_e.rpy:167 #-#-# translate crowdin eNightTwo_678edfcd:
 msgid "[_mcthink_] What the hell, is she doing this on purpose?"
-msgstr ""
+msgstr "[_mcthink_] Какого хрена, она что, нарочно?"
 
 # game/events_e.rpy:168 #-#-# translate crowdin eNightTwo_f776ab15:
 msgid "[_mcthink_] Gawd, Sis, don't do this to me! I'm horny enough already..."
-msgstr ""
+msgstr "[_mcthink_] Блин, сестренка, не делай этого! Я и так возбудился уже..."
 
 # game/events_e.rpy:170 #-#-# translate crowdin eNightTwo_41b647d6:
 msgid "[_mcthink_] I'm getting the hardest boner ever!"
-msgstr ""
+msgstr "[_mcthink_] У меня стоит как никогда!"
 
 # game/events_e.rpy:171 #-#-# translate crowdin eNightTwo_f90ac728:
 msgid "[_mcthink_] Shit I have to think about something else..."
-msgstr ""
+msgstr "[_mcthink_] Черт, надо переключить внимание..."
 
 # game/events_e.rpy:172 #-#-# translate crowdin eNightTwo_1729e527:
 msgid "[_mcthink_] Err... Lions... Rats... Little Cats... Catgirls... Fuck!"
-msgstr ""
+msgstr "[_mcthink_] Эмм... Львы... Крысы... Котята... Девочки-котята... Блядь!"
 
 # game/events_e.rpy:174 #-#-# translate crowdin eNightTwo_e896ee61:
 msgid "[_n_] After a while of struggling you manage to fall asleep."
-msgstr ""
+msgstr "[_n_] После непродолжительной борьбы тебе удается уснуть."
 
 # game/events_e.rpy:181 #-#-# translate crowdin ellieVR_ce82f96f:
 msgid "[_mc_] Huh? [e]?"
-msgstr ""
+msgstr "[_mc_] А? [e]?"
 
 # game/events_e.rpy:182 #-#-# translate crowdin ellieVR_b535bcdc:
 msgid "[_mcthink_] Damn, she is sneaky!"
-msgstr ""
+msgstr "[_mcthink_] Вот проныра!"
 
 # game/events_e.rpy:183 #-#-# translate crowdin ellieVR_a741adbb:
 msgid "[_mc_] Hey, [e]!"
@@ -374,31 +374,31 @@ msgstr "[_mc_] Эй, [e]!"
 
 # game/events_e.rpy:184 #-#-# translate crowdin ellieVR_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:185 #-#-# translate crowdin ellieVR_78346d90:
 msgid "[_mcthink_] She hasn't even noticed me..."
-msgstr ""
+msgstr "[_mcthink_] Она даже меня не заметила..."
 
 # game/events_e.rpy:186 #-#-# translate crowdin ellieVR_f9cadde4:
 msgid "[_mcthink_] Looks like she's having fun in the VR world."
-msgstr ""
+msgstr "[_mcthink_] Похоже, ей весело в мире виртуальной реальности."
 
 # game/events_e.rpy:187 #-#-# translate crowdin ellieVR_15d970ba:
 msgid "[_mcthink_] I guess she has never experienced anything like it before."
-msgstr ""
+msgstr "[_mcthink_] Думаю, она раньше не испытывала ничего подобного."
 
 # game/events_e.rpy:189 #-#-# translate crowdin ellieVR_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:191 #-#-# translate crowdin ellieVR_da5ec8f8:
 msgid "[_mcthink_] I'm a bit impressed she could set it up so quickly..."
-msgstr ""
+msgstr "[_mcthink_] Я впечатлен, как она быстро с этим разобралась..."
 
 # game/events_e.rpy:192 #-#-# translate crowdin ellieVR_702fb837:
 msgid "[_mcthink_] Well, I guess I just let her be..."
-msgstr ""
+msgstr "[_mcthink_] Думаю, оставлю ее в покое..."
 
 # game/events_e.rpy:194 #-#-# translate crowdin ellieVR_87a42edf:
 msgid "[_mcthink_] Whoa!"
@@ -406,75 +406,75 @@ msgstr "[_mcthink_] Ого!"
 
 # game/events_e.rpy:198 #-#-# translate crowdin ellieVR_8308b4da:
 msgid "[_mcthink_] What the..."
-msgstr ""
+msgstr "[_mcthink_] Что за..."
 
 # game/events_e.rpy:202 #-#-# translate crowdin ellieVR_f5cb18e2:
 msgid "[_mcthink_] What is she doing?"
-msgstr ""
+msgstr "[_mcthink_] Что она делает?"
 
 # game/events_e.rpy:206 #-#-# translate crowdin ellieVR_f882adc6:
 msgid "[_mcthink_] What the fuck!? VR porn?!"
-msgstr ""
+msgstr "[_mcthink_] Че за нах? VR-порнуха?!"
 
 # game/events_e.rpy:207 #-#-# translate crowdin ellieVR_adf6a5cd:
 msgid "[_mcthink_] She's watching VR porn?!"
-msgstr ""
+msgstr "[_mcthink_] У нее там VR-порнуха?!"
 
 # game/events_e.rpy:208 #-#-# translate crowdin ellieVR_4baad9ce:
 msgid "[_mc_] Shit!"
-msgstr ""
+msgstr "[_mc_] Черт!"
 
 # game/events_e.rpy:210 #-#-# translate crowdin ellieVR_94d61eb1:
 msgid "[_n_] You quickly turn around and take the HMD from her head."
-msgstr ""
+msgstr "[_n_] Ты быстро оборачиваешься и снимаешь с нее VR-очки."
 
 # game/events_e.rpy:212 #-#-# translate crowdin ellieVR_cdd8496d:
 msgid "[_e_] Whaa?!"
-msgstr ""
+msgstr "[_e_] Чёёёё?!"
 
 # game/events_e.rpy:214 #-#-# translate crowdin ellieVR_f9e34732:
 msgid "[_mc_] What the fuck [e]! Who the hell told you that you could use my stuff??"
-msgstr ""
+msgstr "[_mc_] Че за херня, [e]! Кто тебе разрешил брать мои вещи??"
 
 # game/events_e.rpy:215 #-#-# translate crowdin ellieVR_22a5e275:
 msgid "[_mc_] This isn't yours!"
-msgstr ""
+msgstr "[_mc_] Это не твоё!"
 
 # game/events_e.rpy:217 #-#-# translate crowdin ellieVR_d1b12b7a:
 msgid "[_n_] She runs out of the room."
-msgstr ""
+msgstr "[_n_] Она убежала из комнаты."
 
 # game/events_e.rpy:219 #-#-# translate crowdin ellieVR_3a9a172d:
 msgid "[_mcthink_] Damn... She looked kinda scared..."
-msgstr ""
+msgstr "[_mcthink_] Блин... Она выглядела испуганной..."
 
 # game/events_e.rpy:220 #-#-# translate crowdin ellieVR_674fc12c:
 msgid "[_mcthink_] ...did I overdo it?"
-msgstr ""
+msgstr "[_mcthink_]...я что, переборщил?"
 
 # game/events_e.rpy:222 #-#-# translate crowdin ellieVR_171240a7:
 msgid "[_mcthink_] Shit, why didn't she just play a Game or watch one of the animated Movies?"
-msgstr ""
+msgstr "[_mcthink_] Черт, почему она просто в игру не поиграла или мультик какой посмотрела?"
 
 # game/events_e.rpy:223 #-#-# translate crowdin ellieVR_59d6f38a:
 msgid "[_mcthink_] Why did she have to watch porn?!"
-msgstr ""
+msgstr "[_mcthink_] Зачем она смотрела порно?!"
 
 # game/events_e.rpy:224 #-#-# translate crowdin ellieVR_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr ""
+msgstr "[_mc_] Блядь!"
 
 # game/events_e.rpy:225 #-#-# translate crowdin ellieVR_2b35b6fe_2:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:227 #-#-# translate crowdin ellieVR_36c9ca96:
 msgid "[_mcthink_] Maybe I should have a look for her."
-msgstr ""
+msgstr "[_mcthink_] Наверное, надо присмотреть за ней."
 
 # game/events_e.rpy:228 #-#-# translate crowdin ellieVR_6fbe0b1f:
 msgid "[_mcthink_] But she did use my stuff without even asking..."
-msgstr ""
+msgstr "[_mcthink_] Но она брала мои вещи без спроса..."
 
 # game/events_e.rpy:229 #-#-# translate crowdin ellieVR_59c474f7:
 msgid "[_mc_] Ugh, fuck!"
@@ -490,11 +490,11 @@ msgstr "[_e_] Аааа..."
 
 # game/events_e.rpy:233 #-#-# translate crowdin ellieVR_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_e.rpy:234 #-#-# translate crowdin ellieVR_2b35b6fe_3:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:236 #-#-# translate crowdin ellieVR_d593d4b0:
 msgid "[_e_] Eh?"
@@ -506,7 +506,7 @@ msgstr "[_mc_] Спасибо [e]."
 
 # game/events_e.rpy:242 #-#-# translate crowdin ellieVR_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:244 #-#-# translate crowdin ellieVR_46f1afbc:
 msgid "[_mc_] *Sigh*"
@@ -518,7 +518,7 @@ msgstr "[_mc_] ...Извините [e]. Я не хотел кричать на �
 
 # game/events_e.rpy:246 #-#-# translate crowdin ellieVR_72a33094_1:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:247 #-#-# translate crowdin ellieVR_5fbc88df:
 msgid "[_mc_] Listen, you can use my stuff if you want, but at least give me a hint, okay?"
@@ -534,7 +534,7 @@ msgstr "[_n_] Вы и [e] отнесете остальные коробки в 
 
 # game/events_e.rpy:252 #-#-# translate crowdin ellieVR_c6363fdf:
 msgid "[_n_] After [e] and [m] left, you start to unpack the rest of your stuff."
-msgstr ""
+msgstr "[_n_] Когда [e] и [m] ушли, вы начинаете распаковывать остальные вещи."
 
 # game/events_e.rpy:253 #-#-# translate crowdin ellieVR_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -578,7 +578,7 @@ msgstr "[_mc_] Итак... эээ... как ты [e]?"
 
 # game/events_e.rpy:283 #-#-# translate crowdin childroomPCtalktoEllie_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:284 #-#-# translate crowdin childroomPCtalktoEllie_2fc45a7b:
 msgid "[_mc_] Eh... well you know... about when I left back then..."
@@ -690,7 +690,7 @@ msgstr "[_t_] Интересно, сколько осталось от этог�
 
 # game/events_e.rpy:348 #-#-# translate crowdin ebdLookForE_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:349 #-#-# translate crowdin ebdLookForE_f72ffc4e:
 msgid "[_m_] *hic*"
@@ -706,251 +706,251 @@ msgstr "[_m_] Да, конечно, я уверен..."
 
 # game/events_e.rpy:355 #-#-# translate crowdin ebdLookForE_303d55d9:
 msgid "[_t_] I have to admit, I feel a bit dizzy..."
-msgstr ""
+msgstr "[_t_] Честно говоря, у меня голова кружится..."
 
 # game/events_e.rpy:357 #-#-# translate crowdin ebdLookForE_337564ea:
 msgid "[_m_] Hum... now that you mention it, I'm feeling a bit weird myself..."
-msgstr ""
+msgstr "[_m_] Стоило тебе сказать, и мне теперь нехорошо..."
 
 # game/events_e.rpy:359 #-#-# translate crowdin ebdLookForE_f78253ad:
 msgid "[_j_] Maybe it's the weather, it's really hot today, hehe."
-msgstr ""
+msgstr "[_j_] Может, это из-за погоды, сегодня жарко, хехе."
 
 # game/events_e.rpy:361 #-#-# translate crowdin ebdLookForE_6ec464da:
 msgid "[_t_] I doubt that."
-msgstr ""
+msgstr "[_t_] Вряд ли."
 
 # game/events_e.rpy:363 #-#-# translate crowdin ebdLookForE_e2c722ef:
 msgid "[_m_] Oh I hope it's not the fruit. I made extra sure they were fresh..."
-msgstr ""
+msgstr "[_m_] Надеюсь, это не из-за фруктов. Они точно были свежими..."
 
 # game/events_e.rpy:365 #-#-# translate crowdin ebdLookForE_e3f7c481:
 msgid "[_j_] I feel good and the punch tastes as awesome as always [m]."
-msgstr ""
+msgstr "[_j_] Чувствую себя хорошо, и пунш на вкус как обычно [m]."
 
 # game/events_e.rpy:366 #-#-# translate crowdin ebdLookForE_8d381bc6:
 msgid "[_m_] Thanks, [j]."
-msgstr ""
+msgstr "[_m_] Спасибо, [j]."
 
 # game/events_e.rpy:368 #-#-# translate crowdin ebdLookForE_bd52da88:
 msgid "[_m_] How about you [mc]?"
-msgstr ""
+msgstr "[_m_] А ты как [mc]?"
 
 # game/events_e.rpy:369 #-#-# translate crowdin ebdLookForE_a0199fe1:
 msgid "[_mc_] I didn't notice anything and it tastes really good."
-msgstr ""
+msgstr "[_mc_] Ничего не заметил и вкус очень хорош."
 
 # game/events_e.rpy:371 #-#-# translate crowdin ebdLookForE_6f4c46dc:
 msgid "[_m_] Thanks, Hun."
-msgstr ""
+msgstr "[_m_] Спасибо, милый."
 
 # game/events_e.rpy:372 #-#-# translate crowdin ebdLookForE_5ea967a8:
 msgid "[_mcthink_] Damn, I hope this doesn't backfire..."
-msgstr ""
+msgstr "[_mcthink_] Блин, надеюсь, это не аукнется..."
 
 # game/events_e.rpy:374 #-#-# translate crowdin ebdLookForE_5d6a045c:
 msgid "[_j_] I wonder why [e] is taking so long..."
-msgstr ""
+msgstr "[_j_] Интересно, почему [e] так долго..."
 
 # game/events_e.rpy:375 #-#-# translate crowdin ebdLookForE_4c1706c1:
 msgid "[_m_] Hum, right. I'll have a look for her."
-msgstr ""
+msgstr "[_m_] Хм, точно. Надо ее проведать."
 
 # game/events_e.rpy:377 #-#-# translate crowdin ebdLookForE_d8c66817:
 msgid "[_j_] Oh, why don't you let [mc] have a look. You've done so much for [e] today, you should sit down and enjoy the punch, hehe."
-msgstr ""
+msgstr "[_j_] Ох, пусть лучше [mc] проведает. Ты для [e] и так постаралась сегодня, просто сиди и наслаждайся пуншем."
 
 # game/events_e.rpy:379 #-#-# translate crowdin ebdLookForE_ea81b982:
 msgid "[_mc_] Yeah, let me look for her..."
-msgstr ""
+msgstr "[_mc_] Да, давайте я схожу к ней..."
 
 # game/events_e.rpy:381 #-#-# translate crowdin ebdLookForE_f6ada66b:
 msgid "[_m_] Oh... sure [mc]."
-msgstr ""
+msgstr "[_m_] Хорошо [mc]."
 
 # game/events_e.rpy:383 #-#-# translate crowdin ebdLookForE_5c1bb3b3:
 msgid "[_j_] Another glass [m]?"
-msgstr ""
+msgstr "[_j_] Еще стаканчик [m]?"
 
 # game/events_e.rpy:384 #-#-# translate crowdin ebdLookForE_0c8e912c:
 msgid "[_m_] Umm... sure, why not?"
-msgstr ""
+msgstr "[_m_] Конечно, почему бы и нет?"
 
 # game/events_e.rpy:386 #-#-# translate crowdin ebdLookForE_8015c030:
 msgid "[_mcthink_] Shit, I hope [j] doesn't overdo it..."
-msgstr ""
+msgstr "[_mcthink_] Надеюсь, [j] не перебарщивает..."
 
 # game/events_e.rpy:388 #-#-# translate crowdin ebdLookForE_12945e00:
 msgid "[_mc_] [e], it's me..."
-msgstr ""
+msgstr "[_mc_] [e], это я..."
 
 # game/events_e.rpy:389 #-#-# translate crowdin ebdLookForE_41381891:
 msgid "[_mc_] I'm coming in."
-msgstr ""
+msgstr "[_mc_] Я вхожу."
 
 # game/events_e.rpy:391 #-#-# translate crowdin ebdLookForE_aa70b82d:
 msgid "[_mcthink_] Huh? What's going on with her?"
-msgstr ""
+msgstr "[_mcthink_] Что это? Что это с ней?"
 
 # game/events_e.rpy:392 #-#-# translate crowdin ebdLookForE_4b4fd6bc:
 msgid "[_mc_] What's up [e]? Everybody is waiting for you?"
-msgstr ""
+msgstr "[_mc_] Что с тобой [e]? Все тебя ждут?"
 
 # game/events_e.rpy:394 #-#-# translate crowdin ebdLookForE_61b2095d:
 msgid "[_mcthink_] Is she crying?"
-msgstr ""
+msgstr "[_mcthink_] Она что, плачет?"
 
 # game/events_e.rpy:396 #-#-# translate crowdin ebdLookForE_e5181d06:
 msgid "[_mc_] Hey, what's wrong? For a second I thought you were crying..."
-msgstr ""
+msgstr "[_mc_] Эй, что не так? Мне на секунду показалось, что ты плачешь..."
 
 # game/events_e.rpy:398 #-#-# translate crowdin ebdLookForE_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:400 #-#-# translate crowdin ebdLookForE_5b1734cb:
 msgid "[_mcthink_] Damn, I bet it's [t]'s fault! That bitch!"
-msgstr ""
+msgstr "[_mcthink_] Черт, я уверен, что это из-за [t]! Вот сука!"
 
 # game/events_e.rpy:401 #-#-# translate crowdin ebdLookForE_17dc783b:
 msgid "[_mcthink_] Hum..."
-msgstr ""
+msgstr "[_mcthink_] Хм..."
 
 # game/events_e.rpy:402 #-#-# translate crowdin ebdLookForE_86131769:
 msgid "[_mc_] *Hop*"
-msgstr ""
+msgstr "[_mc_] *Прыжок*"
 
 # game/events_e.rpy:405 #-#-# translate crowdin ebdLookForE_c480b24e:
 msgid "[_mc_] Come on [e], whatever happened, forget about it. It's your birthday and you should be happy."
-msgstr ""
+msgstr "[_mc_] Слушай [e], что бы ни случилось, забудь. Сегодня твой день рождения и ты должна быть счастливой."
 
 # game/events_e.rpy:407 #-#-# translate crowdin ebdLookForE_72a33094_1:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:408 #-#-# translate crowdin ebdLookForE_21c2e4c1:
 msgid "[_mc_] Come on, there is a lot of cake waiting for you and of course some neat presents. I bet you'll love them."
-msgstr ""
+msgstr "[_mc_] Слушай, там тебя ждет куча угощений и прикольных подарков. Тебе точно понравится."
 
 # game/events_e.rpy:410 #-#-# translate crowdin ebdLookForE_72a33094_2:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:411 #-#-# translate crowdin ebdLookForE_5cef61e2:
 msgid "[_mc_] Hey, I spent {i}ages{/i} to find a good present for you, so if you don't get up and attend your own birthday party I'm sure I'll start crying like a baby."
-msgstr ""
+msgstr "[_mc_] Эй, я потратил {i}годы{/i}, чтобы найти тебе хороший подарок, так что если ты не встанешь и не пойдешь на свой же праздник, я просто разревусь, как ребенок."
 
 # game/events_e.rpy:413 #-#-# translate crowdin ebdLookForE_72a33094_3:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:415 #-#-# translate crowdin ebdLookForE_f7d47dfc:
 msgid "[_n_] She gets up, goes to the wardrobe and looks at you meaningfully."
-msgstr ""
+msgstr "[_n_] Она встала, подошла к гардеробу и посмотрела на тебя со значением."
 
 # game/events_e.rpy:417 #-#-# translate crowdin ebdLookForE_b2fd9202:
 msgid "[_mc_] Oh, yeah, I get it. I'll let you change..."
-msgstr ""
+msgstr "[_mc_] Да понял я. Дам тебе переодеться..."
 
 # game/events_e.rpy:419 #-#-# translate crowdin ebdLookForE_2c73c434:
 msgid "[_mcthink_] Alright, let's hope the rest of this \"party\" is going to work out better..."
-msgstr ""
+msgstr "[_mcthink_] Ладно, надеюсь, остаток \"вечеринки\" сложится удачнее..."
 
 # game/events_e.rpy:421 #-#-# translate crowdin ebdLookForE_5f622c83:
 msgid "[_mcthink_] Just a quick visit to the toilet..."
-msgstr ""
+msgstr "[_mcthink_] Только по-быстрому в туалет..."
 
 # game/events_e.rpy:425 #-#-# translate crowdin ebdLookForE_6bea1581:
 msgid "[_mc_] Whoa... sorry..."
-msgstr ""
+msgstr "[_mc_] Ой... сорри..."
 
 # game/events_e.rpy:427 #-#-# translate crowdin ebdLookForE_8412aa7d:
 msgid "[_mcthink_] Shit, why didn't she lock the door?"
-msgstr ""
+msgstr "[_mcthink_] Черт, ну что же она дверь не закрыла-то?"
 
 # game/events_e.rpy:428 #-#-# translate crowdin ebdLookForE_7087669c:
 msgid "[_t_] {size=-10}Pervert...{/size}"
-msgstr ""
+msgstr "[_t_] {size=-10}Извращенец...{/size}"
 
 # game/events_e.rpy:429 #-#-# translate crowdin ebdLookForE_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_e.rpy:430 #-#-# translate crowdin ebdLookForE_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_e.rpy:431 #-#-# translate crowdin ebdLookForE_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_e.rpy:432 #-#-# translate crowdin ebdLookForE_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_e.rpy:433 #-#-# translate crowdin ebdLookForE_91475a02:
 msgid "[_extend_] keep."
-msgstr ""
+msgstr "[_extend_] сохраняйте."
 
 # game/events_e.rpy:434 #-#-# translate crowdin ebdLookForE_052f0617:
 msgid "[_extend_] calm."
-msgstr ""
+msgstr "[_extend_] спокойствие."
 
 # game/events_e.rpy:435 #-#-# translate crowdin ebdLookForE_d969f75e:
 msgid "[_extend_] [mc]."
-msgstr ""
+msgstr "[_extend_] [mc]. "
 
 # game/events_e.rpy:436 #-#-# translate crowdin ebdLookForE_275e6ea4:
 msgid "[_t_] {size=-10}Would you shut the door already or are you going to peep on me forever?{/size}"
-msgstr ""
+msgstr "[_t_] {size=-10}Ты, может, закроешь дверь или будешь пялиться вечно?{/size}"
 
 # game/events_e.rpy:437 #-#-# translate crowdin ebdLookForE_954d675c:
 msgid "[_mcthink_] FUCK!"
-msgstr ""
+msgstr "[_mcthink_] БЛЯДЬ!"
 
 # game/events_e.rpy:442 #-#-# translate crowdin eKitten_4ccf8bb0:
 msgid "[_mcthink_] I hope she doesn't have a hangover as bad as [m]..."
-msgstr ""
+msgstr "[_mcthink_] Надеюсь, у нее не будет похмелья, как у [m]..."
 
 # game/events_e.rpy:443 #-#-# translate crowdin eKitten_a490b195:
 msgid "Voice [special_delimiter] {size=-10}Nya!{/size}"
-msgstr ""
+msgstr "Voice [special_delimiter] {size=-10}Няя!{/size}"
 
 # game/events_e.rpy:444 #-#-# translate crowdin eKitten_6dbfa288:
 msgid "[_mcthink_] Huh? What was that?"
-msgstr ""
+msgstr "[_mcthink_] А? Чё за?"
 
 # game/events_e.rpy:445 #-#-# translate crowdin eKitten_750ee628:
 msgid "Voice [special_delimiter] {size=-10}Nya nya nya...{/size}"
-msgstr ""
+msgstr "Voice [special_delimiter] {size=-10}Ня ня ня...{/size}"
 
 # game/events_e.rpy:446 #-#-# translate crowdin eKitten_aeda453d:
 msgid "[_mcthink_] Is that [e]?"
-msgstr ""
+msgstr "[_mcthink_] Это [e]?"
 
 # game/events_e.rpy:447 #-#-# translate crowdin eKitten_b5de9b13:
 msgid "[_e_] {size=-10}Nyaaa...{/size}"
-msgstr ""
+msgstr "[_e_]{size=-10}Няяя...{/size}"
 
 # game/events_e.rpy:448 #-#-# translate crowdin eKitten_a42aba90:
 msgid "[_mcthink_] Well that's interesting..."
-msgstr ""
+msgstr "[_mcthink_] О, интересненько..."
 
 # game/events_e.rpy:449 #-#-# translate crowdin eKitten_c9519318:
 msgid "[_mcthink_] I guess it's time for a..."
-msgstr ""
+msgstr "[_mcthink_] Похоже, время для..."
 
 # game/events_e.rpy:452 #-#-# translate crowdin eKitten_94d183bb:
 msgid "[_mc_] SURPRISE ATTACK! [withhpunch]"
-msgstr ""
+msgstr "[_mc_] ВНЕЗАПНОЙ АТАКИ! [withhpunch]"
 
 # game/events_e.rpy:454 #-#-# translate crowdin eKitten_f76a2d84:
 msgid "[_e_] {cps=20}NYAAAAAA!!{/cps}"
-msgstr ""
+msgstr "[_e_]{cps=20}НЯЯЯЯЯЯ!!{/cps}"
 
 # game/events_e.rpy:455 #-#-# translate crowdin eKitten_8aef7132:
 msgid "[_mc_] Haha, gotya!"
-msgstr ""
+msgstr "[_mc_] Ха-ха, попалась!"
 
 # game/events_e.rpy:456 #-#-# translate crowdin eKitten_cc8d0386:
 msgid "[_e_] HNN!"
@@ -958,107 +958,107 @@ msgstr "[_e_] HNN!"
 
 # game/events_e.rpy:458 #-#-# translate crowdin eKitten_b5be68bf:
 msgid "[_mc_] Hey, cute outfit! Is this your present from [j]?"
-msgstr ""
+msgstr "[_mc_] Эй, милый прикид! Это подарок от [j]?"
 
 # game/events_e.rpy:459 #-#-# translate crowdin eKitten_195237dc:
 msgid "[_e_] ?!"
-msgstr ""
+msgstr "[_e_] ?!"
 
 # game/events_e.rpy:461 #-#-# translate crowdin eKitten_d195ccda:
 msgid "[_mc_] So that's why you where making these cute anime cat noises..."
-msgstr ""
+msgstr "[_mc_] Так вот почему ты мяукала тут по-анимешному..."
 
 # game/events_e.rpy:463 #-#-# translate crowdin eKitten_e9c6b621:
 msgid "[_mc_] Come on, do it again."
-msgstr ""
+msgstr "[_mc_] Давай, сделай это еще разок."
 
 # game/events_e.rpy:464 #-#-# translate crowdin eKitten_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:465 #-#-# translate crowdin eKitten_9537746d:
 msgid "[_mc_] Haha, no need to be embarrassed [e], I've heard you anyway and it was actually really cute."
-msgstr ""
+msgstr "[_mc_] Не стесняйся [e], я все равно уже тебя слышал, и это было миленько."
 
 # game/events_e.rpy:466 #-#-# translate crowdin eKitten_72a33094_1:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:467 #-#-# translate crowdin eKitten_5684a0d4:
 msgid "[_mc_] Come on [e], or do I have to tickle your cat ears?"
-msgstr ""
+msgstr "[_mc_] Ну давай [e], или мне тебя за кошачьими ушками почесать?"
 
 # game/events_e.rpy:469 #-#-# translate crowdin eKitten_18fb8869:
 msgid "[_e_] Nnn..."
-msgstr ""
+msgstr "[_e_] Ммм..."
 
 # game/events_e.rpy:470 #-#-# translate crowdin eKitten_7a0d4510:
 msgid "[_mc_] ...or maybe the tail?"
-msgstr ""
+msgstr "[_mc_]... или, может, хвостик?"
 
 # game/events_e.rpy:472 #-#-# translate crowdin eKitten_ea4c64ae:
 msgid "[_e_] Nnn!"
-msgstr ""
+msgstr "[_e_] Ммм!"
 
 # game/events_e.rpy:474 #-#-# translate crowdin eKitten_42e616c7:
 msgid "[_mc_] You won't escape me!"
-msgstr ""
+msgstr "[_mc_] От меня не убежишь!"
 
 # game/events_e.rpy:476 #-#-# translate crowdin eKitten_16425dd4:
 msgid "[_e_] NYAAA!!"
-msgstr ""
+msgstr "[_e_] НЯЯЯЯЯ!!"
 
 # game/events_e.rpy:478 #-#-# translate crowdin eKitten_6e4ec503:
 msgid "[_mc_] What the?!"
-msgstr ""
+msgstr "[_mc_] Какого?!"
 
 # game/events_e.rpy:479 #-#-# translate crowdin eKitten_e28f27c5:
 msgid "[_e_] NNNNaaah..."
-msgstr ""
+msgstr "[_e_] ННННяяяя..."
 
 # game/events_e.rpy:480 #-#-# translate crowdin eKitten_b8b3b730:
 msgid "[_mcthink_] Don't tell me this is..."
-msgstr ""
+msgstr "[_mcthink_] Не говорите мне, что это..."
 
 # game/events_e.rpy:482 #-#-# translate crowdin eKitten_dbf56cc9:
 msgid "[_mcthink_] Shit..."
-msgstr ""
+msgstr "[_mcthink_] Черт..."
 
 # game/events_e.rpy:483 #-#-# translate crowdin eKitten_99093faf:
 msgid "[_mc_] ...a plug?!"
-msgstr ""
+msgstr "[_mc_] ...затычка?!"
 
 # game/events_e.rpy:485 #-#-# translate crowdin eKitten_a0b0d43d:
 msgid "[_mcthink_] So that's what [j] meant with the \"secret\" present yesterday... who would have guessed..."
-msgstr ""
+msgstr "[_mcthink_] Так вот что [j] имела в виду под \"секретным\" подарком вчера... кто бы мог подумать..."
 
 # game/events_e.rpy:486 #-#-# translate crowdin eKitten_93bf6ff1:
 msgid "[_mc_] That's fucking naughty... haha."
-msgstr ""
+msgstr "[_mc_] Это пиздец как нехорошо... хаха."
 
 # game/events_e.rpy:488 #-#-# translate crowdin eKitten_1395e551:
 msgid "[_e_] HN!"
-msgstr ""
+msgstr "[_e_] ММ!"
 
 # game/events_e.rpy:489 #-#-# translate crowdin eKitten_5a883dd1:
 msgid "[_mc_] Whoa, hey. Wait a minute!"
-msgstr ""
+msgstr "[_mc_] Эй, эй. Погоди минутку!"
 
 # game/events_e.rpy:491 #-#-# translate crowdin eKitten_5a42c9d0:
 msgid "[_mc_] If you want it back, I want you to say \"Nya\" for me."
-msgstr ""
+msgstr "[_mc_] Если хочешь это назад, скажи мне \"Ня\"."
 
 # game/events_e.rpy:493 #-#-# translate crowdin eKitten_200d9606:
 msgid "[_e_] ...NYAA!!"
-msgstr ""
+msgstr "[_e_] ...НЯЯ!!"
 
 # game/events_e.rpy:495 #-#-# translate crowdin eKitten_0eb53f4d:
 msgid "[_mc_] Fuuuck! [withhpunch]"
-msgstr ""
+msgstr "[_mc_] Бляяя![withhpunch]"
 
 # game/events_e.rpy:497 #-#-# translate crowdin eKitten_656e7ab6:
 msgid "[_mc_] Holy kitty attack..."
-msgstr ""
+msgstr "[_mc_] Святая кошачья атака..."
 
 # game/events_e.rpy:499 #-#-# translate crowdin eKitten_be8d3b3c:
 msgid "[_e_] Khehe..."
@@ -1070,79 +1070,79 @@ msgstr "[_e_] А!"
 
 # game/events_e.rpy:502 #-#-# translate crowdin eKitten_b2617dca:
 msgid "[_mc_] Haha, nope!"
-msgstr ""
+msgstr "[_mc_] Хаха, не-а!"
 
 # game/events_e.rpy:504 #-#-# translate crowdin eKitten_9bee5006:
 msgid "[_e_] Hn!"
-msgstr ""
+msgstr "[_e_] Мм!"
 
 # game/events_e.rpy:505 #-#-# translate crowdin eKitten_4c4e270a:
 msgid "[_mc_] Come on, one more time..."
-msgstr ""
+msgstr "[_mc_] Давай, еще раз..."
 
 # game/events_e.rpy:507 #-#-# translate crowdin eKitten_72a33094_2:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:509 #-#-# translate crowdin eKitten_9a87df45:
 msgid "[_e_] ...nya?"
-msgstr ""
+msgstr "[_e_] ...ня?"
 
 # game/events_e.rpy:511 #-#-# translate crowdin eKitten_e560e372:
 msgid "[_mc_] ... cuuute~"
-msgstr ""
+msgstr "[_mc_] ... мило~"
 
 # game/events_e.rpy:513 #-#-# translate crowdin eKitten_c8d0beb9:
 msgid "[_e_] Hehe..."
-msgstr ""
+msgstr "[_e_] Хихи..."
 
 # game/events_e.rpy:514 #-#-# translate crowdin eKitten_5a7c19c6:
 msgid "[_e_] Nyaaaa..."
-msgstr ""
+msgstr "[_e_] Няяяя..."
 
 # game/events_e.rpy:515 #-#-# translate crowdin eKitten_213898cb:
 msgid "[_mcthink_] She's so cute..."
-msgstr ""
+msgstr "[_mcthink_] Она такая милая..."
 
 # game/events_e.rpy:516 #-#-# translate crowdin eKitten_72a33094_3:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:518 #-#-# translate crowdin eKitten_64352745:
 msgid "[_mcthink_] So cute..."
-msgstr ""
+msgstr "[_mcthink_] Такая милая..."
 
 # game/events_e.rpy:519 #-#-# translate crowdin eKitten_72a33094_4:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:520 #-#-# translate crowdin eKitten_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:521 #-#-# translate crowdin eKitten_3ad7f9fa:
 msgid "[_mcthink_] Damn it!"
-msgstr ""
+msgstr "[_mcthink_] Да блин!"
 
 # game/events_e.rpy:522 #-#-# translate crowdin eKitten_a6b6c93e:
 msgid "[_mcthink_] She's not my sister, so who cares..."
-msgstr ""
+msgstr "[_mcthink_] Она не моя сестра, так что кого волнует..."
 
 # game/events_e.rpy:524 #-#-# translate crowdin eKitten_1b97765e:
 msgid "[_mc_] I don't care..."
-msgstr ""
+msgstr "[_mc_] Лично меня - нет..."
 
 # game/events_e.rpy:528 #-#-# translate crowdin eKitten_7a9c7117:
 msgid "[_e_] Unn..."
-msgstr ""
+msgstr "[_e_] Ммм..."
 
 # game/events_e.rpy:533 #-#-# translate crowdin eKitten_56c49b5a:
 msgid "[_e_] Nyahaha!"
-msgstr ""
+msgstr "[_e_] Няхаха!"
 
 # game/events_e.rpy:534 #-#-# translate crowdin eKitten_3c16f4da:
 msgid "[_mc_] Whoa, hey, that's not fair!"
-msgstr ""
+msgstr "[_mc_] Оу, эй, это нечестно!"
 
 # game/events_e.rpy:536 #-#-# translate crowdin eKitten_3fa6b1c9:
 msgid "[_e_] Khehehe."
@@ -1150,107 +1150,107 @@ msgstr "[_e_] Кхехехе."
 
 # game/events_e.rpy:539 #-#-# translate crowdin eKitten_adffea2c:
 msgid "[_mc_] Little cheater!"
-msgstr ""
+msgstr "[_mc_] Маленькая обманщица!"
 
 # game/events_e.rpy:543 #-#-# translate crowdin eKitten_9a94daf4:
 msgid "[_mc_] Alright, you better get changed now, [m] asked me to get you for dinner, and I'm not sure how she would react if you show up like this..."
-msgstr ""
+msgstr "[_mc_] Ладно, лучше переоденься, [m] просила меня позвать тебя на ужин, и я не знаю, что она скажет, если ты придешь в таком виде..."
 
 # game/events_e.rpy:544 #-#-# translate crowdin eKitten_463fd4ab:
 msgid "[_e_] ...nya."
-msgstr ""
+msgstr "[_e_] ..ня."
 
 # game/events_e.rpy:545 #-#-# translate crowdin eKitten_e4de79ad:
 msgid "[_mc_] I'll see you in a bit then."
-msgstr ""
+msgstr "[_mc_] Скоро увидимся."
 
 # game/events_e.rpy:547 #-#-# translate crowdin eKitten_d6c2a397:
 msgid "[_mcthink_] Damn, what a surprise..."
-msgstr ""
+msgstr "[_mcthink_] Блин, ничего себе сюрприз..."
 
 # game/events_e.rpy:549 #-#-# translate crowdin eKitten_cfc2e902:
 msgid "[_mcthink_] But I guess I should have expected something like this with a friend like [j]."
-msgstr ""
+msgstr "[_mcthink_] Но мне стоило чего-то ожидать с друзьями, как [j]."
 
 # game/events_e.rpy:550 #-#-# translate crowdin eKitten_89ef9a54:
 msgid "[_mcthink_] Shit, [e] is even naughtier than I thought..."
-msgstr ""
+msgstr "[_mcthink_] Блин, [e] еще более озорная, чем я думал..."
 
 # game/events_e.rpy:555 #-#-# translate crowdin makedinnerwithE_b2fd9451:
 msgid "[_mcthink_] I guess I'm not the only one who expected dinner to be ready..."
-msgstr ""
+msgstr "[_mcthink_] Думаю, я не один с нетерпением ждал ужина..."
 
 # game/events_e.rpy:556 #-#-# translate crowdin makedinnerwithE_4a26ea78:
 msgid "[_mc_] Hey [e]."
-msgstr ""
+msgstr "[_mc_] Привет [e]."
 
 # game/events_e.rpy:558 #-#-# translate crowdin makedinnerwithE_2b40a022:
 msgid "[_e_] Huh?"
-msgstr ""
+msgstr "[_e_] А?"
 
 # game/events_e.rpy:567 #-#-# translate crowdin makedinnerwithE_aadd0180:
 msgid "[_e_] *Smootch*"
-msgstr ""
+msgstr "[_e_]*Поглаживание*"
 
 # game/events_e.rpy:571 #-#-# translate crowdin makedinnerwithE_5d9a2297:
 msgid "[_mc_] Looks like we have to make dinner today."
-msgstr ""
+msgstr "[_mc_] Похоже, мы с тобой сегодня готовим ужин."
 
 # game/events_e.rpy:573 #-#-# translate crowdin makedinnerwithE_a78ec29f:
 msgid "[_mc_] Err... yeah, I guess [m] isn't going to make dinner today..."
-msgstr ""
+msgstr "[_mc_] Эм, да, [m], видимо, сегодня ужинать не будет..."
 
 # game/events_e.rpy:575 #-#-# translate crowdin makedinnerwithE_bb585fc3:
 msgid "[_mc_] Sorry, that's my fault. I had an argument with her a bit earlier today..."
-msgstr ""
+msgstr "[_mc_] Прости, это я виноват. Немного поругались с ней вчера..."
 
 # game/events_e.rpy:576 #-#-# translate crowdin makedinnerwithE_7e00e9ab:
 msgid "[_mc_] Anyway..."
-msgstr ""
+msgstr "[_mc_] В любом случае..."
 
 # game/events_e.rpy:577 #-#-# translate crowdin makedinnerwithE_9cc4b469:
 msgid "[_mc_] What do you think, should we cook something together?"
-msgstr ""
+msgstr "[_mc_] Как думаешь, сможем что-нибудь вместе приготовить?"
 
 # game/events_e.rpy:579 #-#-# translate crowdin makedinnerwithE_9bee5006:
 msgid "[_e_] Hn!"
-msgstr ""
+msgstr "[_e_] Мм!"
 
 # game/events_e.rpy:582 #-#-# translate crowdin makedinnerwithE_45c48d7b:
 msgid "[_n_] You check the available food and decide to make some noodles."
-msgstr ""
+msgstr "[_n_] Вы проверили доступную еду и решили приготовить лапшу."
 
 # game/events_e.rpy:584 #-#-# translate crowdin makedinnerwithE_6da1ccad:
 msgid "[_mcthink_] Damn, that's a lot to eat..."
-msgstr ""
+msgstr "[_mcthink_] Блин, это слишком много еды..."
 
 # game/events_e.rpy:585 #-#-# translate crowdin makedinnerwithE_a7f2f2e8:
 msgid "[_mc_] How is it?"
-msgstr ""
+msgstr "[_mc_] Ну как?"
 
 # game/events_e.rpy:587 #-#-# translate crowdin makedinnerwithE_1d00ffaa:
 msgid "[_e_] Uhuh!"
-msgstr ""
+msgstr "[_e_] Ухух!"
 
 # game/events_e.rpy:588 #-#-# translate crowdin makedinnerwithE_ec2492cd:
 msgid "[_mc_] Alright, let's eat then."
-msgstr ""
+msgstr "[_mc_] Ладно, давай тогда есть."
 
 # game/events_e.rpy:592 #-#-# translate crowdin makedinnerwithE_1b121f23:
 msgid "[_mc_] Phew, quite spicy..."
-msgstr ""
+msgstr "[_mc_] Фух, довольно острый..."
 
 # game/events_e.rpy:594 #-#-# translate crowdin makedinnerwithE_8dc2d98e:
 msgid "[_mc_] ...don't you think, [e]?"
-msgstr ""
+msgstr "[_mc_] Так ведь, [e]?"
 
 # game/events_e.rpy:595 #-#-# translate crowdin makedinnerwithE_a2067332:
 msgid "[_mc_] PWAHAHA, do you need a bib, [e]?"
-msgstr ""
+msgstr "[_mc_] МХАХАХ, тебе нужен слюнявчик, [e]?"
 
 # game/events_e.rpy:597 #-#-# translate crowdin makedinnerwithE_321634ed:
 msgid "[_mc_] The sauce is all over your face..."
-msgstr ""
+msgstr "[_mc_] У тебя соус по всему лицу..."
 
 # game/events_e.rpy:599 #-#-# translate crowdin makedinnerwithE_c6f1863c:
 msgid "[_mc_] Whoa!"
@@ -1258,299 +1258,299 @@ msgstr "[_mc_] Ого!"
 
 # game/events_e.rpy:601 #-#-# translate crowdin makedinnerwithE_3c456130:
 msgid "[_mc_] Hey, what if I wanted to eat that?"
-msgstr ""
+msgstr "[_mc_] А что если я захочу его съесть?"
 
 # game/events_e.rpy:603 #-#-# translate crowdin makedinnerwithE_e28fe5b2:
 msgid "[_e_] Tee-hee."
-msgstr ""
+msgstr "[_e_] Хи-хи."
 
 # game/events_e.rpy:607 #-#-# translate crowdin makedinnerwithE_2808519c:
 msgid "[_mcthink_] Phew... I'm full..."
-msgstr ""
+msgstr "[_mcthink_] Фух. Я - до краёв..."
 
 # game/events_e.rpy:609 #-#-# translate crowdin makedinnerwithE_54c62a50:
 msgid "[_mc_] [e], you still want more?"
-msgstr ""
+msgstr "[_mc_] [e], еще хочешь?"
 
 # game/events_e.rpy:611 #-#-# translate crowdin makedinnerwithE_dea16caf:
 msgid "[_e_] Uh-uh..."
-msgstr ""
+msgstr "[_e_] Ух-хух..."
 
 # game/events_e.rpy:613 #-#-# translate crowdin makedinnerwithE_845bacdd:
 msgid "[_mcthink_] Oh, she's going to give it to [m]?"
-msgstr ""
+msgstr "[_mcthink_] О, она хочет дать это [m]?"
 
 # game/events_e.rpy:615 #-#-# translate crowdin makedinnerwithE_48cdd89a:
 msgid "[_m_] {size=-10}[e], what are you...?! Oh...{/size}"
-msgstr ""
+msgstr "[_m_] {size=-10}[e], что ты де...?! Ох...{/size}"
 
 # game/events_e.rpy:616 #-#-# translate crowdin makedinnerwithE_2859ad31:
 msgid "[_mcthink_] Hum, I didn't expect [e] to be so caring about her mother..."
-msgstr ""
+msgstr "[_mcthink_] Хм, я не ожидал, что [e] так заботится о матери..."
 
 # game/events_e.rpy:617 #-#-# translate crowdin makedinnerwithE_4666b727:
 msgid "[_m_] {size=-10}Thank you, but I'm not hungry.{/size}"
-msgstr ""
+msgstr "[_m_]{size=-10}Спасибо, но я не голодная.{/size}"
 
 # game/events_e.rpy:619 #-#-# translate crowdin makedinnerwithE_b5466672:
 msgid "[_n_] You can hear the door to [m]'s room closing."
-msgstr ""
+msgstr "[_n_] Вы слышите, как дверь в комнату [m] закрылась."
 
 # game/events_e.rpy:620 #-#-# translate crowdin makedinnerwithE_c3fd0d51:
 msgid "[_mcthink_] Hah, looks like [e] doesn't accept a no as an answer..."
-msgstr ""
+msgstr "[_mcthink_] Ха, похоже [e] не принимает \"нет\" как ответ..."
 
 # game/events_e.rpy:623 #-#-# translate crowdin makedinnerwithE_cc85c724:
 msgid "[_n_] You wait a few minutes for [e] to come back, but she doesn't. After a while you go back to your room and spend the rest of the evening watching some funny videos and finally decide to go to bed..."
-msgstr ""
+msgstr "[_n_] Вы ждете несколько минут возвращения [e], но она не приходит. Спустя немного времени вы идете к себе и остаток вечера смотрите смешные видосики и наконец ложитесь спать..."
 
 # game/events_e.rpy:629 #-#-# translate crowdin eHumpNight5_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
-msgstr ""
+msgstr "[_n_] Ночью [withdissolve]"
 
 # game/events_e.rpy:630 #-#-# translate crowdin eHumpNight5_3b4daaf7:
 msgid "[_m_] [bpc] WHERE IS MY WINE? [withhpunch]"
-msgstr ""
+msgstr "[_m_] [bpc] ГДЕ МОЕ ВИНО? [withhpunch]"
 
 # game/events_e.rpy:631 #-#-# translate crowdin eHumpNight5_80dbab52:
 msgid "[_mc_] Huh? How would I know?"
-msgstr ""
+msgstr "[_mc_] А? Откуда мне-то знать?"
 
 # game/events_e.rpy:632 #-#-# translate crowdin eHumpNight5_38ceb860:
 msgid "[_m_] I KNOW YOU HAVE IT! GIVE IT BACK YOU LITTLE BASTARD!"
-msgstr ""
+msgstr "[_m_] Я ЗНАЮ, ЧТО ОНО У ТЕБЯ! ОТДАЙ, МЕЛКИЙ УБЛЮДОК!"
 
 # game/events_e.rpy:633 #-#-# translate crowdin eHumpNight5_425733e3:
 msgid "[_mc_] I don't have your stupid wine..."
-msgstr ""
+msgstr "[_mc_] Да нет у меня твоего дурацкого вина..."
 
 # game/events_e.rpy:634 #-#-# translate crowdin eHumpNight5_dd5fa9f8:
 msgid "[_m_] Oh, so the bottle just disappeared from the kitchen table by itself? DO YOU THINK I'M STUPID?!"
-msgstr ""
+msgstr "[_m_] Ага, значит, бутылка сама испарилась с кухонного стола? ЗА ДУРУ МЕНЯ ДЕРЖИШЬ?!"
 
 # game/events_e.rpy:635 #-#-# translate crowdin eHumpNight5_ebc0fa33:
 msgid "[_mc_] You mean the bottle you drank before the last one?"
-msgstr ""
+msgstr "[_mc_] Ты про ту бутылку, которую ты выпила предпоследней?"
 
 # game/events_e.rpy:636 #-#-# translate crowdin eHumpNight5_de238c83:
 msgid "[_m_] What?!"
-msgstr ""
+msgstr "[_m_] Чёёё?!"
 
 # game/events_e.rpy:637 #-#-# translate crowdin eHumpNight5_45625b6a:
 msgid "[_mc_] Maybe you should drink a little bit less, then you might actually remember how much you drank..."
-msgstr ""
+msgstr "[_mc_] Наверное, тебе стоит меньше пить, тогда ты будешь запоминать, сколько выпила..."
 
 # game/events_e.rpy:638 #-#-# translate crowdin eHumpNight5_4e2d4e16:
 msgid "[_m_] What did you just say?"
-msgstr ""
+msgstr "[_m_] Чё сказал?"
 
 # game/events_e.rpy:639 #-#-# translate crowdin eHumpNight5_52e4a233:
 msgid "[_m_] Do you think I don't know how much I drink?!"
-msgstr ""
+msgstr "[_m_] Думаешь, я не знаю, сколько выпила?!"
 
 # game/events_e.rpy:640 #-#-# translate crowdin eHumpNight5_9f7e4aa4:
 msgid "[_mc_] Obviously..."
-msgstr ""
+msgstr "[_mc_] Очевидно же..."
 
 # game/events_e.rpy:641 #-#-# translate crowdin eHumpNight5_8a60a841:
 msgid "[_m_] Oh, you will regret saying this! Come here, take your pants off!"
-msgstr ""
+msgstr "[_m_] Ты об этом пожалеешь! Марш сюда, снимай штаны!"
 
 # game/events_e.rpy:643 #-#-# translate crowdin eHumpNight5_553041f5:
 msgid "[_mcthink_] W-What?"
-msgstr ""
+msgstr "[_mcthink_] Че--го?"
 
 # game/events_e.rpy:645 #-#-# translate crowdin eHumpNight5_b42b6009:
 msgid "[_m_] As a punishment, I will suck your cock!"
-msgstr ""
+msgstr "[_m_] В качестве наказания я тебе отсосу!"
 
 # game/events_e.rpy:647 #-#-# translate crowdin eHumpNight5_18bf16a5:
 msgid "[_m_] As a punishment, I will lick your pussy!"
-msgstr ""
+msgstr "[_m_] В качестве наказания я тебе отлижу!"
 
 # game/events_e.rpy:648 #-#-# translate crowdin eHumpNight5_4722f18c:
 msgid "[_mcthink_] What the...!"
-msgstr ""
+msgstr "[_mcthink_] Че за...!"
 
 # game/events_e.rpy:649 #-#-# translate crowdin eHumpNight5_7d9fd67b:
 msgid "[_m_] SHUT UP! You'll regret everything you said once I have... *hmmmph* *slurp*"
-msgstr ""
+msgstr "[_m_] МОЛЧАТЬ! Ты пожалеешь обо всем, что сказал, когда я... *ммммхпрф* *сосет*"
 
 # game/events_e.rpy:653 #-#-# translate crowdin eHumpNight5_r_9b19ae6f:
 msgid "[_mcthink_] What the fuck!"
-msgstr ""
+msgstr "[_mcthink_] Охуеть!"
 
 # game/events_e.rpy:654 #-#-# translate crowdin eHumpNight5_r_1383f788:
 msgid "[_e_] Hmmm... *slurp* *slurp*"
-msgstr ""
+msgstr "[_e_] мммм *чавкает*"
 
 # game/events_e.rpy:655 #-#-# translate crowdin eHumpNight5_r_9029586f:
 msgid "[_mcthink_] Shit, what's going on?!"
-msgstr ""
+msgstr "[_mcthink_] Черт, чё творится-то?!"
 
 # game/events_e.rpy:656 #-#-# translate crowdin eHumpNight5_r_1b5fea38:
 msgid "[_m_] *Slurp*"
-msgstr ""
+msgstr "[_m_] *чавкает*"
 
 # game/events_e.rpy:657 #-#-# translate crowdin eHumpNight5_r_97088a3e:
 msgid "[_mc_] Damn, this feels good..."
-msgstr ""
+msgstr "[_mc_] Блин, хорошо-то как..."
 
 # game/events_e.rpy:658 #-#-# translate crowdin eHumpNight5_r_52d6b73f:
 msgid "[_e_] Hn..."
-msgstr ""
+msgstr "[_e_] Мм..."
 
 # game/events_e.rpy:659 #-#-# translate crowdin eHumpNight5_r_ef4019a8:
 msgid "[_mcthink_] W-Wait, what?"
-msgstr ""
+msgstr "[_mcthink_] Че--го?"
 
 # game/events_e.rpy:661 #-#-# translate crowdin eHumpNight5_r_daae00e4:
 msgid "[_mcthink_] What the hell?"
-msgstr ""
+msgstr "[_mcthink_] Какого черта?"
 
 # game/events_e.rpy:664 #-#-# translate crowdin eHumpNight5_r_76fbaa58:
 msgid "[_mc_] [e]?!"
-msgstr ""
+msgstr "[_mc_][e]?!"
 
 # game/events_e.rpy:668 #-#-# translate crowdin eHumpNight5_r_52ce903d:
 msgid "[_mc_] What are you doing [e]?"
-msgstr ""
+msgstr "[_mc_] Что ты делаешь?"
 
 # game/events_e.rpy:670 #-#-# translate crowdin eHumpNight5_r_6e3b6836:
 msgid "[_e_] Hehe."
-msgstr ""
+msgstr "[_e_] Хи-хи."
 
 # game/events_e.rpy:674 #-#-# translate crowdin eHumpNight5_r_98aa830c:
 msgid "[_mcthink_] Am I still dreaming?"
-msgstr ""
+msgstr "[_mcthink_] Я что, все еще сплю?"
 
 # game/events_e.rpy:676 #-#-# translate crowdin eHumpNight5_r_2cb092fa:
 msgid "[_mcthink_] Shit this is... so hot, I'm so horny, I can't believe it!"
-msgstr ""
+msgstr "[_mcthink_] Черт, это... так круто, я так возбужден, поверить не могу!"
 
 # game/events_e.rpy:677 #-#-# translate crowdin eHumpNight5_r_5cab906b:
 msgid "[_mcthink_] I would've never expected her to do something like this!"
-msgstr ""
+msgstr "[_mcthink_] Я от нее никогда такого не ожидал!"
 
 # game/events_e.rpy:680 #-#-# translate crowdin eHumpNight5_r_f0101653:
 msgid "[_mcthink_] She's clearly inexperienced, but damn..."
-msgstr ""
+msgstr "[_mcthink_] Опыта явно нет, но блин..."
 
 # game/events_e.rpy:682 #-#-# translate crowdin eHumpNight5_r_f92c46fa:
 msgid "[_mcthink_] Wow, she's really good with her tongue..."
-msgstr ""
+msgstr "[_mcthink_] Оу, а с языком она прямо хорошо обращается..."
 
 # game/events_e.rpy:683 #-#-# translate crowdin eHumpNight5_r_962ce38a:
 msgid "[_e_] *Slurp*"
-msgstr ""
+msgstr "[_e_] *чавкает*"
 
 # game/events_e.rpy:685 #-#-# translate crowdin eHumpNight5_r_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_e.rpy:687 #-#-# translate crowdin eHumpNight5_r_dbf56cc9:
 msgid "[_mcthink_] Shit..."
-msgstr ""
+msgstr "[_mcthink_] Черт..."
 
 # game/events_e.rpy:689 #-#-# translate crowdin eHumpNight5_r_2b079e63:
 msgid "[_mc_] Are you sure about this, [e]?"
-msgstr ""
+msgstr "[_mc_] Ты уверена насчет этого, [e]?"
 
 # game/events_e.rpy:691 #-#-# translate crowdin eHumpNight5_r_9bee5006:
 msgid "[_e_] Hn!"
-msgstr ""
+msgstr "[_e_] Мм!"
 
 # game/events_e.rpy:695 #-#-# translate crowdin eHumpNight5_r_6493d6be:
 msgid "[_e_] Haaahn..."
-msgstr ""
+msgstr "[_e_] Няя..."
 
 # game/events_e.rpy:697 #-#-# translate crowdin eHumpNight5_r_3fa6652e:
 msgid "[_mc_] Shit, [e]..."
-msgstr ""
+msgstr "[_mc_] Блин, [e]..."
 
 # game/events_e.rpy:698 #-#-# translate crowdin eHumpNight5_r_559f6c59:
 msgid "[_mcthink_] She just shoved it in..."
-msgstr ""
+msgstr "[_mcthink_] Она просто засунула его в..."
 
 # game/events_e.rpy:703 #-#-# translate crowdin eHumpNight5_r_18fb8869:
 msgid "[_e_] Nnn..."
-msgstr ""
+msgstr "[_e_] Ммм..."
 
 # game/events_e.rpy:711 #-#-# translate crowdin eHumpNight5_r_57ace962:
 msgid "[_mcthink_] God..."
-msgstr ""
+msgstr "[_mcthink_] Господи..."
 
 # game/events_e.rpy:713 #-#-# translate crowdin eHumpNight5_r_a741c8a5:
 msgid "[_extend_]  so tight!"
-msgstr ""
+msgstr "[_extend_] так плотно!"
 
 # game/events_e.rpy:715 #-#-# translate crowdin eHumpNight5_r_a15f96b0:
 msgid "[_extend_]  [e]..."
-msgstr ""
+msgstr "[_extend_] [e]..."
 
 # game/events_e.rpy:716 #-#-# translate crowdin eHumpNight5_r_ba5afc34:
 msgid "[_e_] Nnnh..."
-msgstr ""
+msgstr "[_e_] Мм..."
 
 # game/events_e.rpy:718 #-#-# translate crowdin eHumpNight5_r_f3e02235:
 msgid "[_mc_] Damn, [e], this feels incredible!"
-msgstr ""
+msgstr "[_mc_] Блин, [e], это так невероятно!"
 
 # game/events_e.rpy:719 #-#-# translate crowdin eHumpNight5_r_7e6e776f:
 msgid "[_e_] Hnn... nhnn..."
-msgstr ""
+msgstr "[_e_] Ммм... мммм..."
 
 # game/events_e.rpy:721 #-#-# translate crowdin eHumpNight5_r_5b9e35c6:
 msgid "[_mc_] Shit, I'm going to cum, [e]!"
-msgstr ""
+msgstr "[_mc_] Черт, я кончаю, [e]!"
 
 # game/events_e.rpy:722 #-#-# translate crowdin eHumpNight5_r_a9a510d6:
 msgid "[_e_] Hnnn... haah... [withflash]"
-msgstr ""
+msgstr "[_e_] Мммм... аааа...[withflash]"
 
 # game/events_e.rpy:726 #-#-# translate crowdin eHumpNight5_r_ccfe6e9c:
 msgid "[_e_] Nnnhaaah! [withflash]"
-msgstr ""
+msgstr "[_e_] Мммммааааа! [withflash]"
 
 # game/events_e.rpy:728 #-#-# translate crowdin eHumpNight5_r_848a432b:
 msgid "[_e_] Haa..."
-msgstr ""
+msgstr "[_e_] Хаа..."
 
 # game/events_e.rpy:730 #-#-# translate crowdin eHumpNight5_r_36fcc878:
 msgid "[_e_] *Pant*"
-msgstr ""
+msgstr "[_e_] *пыхтит*"
 
 # game/events_e.rpy:732 #-#-# translate crowdin eHumpNight5_r_c52f5a7a:
 msgid "[_n_] [e] collapses on top of you, she hugs you tightly and softly kisses your neck a few times while still panting heavily."
-msgstr ""
+msgstr "[_n_][e] падает на тебя, крепко обнимает и нежно целует в шею несколько раз, все еще тяжело дыша."
 
 # game/events_e.rpy:734 #-#-# translate crowdin eHumpNight5_r_1b392326:
 msgid "[_mcthink_] Damn, I came right inside her..."
-msgstr ""
+msgstr "[_mcthink_] Черт, я кончил прямо в нее..."
 
 # game/events_e.rpy:736 #-#-# translate crowdin eHumpNight5_r_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_e.rpy:737 #-#-# translate crowdin eHumpNight5_r_a8f8312f:
 msgid "[_mcthink_] Doesn't she want me to pull out?"
-msgstr ""
+msgstr "[_mcthink_] Разве она не хочет, чтобы я вытаскивал?"
 
 # game/events_e.rpy:738 #-#-# translate crowdin eHumpNight5_r_8b99c58d:
 msgid "[_n_] You hug her and softly stroke her back for a while until both of you fall asleep."
-msgstr ""
+msgstr "[_n_] Вы обнимаете ее и тихо поглаживаете ее спину некоторое время, пока вы оба не заснете."
 
 # game/events_e.rpy:748 #-#-# translate crowdin eschool_d6_892b1bb5:
 msgid "[_mcthink_] Looks like it's break time..."
-msgstr ""
+msgstr "[_mcthink_] Похоже, перемена..."
 
 # game/events_e.rpy:750 #-#-# translate crowdin eschool_d6_eff0a42a:
 msgid "[_mcthink_] Not many pupils out here... but it's hot today, so... huh?!"
-msgstr ""
+msgstr "[_mcthink_] Не так много учеников тут... но ведь сегодня жарко, так что... а?!"
 
 # game/events_e.rpy:752 #-#-# translate crowdin eschool_d6_09ce9ab4:
 msgid "[_mcthink_] [e]? She's alone?"
-msgstr ""
+msgstr "[_mcthink_] [e]? Она одна?"
 
 # game/events_e.rpy:754 #-#-# translate crowdin eschool_d6_a741adbb:
 msgid "[_mc_] Hey, [e]!"
@@ -1558,83 +1558,83 @@ msgstr "[_mc_] Эй, [e]!"
 
 # game/events_e.rpy:758 #-#-# translate crowdin eschool_d6_4498bb06:
 msgid "[_mc_] Hey, I'm going for a walk and thought I'd come by and have a look if I see you."
-msgstr ""
+msgstr "[_mc_] Эй, я иду погулять и решил зайти и посмотреть, увижу ли тебя."
 
 # game/events_e.rpy:761 #-#-# translate crowdin eschool_d6_98805c19:
 msgid "[_e_] *Smooch*"
-msgstr ""
+msgstr "[_e_] *гладит*"
 
 # game/events_e.rpy:763 #-#-# translate crowdin eschool_d6_972c6add:
 msgid "[_mc_] Too bad, looks like the break is over already..."
-msgstr ""
+msgstr "[_mc_] Жаль, похоже, перерыв уже кончился..."
 
 # game/events_e.rpy:767 #-#-# translate crowdin eschool_d6_bc41ce09:
 msgid "[_mc_] See you at home, [e]."
-msgstr ""
+msgstr "[_mc_] Увидимся дома, [e]."
 
 # game/events_e.rpy:769 #-#-# translate crowdin eschool_d6_e86e3f9b:
 msgid "[_mcthink_] Well, time to move on..."
-msgstr ""
+msgstr "[_mcthink_] Ну, время двигаться дальше..."
 
 # game/events_e.rpy:776 #-#-# translate crowdin d7_evening_e_17dc783b:
 msgid "[_mcthink_] Hum..."
-msgstr ""
+msgstr "[_mcthink_] Хм..."
 
 # game/events_e.rpy:777 #-#-# translate crowdin d7_evening_e_30c2c674:
 msgid "[_mcthink_] Alright, I think I'll stop for today... I've made some progress at least..."
-msgstr ""
+msgstr "[_mcthink_] Хорошо, думаю, что на сегодня хватит... По крайней мере, продвижение есть..."
 
 # game/events_e.rpy:778 #-#-# translate crowdin d7_evening_e_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:779 #-#-# translate crowdin d7_evening_e_bff1e0c9:
 msgid "[_mcthink_] Hum... maybe I'll watch some VR porn..."
-msgstr ""
+msgstr "[_mcthink_] Хм... может, VR-порно посмотреть..."
 
 # game/events_e.rpy:780 #-#-# translate crowdin d7_evening_e_a1feef41:
 msgid "[_mcthink_] Oh wait, I still need some answers from [m], I should go ask her out first!"
-msgstr ""
+msgstr "[_mcthink_] Подожди, мне еще нужны ответы от [m], мне надо сначала позвать ее на свидание!"
 
 # game/events_e.rpy:782 #-#-# translate crowdin d7_evening_e_2e7510bd:
 msgid "[_mcthink_] Wait, did I give her a pill today?"
-msgstr ""
+msgstr "[_mcthink_] Подождите, я дал ей таблетку сегодня?"
 
 # game/events_e.rpy:784 #-#-# translate crowdin d7_evening_e_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_e.rpy:786 #-#-# translate crowdin d7_evening_e_b929e9b2:
 msgid "[_mc_] Oh hey, err..."
-msgstr ""
+msgstr "[_mc_] О, привет, эмм..."
 
 # game/events_e.rpy:787 #-#-# translate crowdin d7_evening_e_6af44877:
 msgid "[_mcthink_] That catgirl costume again."
-msgstr ""
+msgstr "[_mcthink_] Опять этот костюм девочки-котенка."
 
 # game/events_e.rpy:788 #-#-# translate crowdin d7_evening_e_5ccb24b0:
 msgid "[_mc_] ... Kitten."
-msgstr ""
+msgstr "[_mc_] ... Кис-кис."
 
 # game/events_e.rpy:790 #-#-# translate crowdin d7_evening_e_53fea70b:
 msgid "[_e_] Nya!!"
-msgstr ""
+msgstr "[_e_] Няя!!"
 
 # game/events_e.rpy:792 #-#-# translate crowdin d7_evening_e_47f0ea46:
 msgid "[_mc_] Wha..."
-msgstr ""
+msgstr "[_mc_] Че..."
 
 # game/events_e.rpy:794 #-#-# translate crowdin d7_evening_e_8ee4b356:
 msgid "[_mc_] Umph!"
-msgstr ""
+msgstr "[_mc_] Ух ты!"
 
 # game/events_e.rpy:796 #-#-# translate crowdin d7_evening_e_d21c78e1:
 msgid "[_mcthink_] I guess I won't ask [m] any questions today..."
-msgstr ""
+msgstr "[_mcthink_] Похоже, я у [m] ничего сегодня не спрошу..."
 
 # game/events_e.rpy:799 #-#-# translate crowdin d7_evening_e_8d602797:
 msgid "[_mc_] You really like to assault me out of nowhere, don't you, [e]?"
-msgstr ""
+msgstr "[_mc_] Тебе нравится нападать на меня из ниоткуда, да, [e]?"
 
 # game/events_e.rpy:800 #-#-# translate crowdin d7_evening_e_8de614b1:
 msgid "[_e_] Khehe!"
@@ -1642,31 +1642,31 @@ msgstr "[_e_] Кхехехе!"
 
 # game/events_e.rpy:802 #-#-# translate crowdin d7_evening_e_582359ea:
 msgid "[_mc_] Hm?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_e.rpy:806 #-#-# translate crowdin d7_evening_e_59592220:
 msgid "[_mc_] Do you want to use it?"
-msgstr ""
+msgstr "[_mc_] Хочешь его использовать?"
 
 # game/events_e.rpy:808 #-#-# translate crowdin d7_evening_e_1395e551:
 msgid "[_e_] HN!"
-msgstr ""
+msgstr "[_e_] ММ!"
 
 # game/events_e.rpy:810 #-#-# translate crowdin d7_evening_e_84f16542:
 msgid "[_mc_] Okay..."
-msgstr ""
+msgstr "[_mc_] Ладно..."
 
 # game/events_e.rpy:811 #-#-# translate crowdin d7_evening_e_24e2e73a:
 msgid "[_mc_] But no porn!"
-msgstr ""
+msgstr "[_mc_] Но никакого порно!"
 
 # game/events_e.rpy:813 #-#-# translate crowdin d7_evening_e_1da7971d:
 msgid "[_e_] Unh..."
-msgstr ""
+msgstr "[_e_] Уххх..."
 
 # game/events_e.rpy:814 #-#-# translate crowdin d7_evening_e_d93af161:
 msgid "[_mc_] Arf... fine, you're old enough anyway..."
-msgstr ""
+msgstr "[_mc_] Ррр... Ладно, ты уже достаточно взрослая..."
 
 # game/events_e.rpy:816 #-#-# translate crowdin d7_evening_e_3fa6b1c9:
 msgid "[_e_] Khehehe."
@@ -1674,151 +1674,151 @@ msgstr "[_e_] Кхехехе."
 
 # game/events_e.rpy:819 #-#-# translate crowdin d7_evening_e_0445b44a:
 msgid "[_e_] Whoooo!"
-msgstr ""
+msgstr "[_e_] Ву-ху!"
 
 # game/events_e.rpy:821 #-#-# translate crowdin d7_evening_e_6cc64e73:
 msgid "[_mcthink_] Damn, she really likes these lesbian scenes."
-msgstr ""
+msgstr "[_mcthink_] Блин, она так любит эти лесбийские сцены."
 
 # game/events_e.rpy:823 #-#-# translate crowdin d7_evening_e_9d6ed293:
 msgid "[_mcthink_] Damn, she's really into that stuff."
-msgstr ""
+msgstr "[_mcthink_] Черт, она действительно в этом деле."
 
 # game/events_e.rpy:825 #-#-# translate crowdin d7_evening_e_1f939a1a:
 msgid "[_mcthink_] Hum, isn't that the scene where the camera suddenly shakes for a few seconds?"
-msgstr ""
+msgstr "[_mcthink_] Хм, а это не та сцена, где камера неожиданно трясется несколько секунд?"
 
 # game/events_e.rpy:827 #-#-# translate crowdin d7_evening_e_b84c4489:
 msgid "[_e_] Ugh uhhh..."
-msgstr ""
+msgstr "[_e_] Ух-хух..."
 
 # game/events_e.rpy:828 #-#-# translate crowdin d7_evening_e_ae9e12ac:
 msgid "[_mcthink_] Yep, it is."
-msgstr ""
+msgstr "[_mcthink_] Да, точно."
 
 # game/events_e.rpy:830 #-#-# translate crowdin d7_evening_e_03de4f2a:
 msgid "[_mc_] Whoa, hold tight, [e]! [withhpunch]"
-msgstr ""
+msgstr "[_mc_] Ух, держись крепче, [e]! [withhpunch]"
 
 # game/events_e.rpy:832 #-#-# translate crowdin d7_evening_e_e792b68b:
 msgid "[_e_] Uhhh..."
-msgstr ""
+msgstr "[_e_] Уххх..."
 
 # game/events_e.rpy:833 #-#-# translate crowdin d7_evening_e_9f918409:
 msgid "[_mc_] Haha, looks like it was a bit too much."
-msgstr ""
+msgstr "[_mc_] Хаха, похоже, это было чутка чересчур."
 
 # game/events_e.rpy:835 #-#-# translate crowdin d7_evening_e_8d18633d:
 msgid "[_e_] Unnnh..."
-msgstr ""
+msgstr "[_e_] Ухххх..."
 
 # game/events_e.rpy:836 #-#-# translate crowdin d7_evening_e_248e6977:
 msgid "[_mc_] Don't worry, it'll stop in a few seconds."
-msgstr ""
+msgstr "[_mc_] Не волнуйся, это прекратится через несколько секунд."
 
 # game/events_e.rpy:838 #-#-# translate crowdin d7_evening_e_ed95c37f:
 msgid "[_n_] After a while..."
-msgstr ""
+msgstr "[_n_] Вскоре..."
 
 # game/events_e.rpy:840 #-#-# translate crowdin d7_evening_e_a686c5ad:
 msgid "[_mcthink_] Hum... she's fallen asleep..."
-msgstr ""
+msgstr "[_mcthink_] Хмм... она уснула..."
 
 # game/events_e.rpy:842 #-#-# translate crowdin d7_evening_e_98270c19:
 msgid "[_mcthink_] Looks like it hit her a bit harder then I'd have expected..."
-msgstr ""
+msgstr "[_mcthink_] Похоже, она набралась сильнее, чем я думал..."
 
 # game/events_e.rpy:843 #-#-# translate crowdin d7_evening_e_e4166c3e:
 msgid "[_e_] {size=-10}Hnnn...{/size}"
-msgstr ""
+msgstr "[_e_]{size=-10}ммм...{/size}"
 
 # game/events_e.rpy:844 #-#-# translate crowdin d7_evening_e_de54bd6f:
 msgid "[_mc_] ...Cutie..."
-msgstr ""
+msgstr "[_mc_] ...Милашка..."
 
 # game/events_e.rpy:845 #-#-# translate crowdin d7_evening_e_249dde85:
 msgid "[_mcthink_] I guess I should take her to bed..."
-msgstr ""
+msgstr "[_mcthink_] Похоже, надо ее в постель отнести..."
 
 # game/events_e.rpy:851 #-#-# translate crowdin d7_evening_e_689bbee5:
 msgid "[_mcthink_] ...she's so cute..."
-msgstr ""
+msgstr "[_mcthink_] ...она такая милая..."
 
 # game/events_e.rpy:856 #-#-# translate crowdin d7_evening_e_689bbee5_1:
 msgid "[_mcthink_] ...she's so cute..."
-msgstr ""
+msgstr "[_mcthink_] ...она такая милая..."
 
 # game/events_e.rpy:859 #-#-# translate crowdin d7_evening_e_8b76ea0e:
 msgid "[_mcthink_] Well, I guess I should get some sleep too..."
-msgstr ""
+msgstr "[_mcthink_] Думаю, мне тоже спать пора..."
 
 # game/events_e.rpy:860 #-#-# translate crowdin d7_evening_e_41792d1d:
 msgid "[_mc_] Good night, sweetie..."
-msgstr ""
+msgstr "[_mc_] Спокойной ночи, милая..."
 
 # game/events_e.rpy:869 #-#-# translate crowdin d8_etalk_ca928d31:
 msgid "[_mc_] Hey [e], there's something we should talk about."
-msgstr ""
+msgstr "[_mc_] Эй [e], есть разговор."
 
 # game/events_e.rpy:871 #-#-# translate crowdin d8_etalk_bcdf8669:
 msgid "[_mc_] I'm sure [j] told you about her situation..."
-msgstr ""
+msgstr "[_mc_] Думаю, [j] уже рассказала о своей ситуации..."
 
 # game/events_e.rpy:872 #-#-# translate crowdin d8_etalk_9bee5006:
 msgid "[_e_] Hn!"
-msgstr ""
+msgstr "[_e_] Мм!"
 
 # game/events_e.rpy:874 #-#-# translate crowdin d8_etalk_3f4e2618:
 msgid "[_mc_] Good... well I was thinking that... maybe she could live here for a while... with us."
-msgstr ""
+msgstr "[_mc_] Хорошо... Я вот подумал... может, она бы могла пожить... у нас."
 
 # game/events_e.rpy:875 #-#-# translate crowdin d8_etalk_1395e551:
 msgid "[_e_] HN!"
-msgstr ""
+msgstr "[_e_] ММ!"
 
 # game/events_e.rpy:877 #-#-# translate crowdin d8_etalk_252f17df:
 msgid "[_mc_] Oh she told you about it already?"
-msgstr ""
+msgstr "[_mc_] А, она уже говорила с тобой об этом?"
 
 # game/events_e.rpy:878 #-#-# translate crowdin d8_etalk_587e6ebd:
 msgid "[_e_] Nhn!"
-msgstr ""
+msgstr "[_e_] Ммм!"
 
 # game/events_e.rpy:879 #-#-# translate crowdin d8_etalk_11e3c8ea:
 msgid "[_mc_] Ha, of course she did."
-msgstr ""
+msgstr "[_mc_] Ну да, конечно, говорила."
 
 # game/events_e.rpy:881 #-#-# translate crowdin d8_etalk_81bedd9e:
 msgid "[_mc_] Well, I told her I'll ask [m], but I'm also asking you. I don't want her to live here if you're not okay with it..."
-msgstr ""
+msgstr "[_mc_] В общем, я сказал, что спрошу [m], но и тебя тоже спрашиваю. Не хочу, чтобы она жила здесь, если вы против..."
 
 # game/events_e.rpy:882 #-#-# translate crowdin d8_etalk_10d0fccf:
 msgid "[_mc_] I know you're friends, but I also know that she can be a bit annoying at times, so if you don't want her to live here, you can tell me."
-msgstr ""
+msgstr "[_mc_] Я знаю, что вы друзья, но еще я знаю, как она может раздражать, так что если вы против, просто скажите мне."
 
 # game/events_e.rpy:883 #-#-# translate crowdin d8_etalk_836b39ba:
 msgid "[_mc_] So, what do you think, should we let her live with us for a while?"
-msgstr ""
+msgstr "[_mc_] Так что скажете, дадим ей пожить с нами?"
 
 # game/events_e.rpy:886 #-#-# translate crowdin d8_etalk_ea4c64ae:
 msgid "[_e_] Nnn!"
-msgstr ""
+msgstr "[_e_] Ммм!"
 
 # game/events_e.rpy:887 #-#-# translate crowdin d8_etalk_272b6391:
 msgid "[_mc_] Err... just to make sure, you're okay with her staying here?"
-msgstr ""
+msgstr "[_mc_] Эммм... просто чтобы убедиться, вы за то, чтобы она осталась?"
 
 # game/events_e.rpy:888 #-#-# translate crowdin d8_etalk_9a87cbd7:
 msgid "[_e_] HNNN!"
-msgstr ""
+msgstr "[_e_] ММММ!"
 
 # game/events_e.rpy:893 #-#-# translate crowdin d8_etalk_4892ad1e:
 msgid "[_n_] She nods in a very exaggerated way to make sure that you really get it."
-msgstr ""
+msgstr "[_n_] Она сильно закивала головой, чтобы вы точно ее поняли."
 
 # game/events_e.rpy:894 #-#-# translate crowdin d8_etalk_67756ae4:
 msgid "[_mc_] Haha, okay I get!"
-msgstr ""
+msgstr "[_mc_] Хаха, я понял!"
 
 # game/events_e.rpy:896 #-#-# translate crowdin d8_etalk_93227c0c:
 msgid "[_e_] Khehe."
@@ -1826,27 +1826,27 @@ msgstr "[_e_] Кхехехе."
 
 # game/events_e.rpy:897 #-#-# translate crowdin d8_etalk_6476d8e4:
 msgid "[_mc_] So now we only have to convince [m]... which might not be so easy..."
-msgstr ""
+msgstr "[_mc_] Теперь надо убедить [m]... что может быть нелегко..."
 
 # game/events_e.rpy:898 #-#-# translate crowdin d8_etalk_fbade8c1:
 msgid "[_mc_] You don't happen to know anything that could convince her?"
-msgstr ""
+msgstr "[_mc_] Ты случайно не знаешь, как ее убедить?"
 
 # game/events_e.rpy:900 #-#-# translate crowdin d8_etalk_de828ddd:
 msgid "[_e_] Hum..."
-msgstr ""
+msgstr "[_e_] Хмм..."
 
 # game/events_e.rpy:903 #-#-# translate crowdin d8_etalk_2284960a:
 msgid "[_e_] Mwhaa"
-msgstr ""
+msgstr "[_e_] Хмммм"
 
 # game/events_e.rpy:905 #-#-# translate crowdin d8_etalk_9e3ccd85:
 msgid "[_mc_] Wait a minute, that gives me an idea..."
-msgstr ""
+msgstr "[_mc_] Подожди минутку, есть идея..."
 
 # game/events_e.rpy:906 #-#-# translate crowdin d8_etalk_864f5fc2:
 msgid "[_mc_] I think I should go talk to [m] now, thanks [e]."
-msgstr ""
+msgstr "[_mc_] Пойду поговорю с [m], спасибо [e]."
 
 # game/events_e.rpy:907 #-#-# translate crowdin d8_etalk_93227c0c_1:
 msgid "[_e_] Khehe."
@@ -1854,23 +1854,23 @@ msgstr "[_e_] Кхехехе."
 
 # game/events_e.rpy:914 #-#-# translate crowdin d9_ebathroom_5e052277:
 msgid "[_mcthink_] ...time to get out."
-msgstr ""
+msgstr "[_mcthink_] ... время выйти."
 
 # game/events_e.rpy:918 #-#-# translate crowdin d9_ebathroom_4711d07b:
 msgid "[_mcthink_] Hm? [e]?"
-msgstr ""
+msgstr "[_mcthink_] А? [e]?"
 
 # game/events_e.rpy:920 #-#-# translate crowdin d9_ebathroom_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:922 #-#-# translate crowdin d9_ebathroom_8b993db7:
 msgid "[_mcthink_] Doesn't she notice me?"
-msgstr ""
+msgstr "[_mcthink_] Она меня даже не заметила?"
 
 # game/events_e.rpy:926 #-#-# translate crowdin d9_ebathroom_ca3af21d:
 msgid "[_mc_] Ahem!"
-msgstr ""
+msgstr "[_mc_] Кхм!"
 
 # game/events_e.rpy:928 #-#-# translate crowdin d9_ebathroom_d593d4b0:
 msgid "[_e_] Eh?"
@@ -1882,7 +1882,7 @@ msgstr "[_mc_] Доброе утро [e]..."
 
 # game/events_e.rpy:933 #-#-# translate crowdin d9_ebathroom_0972c153:
 msgid "[_mc_] Erm..."
-msgstr ""
+msgstr "[_mc_] Эмм..."
 
 # game/events_e.rpy:936 #-#-# translate crowdin d9_ebathroom_d593d4b0_1:
 msgid "[_e_] Eh?"
@@ -1890,63 +1890,63 @@ msgstr "[_e_] А?"
 
 # game/events_e.rpy:937 #-#-# translate crowdin d9_ebathroom_2e02e516:
 msgid "[_mc_] Morning [e], I was wondering when you'd notice me, haha."
-msgstr ""
+msgstr "[_mc_] Доброе утро [e], все ждал, когда ты меня заметишь, хехе."
 
 # game/events_e.rpy:941 #-#-# translate crowdin d9_ebathroom_98805c19:
 msgid "[_e_] *Smooch*"
-msgstr ""
+msgstr "[_e_] *гладит*"
 
 # game/events_e.rpy:946 #-#-# translate crowdin d9_ebathroom_07e7357b:
 msgid "[_mcthink_] Wow, she was still half asleep..."
-msgstr ""
+msgstr "[_mcthink_] Оу, она все еще наполовину спит..."
 
 # game/events_e.rpy:948 #-#-# translate crowdin d9_ebathroom_2e41202a:
 msgid "[_mcthink_] Anyway, let's get ready for the day."
-msgstr ""
+msgstr "[_mcthink_] В любом случае, давайте подготовимся к дню."
 
 # game/events_e.rpy:950 #-#-# translate crowdin d9_ebathroom_f0f72c75:
 msgid "[_n_] You get dressed and go to the living room where the others have already started their breakfast."
-msgstr ""
+msgstr "[_n_] Вы оделись и пошли в гостиную, где остальные уже начали завтракать."
 
 # game/events_e.rpy:957 #-#-# translate crowdin d9_pcroom_e01_5984ed7b:
 msgid "[_mcthink_] Alright, I guess I should look for..."
-msgstr ""
+msgstr "[_mcthink_] Ладно, нужно поискать..."
 
 # game/events_e.rpy:959 #-#-# translate crowdin d9_pcroom_e01_134bdf68:
 msgid "[_mcthink_] Huh? What the..."
-msgstr ""
+msgstr "[_mcthink_] Ой? Что это за..."
 
 # game/events_e.rpy:960 #-#-# translate crowdin d9_pcroom_e01_90fb2234:
 msgid "[_mc_] [e]?"
-msgstr ""
+msgstr "[_mc_][e]?"
 
 # game/events_e.rpy:961 #-#-# translate crowdin d9_pcroom_e01_589d6261:
 msgid "[_mcthink_] What's she doing?"
-msgstr ""
+msgstr "[_mcthink_] Что она делает?"
 
 # game/events_e.rpy:963 #-#-# translate crowdin d9_pcroom_e01_2fdf0376:
 msgid "[_mc_] [e] are you alright?"
-msgstr ""
+msgstr "[_mc_][e] ты в порядке?"
 
 # game/events_e.rpy:965 #-#-# translate crowdin d9_pcroom_e01_ceb2e0ba:
 msgid "[_mcthink_] Oh, I get it, she's trying to prank me again."
-msgstr ""
+msgstr "[_mcthink_] А, понял, она опять пытается подшутить надо мной."
 
 # game/events_e.rpy:967 #-#-# translate crowdin d9_pcroom_e01_dcd86f14:
 msgid "[_mcthink_] But not this time!"
-msgstr ""
+msgstr "[_mcthink_] Но не в этот раз!"
 
 # game/events_e.rpy:970 #-#-# translate crowdin d9_pcroom_e01_dcb4aec9:
 msgid "[_n_] *SMACK*"
-msgstr ""
+msgstr "[_n_]*хлопок*"
 
 # game/events_e.rpy:972 #-#-# translate crowdin d9_pcroom_e01_a03f5e6c:
 msgid "[_e_] WHAAA!"
-msgstr ""
+msgstr "[_e_] НЯЯЯЯЯ!"
 
 # game/events_e.rpy:974 #-#-# translate crowdin d9_pcroom_e01_8aef7132:
 msgid "[_mc_] Haha, gotya!"
-msgstr ""
+msgstr "[_mc_] Ха-ха, попалась!"
 
 # game/events_e.rpy:975 #-#-# translate crowdin d9_pcroom_e01_cc8d0386:
 msgid "[_e_] HNN!"
@@ -1954,63 +1954,63 @@ msgstr "[_e_] HNN!"
 
 # game/events_e.rpy:976 #-#-# translate crowdin d9_pcroom_e01_1eb5f038:
 msgid "[_mc_] What? Are you mad that I didn't fall for your little prank? You won't get me so easy anymore."
-msgstr ""
+msgstr "[_mc_] Что? Злишься, что я не поддался на твой маленький розыгрыш? Я больше не поведусь так легко."
 
 # game/events_e.rpy:978 #-#-# translate crowdin d9_pcroom_e01_b12a297a:
 msgid "[_e_] Mmmmm!"
-msgstr ""
+msgstr "[_e_] Мхмм!"
 
 # game/events_e.rpy:979 #-#-# translate crowdin d9_pcroom_e01_693fdd56:
 msgid "[_mc_] Haha, you're cute."
-msgstr ""
+msgstr "[_mc_] Хаха, ты милая."
 
 # game/events_e.rpy:981 #-#-# translate crowdin d9_pcroom_e01_3ca0f6e9:
 msgid "[_mc_] By the way, why are you wearing my shirt?"
-msgstr ""
+msgstr "[_mc_] Кстати, почему ты носишь мою рубашку?"
 
 # game/events_e.rpy:983 #-#-# translate crowdin d9_pcroom_e01_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:984 #-#-# translate crowdin d9_pcroom_e01_d87588d8:
 msgid "[_mc_] Speak up young lady, or I'll have to..."
-msgstr ""
+msgstr "[_mc_] Говори, юная леди, а не то я..."
 
 # game/events_e.rpy:986 #-#-# translate crowdin d9_pcroom_e01_65d69d96:
 msgid "[_mc_] Tickle you until you submit! [withhpunch]"
-msgstr ""
+msgstr "[_mc_] Защекочу тебя, пока ты не сдашься! [withhpunch]"
 
 # game/events_e.rpy:988 #-#-# translate crowdin d9_pcroom_e01_b3a08e3e:
 msgid "[_e_] Wha..."
-msgstr ""
+msgstr "[_e_] Хаа..."
 
 # game/events_e.rpy:990 #-#-# translate crowdin d9_pcroom_e01_74a7a7ab:
 msgid "[_e_] Hahahahaha!"
-msgstr ""
+msgstr "[_e_] Хахахаха!"
 
 # game/events_e.rpy:991 #-#-# translate crowdin d9_pcroom_e01_d598c365:
 msgid "[_mc_] WHOA!"
-msgstr ""
+msgstr "[_mc_] Че!"
 
 # game/events_e.rpy:994 #-#-# translate crowdin d9_pcroom_e01_7b4b2ccf:
 msgid "[_mc_] Ouch..."
-msgstr ""
+msgstr "[_mc_] Ой..."
 
 # game/events_e.rpy:996 #-#-# translate crowdin d9_pcroom_e01_5916f987:
 msgid "[_e_] Hnn..."
-msgstr ""
+msgstr "[_e_] Ммм..."
 
 # game/events_e.rpy:998 #-#-# translate crowdin d9_pcroom_e01_9b9d9591:
 msgid "[_mcthink_] Uff, she's heavier than she looks."
-msgstr ""
+msgstr "[_mcthink_] Уххх, она тяжелее, чем кажется."
 
 # game/events_e.rpy:1000 #-#-# translate crowdin d9_pcroom_e01_609b26be:
 msgid "[_e_] Mmmmh..."
-msgstr ""
+msgstr "[_e_] Мхмм..."
 
 # game/events_e.rpy:1002 #-#-# translate crowdin d9_pcroom_e01_22ea82b8:
 msgid "[_mc_] Cutie..."
-msgstr ""
+msgstr "[_mc_]... Милашка..."
 
 # game/events_e.rpy:1004 #-#-# translate crowdin d9_pcroom_e01_fb2e5377:
 msgid "[_mc_] Eh?"
@@ -2018,27 +2018,27 @@ msgstr "[_mc_] А?"
 
 # game/events_e.rpy:1009 #-#-# translate crowdin d9_pcroom_e01_943b6183:
 msgid "[_mcthink_] Oh damn!"
-msgstr ""
+msgstr "[_mcthink_] О чёрт!"
 
 # game/events_e.rpy:1012 #-#-# translate crowdin d9_pcroom_e01_aa040d63:
 msgid "[_mc_] Cute and hot!"
-msgstr ""
+msgstr "[_mc_] Симпатичная и горячая!"
 
 # game/events_e.rpy:1016 #-#-# translate crowdin d9_pcroom_e01_bf2f4cbd:
 msgid "[_mcthink_] Shit, first [j] and now [e] too?"
-msgstr ""
+msgstr "[_mcthink_] Зашел, сначала [j] и теперь [e] тоже?"
 
 # game/events_e.rpy:1019 #-#-# translate crowdin d9_pcroom_e01_83ecf350:
 msgid "[_mcthink_] Damn, okay, I'm rock hard again just from her grinding on it..."
-msgstr ""
+msgstr "[_mcthink_] Черт, ладно, у меня опять каменный только из-за того, что она трется..."
 
 # game/events_e.rpy:1021 #-#-# translate crowdin d9_pcroom_e01_33ff280b:
 msgid "[_mcthink_] Damn, I'm rock hard just from her grinding on it..."
-msgstr ""
+msgstr "[_mcthink_] Черт, ладно, у меня опять каменный только из-за того, что она трется..."
 
 # game/events_e.rpy:1023 #-#-# translate crowdin d9_pcroom_e01_4aaa0914:
 msgid "[_mc_] Hmm, you're so beautiful, [e]."
-msgstr ""
+msgstr "[_mc_] Ты такая красивая, [e]."
 
 # game/events_e.rpy:1024 #-#-# translate crowdin d9_pcroom_e01_be8d3b3c:
 msgid "[_e_] Khehe..."
@@ -2046,63 +2046,63 @@ msgstr "[_e_] Кхехехе..."
 
 # game/events_e.rpy:1029 #-#-# translate crowdin d9_pcroom_e01_72a33094_1:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1035 #-#-# translate crowdin d9_pcroom_e01_120d67b0:
 msgid "[_mcthink_] Oh I know where this is going."
-msgstr ""
+msgstr "[_mcthink_] О, я знаю, к чему это идет."
 
 # game/events_e.rpy:1036 #-#-# translate crowdin d9_pcroom_e01_4c949a83:
 msgid "[_mc_] Give me that cute pussy!"
-msgstr ""
+msgstr "[_mc_] Дай мне эту милую киску!"
 
 # game/events_e.rpy:1039 #-#-# translate crowdin d9_pcroom_e01_2d458537:
 msgid "[_mc_] Look who's all excited already."
-msgstr ""
+msgstr "[_mc_] Посмотрите, кто уже возбужден."
 
 # game/events_e.rpy:1040 #-#-# translate crowdin d9_pcroom_e01_069bf969:
 msgid "[_e_] *Smooch* kehehe."
-msgstr ""
+msgstr "[_e_]*чмок* хехехе."
 
 # game/events_e.rpy:1042 #-#-# translate crowdin d9_pcroom_e01_480e4b44:
 msgid "[_n_] [e] kisses the head of your dick and starts to suck it."
-msgstr ""
+msgstr "[_n_] [e] целует головку своего члена и начинает сосать."
 
 # game/events_e.rpy:1044 #-#-# translate crowdin d9_pcroom_e01_1910c5a9:
 msgid "[_n_] [e] kisses your already moist slit and starts to lick your clit."
-msgstr ""
+msgstr "[_n_] [e] целует твою уже мокрую щелку и начинает лизать твой клитор."
 
 # game/events_e.rpy:1045 #-#-# translate crowdin d9_pcroom_e01_7f0c8c2e:
 msgid "[_mcthink_] Alright, time to taste that honey I guess."
-msgstr ""
+msgstr "[_mcthink_] Хорошо, пора попробовать мед, думаю."
 
 # game/events_e.rpy:1048 #-#-# translate crowdin d9_pcroom_e01_848a0e8e:
 msgid "[_e_] Hnnnn..."
-msgstr ""
+msgstr "[_e_] Ухххх..."
 
 # game/events_e.rpy:1049 #-#-# translate crowdin d9_pcroom_e01_dbde3c75:
 msgid "[_mcthink_] Wait, what's this taste?"
-msgstr ""
+msgstr "[_mcthink_] А, что это?"
 
 # game/events_e.rpy:1050 #-#-# translate crowdin d9_pcroom_e01_25a3d31f:
 msgid "[_e_] ...nnnh."
-msgstr ""
+msgstr "[_e_] ..ня."
 
 # game/events_e.rpy:1051 #-#-# translate crowdin d9_pcroom_e01_977ec534:
 msgid "[_mcthink_] This tastes like..."
-msgstr ""
+msgstr "[_mcthink_] Этот вкус как..."
 
 # game/events_e.rpy:1053 #-#-# translate crowdin d9_pcroom_e01_546ad35c:
 msgid "[_mc_] [e] did you smear honey onto your pussy?"
-msgstr ""
+msgstr "[_mc_] [e] ты свою киску медом намазала?"
 
 # game/events_e.rpy:1054 #-#-# translate crowdin d9_pcroom_e01_d04c5a54:
 msgid "[_e_] Mhmm..."
-msgstr ""
+msgstr "[_e_] Мхмм..."
 
 # game/events_e.rpy:1055 #-#-# translate crowdin d9_pcroom_e01_3565d6bb:
 msgid "[_mc_] Haha, you're crazy!"
-msgstr ""
+msgstr "[_mc_] Хаха, ты сумасшедшая!"
 
 # game/events_e.rpy:1056 #-#-# translate crowdin d9_pcroom_e01_e66e62b7:
 msgid "[_e_] Khehehe!"
@@ -2110,127 +2110,127 @@ msgstr "[_e_] Кхехехе!"
 
 # game/events_e.rpy:1058 #-#-# translate crowdin d9_pcroom_e01_372f6be7:
 msgid "[_mcthink_] Did she plan this together with [j]?"
-msgstr ""
+msgstr "[_mcthink_] Она планировала это вместе с [j]?"
 
 # game/events_e.rpy:1061 #-#-# translate crowdin d9_pcroom_e01_bd01f82a:
 msgid "[_mcthink_] But if [j] knew about it, why did she want to go down on me first?"
-msgstr ""
+msgstr "[_mcthink_] Но если [j] об этом знала, то почему она хотела быть со мной первой?"
 
 # game/events_e.rpy:1063 #-#-# translate crowdin d9_pcroom_e01_e87cca40:
 msgid "[_mcthink_] Naughty girls!"
-msgstr ""
+msgstr "[_mcthink_] Коварные девушки!"
 
 # game/events_e.rpy:1070 #-#-# translate crowdin d9_pcroom_e01_ecd29a3b:
 msgid "[_mcthink_] Damn, now she's giving it her all..."
-msgstr ""
+msgstr "[_mcthink_] Черт, теперь она отдается полностью..."
 
 # game/events_e.rpy:1072 #-#-# translate crowdin d9_pcroom_e01_e7944f43:
 msgid "[_mc_] Oh shit, this feels great [e]!"
-msgstr ""
+msgstr "[_mc_] О чёрт, это здорово, [e]!"
 
 # game/events_e.rpy:1073 #-#-# translate crowdin d9_pcroom_e01_233e0bf2:
 msgid "[_e_] Hnnn... nnnnhnn!"
-msgstr ""
+msgstr "[_e_] Ммм... мммм!"
 
 # game/events_e.rpy:1075 #-#-# translate crowdin d9_pcroom_e01_c3ee7755:
 msgid "[_e_] Nnnnh... hnnn!"
-msgstr ""
+msgstr "[_e_] Ммммм... мммм!"
 
 # game/events_e.rpy:1076 #-#-# translate crowdin d9_pcroom_e01_72884bb0:
 msgid "[_mcthink_] Oh damn, oh shit!"
-msgstr ""
+msgstr "[_mcthink_] О чёрт, чёрт!"
 
 # game/events_e.rpy:1084 #-#-# translate crowdin d9_pcroom_e01_00140258:
 msgid "[_mcthink_] Shit, what is she..."
-msgstr ""
+msgstr "[_mcthink_] Черт, что она..."
 
 # game/events_e.rpy:1086 #-#-# translate crowdin d9_pcroom_e01_38d74f1a:
 msgid "[_mcthink_] Now she wants to ride me? Shit, I already almost came!"
-msgstr ""
+msgstr "[_mcthink_] Теперь она хочет покататься на мне? Черт, я уже почти кончил!"
 
 # game/events_e.rpy:1093 #-#-# translate crowdin d9_pcroom_e01_5748521c:
 msgid "[_e_] Nhhh... haaa..."
-msgstr ""
+msgstr "[_e_] Нхх... хааа..."
 
 # game/events_e.rpy:1094 #-#-# translate crowdin d9_pcroom_e01_e5ac0958:
 msgid "[_mcthink_] Damn, I'm so close..."
-msgstr ""
+msgstr "[_mcthink_] Черт, я так близко..."
 
 # game/events_e.rpy:1103 #-#-# translate crowdin d9_pcroom_e01_0a45a02d:
 msgid "[_mc_] Oh god, oh god... I'm gonna..."
-msgstr ""
+msgstr "[_mc_] О боже, о боже... Я..."
 
 # game/events_e.rpy:1104 #-#-# translate crowdin d9_pcroom_e01_9c0d642e:
 msgid "[_e_] HAAAA! [withflash]"
-msgstr ""
+msgstr "[_e_] ХАААААА! [withflash]"
 
 # game/events_e.rpy:1112 #-#-# translate crowdin d9_pcroom_e01_a6fa37ed:
 msgid "[_e_] Hnaaa, haaa, haaaaa! [withflash]"
-msgstr ""
+msgstr "[_e_] Хнаа, Хаааааа! [withflash]"
 
 # game/events_e.rpy:1123 #-#-# translate crowdin d9_pcroom_e01_53d3cd71:
 msgid "[_mc_] Fuck..."
-msgstr ""
+msgstr "[_mc_] Блядь..."
 
 # game/events_e.rpy:1127 #-#-# translate crowdin d9_pcroom_e01_c5b8faf1:
 msgid "[_mc_] Hnnaaa..."
-msgstr ""
+msgstr "[_mc_] Хннааа..."
 
 # game/events_e.rpy:1129 #-#-# translate crowdin d9_pcroom_e01_c19d5638:
 msgid "[_e_] *pant*..."
-msgstr ""
+msgstr "[_e_] *пыхтит*..."
 
 # game/events_e.rpy:1130 #-#-# translate crowdin d9_pcroom_e01_702040ca:
 msgid "[_extend_] *pant*"
-msgstr ""
+msgstr "[_extend_] *пыхтит*"
 
 # game/events_e.rpy:1131 #-#-# translate crowdin d9_pcroom_e01_d9d300ad:
 msgid "[_mc_] Damn..."
-msgstr ""
+msgstr "[_mc_] Черт..."
 
 # game/events_e.rpy:1133 #-#-# translate crowdin d9_pcroom_e01_72a33094_2:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1134 #-#-# translate crowdin d9_pcroom_e01_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:1135 #-#-# translate crowdin d9_pcroom_e01_dfb8f8bc:
 msgid "[_mc_] I can still taste that honey..."
-msgstr ""
+msgstr "[_mc_] Я все еще могу вкусить этот мед..."
 
 # game/events_e.rpy:1137 #-#-# translate crowdin d9_pcroom_e01_082bfa42:
 msgid "[_e_] Kehehehe..."
-msgstr ""
+msgstr "[_e_] Хихи..."
 
 # game/events_e.rpy:1139 #-#-# translate crowdin d9_pcroom_e01_98805c19:
 msgid "[_e_] *Smooch*"
-msgstr ""
+msgstr "[_e_] *гладит*"
 
 # game/events_e.rpy:1142 #-#-# translate crowdin d9_pcroom_e01_10caec51:
 msgid "[_n_] You cuddle for a while until you remember that you wanted to question [m] about that woman you're supposed to know."
-msgstr ""
+msgstr "[_n_] Вы долго обнимаетесь, пока не вспомнили, что хотели спросить [m] о той женщине, которую вы должны знать."
 
 # game/events_e.rpy:1143 #-#-# translate crowdin d9_pcroom_e01_63a2e702:
 msgid "[_mc_] I'll be right back, [e]."
-msgstr ""
+msgstr "[_mc_] Я скоро вернусь, [e]."
 
 # game/events_e.rpy:1144 #-#-# translate crowdin d9_pcroom_e01_3f6ea813:
 msgid "[_e_] Mhmm."
-msgstr ""
+msgstr "[_e_] Мхмм."
 
 # game/events_e.rpy:1150 #-#-# translate crowdin d10eshow_3b5ad369:
 msgid "[_mc_] Hm? Where's [e]?"
-msgstr ""
+msgstr "[_mc_] Хм? Где [e]?"
 
 # game/events_e.rpy:1151 #-#-# translate crowdin d10eshow_a54d485b:
 msgid "[_e_] NYAAAAA!"
-msgstr ""
+msgstr "[_e_] НЯЯЯЯЯ!"
 
 # game/events_e.rpy:1153 #-#-# translate crowdin d10eshow_02dfb483:
 msgid "[_mc_] Wh...{w=.5}{nw}"
-msgstr ""
+msgstr "[_mc_] Что...{w=.5}{nw}"
 
 # game/events_e.rpy:1155 #-#-# translate crowdin d10eshow_c6f1863c:
 msgid "[_mc_] Whoa!"
@@ -2238,7 +2238,7 @@ msgstr "[_mc_] Ого!"
 
 # game/events_e.rpy:1156 #-#-# translate crowdin d10eshow_06e1f691:
 msgid "[_j_] Haha, I don't remember that being part of the plan, [e]."
-msgstr ""
+msgstr "[_j_] Хаха, не помню, чтобы это было в плане, [e]."
 
 # game/events_e.rpy:1158 #-#-# translate crowdin d10eshow_e66e62b7:
 msgid "[_e_] Khehehe!"
@@ -2246,15 +2246,15 @@ msgstr "[_e_] Кхехехе!"
 
 # game/events_e.rpy:1159 #-#-# translate crowdin d10eshow_6ef43781:
 msgid "[_mc_] Damn... what are you guys up to?"
-msgstr ""
+msgstr "[_mc_] Черт... чем вы, ребята, заняты?"
 
 # game/events_e.rpy:1161 #-#-# translate crowdin d10eshow_fbb7ffce:
 msgid "[_j_] [e] wasn't sure what to wear today, so we decided to let you decide."
-msgstr ""
+msgstr "[_j_][e] сомневалась, что ей надеть, так что мы решили дать тебе выбрать."
 
 # game/events_e.rpy:1162 #-#-# translate crowdin d10eshow_faf363ba:
 msgid "[_j_] Though, I'm not so sure if that's still the plan, hehe."
-msgstr ""
+msgstr "[_j_] Хотя, я не до конца уверена, что это все еще часть плана, хехе."
 
 # game/events_e.rpy:1164 #-#-# translate crowdin d10eshow_ca7f80d9:
 msgid "[_e_] Eh..."
@@ -2262,15 +2262,15 @@ msgstr "[_e_] А..."
 
 # game/events_e.rpy:1166 #-#-# translate crowdin d10eshow_61e271ca:
 msgid "[_n_] [e] gets up and you place yourself on the bed next to your old teddy bear..."
-msgstr ""
+msgstr "[_n_][e] встает и ты укладываешься на кровать рядом со старым плюшевым мишкой..."
 
 # game/events_e.rpy:1168 #-#-# translate crowdin d10eshow_73bfdce0:
 msgid "[_n_] Seeing the old teddy again makes you think about old times before your mom died... [withdissolve]"
-msgstr ""
+msgstr "[_n_] Глядя на старого мишку, вы думаете о старых временах до смерти мамы...[withdissolve]"
 
 # game/events_e.rpy:1169 #-#-# translate crowdin d10eshow_3268304f:
 msgid "[_mc_] ... [withdissolve]"
-msgstr ""
+msgstr "[_mc_] ... [withdissolve]"
 
 # game/events_e.rpy:1170 #-#-# translate crowdin d10eshow_688cad9a:
 msgid "[_j_] Hey, [e]..."
@@ -2278,19 +2278,19 @@ msgstr "[_j_] Эй, [e]..."
 
 # game/events_e.rpy:1172 #-#-# translate crowdin d10eshow_3176312f:
 msgid "[_j_] ...hurry up, [mc] is getting bored already!"
-msgstr ""
+msgstr "[_j_] ...торопись, [mc] уже скучно!"
 
 # game/events_e.rpy:1174 #-#-# translate crowdin d10eshow_e16c645a:
 msgid "[_mc_] Huh? No I was just thinking about something..."
-msgstr ""
+msgstr "[_mc_] А? Нет, я просто задумался..."
 
 # game/events_e.rpy:1176 #-#-# translate crowdin d10eshow_4d4db786:
 msgid "[_j_] Maybe you need to shake your ass a bit to get [hisher] attention, hehe."
-msgstr ""
+msgstr "[_j_] Может, тебе задницей потрясти, чтобы привлечь [hisher], хехе."
 
 # game/events_e.rpy:1186 #-#-# translate crowdin d10eshow_69996647:
 msgid "[_mc_] Haha, yes, I'm fully focused now!"
-msgstr ""
+msgstr "[_mc_] Хаха, да, теперь я весь внимание!"
 
 # game/events_e.rpy:1187 #-#-# translate crowdin d10eshow_93227c0c:
 msgid "[_e_] Khehe."
@@ -2298,67 +2298,67 @@ msgstr "[_e_] Кхехехе."
 
 # game/events_e.rpy:1188 #-#-# translate crowdin d10eshow_0e4787b7:
 msgid "[_j_] Now hurry up, [e] before [heshe] loses concentration again!"
-msgstr ""
+msgstr "[_j_] Теперь поспеши, [e], а то [heshe] снова теряет концентрацию!"
 
 # game/events_e.rpy:1189 #-#-# translate crowdin d10eshow_9bee5006:
 msgid "[_e_] Hn!"
-msgstr ""
+msgstr "[_e_] Мм!"
 
 # game/events_e.rpy:1192 #-#-# translate crowdin d10eshow_328234f8:
 msgid "[_j_] Oh come on [e], that looks almost like your normal outfit!"
-msgstr ""
+msgstr "[_j_] Да хватит, [e], это выглядит почти как твой нормальный прикид!"
 
 # game/events_e.rpy:1198 #-#-# translate crowdin d10eshow_7d3f0a17:
 msgid "[_j_] Show [himher] the next outfit, [e]."
-msgstr ""
+msgstr "[_j_] Покажи [himher] следующий прикид, [e]."
 
 # game/events_e.rpy:1199 #-#-# translate crowdin d10eshow_9bee5006_1:
 msgid "[_e_] Hn!"
-msgstr ""
+msgstr "[_e_] Мм!"
 
 # game/events_e.rpy:1202 #-#-# translate crowdin d10eshow_10e0ed24:
 msgid "[_j_] Uhh, I like that one!"
-msgstr ""
+msgstr "[_j_] Этот - мой любимый!"
 
 # game/events_e.rpy:1208 #-#-# translate crowdin d10eshow_60c72bfa:
 msgid "[_j_] Okay, next one, [e]."
-msgstr ""
+msgstr "[_j_] Хорошо, следующий, [e]."
 
 # game/events_e.rpy:1211 #-#-# translate crowdin d10eshow_23987803:
 msgid "[_j_] Cuuuuute~"
-msgstr ""
+msgstr "[_j_] Мииииило~"
 
 # game/events_e.rpy:1216 #-#-# translate crowdin d10eshow_a3f90caf:
 msgid "[_j_] I knew it, hehe!"
-msgstr ""
+msgstr "[_j_] Я знала, хехе!"
 
 # game/events_e.rpy:1220 #-#-# translate crowdin d10eshow_d078077d:
 msgid "[_j_] Next one, [e]."
-msgstr ""
+msgstr "[_j_] Следующий, [e]."
 
 # game/events_e.rpy:1223 #-#-# translate crowdin d10eshow_f5cfa47a:
 msgid "[_j_] Haha, we should do a cosplay together one time, [e]."
-msgstr ""
+msgstr "[_j_] Хаха, мы должны сделать косплей вместе, [e]."
 
 # game/events_e.rpy:1224 #-#-# translate crowdin d10eshow_11a7ee4c:
 msgid "[_j_] Next one."
-msgstr ""
+msgstr "[_j_] Следующий."
 
 # game/events_e.rpy:1228 #-#-# translate crowdin d10eshow_fd0c551d:
 msgid "[_j_] Aww, who's that now..."
-msgstr ""
+msgstr "[_j_] Ойййй, кто это у нас..."
 
 # game/events_e.rpy:1230 #-#-# translate crowdin d10eshow_5c10a83f:
 msgid "[_mc_] Damn, [m] is probably still under the shower..."
-msgstr ""
+msgstr "[_mc_] Черт, [m] наверное все еще под душем..."
 
 # game/events_e.rpy:1232 #-#-# translate crowdin d10eshow_32cd212d:
 msgid "[_mc_] Guess, I should open the door then. Why don't you choose the next outfit until I'm back?"
-msgstr ""
+msgstr "[_mc_] Подожди, я должен открыть дверь. Почему бы вам не выбрать следующий наряд, пока я не вернулся?"
 
 # game/events_e.rpy:1234 #-#-# translate crowdin d10eshow_76a9f2bd:
 msgid "[_mc_] By the way, I like this outfit most, [e]."
-msgstr ""
+msgstr "[_mc_] Кстати, мне больше всего нравится этот наряд, [e]."
 
 # game/events_e.rpy:1235 #-#-# translate crowdin d10eshow_93227c0c_1:
 msgid "[_e_] Khehe."
@@ -2366,67 +2366,67 @@ msgstr "[_e_] Кхехехе."
 
 # game/events_e.rpy:1240 #-#-# translate crowdin d10eshow_a59e7505:
 msgid "[_mc_] Oh... [t]..."
-msgstr ""
+msgstr "[_mc_] О... [t]..."
 
 # game/events_e.rpy:1241 #-#-# translate crowdin d10eshow_1758e38a:
 msgid "[_mc_] Right, you got a session with [e], right?"
-msgstr ""
+msgstr "[_mc_] Хорошо, у вас встреча с [e], верно?"
 
 # game/events_e.rpy:1243 #-#-# translate crowdin d10eshow_1bb01731:
 msgid "[_t_] ..."
-msgstr ""
+msgstr "[_t_]..."
 
 # game/events_e.rpy:1245 #-#-# translate crowdin d10eshow_0972c153:
 msgid "[_mc_] Erm..."
-msgstr ""
+msgstr "[_mc_] Эмм..."
 
 # game/events_e.rpy:1247 #-#-# translate crowdin d10eshow_2963891b:
 msgid "[_mc_] Yeah it's nice to see you, too, why don't you just come in..."
-msgstr ""
+msgstr "[_mc_] Да, приятно видеть тебя тоже, почему бы тебе просто не зайти..."
 
 # game/events_e.rpy:1249 #-#-# translate crowdin d10eshow_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:1250 #-#-# translate crowdin d10eshow_c4e8c71d:
 msgid "[_mc_] Jeez, what's up with her again..."
-msgstr ""
+msgstr "[_mc_] Блин, что с ней снова не так..."
 
 # game/events_e.rpy:1253 #-#-# translate crowdin d10eshow_327daeaf:
 msgid "[_mcthink_] And here I thought she'd be a bit more... reasonable after yesterday..."
-msgstr ""
+msgstr "[_mcthink_] И вот я думал, что она будет немного... разумнее после вчерашнего..."
 
 # game/events_e.rpy:1254 #-#-# translate crowdin d10eshow_0bfaa88d:
 msgid "[_mcthink_] She's like the prototype of a tsundere in manga..."
-msgstr ""
+msgstr "[_mcthink_] Она как прототип цундере в манге..."
 
 # game/events_e.rpy:1255 #-#-# translate crowdin d10eshow_424b170a:
 msgid "[_mcthink_] I wonder if she ever reads manga."
-msgstr ""
+msgstr "[_mcthink_] Интересно, читает ли она мангу."
 
 # game/events_e.rpy:1256 #-#-# translate crowdin d10eshow_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:1257 #-#-# translate crowdin d10eshow_fc4d4d75:
 msgid "[_mcthink_] Oh shit, I hope [e] got dressed in time!"
-msgstr ""
+msgstr "[_mcthink_] О черт, надеюсь, [e] успела одеться!"
 
 # game/events_e.rpy:1258 #-#-# translate crowdin d10eshow_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_e.rpy:1266 #-#-# translate crowdin d12founde_b12df24a:
 msgid "[_j_] This is the spot, and it looks like I was right."
-msgstr ""
+msgstr "[_j_] Вот оно, и похоже, я была права."
 
 # game/events_e.rpy:1269 #-#-# translate crowdin d12founde_532bf210:
 msgid "[_mc_] Yeah, you were right."
-msgstr ""
+msgstr "[_mc_] Да, ты был права."
 
 # game/events_e.rpy:1271 #-#-# translate crowdin d12founde_630ea86c:
 msgid "[_mc_] Jeez, not now..."
-msgstr ""
+msgstr "[_mc_] Блин, не сейчас..."
 
 # game/events_e.rpy:1272 #-#-# translate crowdin d12founde_8f7f5165:
 msgid "[_mc_] [m]?"
@@ -2434,39 +2434,39 @@ msgstr "[_mc_] [m]?"
 
 # game/events_e.rpy:1275 #-#-# translate crowdin d12founde_242ddf06:
 msgid "[_mc_] What's up, [mmom]?"
-msgstr ""
+msgstr "[_mc_] Что такое, [mmom]?"
 
 # game/events_e.rpy:1276 #-#-# translate crowdin d12founde_2da082c4:
 msgid "[_m_] Hey, Hun, uhm..."
-msgstr ""
+msgstr "[_m_] Эй, милый, ухм..."
 
 # game/events_e.rpy:1277 #-#-# translate crowdin d12founde_420f93be:
 msgid "[_m_] ...err..."
-msgstr ""
+msgstr "[_m_] эмм..."
 
 # game/events_e.rpy:1278 #-#-# translate crowdin d12founde_40f38c48:
 msgid "[_m_] ...did you find [e]?"
-msgstr ""
+msgstr "[_m_] ... вы нашли [e]?"
 
 # game/events_e.rpy:1280 #-#-# translate crowdin d12founde_d17e1189:
 msgid "[_mc_] Yeah, we just found her, she's fine."
-msgstr ""
+msgstr "[_mc_] Да, мы только что нашли ее, она в порядке."
 
 # game/events_e.rpy:1281 #-#-# translate crowdin d12founde_2713c020:
 msgid "[_m_] Oh{cps=2}...{/cps} I mean, thank god!"
-msgstr ""
+msgstr "[_m_] О{ cps= 2}...{ /cps} Я имею в виду, слава Богу!"
 
 # game/events_e.rpy:1283 #-#-# translate crowdin d12founde_23b3f239:
 msgid "[_mc_] \"Oh\"?"
-msgstr ""
+msgstr "[_mc_] \"О\"?"
 
 # game/events_e.rpy:1284 #-#-# translate crowdin d12founde_69fbbc0a:
 msgid "[_m_] Uhm... well... I just called [oc]..."
-msgstr ""
+msgstr "[_m_] Ум... ну... Я только что звонил [oc]..."
 
 # game/events_e.rpy:1286 #-#-# translate crowdin d12founde_7219e6f6:
 msgid "[_mc_] [oc]!? But why?"
-msgstr ""
+msgstr "[_mc_] [oc]!? Но зачем?"
 
 # game/events_e.rpy:1287 #-#-# translate crowdin d12founde_30495ff7:
 msgid "[_m_] I was worried [e] ran away again. I just couldn't sit still and do nothing."
@@ -2562,7 +2562,7 @@ msgstr ""
 
 # game/events_e.rpy:1330 #-#-# translate crowdin d12founde_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1331 #-#-# translate crowdin d12founde_5db35a38:
 msgid "[_mc_] Why did you run away, [e]? Why don't you talk to me?"
@@ -2570,7 +2570,7 @@ msgstr ""
 
 # game/events_e.rpy:1332 #-#-# translate crowdin d12founde_72a33094_1:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1333 #-#-# translate crowdin d12founde_7d6aef6d:
 msgid "[_mc_] Look, I don't know why you don't want to talk to me, but the cat is out of the bag now. I know you can talk, so what's the point of keep being silent?"
@@ -2578,7 +2578,7 @@ msgstr ""
 
 # game/events_e.rpy:1334 #-#-# translate crowdin d12founde_72a33094_2:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1335 #-#-# translate crowdin d12founde_c01e1149:
 msgid "[_mcthink_] Hmm, she still doesn't want to talk to me..."
@@ -2586,7 +2586,7 @@ msgstr ""
 
 # game/events_e.rpy:1336 #-#-# translate crowdin d12founde_72a33094_3:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1338 #-#-# translate crowdin d12founde_62185db9:
 msgid "[_mc_] Alright, alright..."
@@ -2602,11 +2602,11 @@ msgstr ""
 
 # game/events_e.rpy:1344 #-#-# translate crowdin d12founde_72a33094_4:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1345 #-#-# translate crowdin d12founde_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:1347 #-#-# translate crowdin d12founde_5e674c82:
 msgid "[_mcthink_] Hrm... why doesn't she talk to me?"
@@ -2614,7 +2614,7 @@ msgstr ""
 
 # game/events_e.rpy:1349 #-#-# translate crowdin d12founde_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_e.rpy:1350 #-#-# translate crowdin d12founde_67b3e392:
 msgid "[_mcthink_] This area... I haven't been here since I was a child..."
@@ -2634,11 +2634,11 @@ msgstr ""
 
 # game/events_e.rpy:1355 #-#-# translate crowdin d12founde_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_e.rpy:1356 #-#-# translate crowdin d12founde_72a33094_5:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1358 #-#-# translate crowdin d12founde_948b5791:
 msgid "[_e_] You didn't even say goodbye..."
@@ -2650,7 +2650,7 @@ msgstr ""
 
 # game/events_e.rpy:1361 #-#-# translate crowdin d12founde_72a33094_6:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1362 #-#-# translate crowdin d12founde_78688855:
 msgid "[_mc_] Look, I'm sorry. It was..."
@@ -2674,597 +2674,597 @@ msgstr ""
 
 # game/events_e.rpy:1373 #-#-# translate crowdin d12founde_377b7f9b:
 msgid "[_mc_] I'm sorry, [e]."
-msgstr ""
+msgstr "[_mc_] Прости, [e]."
 
 # game/events_e.rpy:1374 #-#-# translate crowdin d12founde_72a33094_7:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1376 #-#-# translate crowdin d12founde_7430a1e3:
 msgid "[_e_] I wanted to talk to you..."
-msgstr ""
+msgstr "[_e_] Я хотела поговорить с тобой..."
 
 # game/events_e.rpy:1378 #-#-# translate crowdin d12founde_b60ecc88:
 msgid "[_mc_] But you wanted to know if I'd stay..."
-msgstr ""
+msgstr "[_mc_] Но ты хотела узнать, останусь ли я..."
 
 # game/events_e.rpy:1380 #-#-# translate crowdin d12founde_ffce2520:
 msgid "[_e_] I needed to be sure..."
-msgstr ""
+msgstr "[_e_] Я хотела быть уверенной..."
 
 # game/events_e.rpy:1382 #-#-# translate crowdin d12founde_6b6945bc:
 msgid "[_e_] ...but then..."
-msgstr ""
+msgstr "[_e_] ... но потом ..."
 
 # game/events_e.rpy:1384 #-#-# translate crowdin d12founde_72a33094_8:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1385 #-#-# translate crowdin d12founde_e4becfc3:
 msgid "[_mc_] Then what? What happened?"
-msgstr ""
+msgstr "[_mc_] Что потом? Что случилось?"
 
 # game/events_e.rpy:1387 #-#-# translate crowdin d12founde_cc6176e3:
 msgid "[_e_] I... I got scared about what you'd think of me, if I told you it was all just a lie..."
-msgstr ""
+msgstr "[_e_] Я... Я испугалась, что ты обо мне подумаешь, если я скажу, что это все была ложь..."
 
 # game/events_e.rpy:1388 #-#-# translate crowdin d12founde_b49c82a8:
 msgid "[_e_] I thought you might leave again if I told you..."
-msgstr ""
+msgstr "[_e_] Я подумала, что ты снова уйдешь, если я скажу..."
 
 # game/events_e.rpy:1390 #-#-# translate crowdin d12founde_4cc6327f:
 msgid "[_e_] I don't want you to leave..."
-msgstr ""
+msgstr "[_e_] Я не хочу, чтобы ты уходил..."
 
 # game/events_e.rpy:1392 #-#-# translate crowdin d12founde_861b8df0:
 msgid "[_mc_] I already told you I won't leave. I have a good job here, and it looks like [m] really has changed, so, I guess it's time to let the past be the past..."
-msgstr ""
+msgstr "[_mc_] Я уже говорил тебе, что не уйду. У меня здесь хорошая работа, да и [m] сильно изменилась, так что, я думаю, пора оставить прошлое в прошлом..."
 
 # game/events_e.rpy:1393 #-#-# translate crowdin d12founde_bfaa4279:
 msgid "[_mc_] ... and that aside you're the only family I have left."
-msgstr ""
+msgstr "[_mc_] ... и это в то же время вы единственная семья, которая у меня осталась."
 
 # game/events_e.rpy:1395 #-#-# translate crowdin d12founde_14329d51:
 msgid "[_e_] You aren't mad at me?"
-msgstr ""
+msgstr "[_e_] Ты не сердишься на меня?"
 
 # game/events_e.rpy:1397 #-#-# translate crowdin d12founde_fa47f9b7:
 msgid "[_mc_] Not really... a bit disappointed... but I guess I kinda deserved it."
-msgstr ""
+msgstr "[_mc_] Не особо... слегка разочарован... но я этого, похоже, заслужил."
 
 # game/events_e.rpy:1399 #-#-# translate crowdin d12founde_eb4c8c60:
 msgid "[_e_] I'm sorry..."
-msgstr ""
+msgstr "[_e_] Прости..."
 
 # game/events_e.rpy:1401 #-#-# translate crowdin d12founde_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_e.rpy:1403 #-#-# translate crowdin d12founde_7a9c7117:
 msgid "[_e_] Unn..."
-msgstr ""
+msgstr "[_e_] Ммм..."
 
 # game/events_e.rpy:1405 #-#-# translate crowdin d12founde_5554e5fc:
 msgid "[_mc_] Whoa, [e] watch out!"
-msgstr ""
+msgstr "[_mc_] Ой, [e], осторожно!"
 
 # game/events_e.rpy:1410 #-#-# translate crowdin d12founde_a7d23cfc:
 msgid "[_mc_] Ugh... are you okay, [e]?"
-msgstr ""
+msgstr "[_mc_] Фу... ты в порядке, [e]?"
 
 # game/events_e.rpy:1412 #-#-# translate crowdin d12founde_93f8632f:
 msgid "[_e_] Egh..."
-msgstr ""
+msgstr "[_e_] Уххх..."
 
 # game/events_e.rpy:1414 #-#-# translate crowdin d12founde_9bee5006:
 msgid "[_e_] Hn!"
-msgstr ""
+msgstr "[_e_] Мм!"
 
 # game/events_e.rpy:1416 #-#-# translate crowdin d12founde_52c5726e:
 msgid "[_mc_] Hn? Are you falling back to being silent again?"
-msgstr ""
+msgstr "[_mc_] Хм? Ты снова играешь в молчанку?"
 
 # game/events_e.rpy:1418 #-#-# translate crowdin d12founde_9d7d0855:
 msgid "[_e_] Eh... s-sorry, I'm just not used to talking much..."
-msgstr ""
+msgstr "[_e_] Э... извини, я просто не привыкла говорить много..."
 
 # game/events_e.rpy:1421 #-#-# translate crowdin d12founde_6722b901:
 msgid "[_mc_] Nngh... You really only talk to [j], don't you?"
-msgstr ""
+msgstr "[_mc_] Ты говоришь только с [j], не так ли?"
 
 # game/events_e.rpy:1423 #-#-# translate crowdin d12founde_72a33094_9:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1425 #-#-# translate crowdin d12founde_2d91591f:
 msgid "[_mc_] Why did you stop talking anyway?"
-msgstr ""
+msgstr "[_mc_] А почему ты перестала говорить?"
 
 # game/events_e.rpy:1427 #-#-# translate crowdin d12founde_3f88a4cf:
 msgid "[_e_] I... don't know..."
-msgstr ""
+msgstr "[_e_] Я... не знаю..."
 
 # game/events_e.rpy:1429 #-#-# translate crowdin d12founde_9a364fd1:
 msgid "[_mc_] You don't know?"
-msgstr ""
+msgstr "[_mc_] Ты не знаешь?"
 
 # game/events_e.rpy:1431 #-#-# translate crowdin d12founde_4bb1b0d9:
 msgid "[_e_] I... for a while I wasn't able to speak... I think..."
-msgstr ""
+msgstr "[_e_] Я... какое-то время я не могла говорить... Я думаю..."
 
 # game/events_e.rpy:1433 #-#-# translate crowdin d12founde_5f427bc2:
 msgid "[_mc_] You think? You're not sure?"
-msgstr ""
+msgstr "[_mc_] Ты думаешь? Ты не уверена?"
 
 # game/events_e.rpy:1435 #-#-# translate crowdin d12founde_46e508b3:
 msgid "[_e_] It's been so long... for a while I really thought I can't speak, I hadn't said anything for a long time, but one day I just blurped out some words and realized I could talk again..."
-msgstr ""
+msgstr "[_e_] Это было так долго... какое-то время я действительно думала, что не могу говорить, я долго не говорила, но однажды я просто выпалила несколько слов и поняла, что могу снова говорить..."
 
 # game/events_e.rpy:1437 #-#-# translate crowdin d12founde_880b86ef:
 msgid "[_mc_] Do you remember what happened that day when you went missing?"
-msgstr ""
+msgstr "[_mc_] Ты помнишь, что произошло в тот день, когда ты пропала?"
 
 # game/events_e.rpy:1439 #-#-# translate crowdin d12founde_c7ff2f69:
 msgid "[_e_] Uh-nh..."
-msgstr ""
+msgstr "[_e_] Ух-хух..."
 
 # game/events_e.rpy:1441 #-#-# translate crowdin d12founde_427520df:
 msgid "[_e_] I... all I remember is seeing a white light..."
-msgstr ""
+msgstr "[_e_] Я... все, что я помню, я видела белый свет..."
 
 # game/events_e.rpy:1443 #-#-# translate crowdin d12founde_b95ae7cf:
 msgid "[_mc_] A white light?"
-msgstr ""
+msgstr "[_mc_] Белый свет?"
 
 # game/events_e.rpy:1445 #-#-# translate crowdin d12founde_b31df3a4:
 msgid "[_e_] Uh-huh... like headlights of a car."
-msgstr ""
+msgstr "[_e_] Ух-ху... как фары автомобиля."
 
 # game/events_e.rpy:1447 #-#-# translate crowdin d12founde_9526c46b:
 msgid "[_mc_] A car, huh. Do you think you got hit by it?"
-msgstr ""
+msgstr "[_mc_] Авто. Ты думаешь, что оно тебя ударило?"
 
 # game/events_e.rpy:1449 #-#-# translate crowdin d12founde_de82b08f:
 msgid "[_e_] Uh-uh... I don't think so."
-msgstr ""
+msgstr "[_e_] Ух-хух.. Не думаю."
 
 # game/events_e.rpy:1451 #-#-# translate crowdin d12founde_282e63c1:
 msgid "[_mc_] Oh, right, [m] mentioned that doctors checked you when they found you..."
-msgstr ""
+msgstr "[_mc_] О, правильно, [m] упомянула, что врачи проверили тебя, когда нашли..."
 
 # game/events_e.rpy:1453 #-#-# translate crowdin d12founde_8ac64678:
 msgid "[_e_] Hn."
-msgstr ""
+msgstr "[_e_] Мм."
 
 # game/events_e.rpy:1455 #-#-# translate crowdin d12founde_e55a8818:
 msgid "[_mc_] Anything else you remember?"
-msgstr ""
+msgstr "[_mc_] Что еще ты помнишь?"
 
 # game/events_e.rpy:1457 #-#-# translate crowdin d12founde_ca035141:
 msgid "[_e_] I don't know... it was late... it was dark..."
-msgstr ""
+msgstr "[_e_] Я не знаю... было поздно... было темно..."
 
 # game/events_e.rpy:1459 #-#-# translate crowdin d12founde_3ba82c8b:
 msgid "[_e_] I was getting cold..."
-msgstr ""
+msgstr "[_e_] Мне было холодно..."
 
 # game/events_e.rpy:1461 #-#-# translate crowdin d12founde_4bf3a0a8:
 msgid "[_e_] I was walking on a street, then the light... that's all I remember."
-msgstr ""
+msgstr "[_e_] Я шла по улице, потом свет... Это все, что я помню."
 
 # game/events_e.rpy:1463 #-#-# translate crowdin d12founde_8fea2db2:
 msgid "[_mc_] Hmm..."
-msgstr ""
+msgstr "[_mc_] Хмм..."
 
 # game/events_e.rpy:1465 #-#-# translate crowdin d12founde_238d90b9:
 msgid "[_e_] You won't tell Mom, right?"
-msgstr ""
+msgstr "[_e_] Ты не скажешь маме, верно?"
 
 # game/events_e.rpy:1467 #-#-# translate crowdin d12founde_0ea927a7:
 msgid "[_mc_] [m]? She really doesn't know?"
-msgstr ""
+msgstr "[_mc_] [m]? Она правда не знает?"
 
 # game/events_e.rpy:1469 #-#-# translate crowdin d12founde_338e0c12:
 msgid "[_e_] Uh-uh."
-msgstr ""
+msgstr "[_e_] Не-а."
 
 # game/events_e.rpy:1471 #-#-# translate crowdin d12founde_2f3f7cb7:
 msgid "[_mc_] But why? Why didn't you tell her? I doubt you've just started talking a few days ago."
-msgstr ""
+msgstr "[_mc_] Но почему? Почему ты ей не сказала? Сомневаюсь, что ты всего несколько дней как начала говорить."
 
 # game/events_e.rpy:1473 #-#-# translate crowdin d12founde_72a33094_10:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1475 #-#-# translate crowdin d12founde_b6bbb0fe:
 msgid "[_mc_] [e] you need to tell her! She's your mother!"
-msgstr ""
+msgstr "[_mc_] [e] скажи ей! Она твоя мать!"
 
 # game/events_e.rpy:1477 #-#-# translate crowdin d12founde_8ce5b6cf:
 msgid "[_e_] I know!"
-msgstr ""
+msgstr "[_e_] Я знаю!"
 
 # game/events_e.rpy:1479 #-#-# translate crowdin d12founde_d4993d94:
 msgid "[_e_] But..."
-msgstr ""
+msgstr "[_e_] Но..."
 
 # game/events_e.rpy:1481 #-#-# translate crowdin d12founde_3cfcf66d:
 msgid "[_e_] If she knew I was able to talk all this time..."
-msgstr ""
+msgstr "[_e_] Если она узнает, что я все это время могла говорить..."
 
 # game/events_e.rpy:1483 #-#-# translate crowdin d12founde_72a33094_11:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1485 #-#-# translate crowdin d12founde_8ba44c7b:
 msgid "[_mc_] How long have you been able to talk again?"
-msgstr ""
+msgstr "[_mc_] Давно к тебе вернулась речь?"
 
 # game/events_e.rpy:1487 #-#-# translate crowdin d12founde_9aac9d76:
 msgid "[_e_] ... three or four years I think..."
-msgstr ""
+msgstr "[_e_] ... три-четыре года я думаю..."
 
 # game/events_e.rpy:1489 #-#-# translate crowdin d12founde_5e4ae1b4:
 msgid "[_mc_] Really?! And you haven't ever talked to [m] since then?"
-msgstr ""
+msgstr "[_mc_] Действительно? И с тех пор вы не общались с [m]?"
 
 # game/events_e.rpy:1491 #-#-# translate crowdin d12founde_72a33094_12:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1493 #-#-# translate crowdin d12founde_b47472ea:
 msgid "[_mc_] [e]..."
-msgstr ""
+msgstr "[_mc_][e]..."
 
 # game/events_e.rpy:1495 #-#-# translate crowdin d12founde_75d38b76:
 msgid "[_e_] She made you leave! It was her fault!"
-msgstr ""
+msgstr "[_e_] Она заставила тебя уйти! Это была её вина!"
 
 # game/events_e.rpy:1497 #-#-# translate crowdin d12founde_f7611903:
 msgid "[_mc_] She's changed, [e], you know that better than anybody else, don't you? ...and I know you care about her."
-msgstr ""
+msgstr "[_mc_] Она изменилась, [e], ты знаешь это лучше, чем кто-либо другой, не так ли? ... и я знаю, что ты заботишься о ней."
 
 # game/events_e.rpy:1499 #-#-# translate crowdin d12founde_1ab9e770:
 msgid "[_e_] I do..."
-msgstr ""
+msgstr "[_e_] Да..."
 
 # game/events_e.rpy:1501 #-#-# translate crowdin d12founde_6dbf29b9:
 msgid "[_mc_] Look, I can forget about the past, and I think you can do it too, don't you think?"
-msgstr ""
+msgstr "[_mc_] Слушай, я могу забыть о прошлом, и я думаю, что ты можешь сделать это тоже, не так ли?"
 
 # game/events_e.rpy:1503 #-#-# translate crowdin d12founde_b3e547fa:
 msgid "[_e_] It's... not only that... I just don't know how to tell her..."
-msgstr ""
+msgstr "[_e_] Это... не только это... Я просто не знаю, как сказать ей..."
 
 # game/events_e.rpy:1505 #-#-# translate crowdin d12founde_b4a084ac:
 msgid "[_e_] You've been disappointed I didn't talk to you for a few days, but for her it's been years."
-msgstr ""
+msgstr "[_e_] Ты огорчен, что я не говорила с тобой несколько дней, но для нее это были годы."
 
 # game/events_e.rpy:1507 #-#-# translate crowdin d12founde_4ebfb5a1:
 msgid "[_mc_] I get that you don't want to hurt her feelings, but I'm sure she'd just be happy to hear you talk again."
-msgstr ""
+msgstr "[_mc_] Я понимаю, что ты не хочешь причинять вреда ее чувствам, но я уверен, что она просто будет рада слышать, что вы говорите снова."
 
 # game/events_e.rpy:1509 #-#-# translate crowdin d12founde_95027ac7:
 msgid "[_e_] No, I mean... she's been through so much... your dad... the alcohol... the therapy..."
-msgstr ""
+msgstr "[_e_] Нет, я имею в виду... она прошла через столько... твой отец... алкоголь... терапия..."
 
 # game/events_e.rpy:1511 #-#-# translate crowdin d12founde_52dafab9:
 msgid "[_e_] I'm scared of what telling her might do to her... to her psyche."
-msgstr ""
+msgstr "[_e_] Я боюсь, что мое признание может сделать с ней... с ее психикой."
 
 # game/events_e.rpy:1513 #-#-# translate crowdin d12founde_8fea2db2_1:
 msgid "[_mc_] Hmm..."
-msgstr ""
+msgstr "[_mc_] Хмм..."
 
 # game/events_e.rpy:1514 #-#-# translate crowdin d12founde_429990d1:
 msgid "[_mcthink_] I can understand her concerns... [m] has changed, and she might even be able to discontinue using the pills, but her mind is still somewhat fragile..."
-msgstr ""
+msgstr "[_mcthink_] Я могу понять ее опасения... [m] изменилась, и она могла бы даже отказаться от использования таблеток, но ее разум все еще несколько хрупкий..."
 
 # game/events_e.rpy:1515 #-#-# translate crowdin d12founde_dce920d4:
 msgid "[_mcthink_] Maybe I should talk to [t]... she's a trained psychologist after all. That reminds me..."
-msgstr ""
+msgstr "[_mcthink_] Может быть, я должен поговорить с [t]... в конце концов, она обученный психолог. Это напоминает мне..."
 
 # game/events_e.rpy:1517 #-#-# translate crowdin d12founde_e13a1979:
 msgid "[_mc_] By the way, could it be that you've been talking to [t] at some point?"
-msgstr ""
+msgstr "[_mc_] Кстати, может быть, вы разговаривали с [t] когда-нибудь?"
 
 # game/events_e.rpy:1519 #-#-# translate crowdin d12founde_7406841e:
 msgid "[_e_] Err..."
-msgstr ""
+msgstr "[_e_] Эмм..."
 
 # game/events_e.rpy:1521 #-#-# translate crowdin d12founde_6118e94a:
 msgid "[_e_] A few words... at the beginning..."
-msgstr ""
+msgstr "[_e_] Несколько слов... в начале..."
 
 # game/events_e.rpy:1523 #-#-# translate crowdin d12founde_89160b2e:
 msgid "[_mc_] I thought so. Why did you stop? Because you don't like her?"
-msgstr ""
+msgstr "[_mc_] Я так и думал. Почему ты остановилась? Потому что она тебе не нравится?"
 
 # game/events_e.rpy:1525 #-#-# translate crowdin d12founde_5d25027a:
 msgid "[_e_] No..."
-msgstr ""
+msgstr "[_e_] Нет..."
 
 # game/events_e.rpy:1527 #-#-# translate crowdin d12founde_3c703554:
 msgid "[_e_] She always wanted me to practice this and that... tried to make me talk..."
-msgstr ""
+msgstr "[_e_] Она всегда хотела, чтобы я практиковалась, и поэтому... пыталась заставить меня говорить..."
 
 # game/events_e.rpy:1529 #-#-# translate crowdin d12founde_9ee4962b:
 msgid "[_e_] ...when she noticed I {b}can{/b} talk, she tried even more, it was so annoying..."
-msgstr ""
+msgstr "[_e_] ... когда она заметила, что я {b}могу{/b} говорить, она пыталась еще больше, это так раздражало ..."
 
 # game/events_e.rpy:1531 #-#-# translate crowdin d12founde_72a33094_13:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1533 #-#-# translate crowdin d12founde_cb490328:
 msgid "[_e_] I don't like to talk much..."
-msgstr ""
+msgstr "[_e_] Я не люблю много говорить..."
 
 # game/events_e.rpy:1535 #-#-# translate crowdin d12founde_e04be80d:
 msgid "[_mc_] But you should at least talk to the people close to you, [e]. Being quiet all the time can cause a lot of trouble, but I'm sure you know that better than anyone."
-msgstr ""
+msgstr "[_mc_] Но ты должна говорить хотя бы с близким людьми, [e]. Все время молчать - путь к большим проблемам, и наверняка ты знаешь это лучше всех."
 
 # game/events_e.rpy:1537 #-#-# translate crowdin d12founde_e8cdee2a:
 msgid "[_e_] But even when you talk, people don't understand, they don't listen. They rather hear what they want."
-msgstr ""
+msgstr "[_e_] Но даже когда говоришь, люди не понимают, не слушают. Они предпочитают слышать то, что хотят."
 
 # game/events_e.rpy:1539 #-#-# translate crowdin d12founde_1e1789cb:
 msgid "[_e_] I don't want to talk to people..."
-msgstr ""
+msgstr "[_e_] Я не хочу говорить с людьми..."
 
 # game/events_e.rpy:1541 #-#-# translate crowdin d12founde_804d9637:
 msgid "[_mc_] But you talk to [j]... and me now."
-msgstr ""
+msgstr "[_mc_] Но ты говоришь с [j]... и со мной сейчас."
 
 # game/events_e.rpy:1543 #-#-# translate crowdin d12founde_d6faa8fa:
 msgid "[_e_] That's different... and [t]... I don't hate her, I just wanted her to leave me alone, so I stopped talking to her."
-msgstr ""
+msgstr "[_e_] Это другое... и [t]... Я не ненавижу ее, я просто хотела, чтобы она оставила меня в покое, поэтому я перестала говорить с ней."
 
 # game/events_e.rpy:1545 #-#-# translate crowdin d12founde_457883fa:
 msgid "[_mc_] Well, that didn't work out, did it?"
-msgstr ""
+msgstr "[_mc_] Ну так и не получилось, правда?"
 
 # game/events_e.rpy:1547 #-#-# translate crowdin d12founde_72a33094_14:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1548 #-#-# translate crowdin d12founde_8fea2db2_2:
 msgid "[_mc_] Hmm..."
-msgstr ""
+msgstr "[_mc_] Хмм..."
 
 # game/events_e.rpy:1550 #-#-# translate crowdin d12founde_3f2aedca:
 msgid "[_mc_] So you don't hate her?"
-msgstr ""
+msgstr "[_mc_] Так ты не ненавидишь ее?"
 
 # game/events_e.rpy:1552 #-#-# translate crowdin d12founde_8a93dcfa:
 msgid "[_e_] No, I just don't like the sessions..."
-msgstr ""
+msgstr "[_e_] Нет, я просто не люблю сеансы..."
 
 # game/events_e.rpy:1554 #-#-# translate crowdin d12founde_a7bcf340:
 msgid "[_mc_] I see..."
-msgstr ""
+msgstr "[_mc_] Понятно..."
 
 # game/events_e.rpy:1555 #-#-# translate crowdin d12founde_72a33094_15:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1557 #-#-# translate crowdin d12founde_8087eeb0:
 msgid "[_mc_] Alright, well, why don't we head back? [m] must be wondering where we are, and I think [j] might be a bit worried."
-msgstr ""
+msgstr "[_mc_] Хорошо, почему бы нам не вернуться? [m] должно быть интересно, где мы, и я думаю, что [j] немного волнуется."
 
 # game/events_e.rpy:1559 #-#-# translate crowdin d12founde_7a9c7117_1:
 msgid "[_e_] Unn..."
-msgstr ""
+msgstr "[_e_] Ммм..."
 
 # game/events_e.rpy:1560 #-#-# translate crowdin d12founde_4bf805e7:
 msgid "[_mc_] Come on, [e]. Do you want them to worry about us?"
-msgstr ""
+msgstr "[_mc_] Давай, [e]. Хочешь, чтобы они беспокоились о нас?"
 
 # game/events_e.rpy:1562 #-#-# translate crowdin d12founde_72a33094_16:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1564 #-#-# translate crowdin d12founde_0741d388:
 msgid "[_mc_] I'll think about something regarding [m], so you don't have to worry, but you have to promise me something."
-msgstr ""
+msgstr "[_mc_] Я подумаю о чем-то насчет [m], так что не переживай, но пообещай мне кое-что."
 
 # game/events_e.rpy:1566 #-#-# translate crowdin d12founde_349d364e:
 msgid "[_e_] Hn?"
-msgstr ""
+msgstr "[_e_] Мм?"
 
 # game/events_e.rpy:1567 #-#-# translate crowdin d12founde_d6d1cf16:
 msgid "[_mc_] Don't stop talking to me like you did with [t]."
-msgstr ""
+msgstr "[_mc_] Не прекращай говорить со мной так же, как и с [t]."
 
 # game/events_e.rpy:1569 #-#-# translate crowdin d12founde_6d4c997e:
 msgid "[_e_] I-I won't."
-msgstr ""
+msgstr "[_e_] Я-я не буду."
 
 # game/events_e.rpy:1571 #-#-# translate crowdin d12founde_ab23fbf0:
 msgid "[_mc_] Alright, let's go then."
-msgstr ""
+msgstr "[_mc_] Хорошо, пошли."
 
 # game/events_e.rpy:1575 #-#-# translate crowdin d12founde_0d2fe0a9:
 msgid "[_mc_] By the way, [e]."
-msgstr ""
+msgstr "[_mc_] Кстати, [e]."
 
 # game/events_e.rpy:1577 #-#-# translate crowdin d12founde_0fba19b8:
 msgid "[_e_] Hm?"
-msgstr ""
+msgstr "[_e_] А?"
 
 # game/events_e.rpy:1579 #-#-# translate crowdin d12founde_fdbfc645:
 msgid "[_mc_] Why did you think you'd need to make me stay with sex?"
-msgstr ""
+msgstr "[_mc_] Почему ты думаешь с помощью секса заставить меня остаться?"
 
 # game/events_e.rpy:1581 #-#-# translate crowdin d12founde_5cde65bd:
 msgid "[_e_] E-Eh?!"
-msgstr ""
+msgstr "[_e_] Что?!"
 
 # game/events_e.rpy:1583 #-#-# translate crowdin d12founde_6c6b5f0e:
 msgid "[_e_] T-That was just..."
-msgstr ""
+msgstr "[_e_] Э-это было просто..."
 
 # game/events_e.rpy:1585 #-#-# translate crowdin d12founde_a7385111:
 msgid "[_e_] ...it was not..."
-msgstr ""
+msgstr "[_e_] ...это не было ..."
 
 # game/events_e.rpy:1587 #-#-# translate crowdin d12founde_72a33094_17:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1589 #-#-# translate crowdin d12founde_949cb8bf:
 msgid "[_e_] The others are waiting!"
-msgstr ""
+msgstr "[_e_] Остальные ждут!"
 
 # game/events_e.rpy:1590 #-#-# translate crowdin d12founde_466f3b0a:
 msgid "[_mcthink_] Heh, she's embarrassed..."
-msgstr ""
+msgstr "[_mcthink_] Эй, она смущена..."
 
 # game/events_e.rpy:1592 #-#-# translate crowdin d12founde_2bfec3d2:
 msgid "[_mcthink_] Huh, who's that?"
-msgstr ""
+msgstr "[_mcthink_] А, кто это?"
 
 # game/events_e.rpy:1594 #-#-# translate crowdin d12founde_53be607e:
 msgid "[_mcthink_] Is that [oc]?"
-msgstr ""
+msgstr "[_mcthink_] Это [oc]?"
 
 # game/events_e.rpy:1597 #-#-# translate crowdin d12founde_d48e7efc:
 msgid "[_mcthink_] Damn, he must've come to see if everything's alright..."
-msgstr ""
+msgstr "[_mcthink_] Черт, он пришел посмотреть, правда ли все в порядке..."
 
 # game/events_e.rpy:1599 #-#-# translate crowdin d12founde_881d2057:
 msgid "[_mc_] Hey, [oc]. Sorry for the trouble. I think [m] is a little overprotective."
-msgstr ""
+msgstr "[_mc_] Эй, [oc]. Простите за беспокойство. Я думаю, что [m] немного слишком заботливая."
 
 # game/events_e.rpy:1601 #-#-# translate crowdin d12founde_1d43850b:
 msgid "[_oc_] No surprise with your history, you guys should know better. You're lucky I could stop the \"rescue operation\" in time, after [m] called me a second time."
-msgstr ""
+msgstr "[_oc_] Не удивлен, с вашей-то историей, ну да вам виднее. Вам повезло, что я смог вовремя остановить \"спасательную операцию\", когда [m] позвонила мне во второй раз."
 
 # game/events_e.rpy:1603 #-#-# translate crowdin d12founde_97856d53:
 msgid "[_mc_] Rescue operation?! Shit."
-msgstr ""
+msgstr "[_mc_] Спасательная операция?! Вот дерьмо."
 
 # game/events_e.rpy:1605 #-#-# translate crowdin d12founde_1653d084:
 msgid "[_oc_] [e], you're old enough to think about your decisions, so think twice before you just disappear without a word again."
-msgstr ""
+msgstr "[_oc_][e], ты достаточно взрослая, чтобы принимать решения, так что подумай дважды, если захочешь молча исчезнуть."
 
 # game/events_e.rpy:1607 #-#-# translate crowdin d12founde_72a33094_18:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1609 #-#-# translate crowdin d12founde_f50e25c3:
 msgid "[_oc_] I know you don't talk, but there's always a way to let others know."
-msgstr ""
+msgstr "[_oc_] Я знаю, что ты не говоришь, но всегда есть способ дать понять другим."
 
 # game/events_e.rpy:1611 #-#-# translate crowdin d12founde_52d6b73f:
 msgid "[_e_] Hn..."
-msgstr ""
+msgstr "[_e_] Мм..."
 
 # game/events_e.rpy:1613 #-#-# translate crowdin d12founde_e4da8e3d:
 msgid "[_mc_] Come on, [oc], everyone needs some fresh air once in a while, [m] just overreacted."
-msgstr ""
+msgstr "[_mc_] Ну давайте, [oc], всем иногда нужен свежий воздух, [m] просто перенервничала."
 
 # game/events_e.rpy:1615 #-#-# translate crowdin d12founde_97632af7:
 msgid "[_oc_] True, but not everyone is mute and has a history like you two."
-msgstr ""
+msgstr "[_oc_] Это да, но не все немые и имеют биографию, как у вас."
 
 # game/events_e.rpy:1617 #-#-# translate crowdin d12founde_9c660865:
 msgid "[_mc_] Well... true... I guess, but history is history... and shouldn't we leave the past in the past, and all that stuff?"
-msgstr ""
+msgstr "[_mc_] Ну... правда... Я думаю, но биография - это биография... и разве мы не должны оставить прошлое в прошлом, и всё такое?"
 
 # game/events_e.rpy:1619 #-#-# translate crowdin d12founde_7cb2b25a:
 msgid "[_oc_] You've always been good at talking your way out of bad situations..."
-msgstr ""
+msgstr "[_oc_] Твой язык тебе всегда помогает выпутаться, ты хорош в этом..."
 
 # game/events_e.rpy:1622 #-#-# translate crowdin d12founde_ff04d9d4:
 msgid "[_oc_] ...but what about your sister, do you think she's the same?"
-msgstr ""
+msgstr "[_oc_] ...но что касается сестры, думаешь, она такая же?"
 
 # game/events_e.rpy:1624 #-#-# translate crowdin d12founde_72a33094_19:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/events_e.rpy:1626 #-#-# translate crowdin d12founde_29096bb3:
 msgid "[_mc_] Let's get inside, [e]."
-msgstr ""
+msgstr "[_mc_] Давай внутрь, [e]."
 
 # §translate crowdin strings: #|#|# # game/events_e.rpy:6
 msgid "get closer"
-msgstr ""
+msgstr "подойти ближе"
 
 # game/events_e.rpy:15
 msgid "get really close"
-msgstr ""
+msgstr "подойти очень близко"
 
 # game/events_e.rpy:19
 msgid "Wake her up"
-msgstr ""
+msgstr "Разбудить"
 
 # game/events_e.rpy:19
 msgid "Just look"
-msgstr ""
+msgstr "Просто посмотреть"
 
 # game/events_e.rpy:305
 msgid "Look for her."
-msgstr ""
+msgstr "Посмотреть на нее."
 
 # game/events_e.rpy:305
 msgid "Don't look for her."
-msgstr ""
+msgstr "Не смотреть на нее."
 
 # game/events_e.rpy:310
 msgid "Get closer."
-msgstr ""
+msgstr "Подойти ближе."
 
 # game/events_e.rpy:310
 msgid "Leave."
-msgstr ""
+msgstr "Уйти."
 
 # game/events_e.rpy:846
 msgid "Her bed."
-msgstr ""
+msgstr "Ее кровать."
 
 # game/events_e.rpy:846
 msgid "Your bed."
-msgstr ""
+msgstr "Ваша кровать."
 
 # game/events_e.rpy:924
 msgid "(Make a noise)"
-msgstr ""
+msgstr "(Пошуметь)"
 
 # game/events_e.rpy:924
 msgid "(Wait)"
-msgstr ""
+msgstr "(Ждать)"
 
 # game/events_e.rpy:1193
 msgid "Looks great, I like it."
-msgstr ""
+msgstr "Выглядит отлично, мне нравится."
 
 # game/events_e.rpy:1193
 msgid "Nah, your normal outfit looks better."
-msgstr ""
+msgstr "Нет, твой обычный наряд выглядит лучше."
 
 # game/events_e.rpy:1203
 msgid "Hot!"
-msgstr ""
+msgstr "Супер!"
 
 # game/events_e.rpy:1203
 msgid "Nah, that's too goth style."
-msgstr ""
+msgstr "Не, слишком готично."
 
 # game/events_e.rpy:1212
 msgid "Looks great, but isn't that a little bit too much for everyday use?"
-msgstr ""
+msgstr "Выглядит замечательно, но для повседневного использования не перебор?"
 
 # game/events_e.rpy:1212
 msgid "Luscious! I love it!"
-msgstr ""
+msgstr "Блеск! Мне нравится!"
 
 # game/events_e.rpy:1293
 msgid "Comfort her."
-msgstr ""
+msgstr "Утешить ее."
 
 # game/events_e.rpy:1293
 msgid "Scold her."
-msgstr ""
+msgstr "Отругать ее."
 

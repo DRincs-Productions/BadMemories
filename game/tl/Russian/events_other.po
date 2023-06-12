@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:53\n"
+"PO-Revision-Date: 2023-06-04 04:43\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_other.rpy:2 #-#-# translate crowdin cafeBeforeOffice_8514b197:
 msgid "[_mc_] Hey, [h]!"
@@ -190,7 +190,7 @@ msgstr ""
 
 # game/events_other.rpy:72 #-#-# translate crowdin cafeBeforeOffice_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:75 #-#-# translate crowdin cafeBeforeOffice_4012b063:
 msgid "[_h_] Didn't you want to have the bill, sir?"
@@ -362,7 +362,7 @@ msgstr ""
 
 # game/events_other.rpy:152 #-#-# translate crowdin cafe_d6_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:154 #-#-# translate crowdin cafe_d6_e09d01db:
 msgid "[_mcthink_] Damn, I can't understand what they're talking about..."
@@ -538,7 +538,7 @@ msgstr ""
 
 # game/events_other.rpy:221 #-#-# translate crowdin cafe_d6_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:225 #-#-# translate crowdin cafe_d6_419c8f6d:
 msgid "[_mc_] ...and another one..."
@@ -558,7 +558,7 @@ msgstr ""
 
 # game/events_other.rpy:233 #-#-# translate crowdin cafe_d6_2b35b6fe_2:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:234 #-#-# translate crowdin cafe_d6_c448b224:
 msgid "[_mcthink_] Shit, I guess it's time to leave."
@@ -590,7 +590,7 @@ msgstr ""
 
 # game/events_other.rpy:245 #-#-# translate crowdin cafe_d6_2b35b6fe_3:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:246 #-#-# translate crowdin cafe_d6_fa80b421:
 msgid "[_mcthink_] Maybe I should have brought the notebook..."
@@ -598,7 +598,7 @@ msgstr ""
 
 # game/events_other.rpy:247 #-#-# translate crowdin cafe_d6_2b35b6fe_4:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:248 #-#-# translate crowdin cafe_d6_aeeccbe2:
 msgid "[_mcthink_] Well, time to finish the coffee and go on..."
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/events_other.rpy:278 #-#-# translate crowdin job_d6_a7bcf340:
 msgid "[_mc_] I see..."
-msgstr ""
+msgstr "[_mc_] Понятно..."
 
 # game/events_other.rpy:280 #-#-# translate crowdin job_d6_10c4bf0d:
 msgid "[_st_] Well if you don't need anything... I have a lot to do, and I'm sure you do, too."
@@ -934,7 +934,7 @@ msgstr ""
 
 # game/events_other.rpy:387 #-#-# translate crowdin job_d6_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:388 #-#-# translate crowdin job_d6_b065d0f6:
 msgid "[_mcthink_] Shit... I guess it doesn't matter what I say right now, she seems to have completely shut herself off..."
@@ -1110,7 +1110,7 @@ msgstr ""
 
 # game/events_other.rpy:486 #-#-# translate crowdin porngirls_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:489 #-#-# translate crowdin porngirls_3439020b:
 msgid "[_boss_] I see..."
@@ -1390,7 +1390,7 @@ msgstr ""
 
 # game/events_other.rpy:632 #-#-# translate crowdin maggy1_a7bcf340:
 msgid "[_mc_] I see..."
-msgstr ""
+msgstr "[_mc_] Понятно..."
 
 # game/events_other.rpy:633 #-#-# translate crowdin maggy1_ed1afacf:
 msgid "[_mcthink_] Maybe I should try to cheer her up and see where things go."
@@ -1474,7 +1474,7 @@ msgstr ""
 
 # game/events_other.rpy:672 #-#-# translate crowdin maggy1_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:674 #-#-# translate crowdin maggy1_6715d49c:
 msgid "[_ma_] So, how do you like the city, is it still like you remember it?"
@@ -1886,7 +1886,7 @@ msgstr ""
 
 # game/events_other.rpy:816 #-#-# translate crowdin d10hcall_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:817 #-#-# translate crowdin d10hcall_2fded262_1:
 msgid "[_h_] ..."
@@ -2306,7 +2306,7 @@ msgstr "[_h_] Хаха."
 
 # game/events_other.rpy:1015 #-#-# translate crowdin d10hdate_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1019 #-#-# translate crowdin d10hdate_2fded262_1:
 msgid "[_h_] ..."
@@ -2318,7 +2318,7 @@ msgstr ""
 
 # game/events_other.rpy:1026 #-#-# translate crowdin d10hdate_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:1028 #-#-# translate crowdin d10hdate_acaa5091:
 msgid "[_h_] I think it's starting to rain."
@@ -2374,7 +2374,7 @@ msgstr ""
 
 # game/events_other.rpy:1052 #-#-# translate crowdin d10hdate_d9d300ad:
 msgid "[_mc_] Damn..."
-msgstr ""
+msgstr "[_mc_] Черт..."
 
 # game/events_other.rpy:1054 #-#-# translate crowdin d10hdate_7a7fe652:
 msgid "[_h_] Maybe I should've made more sandwiches."
@@ -2478,7 +2478,7 @@ msgstr ""
 
 # game/events_other.rpy:1126 #-#-# translate crowdin d10hdate_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1128 #-#-# translate crowdin d10hdate_ebce81f4:
 msgid "[_mc_] Looks like the rain is getting stronger... maybe I should help [h]."
@@ -2550,7 +2550,7 @@ msgstr ""
 
 # game/events_other.rpy:1155 #-#-# translate crowdin d10hdate_2b35b6fe_2:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1160 #-#-# translate crowdin d10hdate_6c6ba5f3:
 msgid "[_h_] Ahem!"
@@ -2686,7 +2686,7 @@ msgstr ""
 
 # game/events_other.rpy:1227 #-#-# translate crowdin d10hdate_2b35b6fe_3:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1230 #-#-# translate crowdin d10hdate_bf5707bf:
 msgid "[_mc_] Are you sure it's not too cold in that bathing suit?"
@@ -3090,7 +3090,7 @@ msgstr ""
 
 # game/events_other.rpy:1443 #-#-# translate crowdin d11visitcafe_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1445 #-#-# translate crowdin d11visitcafe_13d0a7f6:
 msgid "[_mcthink_] That reminds me, wasn't there some talk about a lockdown? Shouldn't the cafe be closed?"
@@ -3198,7 +3198,7 @@ msgstr ""
 
 # game/events_other.rpy:1491 #-#-# translate crowdin d11visitcafe_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1493 #-#-# translate crowdin d11visitcafe_8e38038d:
 msgid "[_jess_] [em]!"
@@ -3214,7 +3214,7 @@ msgstr ""
 
 # game/events_other.rpy:1499 #-#-# translate crowdin d11visitcafe_2b35b6fe_2:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1501 #-#-# translate crowdin d11visitcafe_d2fb5a0e:
 msgid "[_mc_] *Slurp*"
@@ -3294,7 +3294,7 @@ msgstr ""
 
 # game/events_other.rpy:1536 #-#-# translate crowdin d11visitcafe_2b35b6fe_3:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1538 #-#-# translate crowdin d11visitcafe_d2fb5a0e_1:
 msgid "[_mc_] *Slurp*"
@@ -3510,7 +3510,7 @@ msgstr ""
 
 # game/events_other.rpy:1637 #-#-# translate crowdin d11visitcafe_2b35b6fe_4:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1638 #-#-# translate crowdin d11visitcafe_4e2e4e21:
 msgid "[_mc_] Oh that reminds me, the house where you and your parents live, do you know what was in there when I was still a kid?"
@@ -3626,7 +3626,7 @@ msgstr ""
 
 # game/events_other.rpy:1696 #-#-# translate crowdin d11visitcafe_2b35b6fe_5:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1698 #-#-# translate crowdin d11visitcafe_649e6f82:
 msgid "[_n_] You try to listen to the girls, but can't understand much, so you drink your coffee at a relaxed pace, and once it's empty you pay the bill and leave."
@@ -3834,7 +3834,7 @@ msgstr ""
 
 # game/events_other.rpy:1795 #-#-# translate crowdin d11work_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_other.rpy:1796 #-#-# translate crowdin d11work_7ce4accd:
 msgid "[_mcthink_] Wait a minute..."
@@ -3910,7 +3910,7 @@ msgstr ""
 
 # game/events_other.rpy:1827 #-#-# translate crowdin d11work_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:1828 #-#-# translate crowdin d11work_aa2848ff:
 msgid "[_mc_] Say [st], do you plan to go on a date?"
@@ -4458,7 +4458,7 @@ msgstr ""
 
 # game/events_other.rpy:2087 #-#-# translate crowdin d11maggylewd_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:2091 #-#-# translate crowdin d11maggylewd_fd3fe948:
 msgid "[_ma_] HAA!"
@@ -4606,7 +4606,7 @@ msgstr ""
 
 # game/events_other.rpy:2203 #-#-# translate crowdin d11mabjm_d9d300ad:
 msgid "[_mc_] Damn..."
-msgstr ""
+msgstr "[_mc_] Черт..."
 
 # game/events_other.rpy:2207 #-#-# translate crowdin d11malfm_ef532e4f:
 msgid "[_mc_] Suck my clit, [ma]."
@@ -4646,7 +4646,7 @@ msgstr ""
 
 # game/events_other.rpy:2243 #-#-# translate crowdin d11malfm_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr ""
+msgstr "[_mc_] Блядь!"
 
 # game/events_other.rpy:2250 #-#-# translate crowdin d11malfm_6011d82f:
 msgid "[_mc_] Shit! [withvpunch]"
@@ -4930,7 +4930,7 @@ msgstr ""
 
 # game/events_other.rpy:2397 #-#-# translate crowdin d12stdate_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/events_other.rpy:2399 #-#-# translate crowdin d12stdate_fda9506d:
 msgid "[_st_] I'm sorry for the drama, I bet you didn't expect something like that."
@@ -5018,7 +5018,7 @@ msgstr ""
 
 # game/events_other.rpy:2438 #-#-# translate crowdin d12stdate_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Что за?"
 
 # game/events_other.rpy:2443 #-#-# translate crowdin d12stdate_2b889f23:
 msgid "[_mc_] Looks like they're going to close, we should probably leave."
@@ -5086,15 +5086,15 @@ msgstr ""
 
 # game/events_other.rpy:2471 #-#-# translate crowdin d12stdate_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_other.rpy:2472 #-#-# translate crowdin d12stdate_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_other.rpy:2473 #-#-# translate crowdin d12stdate_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_other.rpy:2474 #-#-# translate crowdin d12stdate_524b0ea5:
 msgid "[_extend_]  {color=#beff78}[st] and I are a couple.{/color}"

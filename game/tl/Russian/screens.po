@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-30 02:52\n"
+"PO-Revision-Date: 2023-06-02 08:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:216
 msgid "{b}Add text outline?{/b}"
-msgstr ""
+msgstr "{b}Добавить контур текста?{/b}"
 
 # game/screens.rpy:217
 msgid "{i}(You can change this and textbox transparency in the Preferences.){/i}"
-msgstr ""
+msgstr "{i}(Вы можете изменить прозрачность этого и текстового поля в Настройках.){/i}"
 
 # game/screens.rpy:218
 msgid "Yes"
@@ -30,15 +30,15 @@ msgstr "Нет"
 
 # game/screens.rpy:247
 msgid "Ok"
-msgstr ""
+msgstr "Ок"
 
 # game/screens.rpy:325
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 # game/screens.rpy:326
 msgid "History"
-msgstr ""
+msgstr "История"
 
 # game/screens.rpy:327
 msgid "Hide"
@@ -54,11 +54,11 @@ msgstr "Авто"
 
 # game/screens.rpy:330
 msgid "Q.Save"
-msgstr ""
+msgstr "Б.Сохр"
 
 # game/screens.rpy:331
 msgid "Q.Load"
-msgstr ""
+msgstr "Б.Загр"
 
 # game/screens.rpy:332
 msgid "Menu"
@@ -70,15 +70,15 @@ msgstr "Сохранить"
 
 # game/screens.rpy:387
 msgid "Load"
-msgstr ""
+msgstr "Загрузить"
 
 # game/screens.rpy:389
 msgid "Preferences"
-msgstr ""
+msgstr "Настройки"
 
 # game/screens.rpy:393
 msgid "End Replay"
-msgstr ""
+msgstr "Завершить повтор"
 
 # game/screens.rpy:397
 msgid "Main Menu"
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/screens.rpy:406
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 # game/screens.rpy:409
 msgid "Quit"
@@ -102,16 +102,17 @@ msgstr "Выйти"
 
 # game/screens.rpy:567
 msgid "Return"
-msgstr ""
+msgstr "Вернуться"
 
 # game/screens.rpy:651
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Версия [config.version!t]\n"
 
 # game/screens.rpy:657
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Сделано с помощью {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 
 # game/screens.rpy:697
 msgid "Page {}"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-04-29 14:49\n"
+"PO-Revision-Date: 2023-06-02 21:02\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/script.rpy:498 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
@@ -56,69 +56,70 @@ msgstr ""
 # game/script.rpy:572 #-#-# translate crowdin endGame_a5f61313:
 msgid "[_n_] {size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
-msgstr ""
+msgstr "[_n_] {size= + 20}{b}Особо спасибо всем моим сторонникам, тестерам и всем, кто помогал мне каким-то образом.\n"
+"вы, ребята, потрясающие! {/b} {/size}"
 
 # game/script.rpy:579 #-#-# translate crowdin gameOverE_9ad555d3:
 msgid "[_n_] Congratulation! You broke her heart...idiot!"
-msgstr ""
+msgstr "[_n_] Поздравляю! Ты разбил ей сердце... идиот!"
 
 # §translate crowdin strings: #|#|# # game/script.rpy:96
 msgid "Rachel"
-msgstr ""
+msgstr "Рейчел"
 
 # game/script.rpy:496
 msgid "You"
-msgstr ""
+msgstr "Вы"
 
 # game/script.rpy:505
 msgid "Play as Man"
-msgstr ""
+msgstr "Сыграть в роли мужчины"
 
 # game/script.rpy:505
 msgid "Play as Woman (lesbian)"
-msgstr ""
+msgstr "Играть как женщина (лесбиянка)"
 
 # game/script.rpy:507
 msgid "male"
-msgstr ""
+msgstr "мужской"
 
 # game/script.rpy:517
 msgid "female"
-msgstr ""
+msgstr "женский"
 
 # game/script.rpy:518
 msgid "woman"
-msgstr ""
+msgstr "женщина"
 
 # game/script.rpy:519
 msgid "Ms."
-msgstr ""
+msgstr "Мисс."
 
 # game/script.rpy:520
 msgid "she"
-msgstr ""
+msgstr "она"
 
 # game/script.rpy:521
 msgid "girl"
-msgstr ""
+msgstr "девочка"
 
 # game/script.rpy:522
 msgid "Mommy"
-msgstr ""
+msgstr "Мамочка"
 
 # game/script.rpy:523
 msgid "daughter"
-msgstr ""
+msgstr "дочька"
 
 # game/script.rpy:524
 msgid "her"
-msgstr ""
+msgstr "ее"
 
 # game/script.rpy:525
 msgid "Jill"
-msgstr ""
+msgstr "Джилл"
 
 # game/script.rpy:526
 msgid "sister"
-msgstr ""
+msgstr "сестра"
 
