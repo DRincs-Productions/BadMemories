@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:46\n"
+"PO-Revision-Date: 2023-06-12 17:15\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/script.rpy:498 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
@@ -66,7 +66,7 @@ msgstr "[_n_] {size=+20}{b}Un grand merci à tous mes supporters, testeurs et to
 
 # game/script.rpy:579 #-#-# translate crowdin gameOverE_9ad555d3:
 msgid "[_n_] Congratulation! You broke her heart...idiot!"
-msgstr "[_n_] Félicitations ! Tu lui as brisé le cœur... idiot!"
+msgstr "[_n_] Félicitations! Tu lui as brisé le cœur... idiot!"
 
 # §translate crowdin strings: #|#|# # game/script.rpy:96
 msgid "Rachel"
@@ -86,15 +86,15 @@ msgstr "Jouer en tant que femme (lesbiennes)"
 
 # game/script.rpy:507
 msgid "male"
-msgstr "Mâle"
+msgstr "mâle"
 
 # game/script.rpy:517
 msgid "female"
-msgstr "Femelle"
+msgstr "femelle"
 
 # game/script.rpy:518
 msgid "woman"
-msgstr "Femme"
+msgstr "femme"
 
 # game/script.rpy:519
 msgid "Ms."
@@ -106,7 +106,7 @@ msgstr "elle"
 
 # game/script.rpy:521
 msgid "girl"
-msgstr "Fille"
+msgstr "fille"
 
 # game/script.rpy:522
 msgid "Mommy"
@@ -114,11 +114,11 @@ msgstr "Maman"
 
 # game/script.rpy:523
 msgid "daughter"
-msgstr "Fille"
+msgstr "fille"
 
 # game/script.rpy:524
 msgid "her"
-msgstr "lui"
+msgstr "sa"
 
 # game/script.rpy:525
 msgid "Jill"
