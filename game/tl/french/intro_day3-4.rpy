@@ -160,7 +160,7 @@ translate french intro_day3_be5544eb_9:
 translate french intro_day3_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:44
 translate french intro_day3_d40b86d0:
@@ -190,7 +190,7 @@ translate french intro_day3_bb39f960_2:
 translate french intro_day3_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:53
 translate french intro_day3_bb39f960_3:
@@ -298,7 +298,7 @@ translate french intro_day3_6125e12c:
 translate french intro_day3_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:80
 translate french intro_day3_4a751546:
@@ -370,7 +370,7 @@ translate french intro_day3_cc3e3444:
 translate french intro_day3_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:96
 translate french intro_day3_ce838ebf:
@@ -382,7 +382,7 @@ translate french intro_day3_ce838ebf:
 translate french intro_day3_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:98
 translate french intro_day3_89595fb7:
@@ -412,7 +412,7 @@ translate french intro_day3_dbcc0492:
 translate french intro_day3_2b35b6fe_5:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:106
 translate french intro_day3_6c4620d9:
@@ -484,7 +484,7 @@ translate french intro_day3_dbcc0492_1:
 translate french intro_day3_2b35b6fe_6:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:122
 translate french intro_day3_6c4620d9_1:
@@ -538,7 +538,7 @@ translate french intro_day3_7581118d:
 translate french intro_day3_2b35b6fe_7:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:131
 translate french intro_day3_975a8e7f:
@@ -658,7 +658,7 @@ translate french intro_day3_90700f5d:
 translate french intro_day3_2b35b6fe_8:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:156
 translate french intro_day3_b78c28fa:
@@ -832,7 +832,7 @@ translate french intro_day3_54afc299:
 translate french intro_day3_2b35b6fe_9:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:208
 translate french intro_day3_b51a46fe:
@@ -880,7 +880,7 @@ translate french intro_day3_abf5a9d8:
 translate french intro_day3_2b35b6fe_10:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:217
 translate french intro_day3_67fd0e89:
@@ -904,7 +904,7 @@ translate french intro_day3_51da6f48:
 translate french intro_day3_2b35b6fe_11:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:222
 translate french intro_day3_e5f80754:
@@ -964,7 +964,7 @@ translate french intro_day3_feda8df7:
 translate french intro_day3_2b35b6fe_12:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:235
 translate french intro_day3_96395580:
@@ -1006,7 +1006,7 @@ translate french intro_day3_e532763c:
 translate french intro_day3_2b35b6fe_13:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:243
 translate french intro_day3_f6a4d15e:
@@ -1036,13 +1036,13 @@ translate french intro_day3_f87961c9:
 translate french intro_day3_2b35b6fe_14:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:251
 translate french intro_day3_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day3-4.rpy:252
 translate french intro_day3_44dd165e:
@@ -1084,7 +1084,7 @@ translate french intro_day3_0060341f:
 translate french intro_day3_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day3-4.rpy:261
 translate french intro_day3_252f3573:
@@ -1186,7 +1186,7 @@ translate french intro_day3_529665bb:
 translate french intro_day3_2b35b6fe_15:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day3-4.rpy:284
 translate french intro_day3_1eadec35:

@@ -178,19 +178,19 @@ translate french halldesk_26dfd9b6:
 translate french halldesk_b9b155fe:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/maps.rpy:312
 translate french halldesk_b9b155fe_1:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/maps.rpy:313
 translate french halldesk_b9b155fe_2:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/maps.rpy:314
 translate french halldesk_66cd34a7:

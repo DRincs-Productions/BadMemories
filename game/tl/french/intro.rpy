@@ -40,7 +40,7 @@ translate french intro_d77beb2e:
 translate french intro_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/intro.rpy:16
 translate french intro_e4c039d6:
@@ -358,7 +358,7 @@ translate french intro_0d472fd2:
 translate french intro_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro.rpy:120
 translate french intro_830c2d03:

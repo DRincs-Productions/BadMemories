@@ -526,7 +526,7 @@ translate french cafe_d6_99351633:
 translate french cafe_d6_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:154
 translate french cafe_d6_e09d01db:
@@ -790,7 +790,7 @@ translate french cafe_d6_78a0d601:
 translate french cafe_d6_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:225
 translate french cafe_d6_419c8f6d:
@@ -820,7 +820,7 @@ translate french cafe_d6_e198b2d7:
 translate french cafe_d6_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:234
 translate french cafe_d6_c448b224:
@@ -868,7 +868,7 @@ translate french cafe_d6_33bca406:
 translate french cafe_d6_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:246
 translate french cafe_d6_fa80b421:
@@ -880,7 +880,7 @@ translate french cafe_d6_fa80b421:
 translate french cafe_d6_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:248
 translate french cafe_d6_aeeccbe2:
@@ -1384,7 +1384,7 @@ translate french job_d6_23634849:
 translate french job_d6_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:388
 translate french job_d6_b065d0f6:
@@ -1402,7 +1402,7 @@ translate french job_d6_2fb92ae1:
 translate french job_d6_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:392
 translate french job_d6_5cfa9f0b:
@@ -1420,7 +1420,7 @@ translate french job_d6_27e7e356:
 translate french job_d6_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:396
 translate french job_d6_d980a6b6:
@@ -1762,7 +1762,7 @@ translate french porngirls_41b9b1a1:
 translate french porngirls_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:528
 translate french porngirls_8f9e487c:
@@ -1780,7 +1780,7 @@ translate french porngirls_221eb2a4:
 translate french porngirls_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:532
 translate french porngirls_547b95c2:
@@ -1798,7 +1798,7 @@ translate french porngirls_4706d316:
 translate french porngirls_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:539
 translate french porngirls_1d2ca2b4:
@@ -1828,7 +1828,7 @@ translate french porngirls_12911da2:
 translate french porngirls_2384fd4b_3:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:556
 translate french porngirls_29ed0ec5:
@@ -1906,7 +1906,7 @@ translate french porngirls_e4f9aeca:
 translate french porngirls_2384fd4b_4:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:581
 translate french porngirls_1f3d742a_1:
@@ -2194,7 +2194,7 @@ translate french maggy1_cb8f0e68:
 translate french maggy1_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:674
 translate french maggy1_6715d49c:
@@ -2812,7 +2812,7 @@ translate french d10hcall_f5163abf:
 translate french d10hcall_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:817
 translate french d10hcall_2fded262_1:
@@ -3442,7 +3442,7 @@ translate french d10hdate_e88f4112_2:
 translate french d10hdate_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1019
 translate french d10hdate_2fded262_1:
@@ -3700,7 +3700,7 @@ translate french d10hdate_b4ad8ef8:
 translate french d10hdate_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1128
 translate french d10hdate_ebce81f4:
@@ -3808,7 +3808,7 @@ translate french d10hdate_59e8c05a:
 translate french d10hdate_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1160
 translate french d10hdate_6c6ba5f3:
@@ -4012,7 +4012,7 @@ translate french d10hdate_62775254_2:
 translate french d10hdate_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1230
 translate french d10hdate_bf5707bf:
@@ -4618,7 +4618,7 @@ translate french d11visitcafe_606e2d02:
 translate french d11visitcafe_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1445
 translate french d11visitcafe_13d0a7f6:
@@ -4780,7 +4780,7 @@ translate french d11visitcafe_870b7b59:
 translate french d11visitcafe_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1493
 translate french d11visitcafe_8e38038d:
@@ -4804,7 +4804,7 @@ translate french d11visitcafe_1b4cde14:
 translate french d11visitcafe_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1501
 translate french d11visitcafe_d2fb5a0e:
@@ -4924,7 +4924,7 @@ translate french d11visitcafe_9a951f62:
 translate french d11visitcafe_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1538
 translate french d11visitcafe_d2fb5a0e_1:
@@ -5248,7 +5248,7 @@ translate french d11visitcafe_2fded262_2:
 translate french d11visitcafe_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1638
 translate french d11visitcafe_4e2e4e21:
@@ -5422,7 +5422,7 @@ translate french d11visitcafe_41123d4b:
 translate french d11visitcafe_2b35b6fe_5:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1698
 translate french d11visitcafe_649e6f82:
@@ -5590,7 +5590,7 @@ translate french d11work_1c7ed271:
 translate french d11work_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1762
 translate french d11work_ef2128d4:
@@ -5638,7 +5638,7 @@ translate french d11work_62f1a937:
 translate french d11work_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1774
 translate french d11work_e8e3d275:
@@ -5716,7 +5716,7 @@ translate french d11work_87fbafa5:
 translate french d11work_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1792
 translate french d11work_2308223a:
@@ -5734,7 +5734,7 @@ translate french d11work_ff287960:
 translate french d11work_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_other.rpy:1796
 translate french d11work_7ce4accd:
@@ -5848,7 +5848,7 @@ translate french d11work_a30d37d5:
 translate french d11work_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1828
 translate french d11work_aa2848ff:
@@ -5962,7 +5962,7 @@ translate french d11work_917d11b1:
 translate french d11work_2384fd4b_3:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1857
 translate french d11work_c6d23b1b:
@@ -6670,7 +6670,7 @@ translate french d11maggylewd_b61b036f:
 translate french d11maggylewd_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:2091
 translate french d11maggylewd_fd3fe948:
@@ -7180,7 +7180,7 @@ translate french d12stdate_854ecb75:
 translate french d12stdate_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2326
 translate french d12stdate_e4c07a5c:
@@ -7210,7 +7210,7 @@ translate french d12stdate_88e1e606:
 translate french d12stdate_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2339
 translate french d12stdate_60ba7904:
@@ -7330,7 +7330,7 @@ translate french d12stdate_5560b2de:
 translate french d12stdate_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2383
 translate french d12stdate_764ea82d:
@@ -7378,7 +7378,7 @@ translate french d12stdate_eaf28586:
 translate french d12stdate_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:2399
 translate french d12stdate_fda9506d:
@@ -7612,19 +7612,19 @@ translate french d12stdate_e15926e4:
 translate french d12stdate_b9b155fe:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_other.rpy:2472
 translate french d12stdate_b9b155fe_1:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_other.rpy:2473
 translate french d12stdate_b9b155fe_2:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_other.rpy:2474
 translate french d12stdate_524b0ea5:
@@ -8044,7 +8044,7 @@ translate french d12stjadate_bfe86fa8:
 translate french d12stjadate_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2637
 translate french d12stjadate_f59a6711:
@@ -8518,13 +8518,13 @@ translate french d12stjadate_79790111:
 translate french d12stjadate_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2850
 translate french d12stjadate_1ea3c063:
 
     # ja "...and such nice tits. Do you mind?"
-    "[_ja_]...et de si beaux seins. Cela ne vous dérange pas ?"
+    ja "...et de si beaux seins. Cela ne vous dérange pas ?"
 
 # game/events_other.rpy:2852
 translate french d12stjadate_5a86862f:
@@ -8578,7 +8578,7 @@ translate french d12stjadate_09dba177:
 translate french d12stjadate_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2881
 translate french d12stjadate_550e1358:
@@ -8866,7 +8866,7 @@ translate french d12stjadate_a99f84f7:
 translate french d12stjadate_2384fd4b_3:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2983
 translate french d12stjadate_430ba501:

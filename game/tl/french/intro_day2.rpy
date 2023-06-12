@@ -10,7 +10,7 @@ translate french intro_day2_d8b6e64b:
 translate french intro_day2_bb2cf764:
 
     # n "..."
-    "[_n_]..."
+    n "..."
 
 # game/intro_day2.rpy:9
 translate french intro_day2_0de96e02:
@@ -196,7 +196,7 @@ translate french intro_day2_7e758acb:
 translate french intro_day2_bb2cf764_1:
 
     # n "..."
-    "[_n_]..."
+    n "..."
 
 # game/intro_day2.rpy:46
 translate french intro_day2_c5c91f0a:
@@ -244,7 +244,7 @@ translate french intro_day2_63910f04:
 translate french intro_day2_bb2cf764_2:
 
     # n "..."
-    "[_n_]..."
+    n "..."
 
 # game/intro_day2.rpy:58
 translate french intro_day2_79dba188:
@@ -262,7 +262,7 @@ translate french intro_day2_123385ad:
 translate french intro_day2_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/intro_day2.rpy:62
 translate french intro_day2_e6a61566:
@@ -280,7 +280,7 @@ translate french intro_day2_6baec22e:
 translate french intro_day2_457c6f63_1:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/intro_day2.rpy:65
 translate french intro_day2_2607fa33:
@@ -292,19 +292,19 @@ translate french intro_day2_2607fa33:
 translate french intro_day2_a6b0f222:
 
     # mcthink ".."
-    "[_mcthink_].."
+    mcthink ".."
 
 # game/intro_day2.rpy:67
 translate french intro_day2_457c6f63_2:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/intro_day2.rpy:68
 translate french intro_day2_0d62fbf2:
 
     # mcthink "...."
-    "[_mcthink_]...."
+    mcthink "...."
 
 # game/intro_day2.rpy:69
 translate french intro_day2_dc64dcac:
@@ -316,19 +316,19 @@ translate french intro_day2_dc64dcac:
 translate french intro_day2_a6b0f222_1:
 
     # mcthink ".."
-    "[_mcthink_].."
+    mcthink ".."
 
 # game/intro_day2.rpy:71
 translate french intro_day2_457c6f63_3:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/intro_day2.rpy:72
 translate french intro_day2_0d62fbf2_1:
 
     # mcthink "...."
-    "[_mcthink_]...."
+    mcthink "...."
 
 # game/intro_day2.rpy:73
 translate french intro_day2_8df6c139:
@@ -400,7 +400,7 @@ translate french intro_day2_4cbe1206:
 translate french intro_day2_bb2cf764_3:
 
     # n "..."
-    "[_n_]..."
+    n "..."
 
 # game/intro_day2.rpy:99
 translate french intro_day2_7ff23abc:
@@ -418,7 +418,7 @@ translate french intro_day2_14a5a8d6:
 translate french intro_day2_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day2.rpy:103
 translate french intro_day2_9ed88fe9:
@@ -472,7 +472,7 @@ translate french intro_day2_76188891:
 translate french intro_day2_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day2.rpy:113
 translate french intro_day2_528e81c9:
@@ -490,7 +490,7 @@ translate french intro_day2_5a6ad07b:
 translate french intro_day2_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day2.rpy:118
 translate french intro_day2_902b6f3a:
@@ -502,13 +502,13 @@ translate french intro_day2_902b6f3a:
 translate french intro_day2_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day2.rpy:120
 translate french intro_day2_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day2.rpy:121
 translate french intro_day2_99f73c57:
@@ -574,7 +574,7 @@ translate french intro_day2_d05128bd:
 translate french intro_day2_e612037c_2:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day2.rpy:132
 translate french intro_day2_eaef44ed:
@@ -664,7 +664,7 @@ translate french intro_day2_2b92fa12:
 translate french intro_day2_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day2.rpy:148
 translate french intro_day2_e0deca1e:
@@ -676,7 +676,7 @@ translate french intro_day2_e0deca1e:
 translate french intro_day2_e612037c_3:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day2.rpy:150
 translate french intro_day2_55f9658c:
@@ -718,7 +718,7 @@ translate french intro_day2_ae5c1f55:
 translate french intro_day2_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day2.rpy:159
 translate french intro_day2_5c76d629:
@@ -964,7 +964,7 @@ translate french intro_day2_2_390a4f62:
 translate french intro_day2_2_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/intro_day2.rpy:212
 translate french intro_day2_2_1560fd1d:

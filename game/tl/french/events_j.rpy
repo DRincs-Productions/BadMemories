@@ -436,7 +436,7 @@ translate french flirtyJ_00375015:
 translate french flirtyJ_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:111
 translate french flirtyJ_377b021e:
@@ -964,7 +964,7 @@ translate french JVREbirthday_6f04696f:
 translate french JVREbirthday_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_j.rpy:241
 translate french JVREbirthday_e7334238:
@@ -1066,7 +1066,7 @@ translate french ebdBringJadaHome_536da672:
 translate french ebdBringJadaHome_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:274
 translate french ebdBringJadaHome_7af2b9fb:
@@ -1222,7 +1222,7 @@ translate french bringJadaHome_b1026e6c:
 translate french bringJadaHome_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:310
 translate french bringJadaHome_74be2e7d:
@@ -1252,7 +1252,7 @@ translate french bringJadaHome_95afde2b:
 translate french bringJadaHome_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:315
 translate french bringJadaHome_43861bf6:
@@ -1318,7 +1318,7 @@ translate french bringJadaHome_d2417153:
 translate french bringJadaHome_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:326
 translate french bringJadaHome_b9b8a47f:
@@ -1330,7 +1330,7 @@ translate french bringJadaHome_b9b8a47f:
 translate french bringJadaHome_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:329
 translate french bringJadaHome_0f659554:
@@ -1342,7 +1342,7 @@ translate french bringJadaHome_0f659554:
 translate french bringJadaHome_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:331
 translate french bringJadaHome_11455b53:
@@ -1390,7 +1390,7 @@ translate french bringJadaHome_4bc9b84a:
 translate french bringJadaHome_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:341
 translate french bringJadaHome_37abd0b4:
@@ -1402,13 +1402,13 @@ translate french bringJadaHome_37abd0b4:
 translate french bringJadaHome_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:343
 translate french bringJadaHome_b4fa3fc0_2:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:345
 translate french bringJadaHome_087bd71b:
@@ -1426,7 +1426,7 @@ translate french bringJadaHome_9fe99c8b:
 translate french bringJadaHome_2b35b6fe_5:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:349
 translate french bringJadaHome_4b1e8249:
@@ -1876,7 +1876,7 @@ translate french bjhcum_07366fe2:
 translate french bjhcum_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:490
 translate french bjhcum_6110828c:
@@ -2386,7 +2386,7 @@ translate french d6_wayBackHome_77297a89:
 translate french d6_wayBackHome_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:639
 translate french d6_wayBackHome_abf8fb0a:
@@ -2458,7 +2458,7 @@ translate french d6_wayBackHome_77703424:
 translate french d6_wayBackHome_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:654
 translate french d6_wayBackHome_41043a1c:
@@ -2506,7 +2506,7 @@ translate french d6_wayBackHome_ac9522d3:
 translate french d6_wayBackHome_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:662
 translate french d6_wayBackHome_d133af67:
@@ -2692,7 +2692,7 @@ translate french d6_wayBackHome_e6f953ca:
 translate french d6_wayBackHome_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:702
 translate french d6_wayBackHome_22a4579b:
@@ -2824,7 +2824,7 @@ translate french d6_gotobed_f1fc8a8f:
 translate french d6_gotobed_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:743
 translate french d6_gotobed_2b2d2253:
@@ -2998,7 +2998,7 @@ translate french d6_gotobed_627ac800:
 translate french d6_gotobed_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:795
 translate french d6_gotobed_f28b3ab9:
@@ -3670,7 +3670,7 @@ translate french d7_motel_403562ef:
 translate french d7_motel_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:1064
 translate french d7_motel_80fa5128:
@@ -4012,7 +4012,7 @@ translate french d7_motel_e604a2e6:
 translate french d7_motel_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:1147
 translate french d7_motel_0b7a591a:
@@ -4348,7 +4348,7 @@ translate french d7_motel_r_0786ed73:
 translate french d7_motel_r_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:1253
 translate french d7_motel_r_c4717d46:
@@ -4504,13 +4504,13 @@ translate french d7_motel_r_6093f043:
 translate french d7_motel_r_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:1316
 translate french d7_motel_r_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:1317
 translate french d7_motel_r_e57c9a72:
@@ -4594,13 +4594,13 @@ translate french d7_motel_r_9245b59d:
 translate french d7_motel_r_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:1342
 translate french d7_motel_r_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:1344
 translate french d7_motel_r_b4821a29:
@@ -4744,7 +4744,7 @@ translate french d7_motel_r_c21b7fb6:
 translate french d7_motel_r_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:1395
 translate french d9_morning_wakeup_a2da44d8:
@@ -5500,7 +5500,7 @@ translate french d10pcroombeforekh_97486722:
 translate french d10pcroombeforekh_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:1644
 translate french d10pcroombeforekh_4a80ccf4:
@@ -5962,7 +5962,7 @@ translate french d10pcroombeforekh_8bb7872d:
 translate french d10pcroombeforekh_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:1784
 translate french d10pcroombeforekh_706f4031:
@@ -5974,7 +5974,7 @@ translate french d10pcroombeforekh_706f4031:
 translate french d10pcroombeforekh_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:1786
 translate french d10pcroombeforekh_9655811c:
@@ -6034,7 +6034,7 @@ translate french d10pcroombeforekh_1e363e51:
 translate french d10pcroombeforekh_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:1808
 translate french d11jbeforl_18127151:
@@ -6922,7 +6922,7 @@ translate french d12shed_d1a4d9e8:
 translate french d12shed_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_j.rpy:2098
 translate french d12shed_a05403e3:
@@ -7162,7 +7162,7 @@ translate french d12shed_4bee58e6:
 translate french d12shed_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2178
 translate french d12shed_ff7abff2:
@@ -7372,13 +7372,13 @@ translate french d12shed_95e63e21:
 translate french d12shed_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:2248
 translate french d12shed_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2250
 translate french d12shed_9cd3fae9:
@@ -7864,7 +7864,7 @@ translate french d12shed_32f06399:
 translate french d12shed_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:2432
 translate french d12shed_7afe0e0f:
@@ -7876,7 +7876,7 @@ translate french d12shed_7afe0e0f:
 translate french d12shed_b4fa3fc0_2:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2435
 translate french d12shed_582359ea:
@@ -7900,7 +7900,7 @@ translate french d12shed_8e677ba8:
 translate french d12shed_b4fa3fc0_3:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2441
 translate french d12shed_9655811c_1:
@@ -7954,7 +7954,7 @@ translate french d12shed_76fbaa58:
 translate french d12shed_72a33094:
 
     # e "..."
-    "[_e_]..."
+    e "..."
 
 # game/events_j.rpy:2457
 translate french d12shed_2a51dd16:
@@ -8164,7 +8164,7 @@ translate french d12EroomJ_d85dfd7e:
 translate french d12EroomJ_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:2542
 translate french d12EroomJ_42517f93:
@@ -8182,7 +8182,7 @@ translate french d12EroomJ_06b9f25f:
 translate french d12EroomJ_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_j.rpy:2546
 translate french d12EroomJ_9db06db9:
@@ -8212,13 +8212,13 @@ translate french d12EroomJ2_677ce170:
 translate french d12EroomJ2_b9b155fe:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_j.rpy:2562
 translate french d12EroomJ2_b9b155fe_1:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_j.rpy:2564
 translate french d12EroomJ2_acce35a7:
@@ -8302,7 +8302,7 @@ translate french d12EroomJ2_c4060995:
 translate french d12EroomJ2_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:2591
 translate french d12EroomJ2_cdcbb27e:
@@ -8440,13 +8440,13 @@ translate french d12EroomJ2_5479601c:
 translate french d12EroomJ2_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:2635
 translate french d12EroomJ2_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2637
 translate french d12EroomJ2_34ed747b:
@@ -8476,7 +8476,7 @@ translate french d12EroomJ2_8b7067a1:
 translate french d12EroomJ2_b4fa3fc0_1:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2647
 translate french d12EroomJ2_67d1b2f2:
@@ -8494,7 +8494,7 @@ translate french d12EroomJ2_97321978:
 translate french d12EroomJ2_b4fa3fc0_2:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2653
 translate french d12EroomJ2_e3788fea:
@@ -8512,7 +8512,7 @@ translate french d12EroomJ2_5af72cb1:
 translate french d12EroomJ2_b4fa3fc0_3:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2659
 translate french d12EroomJ2_c42b05ac:
@@ -8626,7 +8626,7 @@ translate french d12EroomJ2_e85d56ff:
 translate french d12EroomJ2_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:2695
 translate french d12EroomJ2_ea408fcf:
@@ -8638,7 +8638,7 @@ translate french d12EroomJ2_ea408fcf:
 translate french d12EroomJ2_b4fa3fc0_4:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2699
 translate french d12EroomJ2_1c096015:
@@ -8860,7 +8860,7 @@ translate french d12EroomJ2_6c8bddbf:
 translate french tjylh_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:2784
 translate french tjylh_010cf1f9:
@@ -9556,13 +9556,13 @@ translate french d12jfunsex_1ecea7cc:
 translate french d12jfunsex_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_j.rpy:3067
 translate french d12jfunsex_b4fa3fc0:
 
     # j "..."
-    "[_j_]..."
+    j "..."
 
 # game/events_j.rpy:3071
 translate french d12jfunend_b89a1307:

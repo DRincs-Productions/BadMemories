@@ -10,7 +10,7 @@ translate french rachelBathroomDay0_299fb66f:
 translate french rachelBathroomDay0_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:9
 translate french rachelBathroomDay0_bf223809:
@@ -22,7 +22,7 @@ translate french rachelBathroomDay0_bf223809:
 translate french rachelBathroomDay0_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_m.rpy:11
 translate french rachelBathroomDay0_4dd04583:
@@ -40,7 +40,7 @@ translate french rachelBathroomDay0_48fff1c7:
 translate french rachelBathroomDay0_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:16
 translate french rachelBathroomDay0_34188e18:
@@ -100,7 +100,7 @@ translate french rachelBathroomDay0_cb664370:
 translate french rachelBathroomDay0_457c6f63_1:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_m.rpy:39
 translate french rachelBathroomDay0_583e49a9:
@@ -202,7 +202,7 @@ translate french breakfastDay0_6f4c46dc:
 translate french breakfastDay0_bb2cf764:
 
     # n "..."
-    "[_n_]..."
+    n "..."
 
 # game/events_m.rpy:72
 translate french breakfastDay0_66759bab:
@@ -2080,7 +2080,7 @@ translate french rachelElliesBDayReminder_848b4b90:
 translate french rachelElliesBDayReminder_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:541
 translate french rachelElliesBDayReminder_52c816cf:
@@ -2092,7 +2092,7 @@ translate french rachelElliesBDayReminder_52c816cf:
 translate french rachelElliesBDayReminder_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:544
 translate french rachelElliesBDayReminder_c745f47e:
@@ -2152,7 +2152,7 @@ translate french rachelElliesBDayReminder_33828ccc:
 translate french rachelElliesBDayReminder_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:557
 translate french rachelElliesBDayReminder_9be6d82f:
@@ -2770,7 +2770,7 @@ translate french ebdRachelToBed_99c64d45:
 translate french ebdRachelToBed_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:724
 translate french ebdRachelToBed_ec37912c:
@@ -2908,7 +2908,7 @@ translate french ebdRachelToBed_fbf6ef7b:
 translate french ebdRachelToBed_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:755
 translate french ebdRachelToBed_16e9dbf8:
@@ -2920,7 +2920,7 @@ translate french ebdRachelToBed_16e9dbf8:
 translate french ebdRachelToBed_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:757
 translate french ebdRachelToBed_01b5bab3:
@@ -2938,7 +2938,7 @@ translate french ebdRachelToBed_9079e32b:
 translate french ebdRachelToBed_e612037c_2:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:760
 translate french ebdRachelToBed_4ddf21bc:
@@ -3112,7 +3112,7 @@ translate french bathroomRAfterEBD_be5c34d3:
 translate french bathroomRAfterEBD_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:812
 translate french bathroomRAfterEBD_b823f5da:
@@ -3142,7 +3142,7 @@ translate french bathroomRAfterEBD_3760c83e:
 translate french bathroomRAfterEBD_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:819
 translate french bathroomRAfterEBD_e7aa4578:
@@ -3172,7 +3172,7 @@ translate french bathroomRAfterEBD_4953718a:
 translate french bathroomRAfterEBD_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:826
 translate french bathroomRAfterEBD_675fc0a6:
@@ -3208,7 +3208,7 @@ translate french bathroomRAfterEBD_f5f51c33:
 translate french bathroomRAfterEBD_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:834
 translate french bathroomRAfterEBD_578aa2b1:
@@ -3328,7 +3328,7 @@ translate french bathroomRAfterEBD_679ad9ec:
 translate french bathroomRAfterEBD_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:861
 translate french bathroomRAfterEBD_63ec71b6:
@@ -3430,7 +3430,7 @@ translate french rachelsaffair_c98887c3:
 translate french rachelsaffair_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:893
 translate french rachelsaffair_698e0e34:
@@ -3442,7 +3442,7 @@ translate french rachelsaffair_698e0e34:
 translate french rachelsaffair_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:895
 translate french rachelsaffair_41f52a13:
@@ -3622,7 +3622,7 @@ translate french rachelsaffair_e9a0e4a2:
 translate french rachelsaffair_e612037c_2:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:925
 translate french rachelsaffair_194c5e6f:
@@ -3634,7 +3634,7 @@ translate french rachelsaffair_194c5e6f:
 translate french rachelsaffair_e612037c_3:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:927
 translate french rachelsaffair_5702ca3d:
@@ -3646,7 +3646,7 @@ translate french rachelsaffair_5702ca3d:
 translate french rachelsaffair_e612037c_4:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:929
 translate french rachelsaffair_d280544c:
@@ -3658,7 +3658,7 @@ translate french rachelsaffair_d280544c:
 translate french rachelsaffair_e612037c_5:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:931
 translate french rachelsaffair_1d0e3606:
@@ -3670,7 +3670,7 @@ translate french rachelsaffair_1d0e3606:
 translate french rachelsaffair_e612037c_6:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:933
 translate french rachelsaffair_806f1e68:
@@ -3820,13 +3820,13 @@ translate french rachelsaffair_55de34af:
 translate french rachelsaffair_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:972
 translate french rachelsaffair_e612037c_7:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:974
 translate french rachelsaffair_b83aaccc:
@@ -3850,7 +3850,7 @@ translate french rachelsaffair_2d0f01e2:
 translate french rachelsaffair_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:980
 translate french rachelsaffair_3a61b617:
@@ -3868,7 +3868,7 @@ translate french rachelsaffair_422e1b8e:
 translate french rachelsaffair_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_m.rpy:983
 translate french rachelsaffair_bd16adef:
@@ -3922,7 +3922,7 @@ translate french rachelGivePills_3131a06c:
 translate french rachelGivePills_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:999
 translate french rachelGivePills_5c9216fb:
@@ -3946,7 +3946,7 @@ translate french rachelGivePills_953c4c54:
 translate french rachelGivePills_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1008
 translate french rachelGivePills_8589d27a:
@@ -4276,7 +4276,7 @@ translate french afterTcoerce2_0710b814:
 translate french afterTcoerce2_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1105
 translate french afterTcoerce2_e205992d:
@@ -4288,7 +4288,7 @@ translate french afterTcoerce2_e205992d:
 translate french afterTcoerce2_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:1107
 translate french afterTcoerce2_b92f9e61:
@@ -4414,7 +4414,7 @@ translate french afterTcoerce2_2c4a6c69:
 translate french afterTcoerce2_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:1134
 translate french afterTcoerce2_dc9fdcc6:
@@ -4426,7 +4426,7 @@ translate french afterTcoerce2_dc9fdcc6:
 translate french afterTcoerce2_e612037c_2:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:1136
 translate french afterTcoerce2_b2cbc34c:
@@ -4444,7 +4444,7 @@ translate french afterTcoerce2_b583b956:
 translate french afterTcoerce2_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1144
 translate french afterTcoerce2_3711ad47:
@@ -4480,7 +4480,7 @@ translate french afterTcoerce2_e588c55c:
 translate french afterTcoerce2_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_m.rpy:1150
 translate french afterTcoerce2_5a9ef49b:
@@ -4516,7 +4516,7 @@ translate french d6_backhomeRachel_a8b3c301:
 translate french d6_backhomeRachel_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1163
 translate french d6_backhomeRachel_645ee8b5:
@@ -5026,7 +5026,7 @@ translate french d6_backhomeRachel_216c7368:
 translate french d6_backhomeRachel_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_m.rpy:1276
 translate french d6_rachel_pills_3fad21d5:
@@ -5044,7 +5044,7 @@ translate french d6_rachel_pills_380d07e2:
 translate french d6_rachel_pills_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1280
 translate french d6_rachel_pills_42a1f3de:
@@ -5734,7 +5734,7 @@ translate french d8_rachel_talk_772064f0:
 translate french d8_rachel_talk_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1481
 translate french d8_rachel_talk_7841b110:
@@ -5980,13 +5980,13 @@ translate french d8_rachel_pills_1425d73d:
 translate french d8_rachel_pills_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:1550
 translate french d8_rachel_pills_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1551
 translate french d8_rachel_pills_8f7f5165:
@@ -6538,7 +6538,7 @@ translate french d8_rachel_pills_189e5c99:
 translate french d8_rachel_pills_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:1683
 translate french d8_rachel_pills_3aaa0aca:
@@ -6964,7 +6964,7 @@ translate french d9_backhome_a4301c58:
 translate french d9_backhome_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1816
 translate french d9_backhome_f81580c9:
@@ -7486,7 +7486,7 @@ translate french d10outdoor_ee8f364a:
 translate french d10outdoor_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:1994
 translate french d10outdoor_1916d73b:
@@ -7516,7 +7516,7 @@ translate french d10outdoor_a8cbcab4:
 translate french d10outdoor_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2003
 translate french d10outdoor_b2cbc34c:
@@ -7534,7 +7534,7 @@ translate french d10outdoor_67519a39:
 translate french d10outdoor_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2007
 translate french d10outdoor_dbf56cc9:
@@ -7624,7 +7624,7 @@ translate french d10outdoor_6af210ef:
 translate french d10outdoor_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2034
 translate french d10outdoor_ef8c3afb:
@@ -7660,7 +7660,7 @@ translate french d10outdoor_493705a8:
 translate french d10outdoor_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2045
 translate french d10outdoor_50d9c930:
@@ -7678,7 +7678,7 @@ translate french d10outdoor_e91345cd:
 translate french d10outdoor_e612037c_2:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2050
 translate french d10outdoor_d50a79e7:
@@ -7696,7 +7696,7 @@ translate french d10outdoor_f102b975:
 translate french d10outdoor_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2057
 translate french d10outdoor_b9dcb048:
@@ -7714,7 +7714,7 @@ translate french d10outdoor_408167d3:
 translate french d10outdoor_e612037c_3:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2064
 translate french d10outdoor_87a42edf:
@@ -7822,7 +7822,7 @@ translate french d10outdoor_79b07b63:
 translate french d10outdoor_e612037c_4:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2092
 translate french d10outdoor_376b7087:
@@ -7912,7 +7912,7 @@ translate french d10outdoor_fbb33512:
 translate french d10outdoor_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2111
 translate french d10outdoor_45bd493a:
@@ -8026,7 +8026,7 @@ translate french d10outdoor_19c1e4e2:
 translate french d10outdoor_2b35b6fe_5:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2142
 translate french d10outdoor_bdebe6c9:
@@ -8404,7 +8404,7 @@ translate french d10shower2_ca2630fd:
 translate french d10shower2_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2284
 translate french d10shower2_e664da62:
@@ -8422,7 +8422,7 @@ translate french d10shower2_da5f3298:
 translate french d10shower2_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2291
 translate french d10shower2_64da247c:
@@ -8626,7 +8626,7 @@ translate french d12rachel_8fea2db2:
 translate french d12rachel_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2379
 translate french d12rachel_523ffa1f:
@@ -8926,7 +8926,7 @@ translate french d12rachels_2330f062:
 translate french d12rachels_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2490
 translate french d12rachels_d0add6a8:
@@ -9094,7 +9094,7 @@ translate french d12rachels_95cb0a91:
 translate french d12rachels_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2540
 translate french d12rachels_6977e6de:
@@ -9508,7 +9508,7 @@ translate french d12rachels_4728fc03:
 translate french d12rachels_e612037c_2:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2721
 translate french d12rachels_0aa3b07a:
@@ -9586,7 +9586,7 @@ translate french d12rachels_ee874216:
 translate french d12rachels_e612037c_3:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2747
 translate french d12rachels_cc7a323c:
@@ -9598,7 +9598,7 @@ translate french d12rachels_cc7a323c:
 translate french d12rachels_e612037c_4:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2751
 translate french d12rachels_08b59ef1:
@@ -9712,7 +9712,7 @@ translate french d12rachels_faa03e1a:
 translate french d12rachels_e612037c_5:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2791
 translate french d12rachels_7044aecc:
@@ -9730,7 +9730,7 @@ translate french d12rachels_c72f4019:
 translate french d12rachels_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_m.rpy:2797
 translate french d12rachels_4b84156e:
@@ -9766,7 +9766,7 @@ translate french d12rachels_ef16ecbe:
 translate french d12rachels_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_m.rpy:2811
 translate french d12rachels_b8f9ea6c:
@@ -10126,7 +10126,7 @@ translate french d12mevening_00d47240:
 translate french d12mevening_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2976
 translate french d12mevening_39baad65:
@@ -10150,7 +10150,7 @@ translate french d12mevening_25a7ffc1_1:
 translate french d12mevening_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/events_m.rpy:2989
 translate french d12mevening_63c59aad:
