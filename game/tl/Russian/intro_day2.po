@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-04 04:43\n"
+"PO-Revision-Date: 2023-06-13 17:37\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/intro_day2.rpy:101 #-#-# translate crowdin intro_day2_e612037c:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:103 #-#-# translate crowdin intro_day2_9ed88fe9:
 msgid "[_m_] [mc] I'm sorry for yesterday, I shouldn't have left so suddenly, but I..."
@@ -350,7 +350,7 @@ msgstr "[_mc_] ..."
 
 # game/intro_day2.rpy:120 #-#-# translate crowdin intro_day2_e612037c_1:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:121 #-#-# translate crowdin intro_day2_99f73c57:
 msgid "[_mc_] Is that all?"
@@ -394,7 +394,7 @@ msgstr ""
 
 # game/intro_day2.rpy:131 #-#-# translate crowdin intro_day2_e612037c_2:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:132 #-#-# translate crowdin intro_day2_eaef44ed:
 msgid "[_m_] If you want."
@@ -462,7 +462,7 @@ msgstr ""
 
 # game/intro_day2.rpy:149 #-#-# translate crowdin intro_day2_e612037c_3:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day2.rpy:150 #-#-# translate crowdin intro_day2_55f9658c:
 msgid "[_mc_] Is there something else you wanted to talk about?"
