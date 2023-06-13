@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:46\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:216
 msgid "{b}Add text outline?{/b}"
@@ -200,7 +200,7 @@ msgstr "Langue"
 
 # game/screens.rpy:873
 msgid "{size=-10}{color=#ff0000}All translations are fan-made.{/color}{/size}"
-msgstr "{size=-10}{color=#ff0000}Toutes les traductions sont faites par des fans. {/color}{/size}"
+msgstr "{size=-10}{color=#ff0000}Toutes les traductions sont faites par des fans.{/color}{/size}"
 
 # game/screens.rpy:881
 msgid "Textbox Transparency"
@@ -244,7 +244,8 @@ msgstr "Redimensionnement du Texte"
 
 # game/screens.rpy:959
 msgid "Line Spacing Scaling"
-msgstr "Mise à l'échelle \\nde l'interligne"
+msgstr "Mise à l'échelle \n"
+"de l'interligne"
 
 # game/screens.rpy:1083
 msgid "The dialogue history is empty."
