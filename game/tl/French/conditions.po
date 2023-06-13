@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 05:49\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/conditions.rpy:2437 #-#-# translate crowdin dateTime_3e0aad91:
 msgid "[_n_] {size=+30}[currentDay]{/size}"
@@ -74,7 +74,7 @@ msgstr "elle"
 
 # game/conditions.rpy:14
 msgid "boy"
-msgstr "Garçon"
+msgstr "garçon"
 
 # game/conditions.rpy:15
 msgid "Daddy"
@@ -82,7 +82,7 @@ msgstr "Papa"
 
 # game/conditions.rpy:16
 msgid "son"
-msgstr "Fils"
+msgstr "fils"
 
 # game/conditions.rpy:17
 msgid "him"
@@ -94,7 +94,7 @@ msgstr "John"
 
 # game/conditions.rpy:19
 msgid "brother"
-msgstr "Frère"
+msgstr "frère"
 
 # game/conditions.rpy:20
 msgid "his"
