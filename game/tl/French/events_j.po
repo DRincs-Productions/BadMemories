@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-03 18:15\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -34,7 +34,7 @@ msgstr "Fille [special_delimiter] Owww ... [withhpunch]"
 
 # game/events_j.rpy:10 #-#-# translate crowdin jadaFirstMeet_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Putain !"
+msgstr "[_mc_] Putain!"
 
 # game/events_j.rpy:12 #-#-# translate crowdin jadaFirstMeet_61d7cfbb:
 msgid "[_mcthink_] Huh? Who is she?"
@@ -54,7 +54,7 @@ msgstr "[_mc_] Désolé, je ne vous avais pas vu."
 
 # game/events_j.rpy:16 #-#-# translate crowdin jadaFirstMeet_8cf10d47:
 msgid "Girl [special_delimiter] No, I'm sorry, I didn't expect somebody coming out of this room."
-msgstr "Fille [special_delimiter] Non, je suis désolée, je ne m'attendais pas à ce que quelqu'un vienne de cette salle."
+msgstr "Fille [special_delimiter] Non, je suis désolée, je ne m'attendais pas à ce que quelqu'un vienne de cette pièce."
 
 # game/events_j.rpy:18 #-#-# translate crowdin jadaFirstMeet_8e6bf8f7:
 msgid "Girl [special_delimiter] I'm [j] by the way. You're [e]'s big [bs], right?"
@@ -82,7 +82,7 @@ msgstr "[_mc_] Vraiment ?! C'est bien... Je parie que ce n'est pas facile."
 
 # game/events_j.rpy:24 #-#-# translate crowdin jadaFirstMeet_de8582b1:
 msgid "[_j_] It's fine. We're friends, after all."
-msgstr "[_j_] C'est bon. Nous sommes amies, après tout."
+msgstr "[_j_] Ca va. Nous sommes amies, avant tout."
 
 # game/events_j.rpy:25 #-#-# translate crowdin jadaFirstMeet_2be6f84c:
 msgid "[_mcthink_] Friends huh? I thought someone like [e] wouldn't have any..."
@@ -110,7 +110,7 @@ msgstr "[_mcthink_] Hm... La camarade de classe de [e]? Elle a l'air plus âgée
 
 # game/events_j.rpy:33 #-#-# translate crowdin jadaFirstMeet_04e69971:
 msgid "[_mcthink_] ...uff... what a gap!"
-msgstr "[_mcthink_] ...euff... quel trou !"
+msgstr "[_mcthink_] ...euff... quel cul!"
 
 # game/events_j.rpy:37 #-#-# translate crowdin jadaFirstMeet_4cab35c5:
 msgid "[_j_] {size=-10}{i}Hey [e], you should have told me that your [bs] looks so cute!{/i}{/size}"
@@ -138,7 +138,7 @@ msgstr "[_mc_] Wouaa c'est quoi ça !?"
 
 # game/events_j.rpy:54 #-#-# translate crowdin flirtyJ_aeab30cf:
 msgid "[_j_] Did I scare you? Hehe..."
-msgstr "[_j_] Je vous ai fait peur ? Héhé..."
+msgstr "[_j_] Je t'ai fait peur? Héhé..."
 
 # game/events_j.rpy:55 #-#-# translate crowdin flirtyJ_8b023ac6:
 msgid "[_mc_] Damn [j]!"
@@ -150,7 +150,7 @@ msgstr "[_j_] Je vais partir..."
 
 # game/events_j.rpy:60 #-#-# translate crowdin flirtyJ_6cf1aaf1:
 msgid "[_mc_] Okay, but... the exit isn't in my room you know."
-msgstr "[_mc_] Ok, mais... la sortie n'est pas dans ma chambre vous savez."
+msgstr "[_mc_] Ok, mais... la sortie n'est pas dans ma chambre tu sais."
 
 # game/events_j.rpy:62 #-#-# translate crowdin flirtyJ_f9a96d84:
 msgid "[_j_] Hehe, I know that, stupid!"
@@ -170,7 +170,7 @@ msgstr "[_mc_] Eh bien, qu'est-ce que c'est ?"
 
 # game/events_j.rpy:66 #-#-# translate crowdin flirtyJ_f6eafc1e:
 msgid "[_j_] Hehe... are you..."
-msgstr "[_j_] Héhé... êtes-vous..."
+msgstr "[_j_] Héhé... es-tu..."
 
 # game/events_j.rpy:68 #-#-# translate crowdin flirtyJ_9f035e2a:
 msgid "[_j_] ...going to..."
@@ -186,15 +186,15 @@ msgstr "[_mc_] Eh... quoi ?!"
 
 # game/events_j.rpy:73 #-#-# translate crowdin flirtyJ_6f1699cc:
 msgid "[_j_] You know what I mean!"
-msgstr "[_j_] Vous savez ce que je veux dire !"
+msgstr "[_j_] Tu sais ce que je veux dire!"
 
 # game/events_j.rpy:74 #-#-# translate crowdin flirtyJ_74baf844:
 msgid "[_j_] Are you going to stay!? In this house, in this town, in this country?"
-msgstr "[_j_] Allez-vous rester ? Dans cette maison, dans cette ville, dans ce pays ?"
+msgstr "[_j_] Vas-tu rester? Dans cette maison, dans cette ville, dans ce pays?"
 
 # game/events_j.rpy:75 #-#-# translate crowdin flirtyJ_aa92b1bc:
 msgid "[_j_] Or are you going to move away again and leave her alone a second time!"
-msgstr "[_j_] Ou allez-vous vous éloigner à nouveau et la laisser seule une seconde fois !"
+msgstr "[_j_] Ou vas-tu t'éloigner à nouveau et la laisser seule une seconde fois!"
 
 # game/events_j.rpy:76 #-#-# translate crowdin flirtyJ_d7ad9452:
 msgid "[_mc_] Err... well..."
@@ -270,11 +270,11 @@ msgstr "[_mc_] La guerre n'est pas un jeu."
 
 # game/events_j.rpy:97 #-#-# translate crowdin flirtyJ_ed68aff4:
 msgid "[_j_] Hmm... are you sure life isn't a game, Soldier? Hehe."
-msgstr "[_j_] Hmm... vous êtes sûr que la vie n'est pas un jeu, Soldat ? Héhé."
+msgstr "[_j_] Hmm... tu es sûr que la vie n'est pas un jeu, Soldat? Héhé."
 
 # game/events_j.rpy:98 #-#-# translate crowdin flirtyJ_8f1a11d4:
 msgid "[_mc_] Haha, that's {b}{i}sir{/i}{/b} to you."
-msgstr "Haha, c'est [_mc_] {b}{i}monsieur{/i}{/b} pour vous."
+msgstr "[_mc_] Haha, c'est {b}{i}monsieur{/i}{/b} pour toi."
 
 # game/events_j.rpy:100 #-#-# translate crowdin flirtyJ_208d457e:
 msgid "[_j_] Hehe, nice try!"
@@ -390,11 +390,11 @@ msgstr "[_j_] Oh, err ... "
 
 # game/events_j.rpy:153 #-#-# translate crowdin JVREbirthday_0eb60aca:
 msgid "[_j_] Hi!"
-msgstr "[_j_] Salut !"
+msgstr "[_j_] Salut!"
 
 # game/events_j.rpy:154 #-#-# translate crowdin JVREbirthday_d9fb4663:
 msgid "[_mc_] What the fuck? What are you doing here?"
-msgstr "[_mc_] C'est quoi ce bordel ? Qu'est-ce que vous faites là ?"
+msgstr "[_mc_] C'est quoi ce bordel ? Qu'est-ce que tu fais là?"
 
 # game/events_j.rpy:156 #-#-# translate crowdin JVREbirthday_be20f432:
 msgid "[_j_] It's [e]'s birthday? Silly..."
@@ -402,15 +402,15 @@ msgstr "[_j_] C'est l'anniversaire de [e]? Imbécile..."
 
 # game/events_j.rpy:157 #-#-# translate crowdin JVREbirthday_190bba8a:
 msgid "[_mc_] I mean, what are you doing in my room?"
-msgstr "[_mc_] Je veux dire, qu'est-ce que vous faites dans ma chambre ?"
+msgstr "[_mc_] Je veux dire, qu'est-ce que tu fais dans ma chambre?"
 
 # game/events_j.rpy:159 #-#-# translate crowdin JVREbirthday_b8a257dc:
 msgid "[_j_] Looking for you of course, what else would I do here?"
-msgstr "[_j_] Je vous cherche bien sûr, que ferais-je d'autre ici ?"
+msgstr "[_j_] Je te cherche bien sûr, que ferais-je d'autre ici?"
 
 # game/events_j.rpy:160 #-#-# translate crowdin JVREbirthday_13144b56:
 msgid "[_mc_] Wait... I locked the door, how did you get in?"
-msgstr "[_mc_] Attendez... J'ai fermé la porte, comment êtes-vous entrée ?"
+msgstr "[_mc_] Attends... J'ai fermé la porte, comment es-tu entrée?"
 
 # game/events_j.rpy:162 #-#-# translate crowdin JVREbirthday_37f10887:
 msgid "[_j_] The balcony."
@@ -418,7 +418,7 @@ msgstr "[_j_] Le balcon."
 
 # game/events_j.rpy:163 #-#-# translate crowdin JVREbirthday_5271f678:
 msgid "[_mc_] The balcony? ...seriously?"
-msgstr "[_mc_] Le balcon ? ...sérieusement ?"
+msgstr "[_mc_] Le balcon? ...sérieusement?"
 
 # game/events_j.rpy:164 #-#-# translate crowdin JVREbirthday_e160a1b6:
 msgid "[_j_] Yeah, [m] told me you're home. I knocked on your door, but you didn't react and I got curious so I let myself in."
@@ -426,11 +426,11 @@ msgstr "[_j_] Oui, [m] m'a dit que vous étiez à la maison. J'ai frappé à vot
 
 # game/events_j.rpy:165 #-#-# translate crowdin JVREbirthday_bca16820:
 msgid "[_mc_] ...you're crazy, and that's actually quite rude, you know that?"
-msgstr "[_mc_] ...vous êtes folle, et c'est en fait assez impoli, vous savez ça ?"
+msgstr "[_mc_] ...tu es folle, et c'est en fait assez impoli, tu sais ça?"
 
 # game/events_j.rpy:167 #-#-# translate crowdin JVREbirthday_be188c7d:
 msgid "[_j_] Hehe, that makes us the perfect couple, doesn't it?"
-msgstr "[_j_] Héhé, ça fait de nous le couple parfait, n'est-ce pas ?"
+msgstr "[_j_] Héhé, ça fait de nous le couple parfait, n'est-ce pas?"
 
 # game/events_j.rpy:168 #-#-# translate crowdin JVREbirthday_c33b515c:
 msgid "[_mc_] Err..."
@@ -1274,7 +1274,7 @@ msgstr "[_mcthink_] Oh, elle est... {b}était{/b} la réceptionniste de l'hôtel
 
 # game/events_j.rpy:492 #-#-# translate crowdin bjhcum_0b15d407:
 msgid "[_mc_] Don't worry about it."
-msgstr "[_mc_] Ne vous en faites pas."
+msgstr "[_mc_] Ne t'en fais pas."
 
 # game/events_j.rpy:493 #-#-# translate crowdin bjhcum_37226696:
 msgid "[_mc_] Will you be alright?"
@@ -1530,7 +1530,7 @@ msgstr "[_j_] Tiens bon !"
 
 # game/events_j.rpy:615 #-#-# translate crowdin d6_wayBackHome_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Putain !"
+msgstr "[_mc_] Putain!"
 
 # game/events_j.rpy:620 #-#-# translate crowdin d6_wayBackHome_7fd01ea4:
 msgid "[_j_] {b}So, how was it?{/b}"
@@ -2106,7 +2106,7 @@ msgstr "[_mc_] En passant, [j]..."
 
 # game/events_j.rpy:860 #-#-# translate crowdin d6_gotobed_withj_8ceb6946:
 msgid "[_mc_] ...could it be that you're not wearing anything under that jacket?"
-msgstr "[_mc_] ...se pourrait-il que tu ne portais rien sous cette veste ?"
+msgstr "[_mc_] ...se pourrait-il que tu ne portais rien sous cette veste?"
 
 # game/events_j.rpy:862 #-#-# translate crowdin d6_gotobed_withj_b2487e31:
 msgid "[_j_] Yeah... I was in the middle of changing when my mom started yelling at me... I just grabbed what wasn't in the washer already and left..."
@@ -6598,7 +6598,7 @@ msgstr "[_st_] Au revoir et merci."
 
 # §translate crowdin strings: #|#|# # game/events_j.rpy:261
 msgid "Take her home"
-msgstr "Ramenez-la à la maison"
+msgstr "La ramener à la maison"
 
 # game/events_j.rpy:261
 msgid "Don't take her home"
@@ -6626,7 +6626,7 @@ msgstr "Je ne suis pas vraiment dans ce domaine."
 
 # game/events_j.rpy:811
 msgid "I actually like that!"
-msgstr "J'aime vraiment ça !"
+msgstr "J'aime vraiment ça!"
 
 # game/events_j.rpy:814
 msgid "Okay, fine. If you want it so badly."
@@ -6638,31 +6638,31 @@ msgstr "Non, je ne le pense pas."
 
 # game/events_j.rpy:890
 msgid "Grab her ass."
-msgstr "Attrape son cul."
+msgstr "Attraper son cul."
 
 # game/events_j.rpy:1151
 msgid "Yes..."
-msgstr "Oui ..."
+msgstr "Oui..."
 
 # game/events_j.rpy:1151
 msgid "Of course!"
-msgstr "Bien sûr !"
+msgstr "Bien sûr!"
 
 # game/events_j.rpy:1265
 msgid "I'm not sure honestly..."
-msgstr "Je ne suis pas sûre de ..."
+msgstr "Je ne suis pas sûre de..."
 
 # game/events_j.rpy:1265
 msgid "Yeah, sure!"
-msgstr "Ouais, c'est sûr !"
+msgstr "Ouais, c'est sûr!"
 
 # game/events_j.rpy:1910
 msgid "Switch to her ass."
-msgstr "Passez à son cul."
+msgstr "Passer à son cul."
 
 # game/events_j.rpy:1910
 msgid "Don't."
-msgstr "Ne le fait pas."
+msgstr "Ne pas le faire."
 
 # game/events_j.rpy:2282
 msgid "You're right, it helped."
@@ -6670,7 +6670,7 @@ msgstr "Tu as raison, ça a aidé."
 
 # game/events_j.rpy:2282
 msgid "That's not right."
-msgstr "Ce n'est pas correct ."
+msgstr "Ce n'est pas correct."
 
 # game/events_j.rpy:2287
 msgid "You could've just asked me."
@@ -6678,7 +6678,7 @@ msgstr "Tu aurais pu me demander."
 
 # game/events_j.rpy:2287
 msgid "You better not do that again."
-msgstr "Tu feras mieux de ne pas recommencer."
+msgstr "Tu ferais mieux de ne pas recommencer."
 
 # game/events_j.rpy:2300
 msgid "We better not play games with her mind."
@@ -6686,19 +6686,19 @@ msgstr "Nous ferions mieux de ne pas jouer avec son esprit."
 
 # game/events_j.rpy:2300
 msgid "Sounds like a plan!"
-msgstr "Ça ressemble à un plan !"
+msgstr "Ça ressemble à un plan!"
 
 # game/events_j.rpy:2722
 msgid "Make her say it."
-msgstr "Faites-la savoir."
+msgstr "Lui faire savoir."
 
 # game/events_j.rpy:2722
 msgid "Tell her that you love her."
-msgstr "Dites-lui que vous l'aimez."
+msgstr "Lui dire que tu l'aimes."
 
 # game/events_j.rpy:2754
 msgid "Tell her that you love her too."
-msgstr "Dites-lui que vous l'aimez aussi."
+msgstr "Lui dire que tu l'aimes aussi."
 
 # game/events_j.rpy:2754
 msgid "Change the topic."
