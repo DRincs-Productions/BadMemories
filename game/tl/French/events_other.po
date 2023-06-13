@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-05 19:59\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_other.rpy:2 #-#-# translate crowdin cafeBeforeOffice_8514b197:
 msgid "[_mc_] Hey, [h]!"
@@ -2898,7 +2898,7 @@ msgstr "[_n_] Vous continuez votre chemin et..."
 
 # game/events_other.rpy:1338 #-#-# translate crowdin d10hdate_ff14c04f:
 msgid "[_mcthink_] Cute..."
-msgstr "[_mcthink_] Cute ..."
+msgstr "[_mcthink_] Chou..."
 
 # game/events_other.rpy:1342 #-#-# translate crowdin d10hdate_941d17ea:
 msgid "[_n_] You head back home."
@@ -4646,7 +4646,7 @@ msgstr "[_mc_] Putain! [withvpunch]"
 
 # game/events_other.rpy:2243 #-#-# translate crowdin d11malfm_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Putain !"
+msgstr "[_mc_] Putain!"
 
 # game/events_other.rpy:2250 #-#-# translate crowdin d11malfm_6011d82f:
 msgid "[_mc_] Shit! [withvpunch]"
@@ -5694,7 +5694,7 @@ msgstr "[_st_]..."
 
 # game/events_other.rpy:2850 #-#-# translate crowdin d12stjadate_1ea3c063:
 msgid "[_ja_] ...and such nice tits. Do you mind?"
-msgstr "[_ja_]...et de si beaux seins. Cela ne vous dérange pas ?"
+msgstr "[_ja_]...et de si beaux seins. Cela ne vous dérange pas?"
 
 # game/events_other.rpy:2852 #-#-# translate crowdin d12stjadate_5a86862f:
 msgid "[_mc_] Not at all."
@@ -6066,7 +6066,7 @@ msgstr "Demandez-lui si elle a besoin d'aide."
 
 # game/events_other.rpy:433
 msgid "Help her up."
-msgstr "Aidez-la à se relever."
+msgstr "L'aider à se relever."
 
 # game/events_other.rpy:433
 msgid "Ignore them."
@@ -6078,7 +6078,7 @@ msgstr "Ça doit être ses vêtements."
 
 # game/events_other.rpy:521
 msgid "(Joke) It's the hair!"
-msgstr "(Blague) C'est les cheveux !"
+msgstr "(Blague) C'est les cheveux!"
 
 # game/events_other.rpy:521
 msgid "Make-up and glasses."
@@ -6086,7 +6086,7 @@ msgstr "Maquillage et lunettes."
 
 # game/events_other.rpy:634
 msgid "(Yeah, she's hot, so let's try!)"
-msgstr "(Ouais, elle est sexy, alors essayons !)"
+msgstr "(Ouais, elle est sexy, alors essayons!)"
 
 # game/events_other.rpy:634
 msgid "(Nah, I better let her be, I'm not interested anyway.)"
@@ -6126,7 +6126,7 @@ msgstr "Ouais, allons voir [h]."
 
 # game/events_other.rpy:1706
 msgid "Nah, I'm good."
-msgstr "Nan, j'suis bon."
+msgstr "Nan, j'suis bien."
 
 # game/events_other.rpy:2088
 msgid "Gently bite her clit."
@@ -6134,7 +6134,7 @@ msgstr "Mordre doucement son clito."
 
 # game/events_other.rpy:2088
 msgid "Be a good [boygirl] and go on."
-msgstr "Soyez un bon [boygirl] et continuez."
+msgstr "Etre un bon [boygirl] et continuer."
 
 # game/events_other.rpy:2163
 msgid "Not so deep."
@@ -6174,7 +6174,7 @@ msgstr "Deux Rdv à la fois?"
 
 # game/events_other.rpy:2495
 msgid "(What the hell, of course!)"
-msgstr "(Que l'enfer, bien sûr!)"
+msgstr "(Bordel, bien sûr!)"
 
 # game/events_other.rpy:2495
 msgid "(Nah, that's too much.)"
