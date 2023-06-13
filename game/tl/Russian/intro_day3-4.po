@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-04 04:43\n"
+"PO-Revision-Date: 2023-06-13 17:37\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day3-4.rpy:3 #-#-# translate crowdin intro_day3_8046137e:
 msgid "[_n_] Next morning in the motel [withdissolve]"
@@ -706,7 +706,7 @@ msgstr "[_mc_] ..."
 
 # game/intro_day3-4.rpy:251 #-#-# translate crowdin intro_day3_e612037c:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day3-4.rpy:252 #-#-# translate crowdin intro_day3_44dd165e:
 msgid "[_mcthink_] I guess she really did try a lot to help [e]. She's her daughter after all and she was always a good mom to her... at least..."
@@ -734,7 +734,7 @@ msgstr ""
 
 # game/intro_day3-4.rpy:260 #-#-# translate crowdin intro_day3_e612037c_1:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/intro_day3-4.rpy:261 #-#-# translate crowdin intro_day3_252f3573:
 msgid "[_m_] So..."
