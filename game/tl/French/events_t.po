@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-05 19:59\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -1322,7 +1322,7 @@ msgstr "[_mc_] Je suis sûr que tu m'as entendu."
 
 # game/events_t.rpy:607 #-#-# translate crowdin tcoerce2_r_fd848b85:
 msgid "[_t_] W-why would I do that!? You molested me..."
-msgstr "[_t_] P-Pourquoi je ferais ça!? Tu m'asridiculisé..."
+msgstr "[_t_] P-Pourquoi je ferais ça!? Tu m'as ridiculisé..."
 
 # game/events_t.rpy:608 #-#-# translate crowdin tcoerce2_r_e276c843:
 msgid "[_mc_] I made you cum, and you clearly needed that."
@@ -2786,7 +2786,7 @@ msgstr "[_m_] Oh, hé, Hun, aurais-tu l'amabilité de prendre [t] chez elle, j'a
 
 # game/events_t.rpy:1263 #-#-# translate crowdin d10takekathome_3185cbc8:
 msgid "[_m_] Oh, [mc], could you take [t] home? I'm awaiting a call."
-msgstr "Oh, [_m_] Oh, [mc], pourrais-tu ramener [t] chez elle ? J'attends un appel."
+msgstr "[_m_] Oh, [mc], pourrais-tu ramener [t] chez elle? J'attends un appel."
 
 # game/events_t.rpy:1265 #-#-# translate crowdin d10takekathome_5d2afd68:
 msgid "[_t_] I-I would honestly prefer it if you would take me back home, [m]."
@@ -6118,7 +6118,7 @@ msgstr "La suivre."
 
 # game/events_t.rpy:799
 msgid "I need coffee!!!"
-msgstr "J'ai besoin de café!!!"
+msgstr "J'ai besoin d'un café!!!"
 
 # game/events_t.rpy:1798
 msgid "(Look down.)"
@@ -6134,5 +6134,5 @@ msgstr "(lui dire de se retourner.)"
 
 # game/events_t.rpy:1798
 msgid "(Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
-msgstr "(Lui dire de se pencher.) {i}{color=#f00}avancez la scène{/color}{/i}"
+msgstr "(Lui dire de se pencher.) {i}{color=#f00}avance la scène{/color}{/i}"
 
