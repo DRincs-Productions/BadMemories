@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 05:49\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro.rpy:5 #-#-# translate crowdin intro_af100c11:
 msgid "[_n_] Somewhere in a cab."
@@ -70,7 +70,7 @@ msgstr "Chauffeur [special_delimiter] D'accord, c'est aussi proche que possible.
 
 # game/intro.rpy:26 #-#-# translate crowdin intro_dbcbd63e:
 msgid "Cab driver [special_delimiter] As I said earlier, the road is blocked by construction work, but it's not far from here anyway."
-msgstr "Chauffeur de taxi [special_delimiter] Comme je l'ai dit plus tôt, la route est bloquée par des travaux de construction, mais ce n'est pas loin d'ici de toute façon."
+msgstr "Chauffeur [special_delimiter] Comme je l'ai dit plus tôt, la route est bloquée par des travaux de construction, mais ce n'est pas loin d'ici de toute façon."
 
 # game/intro.rpy:27 #-#-# translate crowdin intro_d4f8633c:
 msgid "[_mc_] That's okay, I'll walk."
@@ -78,7 +78,7 @@ msgstr "[_mc_] C'est bon, je vais marcher."
 
 # game/intro.rpy:28 #-#-# translate crowdin intro_40374778:
 msgid "Cab driver [special_delimiter] You know the way?"
-msgstr "Chauffeur de taxi [special_delimiter] Vous connaissez le chemin ?"
+msgstr "Chauffeur [special_delimiter] Vous connaissez le chemin ?"
 
 # game/intro.rpy:29 #-#-# translate crowdin intro_59b19076:
 msgid "[_mc_] Yeah, I grew up in this town."
@@ -86,7 +86,7 @@ msgstr "[_mc_] Oui, j'ai grandi dans cette ville."
 
 # game/intro.rpy:30 #-#-# translate crowdin intro_f5a5e7ce:
 msgid "Cab driver [special_delimiter] 'Kay, good luck."
-msgstr "Chauffeur de taxi [special_delimiter] 'Kay, bonne chance."
+msgstr "Chauffeur [special_delimiter] 'Kay, bonne chance."
 
 # game/intro.rpy:32 #-#-# translate crowdin intro_942da871:
 msgid "[_n_] You give the driver his money and walk towards your new apartment, using some side roads you still remember from the past."
@@ -98,7 +98,7 @@ msgstr "[_n_] En tournant dans une petite ruelle, vous remarquez une fille qui v
 
 # game/intro.rpy:35 #-#-# translate crowdin intro_78a1b80f:
 msgid "[_mcthink_] Huh?! Why is that girl looking at me like that?"
-msgstr "[_mcthink_] Huh ?! Pourquoi cette fille me regarde-t-elle comme ça ?"
+msgstr "[_mcthink_] Huh?! Pourquoi cette fille me regarde-t-elle comme ça?"
 
 # game/intro.rpy:36 #-#-# translate crowdin intro_b96a2916:
 msgid "[_mcthink_] Do I know her?"
