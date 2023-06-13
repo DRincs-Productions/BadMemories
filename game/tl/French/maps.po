@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:46\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
@@ -214,7 +214,7 @@ msgstr "Quitter la maison"
 
 # game/maps.rpy:6
 msgid "Rachel's Bedroom"
-msgstr "Chambre de Rachel"
+msgstr "Chambre de Rachèle"
 
 # game/maps.rpy:7
 msgid "Kitchen"
@@ -262,7 +262,7 @@ msgstr "Centre-ville"
 
 # game/maps.rpy:71
 msgid "Atomic Aeronautics"
-msgstr "Aéronautique atomique"
+msgstr "L'aéronautique atomique (job)"
 
 # game/maps.rpy:77
 msgid "Rental Company"
@@ -282,7 +282,7 @@ msgstr "Nah, mieux vaut ne pas y toucher."
 
 # game/maps.rpy:308
 msgid "Keep going."
-msgstr "Continuez comme ça."
+msgstr "Continuer comme ça."
 
 # game/maps.rpy:308
 msgid "No point in going on..."
@@ -290,9 +290,9 @@ msgstr "Pas la peine de continuer..."
 
 # game/maps.rpy:381
 msgid "Check the cafe."
-msgstr "Vérifiez le café."
+msgstr "Vérifier le café."
 
 # game/maps.rpy:381
 msgid "Go to the office."
-msgstr "Allez au bureau."
+msgstr "Aller au bureau."
 
