@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:46\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day3-4.rpy:3 #-#-# translate crowdin intro_day3_8046137e:
 msgid "[_n_] Next morning in the motel [withdissolve]"
@@ -182,7 +182,7 @@ msgstr "[_n_] Un peu plus tard [withdissolve]"
 
 # game/intro_day3-4.rpy:69 #-#-# translate crowdin intro_day3_a897bc95:
 msgid "Waitress [special_delimiter] Here you go."
-msgstr "Serveuse [special_delimiter] Vous y allez."
+msgstr "Serveuse [special_delimiter] Voilà pour vous."
 
 # game/intro_day3-4.rpy:70 #-#-# translate crowdin intro_day3_e25ff158:
 msgid "[_mc_] Thanks... Keep the change."
@@ -426,7 +426,7 @@ msgstr "[_mc_] Oui ..."
 
 # game/intro_day3-4.rpy:147 #-#-# translate crowdin intro_day3_de7e8a28:
 msgid "[_m_] Okay, great! Do you need help with anything? Do you want me to pick you up?"
-msgstr "[_m_] Ok, super ! Tu as besoin d'aide pour quelque chose ? Tu veux que je vienne te chercher ?"
+msgstr "[_m_] Ok, super! Tu as besoin d'aide pour quelque chose? Tu veux que je vienne te chercher?"
 
 # game/intro_day3-4.rpy:148 #-#-# translate crowdin intro_day3_6d197c55:
 msgid "[_mc_] No, I'll just come over later."
@@ -454,7 +454,7 @@ msgstr "[_mc_]..."
 
 # game/intro_day3-4.rpy:156 #-#-# translate crowdin intro_day3_b78c28fa:
 msgid "[_mcthink_] God, am I really going to move in there again?"
-msgstr "[_mcthink_] Mon Dieu, est-ce que je vais vraiment encore emménager là-dedans ?"
+msgstr "[_mcthink_] Mon Dieu, est-ce que je vais vraiment encore emménager là-bas?"
 
 # game/intro_day3-4.rpy:158 #-#-# translate crowdin intro_day3_b1fd587f:
 msgid "[_n_] Later that day. [withdissolve]"
@@ -478,7 +478,7 @@ msgstr "[_n_] Presque instantanément, la porte s'ouvre."
 
 # game/intro_day3-4.rpy:168 #-#-# translate crowdin intro_day3_90741ea4:
 msgid "[_m_] Heyyy, look who found [hisher] way home."
-msgstr "[_m_] Héééee, regarde qui a trouvé [hisher] le chemin de la maison."
+msgstr "[_m_] Héééee, regardez qui a trouvé [hisher] chemin vers la maison."
 
 # game/intro_day3-4.rpy:170 #-#-# translate crowdin intro_day3_ae090eee:
 msgid "[_m_] Welcome back [mc]."
