@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:46\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -462,7 +462,7 @@ msgstr "[_mcthink_] Pourquoi a-t-elle dû regarder du porno ?!"
 
 # game/events_e.rpy:224 #-#-# translate crowdin ellieVR_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Putain !"
+msgstr "[_mc_] Putain!"
 
 # game/events_e.rpy:225 #-#-# translate crowdin ellieVR_2b35b6fe_2:
 msgid "[_mc_] ..."
@@ -3206,7 +3206,7 @@ msgstr "Regarder simplement"
 
 # game/events_e.rpy:305
 msgid "Look for her."
-msgstr "Regardez-la."
+msgstr "La regarder."
 
 # game/events_e.rpy:305
 msgid "Don't look for her."
@@ -3258,7 +3258,7 @@ msgstr "Ça a l'air génial, mais n'est-ce pas un peu trop pour un usage quotidi
 
 # game/events_e.rpy:1212
 msgid "Luscious! I love it!"
-msgstr " Succulent ! Je l'adore !"
+msgstr "Succulent! Je l'adore!"
 
 # game/events_e.rpy:1293
 msgid "Comfort her."
