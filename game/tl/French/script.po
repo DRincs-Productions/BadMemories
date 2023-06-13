@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-12 17:15\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/script.rpy:498 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
@@ -126,5 +126,5 @@ msgstr "Jill"
 
 # game/script.rpy:526
 msgid "sister"
-msgstr "Sœur"
+msgstr "sœur"
 
