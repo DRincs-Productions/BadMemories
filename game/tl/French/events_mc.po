@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-05 19:59\n"
+"PO-Revision-Date: 2023-06-13 05:42\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -1178,7 +1178,7 @@ msgstr "[_mc_] Err... bien je suppose que ça ne me dérangerait pas..."
 
 # game/events_mc.rpy:509 #-#-# translate crowdin haremChoice_6fd70fd4:
 msgid "[_j_] See [e]?"
-msgstr "[_j_] Voir [e]?"
+msgstr "[_j_] Tu vois [e]?"
 
 # game/events_mc.rpy:511 #-#-# translate crowdin haremChoice_a974ebc7:
 msgid "[_mc_] Hell no! I'm not going to get shared with anyone!"
@@ -1522,7 +1522,7 @@ msgstr "[_mcthink_] Hum ..."
 
 # game/events_mc.rpy:669 #-#-# translate crowdin pcCityDay3_20a8910b:
 msgid "[_mcthink_] Wasn't there a cafe somewhere here? I can't think straight without a good coffee in the morning..."
-msgstr "[_mcthink_] N'y avait-il pas un café quelque part ici ? Je ne peux pas penser correctement sans un bon café le matin..."
+msgstr "[_mcthink_] N'y avait-il pas un café quelque part ici? Je ne peux pas penser correctement sans un bon café le matin..."
 
 # game/events_mc.rpy:671 #-#-# translate crowdin pcCityDay3_37827316:
 msgid "[_n_] You look around for the cafe until you find it."
@@ -1562,7 +1562,7 @@ msgstr "Mec [special_delimiter] Merci."
 
 # game/events_mc.rpy:683 #-#-# translate crowdin pcCityDay3_2d94c374:
 msgid "Girl [special_delimiter] {size=-10}Yeah, bye!{/size}"
-msgstr "Fille [special_delimiter] {size=-10} Ahh, salut ! {/size}"
+msgstr "Fille [special_delimiter] {size=-10} Ahh, salut! {/size}"
 
 # game/events_mc.rpy:684 #-#-# translate crowdin pcCityDay3_37241fea:
 msgid "[_mcthink_] That's the barista from last time."
@@ -1674,7 +1674,7 @@ msgstr "[_mcthink_] Wow, elle semblait un peu nerveuse au début... à cause de 
 
 # game/events_mc.rpy:721 #-#-# translate crowdin pcCityDay3_ff14c04f:
 msgid "[_mcthink_] Cute..."
-msgstr "[_mcthink_] Cute ..."
+msgstr "[_mcthink_] Chou..."
 
 # game/events_mc.rpy:724 #-#-# translate crowdin pcCityDay3_45cad717:
 msgid "[_mc_] Yeah, well I have to go now. Bye..."
@@ -1846,7 +1846,7 @@ msgstr "[_m_] Je suis désolé, nous sommes un peu en retard, si [t] se présent
 
 # game/events_mc.rpy:776 #-#-# translate crowdin pcCityDay3_ebfd2362:
 msgid "[_mc_] The therapist? Did you seriously invite her to [e]'s birthday?"
-msgstr "[_mc_] La thérapeute ? Tu l'as sérieusement invitée à l'anniversaire de [e] ?"
+msgstr "[_mc_] La thérapeute? Tu l'as sérieusement invitée à l'anniversaire de [e]?"
 
 # game/events_mc.rpy:777 #-#-# translate crowdin pcCityDay3_91a23443:
 msgid "[_m_] No it's..."
@@ -1858,7 +1858,7 @@ msgstr "[_m_] C'est... une session."
 
 # game/events_mc.rpy:779 #-#-# translate crowdin pcCityDay3_c668e20c:
 msgid "[_mc_] What? That's even worse!"
-msgstr "[_mc_] Quoi ? C'est encore pire !"
+msgstr "[_mc_] Quoi? C'est encore pire!"
 
 # game/events_mc.rpy:780 #-#-# translate crowdin pcCityDay3_58a2d399:
 msgid "[_m_] [mc], please. I know you don't like her, but these sessions are important for [e] and [t] doesn't have much time, so we have to take what we can get."
@@ -2894,7 +2894,7 @@ msgstr "Policier [special_delimiter] Ouuch!"
 
 # game/events_mc.rpy:1187 #-#-# translate crowdin officeFirst_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Putain !"
+msgstr "[_mc_] Putain!"
 
 # game/events_mc.rpy:1190 #-#-# translate crowdin officeFirst_228fb161:
 msgid "Cop [special_delimiter] YOU!"
@@ -3266,7 +3266,7 @@ msgstr "[_e_]..."
 
 # game/events_mc.rpy:1328 #-#-# translate crowdin dinnerDay4Home_ff14c04f:
 msgid "[_mcthink_] Cute..."
-msgstr "[_mcthink_] Cute ..."
+msgstr "[_mcthink_] Chou..."
 
 # game/events_mc.rpy:1333 #-#-# translate crowdin homeday4night_8cf29fc6:
 msgid "[_n_] At night..."
@@ -3954,11 +3954,11 @@ msgstr "[_mcthink_] Merde!"
 
 # game/events_mc.rpy:1655 #-#-# translate crowdin d7_wakeup_76bfe72c:
 msgid "[_mc_] Well it {b}{i}is{/i}{/b} what it looks like..."
-msgstr "[_mc_] Eh bien il {b}{i}c'est{/i}{/b} ce que ça donne..."
+msgstr "[_mc_] Eh bien {b}{i}c'est{/i}{/b} ce que ça que ça parrait..."
 
 # game/events_mc.rpy:1656 #-#-# translate crowdin d7_wakeup_9e1b2e8a:
 msgid "[_m_] Why didn't you tell me?!"
-msgstr "[_m_] Pourquoi tu ne m'as rien dit ?!"
+msgstr "[_m_] Pourquoi tu ne m'as rien dit?!"
 
 # game/events_mc.rpy:1657 #-#-# translate crowdin d7_wakeup_24359880:
 msgid "[_j_] Sorry, that's my fault..."
@@ -8622,7 +8622,7 @@ msgstr "[_mc_] Hmm... ça sonne bien."
 
 # game/events_mc.rpy:4035 #-#-# translate crowdin d12beforetsession_ddd91646:
 msgid "[_m_] ...and mabe... maybe later today... we could go a little further..."
-msgstr "[_m_] ...et mabe... peut-être plus tard aujourd'hui... nous pourrions aller un peu plus loin..."
+msgstr "[_m_] ...et Peut... peut-être plus tard aujourd'hui... nous pourrions aller un peu plus loin..."
 
 # game/events_mc.rpy:4041 #-#-# translate crowdin d12beforetsession_32d2430b:
 msgid "[_m_] It's... it's alright, I think it's what I want."
@@ -9194,11 +9194,11 @@ msgstr "[_n_] Puis vous atteignez sous le lit, saisissez le pistolet de service 
 
 # game/events_mc.rpy:4303 #-#-# translate crowdin lastDream_9b8758c5:
 msgid "Dad [special_delimiter] Stop struggling, sweetheart, just spread your legs a little. Daddy just wants to see if everything is alright and healthy there."
-msgstr "Papa [special_delimiter] Arrête de te débattre, chérie, écarte un peu les jambes. Papa veut juste voir si tout va bien et si tout va bien là-bas."
+msgstr "Papa [special_delimiter] Stop struggling, sweetheart, just spread your legs a little. Daddy just want's to see if everything is alright and healthy there."
 
 # game/events_mc.rpy:4304 #-#-# translate crowdin lastDream_3098c9d6:
 msgid "[_e_] But I don't want to! And why do you have to have your thingy out for that, Daddy?"
-msgstr "[_e_] Mais je ne veux pas ! Et pourquoi faut-il que tu sortes ton bidule pour ça, papa ?"
+msgstr "[_e_] Mais je ne veux pas! Et pourquoi faut-il que tu sortes ton bidule pour ça, papa?"
 
 # game/events_mc.rpy:4305 #-#-# translate crowdin lastDream_fa94c9cd:
 msgid "Dad [special_delimiter] Do what I tell you, or Daddy is going to get really mad at you!"
@@ -9206,7 +9206,7 @@ msgstr "Papa [special_delimiter] Fais ce que je te dis, ou papa va se mettre en 
 
 # game/events_mc.rpy:4306 #-#-# translate crowdin lastDream_769831a0:
 msgid "[_mc_] DAD! STOP!"
-msgstr "[_mc_] PAPA ! STOP !"
+msgstr "[_mc_] PAPA! STOP!"
 
 # game/events_mc.rpy:4307 #-#-# translate crowdin lastDream_25b1fb58:
 msgid "[_n_] You aim the gun at him as he turns around. He looks a bit surprised, but doesn't seem to be too concerned."
@@ -9594,15 +9594,15 @@ msgstr "{i}(Merde, j'aime l'idée...){/i}"
 
 # game/events_mc.rpy:504
 msgid "{i}(There is no way I would ever do that!){/i}"
-msgstr "{i}(Il n'y a aucune chance que je fasse ça !){/i}"
+msgstr "{i}(Il n'y a aucune chance que je fasse ça!){/i}"
 
 # game/events_mc.rpy:571
 msgid "She will come over tonight anyway... gimme porn!"
-msgstr "Elle viendra ce soir de toute façon... Aller du porno !"
+msgstr "Elle viendra ce soir de toute façon... Aller, regardons du porno!"
 
 # game/events_mc.rpy:571
 msgid "I should really talk to her now!"
-msgstr "Je devrais vraiment lui parler maintenant !"
+msgstr "Je devrais vraiment lui parler maintenant!"
 
 # game/events_mc.rpy:706
 msgid "Introduce yourself."
@@ -9642,7 +9642,7 @@ msgstr "Parler de la météo."
 
 # game/events_mc.rpy:2196
 msgid "Call her Mom."
-msgstr "Appelons sa maman."
+msgstr "Appeller sa maman."
 
 # game/events_mc.rpy:2198
 msgid "Mom"
@@ -9650,7 +9650,7 @@ msgstr "Maman"
 
 # game/events_mc.rpy:2319
 msgid "The good news."
-msgstr "La bonne nouvelle."
+msgstr "Les bonnes nouvelles."
 
 # game/events_mc.rpy:2319
 msgid "The bad news."
@@ -9690,7 +9690,7 @@ msgstr "Passer à la baise de [j]."
 
 # game/events_mc.rpy:2970
 msgid "Switch to fuck [e]."
-msgstr "Passer à la baise [e]."
+msgstr "Aller baiser [e]."
 
 # game/events_mc.rpy:3330
 msgid "Grab [e]'s ass."
@@ -9710,7 +9710,7 @@ msgstr "Ne rien faire."
 
 # game/events_mc.rpy:3537
 msgid "Don't use my stuff without asking me again."
-msgstr "N'utilisez pas mes affaires sans me demander à nouveau."
+msgstr "N'utilises pas mes affaires sans me demander."
 
 # game/events_mc.rpy:3537
 msgid "It's fine, just be more careful next time."
@@ -9726,7 +9726,7 @@ msgstr "La laisser s'amuser pendant 5 secondes."
 
 # game/events_mc.rpy:4037
 msgid "You don't need to do that, if you don't feel comfortable with it, [mmom]."
-msgstr "Vous n'avez pas besoin de faire cela, si vous ne vous sentez pas à l'aise avec, [mmom]."
+msgstr "Tu n'as pas besoin de faire cela, si tu ne te sens pas à l'aise avec, [mmom]."
 
 # game/events_mc.rpy:4037
 msgid "Sounds good, you need to get used to it after all."
