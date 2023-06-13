@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-04 04:42\n"
+"PO-Revision-Date: 2023-06-13 17:37\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
-msgstr ""
+msgstr "[_mcthink_] Проголодался чот."
 
 # game/events_j.rpy:4 #-#-# translate crowdin jadaFirstMeet_b50c0b23:
 msgid "[_mcthink_] Let's have a look in the fridge."
-msgstr ""
+msgstr "[_mcthink_] Надо в холодос глянуть."
 
 # game/events_j.rpy:5 #-#-# translate crowdin jadaFirstMeet_8464c837:
 msgid "[_mcthink_] I wonder if [m] and [e] are back already..."
-msgstr ""
+msgstr "[_mcthink_] Интересно, [m] и [e] уже вернулись..."
 
 # game/events_j.rpy:7 #-#-# translate crowdin jadaFirstMeet_45a17cdf:
 msgid "[_n_] You open the door and..."
-msgstr ""
+msgstr "[_n_] Вы открываете дверь и..."
 
 # game/events_j.rpy:9 #-#-# translate crowdin jadaFirstMeet_1c30cb5a:
 msgid "Girl [special_delimiter] Owww... [withhpunch]"
-msgstr ""
+msgstr "Девушка [special_delimiter] Ауууу... [withhpunch]"
 
 # game/events_j.rpy:10 #-#-# translate crowdin jadaFirstMeet_38cb8147:
 msgid "[_mc_] Fuck!"
@@ -38,63 +38,63 @@ msgstr "[_mc_] Блядь!"
 
 # game/events_j.rpy:12 #-#-# translate crowdin jadaFirstMeet_61d7cfbb:
 msgid "[_mcthink_] Huh? Who is she?"
-msgstr ""
+msgstr "[_mcthink_] А? Чё за?"
 
 # game/events_j.rpy:13 #-#-# translate crowdin jadaFirstMeet_418903f0:
 msgid "[_mc_] Ugh! Are you okay?"
-msgstr ""
+msgstr "[_mc_] Фу... ты в порядке?"
 
 # game/events_j.rpy:14 #-#-# translate crowdin jadaFirstMeet_fd6ca95e:
 msgid "Girl [special_delimiter] Uhh... yeah... I-I guess."
-msgstr ""
+msgstr "Девушка [special_delimiter] Э-э-э... да... я... наверное."
 
 # game/events_j.rpy:15 #-#-# translate crowdin jadaFirstMeet_dda94705:
 msgid "[_mc_] Sorry, I didn't see you."
-msgstr ""
+msgstr "[_mc_] Извини, я тебя не заметил."
 
 # game/events_j.rpy:16 #-#-# translate crowdin jadaFirstMeet_8cf10d47:
 msgid "Girl [special_delimiter] No, I'm sorry, I didn't expect somebody coming out of this room."
-msgstr ""
+msgstr "Девушка [special_delimiter] Нет, извините, я не ожидала, что кто-то выйдет из этой комнаты."
 
 # game/events_j.rpy:18 #-#-# translate crowdin jadaFirstMeet_8e6bf8f7:
 msgid "Girl [special_delimiter] I'm [j] by the way. You're [e]'s big [bs], right?"
-msgstr ""
+msgstr "Девушка [special_delimiter] Я, кстати, [j]. Ты [e] старший [bs], так ведь?"
 
 # game/events_j.rpy:19 #-#-# translate crowdin jadaFirstMeet_6d6d29f9:
 msgid "[_mc_] Yes, [mc]."
-msgstr ""
+msgstr "[_mc_] Да, [mc]."
 
 # game/events_j.rpy:20 #-#-# translate crowdin jadaFirstMeet_b74a4a0e:
 msgid "[_j_] Nice to meet you, [mc]."
-msgstr ""
+msgstr "[_j_] Приятно познакомиться, [mc]."
 
 # game/events_j.rpy:21 #-#-# translate crowdin jadaFirstMeet_ac1e6b62:
 msgid "[_mc_] Nice to meet you too, [j]... and what are you doing here?"
-msgstr ""
+msgstr "[_mc_] Рад тебя встретить, [j]... и что ты делаешь здесь?"
 
 # game/events_j.rpy:22 #-#-# translate crowdin jadaFirstMeet_d68a840b:
 msgid "[_j_] I'm [e]'s classmate. I'm helping her out with homework from time to time."
-msgstr ""
+msgstr "[_j_] Я - одноклассница [e]. Время от времени я помогаю ей с домашним заданием."
 
 # game/events_j.rpy:23 #-#-# translate crowdin jadaFirstMeet_7d9be85e:
 msgid "[_mc_] Really?! That's nice... I bet it's not easy."
-msgstr ""
+msgstr "[_mc_] Правда?! Это здорово... Держу пари, это нелегко."
 
 # game/events_j.rpy:24 #-#-# translate crowdin jadaFirstMeet_de8582b1:
 msgid "[_j_] It's fine. We're friends, after all."
-msgstr ""
+msgstr "[_j_] Все в порядке. Мы же друзья, в конце концов."
 
 # game/events_j.rpy:25 #-#-# translate crowdin jadaFirstMeet_2be6f84c:
 msgid "[_mcthink_] Friends huh? I thought someone like [e] wouldn't have any..."
-msgstr ""
+msgstr "[_mcthink_] Друзья? Я думал, что у кого-то вроде [e] их нет..."
 
 # game/events_j.rpy:26 #-#-# translate crowdin jadaFirstMeet_35b30d85:
 msgid "[_mc_] Cool. Well I don't want to keep you then."
-msgstr ""
+msgstr "[_mc_] Круто. Ну, тогда я не хочу тебя задерживать."
 
 # game/events_j.rpy:27 #-#-# translate crowdin jadaFirstMeet_14a226a7:
 msgid "[_j_] Hehe, thanks."
-msgstr ""
+msgstr "[_j_] Спасибо."
 
 # game/events_j.rpy:28 #-#-# translate crowdin jadaFirstMeet_ebd1543f:
 msgid "[_j_] Later [mc]."
@@ -102,7 +102,7 @@ msgstr "[_j_] Позже [mc]."
 
 # game/events_j.rpy:29 #-#-# translate crowdin jadaFirstMeet_f51e63bc:
 msgid "[_mc_] Yeah, later."
-msgstr ""
+msgstr "[_mc_] Да, до скорого."
 
 # game/events_j.rpy:31 #-#-# translate crowdin jadaFirstMeet_d157900b:
 msgid "[_mcthink_] Hm... [e]'s classmate? She looks older than [e]..."
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/events_j.rpy:240 #-#-# translate crowdin JVREbirthday_e612037c:
 msgid "[_m_] ..."
-msgstr ""
+msgstr "[_m_] ..."
 
 # game/events_j.rpy:241 #-#-# translate crowdin JVREbirthday_e7334238:
 msgid "[_mc_] Err... what's up [m]?"
