@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-30 02:52\n"
+"PO-Revision-Date: 2023-06-15 23:32\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/gallery.rpy:130
 msgid "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
@@ -52,7 +52,7 @@ msgstr "Un render especial que hice por diversión. Hanna es una de mis favorita
 
 # game/gallery.rpy:130
 msgid "One of the earliest renders of Ellie :3"
-msgstr ""
+msgstr "Bad.memories.spanish.rar"
 
 # game/gallery.rpy:130
 msgid "Like the previous render I made this one while thinking of some scenes in the early stages in development. The scene itself has changed a lot since then (including Ellie), but the main idea is still there: Ellie sends MC a photo made with her new phone."
