@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-30 02:52\n"
+"PO-Revision-Date: 2023-06-16 11:31\n"
 
 # TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:216
 msgid "{b}Add text outline?{/b}"
-msgstr ""
+msgstr "{b}¿Añadir un contorno de texto?{/b}"
 
 # game/screens.rpy:217
 msgid "{i}(You can change this and textbox transparency in the Preferences.){/i}"
-msgstr ""
+msgstr "{i}(Puedes cambiar esto y transparencia del cuadro de texto en las Preferencias.){/i}"
 
 # game/screens.rpy:218
 msgid "Yes"
