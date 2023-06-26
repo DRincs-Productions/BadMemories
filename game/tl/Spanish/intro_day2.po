@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-11 01:07\n"
+"PO-Revision-Date: 2023-06-26 16:47\n"
 
-# TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
 msgstr ""
 
