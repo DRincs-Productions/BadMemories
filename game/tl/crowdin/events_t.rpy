@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-04-29 19:07
+﻿# TODO: Translation updated at 2023-06-26 18:40
 
 # game/events_t.rpy:3
 translate crowdin tIntroductionDay1_d40b86d0:
@@ -1681,10 +1681,10 @@ translate crowdin tcoerce2_a21ef384:
     t "I'd never do such a thing, I'm not like that!"
 
 # game/events_t.rpy:512
-translate crowdin tcoerce2_6e0ec75f:
+translate crowdin tcoerce2_c8970423:
 
-    # mc "Hmph... well I guess that make me the only possible reason, doesn't it?"
-    mc "Hmph... well I guess that make me the only possible reason, doesn't it?"
+    # mc "Hmph... well I guess that makes me the only possible reason, doesn't it?"
+    mc "Hmph... well I guess that makes me the only possible reason, doesn't it?"
 
 # game/events_t.rpy:513
 translate crowdin tcoerce2_30b46fd1:
@@ -7183,10 +7183,10 @@ translate crowdin d11tfirsts_b112dad0:
     mc "Someone like me, huh? If you think {b}that{/b} bad of me, then I wonder why you're sitting on my lap."
 
 # game/events_t.rpy:2287
-translate crowdin d11tfirsts_4b2bb02d:
+translate crowdin d11tfirsts_d9829137:
 
-    # t "Why do you even think I'd be interested in someone like you? Or a women at all."
-    t "Why do you even think I'd be interested in someone like you? Or a women at all."
+    # t "Why do you even think I'd be interested in someone like you? Or a woman at all."
+    t "Why do you even think I'd be interested in someone like you? Or a woman at all."
 
 # game/events_t.rpy:2289
 translate crowdin d11tfirsts_5db8c5b6:
@@ -7464,1657 +7464,1657 @@ translate crowdin d11tfirsts_060d0345:
     # t "What are you..."
     t "What are you..."
 
-# game/events_t.rpy:2379
+# game/events_t.rpy:2378
 translate crowdin d11tfirsts_33170189:
 
     # t "Whaaa!"
     t "Whaaa!"
 
-# game/events_t.rpy:2380
+# game/events_t.rpy:2379
 translate crowdin d11tfirsts_9032333a:
 
     # mc "Just relax and keep hugging me."
     mc "Just relax and keep hugging me."
 
-# game/events_t.rpy:2381
+# game/events_t.rpy:2380
 translate crowdin d11tfirsts_dc508caf:
 
     # t "T-That's not going to help me relax!"
     t "T-That's not going to help me relax!"
 
-# game/events_t.rpy:2382
+# game/events_t.rpy:2381
 translate crowdin d11tfirsts_9319dfd9:
 
     # mc "Try it."
     mc "Try it."
 
-# game/events_t.rpy:2383
+# game/events_t.rpy:2382
 translate crowdin d11tfirsts_985c02f6:
 
     # t "Ugh..."
     t "Ugh..."
 
-# game/events_t.rpy:2385
+# game/events_t.rpy:2384
 translate crowdin d11tfirsts_a8df5ff6:
 
     # t "Just hurry up."
     t "Just hurry up."
 
-# game/events_t.rpy:2386
+# game/events_t.rpy:2385
 translate crowdin d11tfirsts_e119df09:
 
     # mc "As you wish."
     mc "As you wish."
 
-# game/events_t.rpy:2388
+# game/events_t.rpy:2387
 translate crowdin d11tfirsts_6a4e0edc:
 
     # t "Nh-hnn..."
     t "Nh-hnn..."
 
-# game/events_t.rpy:2390
+# game/events_t.rpy:2389
 translate crowdin d11tfirsts_daa6c5e0:
 
     # mc "Are you relaxing?"
     mc "Are you relaxing?"
 
-# game/events_t.rpy:2391
+# game/events_t.rpy:2390
 translate crowdin d11tfirsts_17eb562c:
 
     # t "I-I told you it's not going to hn...help."
     t "I-I told you it's not going to hn...help."
 
-# game/events_t.rpy:2392
+# game/events_t.rpy:2391
 translate crowdin d11tfirsts_b9ec45d7:
 
     # mc "Are you even trying?"
     mc "Are you even trying?"
 
-# game/events_t.rpy:2393
+# game/events_t.rpy:2392
 translate crowdin d11tfirsts_ad590ab0:
 
     # t "You try mhh... relaxing while being molested."
     t "You try mhh... relaxing while being molested."
 
-# game/events_t.rpy:2394
+# game/events_t.rpy:2393
 translate crowdin d11tfirsts_3e498912:
 
     # mc "I'm just caressing you."
     mc "I'm just caressing you."
 
-# game/events_t.rpy:2395
+# game/events_t.rpy:2394
 translate crowdin d11tfirsts_d53a9eb7:
 
     # t "Call it how you want, I...nhh don't care."
     t "Call it how you want, I...nhh don't care."
 
-# game/events_t.rpy:2396
+# game/events_t.rpy:2395
 translate crowdin d11tfirsts_d42d15ae:
 
     # mc "Hmm... I guess we should try something else then."
     mc "Hmm... I guess we should try something else then."
 
-# game/events_t.rpy:2398
+# game/events_t.rpy:2397
 translate crowdin d11tfirsts_058bb0d3:
 
     # t "What's the point anyway?"
     t "What's the point anyway?"
 
-# game/events_t.rpy:2400
+# game/events_t.rpy:2399
 translate crowdin d11tfirsts_9d00e0b0:
 
     # mc "As I said, to get you to relax."
     mc "As I said, to get you to relax."
 
-# game/events_t.rpy:2402
+# game/events_t.rpy:2401
 translate crowdin d11tfirsts_ae00eb09:
 
     # t "As if..."
     t "As if..."
 
-# game/events_t.rpy:2404
+# game/events_t.rpy:2403
 translate crowdin d11tfirsts_f6f229e7:
 
     # mc "Take your top off."
     mc "Take your top off."
 
-# game/events_t.rpy:2406
+# game/events_t.rpy:2405
 translate crowdin d11tfirsts_d84460d0:
 
     # t "Tch... and how would that help?"
     t "Tch... and how would that help?"
 
-# game/events_t.rpy:2408
+# game/events_t.rpy:2407
 translate crowdin d11tfirsts_6a0887df:
 
     # mc "You obviously have no idea how to relax, so just do what I'm saying, [t]."
     mc "You obviously have no idea how to relax, so just do what I'm saying, [t]."
 
-# game/events_t.rpy:2410
+# game/events_t.rpy:2409
 translate crowdin d11tfirsts_088885ba:
 
     # t "Pff..."
     t "Pff..."
 
-# game/events_t.rpy:2412
+# game/events_t.rpy:2411
 translate crowdin d11tfirsts_1bb01731_5:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2413
+# game/events_t.rpy:2412
 translate crowdin d11tfirsts_b9b155fe:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2414
+# game/events_t.rpy:2413
 translate crowdin d11tfirsts_b9b155fe_1:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2415
+# game/events_t.rpy:2414
 translate crowdin d11tfirsts_b9b155fe_2:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2426
+# game/events_t.rpy:2425
 translate crowdin d11tfirsts_15b235d6:
 
     # mc "That's better, isn't it?"
     mc "That's better, isn't it?"
 
-# game/events_t.rpy:2428
+# game/events_t.rpy:2427
 translate crowdin d11tfirsts_dc977b30:
 
     # t "You really can't think of anything else, can you?"
     t "You really can't think of anything else, can you?"
 
-# game/events_t.rpy:2430
+# game/events_t.rpy:2429
 translate crowdin d11tfirsts_0c0641e0:
 
     # t "...dyke."
     t "...dyke."
 
-# game/events_t.rpy:2432
+# game/events_t.rpy:2431
 translate crowdin d11tfirsts_25e6b7c6:
 
     # mc "I'm just trying to prove or disprove my theory."
     mc "I'm just trying to prove or disprove my theory."
 
-# game/events_t.rpy:2434
+# game/events_t.rpy:2433
 translate crowdin d11tfirsts_c041bb9a:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2437
+# game/events_t.rpy:2436
 translate crowdin d11tfirsts_c1914d7c:
 
     # mc "Also, calling me a dyke won't hide the fact that you're interested in women..."
     mc "Also, calling me a dyke won't hide the fact that you're interested in women..."
 
-# game/events_t.rpy:2438
+# game/events_t.rpy:2437
 translate crowdin d11tfirsts_2d73988b:
 
     # mc "We've done this several times already, and you're still turning red like a tomato."
     mc "We've done this several times already, and you're still turning red like a tomato."
 
-# game/events_t.rpy:2439
+# game/events_t.rpy:2438
 translate crowdin d11tfirsts_c899cea3:
 
     # t "T-That's not true..."
     t "T-That's not true..."
 
-# game/events_t.rpy:2440
+# game/events_t.rpy:2439
 translate crowdin d11tfirsts_c541293e:
 
     # mc "Do you want me to take a photo to show you?"
     mc "Do you want me to take a photo to show you?"
 
-# game/events_t.rpy:2441
+# game/events_t.rpy:2440
 translate crowdin d11tfirsts_bb069667:
 
     # t "N-No, don't you dare take a photo of me!"
     t "N-No, don't you dare take a photo of me!"
 
-# game/events_t.rpy:2443
+# game/events_t.rpy:2442
 translate crowdin d11tfirsts_848e3ce6:
 
     # mc "You should really be a bit more comfortable with your boyfriend."
     mc "You should really be a bit more comfortable with your boyfriend."
 
-# game/events_t.rpy:2445
+# game/events_t.rpy:2444
 translate crowdin d11tfirsts_d8ac267f:
 
     # mc "You should really be a bit more comfortable with your girlfriend."
     mc "You should really be a bit more comfortable with your girlfriend."
 
-# game/events_t.rpy:2446
+# game/events_t.rpy:2445
 translate crowdin d11tfirsts_71eaf407:
 
     # t "That's not even...{w=0.5}{nw}"
     t "That's not even...{w=0.5}{nw}"
 
-# game/events_t.rpy:2448
+# game/events_t.rpy:2447
 translate crowdin d11tfirsts_303376db:
 
     # mc "Come, turn around."
     mc "Come, turn around."
 
-# game/events_t.rpy:2450
+# game/events_t.rpy:2449
 translate crowdin d11tfirsts_060d0345_1:
 
     # t "What are you..."
     t "What are you..."
 
-# game/events_t.rpy:2452
+# game/events_t.rpy:2451
 translate crowdin d11tfirsts_72ba5e48:
 
     # mc "Trying to make it more comfortable for you."
     mc "Trying to make it more comfortable for you."
 
-# game/events_t.rpy:2454
+# game/events_t.rpy:2453
 translate crowdin d11tfirsts_660a9a17:
 
     # t "Oh..."
     t "Oh..."
 
-# game/events_t.rpy:2455
+# game/events_t.rpy:2454
 translate crowdin d11tfirsts_4d6b1202:
 
     # mc "It'll help you relax."
     mc "It'll help you relax."
 
-# game/events_t.rpy:2457
+# game/events_t.rpy:2456
 translate crowdin d11tfirsts_c352fee8:
 
     # t "Hmph, just stop acting as if you're doing it for me."
     t "Hmph, just stop acting as if you're doing it for me."
 
-# game/events_t.rpy:2459
+# game/events_t.rpy:2458
 translate crowdin d11tfirsts_18d7cd70:
 
     # mc "You think I'm doing this for myself?"
     mc "You think I'm doing this for myself?"
 
-# game/events_t.rpy:2460
+# game/events_t.rpy:2459
 translate crowdin d11tfirsts_728dbb2f:
 
     # t "Of course you do."
     t "Of course you do."
 
-# game/events_t.rpy:2462
+# game/events_t.rpy:2461
 translate crowdin d11tfirsts_02b79881:
 
     # mc "Oh really? Well I guess there's no point in going on then..."
     mc "Oh really? Well I guess there's no point in going on then..."
 
-# game/events_t.rpy:2464
+# game/events_t.rpy:2463
 translate crowdin d11tfirsts_19ec77da:
 
     # t "You... you're just going to stop now?"
     t "You... you're just going to stop now?"
 
-# game/events_t.rpy:2465
+# game/events_t.rpy:2464
 translate crowdin d11tfirsts_b16bc564:
 
     # mc "Yeah, unless you want me to go on."
     mc "Yeah, unless you want me to go on."
 
-# game/events_t.rpy:2467
+# game/events_t.rpy:2466
 translate crowdin d11tfirsts_c041bb9a_1:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2468
+# game/events_t.rpy:2467
 translate crowdin d11tfirsts_b9b155fe_3:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2469
+# game/events_t.rpy:2468
 translate crowdin d11tfirsts_b9b155fe_4:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2471
+# game/events_t.rpy:2470
 translate crowdin d11tfirsts_1bb01731_6:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2473
+# game/events_t.rpy:2472
 translate crowdin d11tfirsts_51e464e6:
 
     # t "Fine..."
     t "Fine..."
 
-# game/events_t.rpy:2475
+# game/events_t.rpy:2474
 translate crowdin d11tfirsts_ca5e40c7:
 
     # mc "Fine what?"
     mc "Fine what?"
 
-# game/events_t.rpy:2477
+# game/events_t.rpy:2476
 translate crowdin d11tfirsts_ab4e34d6:
 
     # t "I'm going to play your stupid game..."
     t "I'm going to play your stupid game..."
 
-# game/events_t.rpy:2478
+# game/events_t.rpy:2477
 translate crowdin d11tfirsts_ca94c41b:
 
     # mc "My stupid game?"
     mc "My stupid game?"
 
-# game/events_t.rpy:2480
+# game/events_t.rpy:2479
 translate crowdin d11tfirsts_1bb01731_7:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2482
+# game/events_t.rpy:2481
 translate crowdin d11tfirsts_582359ea:
 
     # mc "Hm?"
     mc "Hm?"
 
-# game/events_t.rpy:2484
+# game/events_t.rpy:2483
 translate crowdin d11tfirsts_113d073b:
 
     # t "Just take it off already..."
     t "Just take it off already..."
 
-# game/events_t.rpy:2486
+# game/events_t.rpy:2485
 translate crowdin d11tfirsts_0ab621c3:
 
     # mc "You mean my pants? Didn't you just say..."
     mc "You mean my pants? Didn't you just say..."
 
-# game/events_t.rpy:2488
+# game/events_t.rpy:2487
 translate crowdin d11tfirsts_61215f86:
 
     # t "Just do it already."
     t "Just do it already."
 
-# game/events_t.rpy:2489
+# game/events_t.rpy:2488
 translate crowdin d11tfirsts_0ebdb2b3:
 
     # mc "Well, if you insist..."
     mc "Well, if you insist..."
 
-# game/events_t.rpy:2496
+# game/events_t.rpy:2495
 translate crowdin d11tfirsts_d7f0ca85:
 
     # mc "There we go."
     mc "There we go."
 
-# game/events_t.rpy:2498
+# game/events_t.rpy:2497
 translate crowdin d11tfirsts_1bb01731_8:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2505
+# game/events_t.rpy:2504
 translate crowdin d11tfirsts_1bb01731_9:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2517
+# game/events_t.rpy:2516
 translate crowdin d11tfirsts_901e624c:
 
     # mc "Not bad, [t]... not bad."
     mc "Not bad, [t]... not bad."
 
-# game/events_t.rpy:2536
+# game/events_t.rpy:2527
 translate crowdin d11tfirsts_6f89aedb:
 
     # mcthink "Damn, this looks uncomfortable..."
     mcthink "Damn, this looks uncomfortable..."
 
-# game/events_t.rpy:2537
+# game/events_t.rpy:2528
 translate crowdin d11tfirsts_103ad989:
 
     # mcthink "...and it doesn't feel that great either..."
     mcthink "...and it doesn't feel that great either..."
 
-# game/events_t.rpy:2548
+# game/events_t.rpy:2539
 translate crowdin d11tfirsts_44acca36:
 
     # mc "Hmm, not bad, [t], not bad..."
     mc "Hmm, not bad, [t], not bad..."
 
-# game/events_t.rpy:2553
+# game/events_t.rpy:2543
 translate crowdin d11tfirsts_98f7313d:
 
     # mc "Alright, [t], get up."
     mc "Alright, [t], get up."
 
-# game/events_t.rpy:2555
+# game/events_t.rpy:2545
 translate crowdin d11tfirsts_38e263ea:
 
     # t "W-Why?! Did I do something wrong?"
     t "W-Why?! Did I do something wrong?"
 
-# game/events_t.rpy:2557
+# game/events_t.rpy:2547
 translate crowdin d11tfirsts_c0bd7d13:
 
     # mc "Just do what I said."
     mc "Just do what I said."
 
-# game/events_t.rpy:2559
+# game/events_t.rpy:2549
 translate crowdin d11tfirsts_fb44b6fa:
 
     # t "You didn't even cum, yet..."
     t "You didn't even cum, yet..."
 
-# game/events_t.rpy:2560
+# game/events_t.rpy:2550
 translate crowdin d11tfirsts_51adb54b:
 
     # mc "As I said, it's not about me."
     mc "As I said, it's not about me."
 
-# game/events_t.rpy:2562
+# game/events_t.rpy:2552
 translate crowdin d11tfirsts_706d3ae9:
 
     # t "Fine... what do you want now?"
     t "Fine... what do you want now?"
 
-# game/events_t.rpy:2564
+# game/events_t.rpy:2554
 translate crowdin d11tfirsts_ed54f708:
 
     # mc "Take your pants off."
     mc "Take your pants off."
 
-# game/events_t.rpy:2566
+# game/events_t.rpy:2556
 translate crowdin d11tfirsts_1bb01731_10:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2575
+# game/events_t.rpy:2565
 translate crowdin d11tfirsts_608e7bbc:
 
     # t "What now?"
     t "What now?"
 
-# game/events_t.rpy:2578
+# game/events_t.rpy:2568
 translate crowdin d11tfirsts_9e9fcde8:
 
     # mc "Sit on my lap."
     mc "Sit on my lap."
 
-# game/events_t.rpy:2580
+# game/events_t.rpy:2570
 translate crowdin d11tfirsts_f106db48:
 
     # t "W-What?! I'm not going to sit on your dick!"
     t "W-What?! I'm not going to sit on your dick!"
 
-# game/events_t.rpy:2582
+# game/events_t.rpy:2572
 translate crowdin d11tfirsts_7a65c02e:
 
     # mc "You just had it in your mouth, what's the problem with sitting on it?"
     mc "You just had it in your mouth, what's the problem with sitting on it?"
 
-# game/events_t.rpy:2584
+# game/events_t.rpy:2574
 translate crowdin d11tfirsts_c242cfd7:
 
     # t "That's something different..."
     t "That's something different..."
 
-# game/events_t.rpy:2585
+# game/events_t.rpy:2575
 translate crowdin d11tfirsts_6a950321:
 
     # mc "Are you scared it could accidentally enter the wrong hole?"
     mc "Are you scared it could accidentally enter the wrong hole?"
 
-# game/events_t.rpy:2586
+# game/events_t.rpy:2576
 translate crowdin d11tfirsts_b2115cfe:
 
     # t "It could accidentally enter any hole!"
     t "It could accidentally enter any hole!"
 
-# game/events_t.rpy:2588
+# game/events_t.rpy:2578
 translate crowdin d11tfirsts_6c9a924f:
 
     # mc "Heh... come here."
     mc "Heh... come here."
 
-# game/events_t.rpy:2592
+# game/events_t.rpy:2582
 translate crowdin d11tfirsts_99a8a636:
 
     # mc "See? It's not that... hard, right?"
     mc "See? It's not that... hard, right?"
 
-# game/events_t.rpy:2593
+# game/events_t.rpy:2583
 translate crowdin d11tfirsts_1bb01731_11:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2595
+# game/events_t.rpy:2585
 translate crowdin d11tfirsts_5f299e6d:
 
     # mc "Alright, why don't you grind on it?"
     mc "Alright, why don't you grind on it?"
 
-# game/events_t.rpy:2596
+# game/events_t.rpy:2586
 translate crowdin d11tfirsts_bd65a88a:
 
     # t "Just grind?"
     t "Just grind?"
 
-# game/events_t.rpy:2597
+# game/events_t.rpy:2587
 translate crowdin d11tfirsts_199e031f:
 
     # mc "Just grind."
     mc "Just grind."
 
-# game/events_t.rpy:2599
+# game/events_t.rpy:2589
 translate crowdin d11tfirsts_8ee27418:
 
     # t "Okay..."
     t "Okay..."
 
-# game/events_t.rpy:2601
+# game/events_t.rpy:2591
 translate crowdin d11tfirsts_93a82aa0:
 
     # t "Like this?"
     t "Like this?"
 
-# game/events_t.rpy:2602
+# game/events_t.rpy:2592
 translate crowdin d11tfirsts_cf1adef2:
 
     # mc "Yeah."
     mc "Yeah."
 
-# game/events_t.rpy:2609
+# game/events_t.rpy:2599
 translate crowdin d11tfirsts_8cb1c1c3:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2610
+# game/events_t.rpy:2600
 translate crowdin d11tfirsts_bc5b1a02:
 
     # mc "Are you comfortable?"
     mc "Are you comfortable?"
 
-# game/events_t.rpy:2611
+# game/events_t.rpy:2601
 translate crowdin d11tfirsts_4cc81c8f:
 
     # t "Hnn... what kind of question is that?!"
     t "Hnn... what kind of question is that?!"
 
-# game/events_t.rpy:2612
+# game/events_t.rpy:2602
 translate crowdin d11tfirsts_91b2d9fb:
 
     # mc "Hey, I'm just making sure it's feeling good for you."
     mc "Hey, I'm just making sure it's feeling good for you."
 
-# game/events_t.rpy:2613
+# game/events_t.rpy:2603
 translate crowdin d11tfirsts_37e1c8e2:
 
     # t "It's... okay..."
     t "It's... okay..."
 
-# game/events_t.rpy:2614
+# game/events_t.rpy:2604
 translate crowdin d11tfirsts_7de8b566:
 
     # mc "Come on, [t]."
     mc "Come on, [t]."
 
-# game/events_t.rpy:2615
+# game/events_t.rpy:2605
 translate crowdin d11tfirsts_da845a08:
 
     # t "Ugh... it's, nhh... it's good..."
     t "Ugh... it's, nhh... it's good..."
 
-# game/events_t.rpy:2616
+# game/events_t.rpy:2606
 translate crowdin d11tfirsts_d7962bef:
 
     # mc "Do you like it, or not?"
     mc "Do you like it, or not?"
 
-# game/events_t.rpy:2617
+# game/events_t.rpy:2607
 translate crowdin d11tfirsts_73181d76:
 
     # t "C-Can you shut up?"
     t "C-Can you shut up?"
 
-# game/events_t.rpy:2618
+# game/events_t.rpy:2608
 translate crowdin d11tfirsts_d053fdb5:
 
     # mc "Being bitchy again, huh?"
     mc "Being bitchy again, huh?"
 
-# game/events_t.rpy:2619
+# game/events_t.rpy:2609
 translate crowdin d11tfirsts_394d3c06:
 
     # t "I'm not bitchy!"
     t "I'm not bitchy!"
 
-# game/events_t.rpy:2620
+# game/events_t.rpy:2610
 translate crowdin d11tfirsts_0106dce4:
 
     # mc "Alright, a little bit higher, [t]."
     mc "Alright, a little bit higher, [t]."
 
-# game/events_t.rpy:2621
+# game/events_t.rpy:2611
 translate crowdin d11tfirsts_1bb01731_12:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2627
+# game/events_t.rpy:2616
 translate crowdin d11tfirsts_93a82aa0_1:
 
     # t "Like this?"
     t "Like this?"
 
-# game/events_t.rpy:2628
+# game/events_t.rpy:2617
 translate crowdin d11tfirsts_91bd44e8:
 
     # mc "Higher."
     mc "Higher."
 
-# game/events_t.rpy:2631
+# game/events_t.rpy:2620
 translate crowdin d11tfirsts_4a1bb688:
 
     # mc "A little more."
     mc "A little more."
 
-# game/events_t.rpy:2632
+# game/events_t.rpy:2621
 translate crowdin d11tfirsts_c69c221d:
 
     # t "N-Nhhn..."
     t "N-Nhhn..."
 
-# game/events_t.rpy:2635
+# game/events_t.rpy:2624
 translate crowdin d11tfirsts_516cd5cf:
 
     # t "Haah!"
     t "Haah!"
 
-# game/events_t.rpy:2636
+# game/events_t.rpy:2625
 translate crowdin d11tfirsts_3556e475:
 
     # mc "Oh, looks like it almost slipped in... accidentally."
     mc "Oh, looks like it almost slipped in... accidentally."
 
-# game/events_t.rpy:2638
+# game/events_t.rpy:2627
 translate crowdin d11tfirsts_7a046ec3:
 
     # t "A-Accidentally? As if you didn't plan to do this."
     t "A-Accidentally? As if you didn't plan to do this."
 
-# game/events_t.rpy:2640
+# game/events_t.rpy:2629
 translate crowdin d11tfirsts_d6e97873:
 
     # mc "Heh, it was totally by accident, but... what are we going to do about it?"
     mc "Heh, it was totally by accident, but... what are we going to do about it?"
 
-# game/events_t.rpy:2642
+# game/events_t.rpy:2631
 translate crowdin d11tfirsts_ba21a0dd:
 
     # t "Hmrph..."
     t "Hmrph..."
 
-# game/events_t.rpy:2644
+# game/events_t.rpy:2633
 translate crowdin d11tfirsts_1bb01731_13:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2646
+# game/events_t.rpy:2635
 translate crowdin d11tfirsts_8cb1c1c3_1:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2649
+# game/events_t.rpy:2638
 translate crowdin d11tfirsts_142fe13e:
 
     # t "Haah..."
     t "Haah..."
 
-# game/events_t.rpy:2651
+# game/events_t.rpy:2640
 translate crowdin d11tfirsts_9a2f20df:
 
     # mcthink "Wow, I didn't expect her to just slide it in."
     mcthink "Wow, I didn't expect her to just slide it in."
 
-# game/events_t.rpy:2653
+# game/events_t.rpy:2642
 translate crowdin d11tfirsts_c35be849:
 
     # mc "Looks like you accidentally slid down, [t]."
     mc "Looks like you accidentally slid down, [t]."
 
-# game/events_t.rpy:2655
+# game/events_t.rpy:2644
 translate crowdin d11tfirsts_c873d93e:
 
     # t "Humph..."
     t "Humph..."
 
-# game/events_t.rpy:2656
+# game/events_t.rpy:2645
 translate crowdin d11tfirsts_cfeb5f00:
 
     # mc "*Smirks* go on."
     mc "*Smirks* go on."
 
-# game/events_t.rpy:2658
+# game/events_t.rpy:2647
 translate crowdin d11tfirsts_1bb01731_14:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2666
+# game/events_t.rpy:2655
 translate crowdin d11tfirsts_7c07ff4c:
 
     # t "N-Nhh..."
     t "N-Nhh..."
 
-# game/events_t.rpy:2671
+# game/events_t.rpy:2659
 translate crowdin d11tfirsts_dc5cfd13:
 
     # mc "Are you finally relaxing?"
     mc "Are you finally relaxing?"
 
-# game/events_t.rpy:2672
+# game/events_t.rpy:2660
 translate crowdin d11tfirsts_a3ea99e9:
 
     # t "If...hnnhh... you want to call it that..."
     t "If...hnnhh... you want to call it that..."
 
-# game/events_t.rpy:2673
+# game/events_t.rpy:2661
 translate crowdin d11tfirsts_ef4566de:
 
     # mc "It's just that you should be a bit more comfortable with your boyfriend."
     mc "It's just that you should be a bit more comfortable with your boyfriend."
 
-# game/events_t.rpy:2674
+# game/events_t.rpy:2662
 translate crowdin d11tfirsts_2d2ce1e5:
 
     # t "Nhhh... maybe..."
     t "Nhhh... maybe..."
 
-# game/events_t.rpy:2675
+# game/events_t.rpy:2663
 translate crowdin d11tfirsts_cf75e010:
 
     # mc "No objections to the boyfriend part?"
     mc "No objections to the boyfriend part?"
 
-# game/events_t.rpy:2676
+# game/events_t.rpy:2664
 translate crowdin d11tfirsts_e2562688:
 
     # t "N-Nhnn..."
     t "N-Nhnn..."
 
-# game/events_t.rpy:2685
+# game/events_t.rpy:2672
 translate crowdin d11tfirsts_b0d0df57:
 
     # mc "Come closer, let me get a nice, close look between your sexy legs."
     mc "Come closer, let me get a nice, close look between your sexy legs."
 
-# game/events_t.rpy:2686
+# game/events_t.rpy:2673
 translate crowdin d11tfirsts_1bb01731_15:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2689
+# game/events_t.rpy:2676
 translate crowdin d11tfirsts_fcb04132:
 
     # t "I-I don't know if that's a good idea..."
     t "I-I don't know if that's a good idea..."
 
-# game/events_t.rpy:2691
+# game/events_t.rpy:2678
 translate crowdin d11tfirsts_8cc8f365:
 
     # mc "Don't worry, I'll hold you."
     mc "Don't worry, I'll hold you."
 
-# game/events_t.rpy:2693
+# game/events_t.rpy:2680
 translate crowdin d11tfirsts_8cb1c1c3_2:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2696
+# game/events_t.rpy:2683
 translate crowdin d11tfirsts_8e2fe8ed:
 
     # mc "Mhm, Looks tasty."
     mc "Mhm, Looks tasty."
 
-# game/events_t.rpy:2697
+# game/events_t.rpy:2684
 translate crowdin d11tfirsts_b46eaf8e:
 
     # t "Just make sure you won't let me fall."
     t "Just make sure you won't let me fall."
 
-# game/events_t.rpy:2699
+# game/events_t.rpy:2686
 translate crowdin d11tfirsts_a615069f:
 
     # mc "Do you really think I'd let my girlfriend fall?"
     mc "Do you really think I'd let my girlfriend fall?"
 
-# game/events_t.rpy:2700
+# game/events_t.rpy:2687
 translate crowdin d11tfirsts_1bb01731_16:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2701
+# game/events_t.rpy:2688
 translate crowdin d11tfirsts_166b169a:
 
     # mc "No objections to the girlfriend part?"
     mc "No objections to the girlfriend part?"
 
-# game/events_t.rpy:2705
+# game/events_t.rpy:2692
 translate crowdin d11tfirsts_df4b35f8:
 
     # t "Huh?"
     t "Huh?"
 
-# game/events_t.rpy:2707
+# game/events_t.rpy:2694
 translate crowdin d11tfirsts_d0661dce:
 
     # t "WHAAH!"
     t "WHAAH!"
 
-# game/events_t.rpy:2710
+# game/events_t.rpy:2697
 translate crowdin d11tfirsts_6ad2d418:
 
     # mc "What the!?"
     mc "What the!?"
 
-# game/events_t.rpy:2713
+# game/events_t.rpy:2700
 translate crowdin d11tfirsts_9655811c:
 
     # mc "[j]?"
     mc "[j]?"
 
-# game/events_t.rpy:2715
+# game/events_t.rpy:2702
 translate crowdin d11tfirsts_b4fa3fc0:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2717
+# game/events_t.rpy:2704
 translate crowdin d11tfirsts_bd88c022:
 
     # t "God..."
     t "God..."
 
-# game/events_t.rpy:2719
+# game/events_t.rpy:2706
 translate crowdin d11tfirsts_04b77ce1:
 
     # t "I can't believe this, I..."
     t "I can't believe this, I..."
 
-# game/events_t.rpy:2721
+# game/events_t.rpy:2708
 translate crowdin d11tfirsts_12c2022f:
 
     # j "AU!"
     j "AU!"
 
-# game/events_t.rpy:2723
+# game/events_t.rpy:2710
 translate crowdin d11tfirsts_79dba188:
 
     # mc "Shit..."
     mc "Shit..."
 
-# game/events_t.rpy:2725
+# game/events_t.rpy:2712
 translate crowdin d11tfirsts_5b24e48a:
 
     # mc "I better have a look."
     mc "I better have a look."
 
-# game/events_t.rpy:2726
+# game/events_t.rpy:2713
 translate crowdin d11tfirsts_b284dc60:
 
     # t "Yes."
     t "Yes."
 
-# game/events_t.rpy:2730
+# game/events_t.rpy:2717
 translate crowdin d11tfirsts_8bcaad36:
 
     # j "Damn..."
     j "Damn..."
 
-# game/events_t.rpy:2732
+# game/events_t.rpy:2719
 translate crowdin d11tfirsts_3a36d8d7:
 
     # mc "What happened, are you okay?"
     mc "What happened, are you okay?"
 
-# game/events_t.rpy:2734
+# game/events_t.rpy:2721
 translate crowdin d11tfirsts_9ce126f8:
 
     # j "I'm okay, I just slipped from the railing..."
     j "I'm okay, I just slipped from the railing..."
 
-# game/events_t.rpy:2735
+# game/events_t.rpy:2722
 translate crowdin d11tfirsts_7c9e345f:
 
     # mc "Well, that's what you get for peeping."
     mc "Well, that's what you get for peeping."
 
-# game/events_t.rpy:2737
+# game/events_t.rpy:2724
 translate crowdin d11tfirsts_0f5155b3:
 
     # j "Hey, you were making weird noises, I was just checking..."
     j "Hey, you were making weird noises, I was just checking..."
 
-# game/events_t.rpy:2739
+# game/events_t.rpy:2726
 translate crowdin d11tfirsts_b8a2d68e:
 
     # mc "Yeah, sure... weird noises, huh..."
     mc "Yeah, sure... weird noises, huh..."
 
-# game/events_t.rpy:2741
+# game/events_t.rpy:2728
 translate crowdin d11tfirsts_3c15b2a2:
 
     # mc "Come on, you can go through my room."
     mc "Come on, you can go through my room."
 
-# game/events_t.rpy:2743
+# game/events_t.rpy:2730
 translate crowdin d11tfirsts_1bb01731_17:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2747
+# game/events_t.rpy:2734
 translate crowdin d11tfirsts_205d1898:
 
     # j "Uhh... sorry for the interruption..."
     j "Uhh... sorry for the interruption..."
 
-# game/events_t.rpy:2749
+# game/events_t.rpy:2736
 translate crowdin d11tfirsts_250cbd58:
 
     # t "Shouldn't you be mad or something?"
     t "Shouldn't you be mad or something?"
 
-# game/events_t.rpy:2751
+# game/events_t.rpy:2738
 translate crowdin d11tfirsts_d3ac2a0e:
 
     # j "Uhh... should I?"
     j "Uhh... should I?"
 
-# game/events_t.rpy:2755
+# game/events_t.rpy:2742
 translate crowdin d11tfirsts_55d9e1e6:
 
     # t "He's your boyfriend!"
     t "He's your boyfriend!"
 
-# game/events_t.rpy:2757
+# game/events_t.rpy:2744
 translate crowdin d11tfirsts_0ce979a0:
 
     # t "She's your girlfriend!"
     t "She's your girlfriend!"
 
-# game/events_t.rpy:2759
+# game/events_t.rpy:2746
 translate crowdin d11tfirsts_f58238a1:
 
     # j "And yours, too, right?"
     j "And yours, too, right?"
 
-# game/events_t.rpy:2761
+# game/events_t.rpy:2748
 translate crowdin d11tfirsts_2f64c1e9:
 
     # mc "How long have you been watching?"
     mc "How long have you been watching?"
 
-# game/events_t.rpy:2763
+# game/events_t.rpy:2750
 translate crowdin d11tfirsts_a3d1076c:
 
     # j "Uhh..."
     j "Uhh..."
 
-# game/events_t.rpy:2766
+# game/events_t.rpy:2753
 translate crowdin d11tfirsts_b63da1b0:
 
     # t "How can you be okay with that?!"
     t "How can you be okay with that?!"
 
-# game/events_t.rpy:2768
+# game/events_t.rpy:2755
 translate crowdin d11tfirsts_85bc7991:
 
     # mc "I told you she'd be fine with it, didn't I?"
     mc "I told you she'd be fine with it, didn't I?"
 
-# game/events_t.rpy:2770
+# game/events_t.rpy:2757
 translate crowdin d11tfirsts_599807f6:
 
     # t "How can you be okay with that?! [e] is your best friend!"
     t "How can you be okay with that?! [e] is your best friend!"
 
-# game/events_t.rpy:2772
+# game/events_t.rpy:2759
 translate crowdin d11tfirsts_cc12fb8c:
 
     # mc "I told you [e] would be fine with it, didn't I?"
     mc "I told you [e] would be fine with it, didn't I?"
 
-# game/events_t.rpy:2774
+# game/events_t.rpy:2761
 translate crowdin d11tfirsts_3aac889c:
 
     # t "Uch, you're both weird..."
     t "Uch, you're both weird..."
 
-# game/events_t.rpy:2777
+# game/events_t.rpy:2764
 translate crowdin d11tfirsts_c73fa029:
 
     # j "Hey."
     j "Hey."
 
-# game/events_t.rpy:2779
+# game/events_t.rpy:2766
 translate crowdin d11tfirsts_8bdc5dfa:
 
     # j "How would you know that I'm fine with it?"
     j "How would you know that I'm fine with it?"
 
-# game/events_t.rpy:2781
+# game/events_t.rpy:2768
 translate crowdin d11tfirsts_23c4f530:
 
     # mc "Well, you basically said it yourself, on my second day here, after I got you and [e] from school, remember?"
     mc "Well, you basically said it yourself, on my second day here, after I got you and [e] from school, remember?"
 
-# game/events_t.rpy:2783
+# game/events_t.rpy:2770
 translate crowdin d11tfirsts_416a130e:
 
     # j "Oh..."
     j "Oh..."
 
-# game/events_t.rpy:2785
+# game/events_t.rpy:2772
 translate crowdin d11tfirsts_89ef383a:
 
     # j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone if you want."
     j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone if you want."
 
-# game/events_t.rpy:2788
+# game/events_t.rpy:2775
 translate crowdin d11tfirsts_cfafea18:
 
     # j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone..."
     j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone..."
 
-# game/events_t.rpy:2790
+# game/events_t.rpy:2777
 translate crowdin d11tfirsts_f1af56f8:
 
     # t "No thanks, I'll just be leaving."
     t "No thanks, I'll just be leaving."
 
-# game/events_t.rpy:2792
+# game/events_t.rpy:2779
 translate crowdin d11tfirsts_47f8e571:
 
     # j "Aww, come on, don't leave. I'm sorry, okay?"
     j "Aww, come on, don't leave. I'm sorry, okay?"
 
-# game/events_t.rpy:2794
+# game/events_t.rpy:2781
 translate crowdin d11tfirsts_07b535c6:
 
     # t "You two can do what ever you want, but I don't need to be part of it."
     t "You two can do what ever you want, but I don't need to be part of it."
 
-# game/events_t.rpy:2796
+# game/events_t.rpy:2783
 translate crowdin d11tfirsts_8055313a:
 
     # t "Just do me a favor and don't tell anyone what you've seen today..."
     t "Just do me a favor and don't tell anyone what you've seen today..."
 
-# game/events_t.rpy:2798
+# game/events_t.rpy:2785
 translate crowdin d11tfirsts_24f19ac1:
 
     # j "Of course not..."
     j "Of course not..."
 
-# game/events_t.rpy:2800
+# game/events_t.rpy:2787
 translate crowdin d11tfirsts_e357a6c7:
 
     # j "I mean..."
     j "I mean..."
 
-# game/events_t.rpy:2801
+# game/events_t.rpy:2788
 translate crowdin d11tfirsts_a3d1076c_1:
 
     # j "Uhh..."
     j "Uhh..."
 
-# game/events_t.rpy:2803
+# game/events_t.rpy:2790
 translate crowdin d11tfirsts_a0e65641:
 
     # j "That means you owe me something, right?"
     j "That means you owe me something, right?"
 
-# game/events_t.rpy:2806
+# game/events_t.rpy:2793
 translate crowdin d11tfirsts_223921ba:
 
     # t "Ugh, you two really are a perfect match!"
     t "Ugh, you two really are a perfect match!"
 
-# game/events_t.rpy:2808
+# game/events_t.rpy:2795
 translate crowdin d11tfirsts_02998f1f:
 
     # t "Ugh, you two would make a perfect couple!"
     t "Ugh, you two would make a perfect couple!"
 
-# game/events_t.rpy:2810
+# game/events_t.rpy:2797
 translate crowdin d11tfirsts_fba7b537:
 
     # j "Hehe."
     j "Hehe."
 
-# game/events_t.rpy:2812
+# game/events_t.rpy:2799
 translate crowdin d11tfirsts_b79c704a:
 
     # t "What do you want?"
     t "What do you want?"
 
-# game/events_t.rpy:2814
+# game/events_t.rpy:2801
 translate crowdin d11tfirsts_a00c928e:
 
     # j "Hey, don't be mad, I just want you to stay. You have an appointment with [e] anyway, don't you?"
     j "Hey, don't be mad, I just want you to stay. You have an appointment with [e] anyway, don't you?"
 
-# game/events_t.rpy:2816
+# game/events_t.rpy:2803
 translate crowdin d11tfirsts_d6944372:
 
     # t "Hmph... fine."
     t "Hmph... fine."
 
-# game/events_t.rpy:2818
+# game/events_t.rpy:2805
 translate crowdin d11tfirsts_24eee438:
 
     # t "...but I'm just going to sit and wait until [e] is home for her therapy..."
     t "...but I'm just going to sit and wait until [e] is home for her therapy..."
 
-# game/events_t.rpy:2822
+# game/events_t.rpy:2809
 translate crowdin d11tfirsts_b4fa3fc0_1:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2824
+# game/events_t.rpy:2811
 translate crowdin d11tfirsts_ff3bd3ea:
 
     # j "Well, okay."
     j "Well, okay."
 
-# game/events_t.rpy:2826
+# game/events_t.rpy:2813
 translate crowdin d11tfirsts_1bb01731_18:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2828
+# game/events_t.rpy:2815
 translate crowdin d11tfirsts_128fd593:
 
     # j "What are you standing there like a lost sheep, come, sit between us!"
     j "What are you standing there like a lost sheep, come, sit between us!"
 
-# game/events_t.rpy:2830
+# game/events_t.rpy:2817
 translate crowdin d11tfirsts_985c02f6_1:
 
     # t "Ugh..."
     t "Ugh..."
 
-# game/events_t.rpy:2835
+# game/events_t.rpy:2822
 translate crowdin d11tfirsts_62dfb6eb:
 
     # j "Nothing better than cuddling with your girlfriendssss, right?"
     j "Nothing better than cuddling with your girlfriendssss, right?"
 
-# game/events_t.rpy:2837
+# game/events_t.rpy:2824
 translate crowdin d11tfirsts_de5cbbbb:
 
     # mc "Heh, right."
     mc "Heh, right."
 
-# game/events_t.rpy:2839
+# game/events_t.rpy:2826
 translate crowdin d11tfirsts_01901a7d:
 
     # mc "Wouldn't you say, too, [t]?"
     mc "Wouldn't you say, too, [t]?"
 
-# game/events_t.rpy:2841
+# game/events_t.rpy:2828
 translate crowdin d11tfirsts_b4fa3fc0_2:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2843
+# game/events_t.rpy:2830
 translate crowdin d11tfirsts_4e2823dd:
 
     # t "*grml*"
     t "*grml*"
 
-# game/events_t.rpy:2845
+# game/events_t.rpy:2832
 translate crowdin d11tfirsts_7de8b566_1:
 
     # mc "Come on, [t]."
     mc "Come on, [t]."
 
-# game/events_t.rpy:2847
+# game/events_t.rpy:2834
 translate crowdin d11tfirsts_001e9bbe:
 
     # mc "Shit happens sometimes, right?"
     mc "Shit happens sometimes, right?"
 
-# game/events_t.rpy:2849
+# game/events_t.rpy:2836
 translate crowdin d11tfirsts_1bb01731_19:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2852
+# game/events_t.rpy:2839
 translate crowdin d11tfirsts_64691207:
 
     # j "Come on, [t], there's nothing wrong with having fun with your boyfriend."
     j "Come on, [t], there's nothing wrong with having fun with your boyfriend."
 
-# game/events_t.rpy:2854
+# game/events_t.rpy:2841
 translate crowdin d11tfirsts_55670417:
 
     # j "Come on, [t], there's nothing wrong with having fun with your girlfriend."
     j "Come on, [t], there's nothing wrong with having fun with your girlfriend."
 
-# game/events_t.rpy:2857
+# game/events_t.rpy:2844
 translate crowdin d11tfirsts_c33b515c:
 
     # mc "Err..."
     mc "Err..."
 
-# game/events_t.rpy:2858
+# game/events_t.rpy:2845
 translate crowdin d11tfirsts_8cf97b9c:
 
     # j "I won't tell anybody, promise."
     j "I won't tell anybody, promise."
 
-# game/events_t.rpy:2860
+# game/events_t.rpy:2847
 translate crowdin d11tfirsts_03ae43fd:
 
     # mcthink "Damn, [j] is such a naughty little..."
     mcthink "Damn, [j] is such a naughty little..."
 
-# game/events_t.rpy:2864
+# game/events_t.rpy:2851
 translate crowdin d11tfirsts_ee342a8f:
 
     # mc "Sounds like [m] and [e] are back."
     mc "Sounds like [m] and [e] are back."
 
-# game/events_t.rpy:2866
+# game/events_t.rpy:2853
 translate crowdin d11tfirsts_75abc27f:
 
     # t "Good, time to do my job."
     t "Good, time to do my job."
 
-# game/events_t.rpy:2871
+# game/events_t.rpy:2858
 translate crowdin d11tfirsts_21c608a2:
 
     # j "She has a really nice ass in those pants."
     j "She has a really nice ass in those pants."
 
-# game/events_t.rpy:2872
+# game/events_t.rpy:2859
 translate crowdin d11tfirsts_c041bb9a_2:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2877
+# game/events_t.rpy:2864
 translate crowdin d11tfirsts_73ee3052:
 
     # j "No wonder you like her."
     j "No wonder you like her."
 
-# game/events_t.rpy:2879
+# game/events_t.rpy:2866
 translate crowdin d11tfirsts_f8e63386:
 
     # j "Too bad [e] and [m] just came back home."
     j "Too bad [e] and [m] just came back home."
 
-# game/events_t.rpy:2881
+# game/events_t.rpy:2868
 translate crowdin d11tfirsts_6dbd57f7:
 
     # mc "I doubt that them coming home changed much."
     mc "I doubt that them coming home changed much."
 
-# game/events_t.rpy:2883
+# game/events_t.rpy:2870
 translate crowdin d11tfirsts_cd33cad5:
 
     # j "Aww, sorry, I'll be more careful next time."
     j "Aww, sorry, I'll be more careful next time."
 
-# game/events_t.rpy:2885
+# game/events_t.rpy:2872
 translate crowdin d11tfirsts_cbb21558:
 
     # mc "More careful? You shouldn't peep in the first place."
     mc "More careful? You shouldn't peep in the first place."
 
-# game/events_t.rpy:2887
+# game/events_t.rpy:2874
 translate crowdin d11tfirsts_d5a8f0fe:
 
     # j "Hrm..."
     j "Hrm..."
 
-# game/events_t.rpy:2888
+# game/events_t.rpy:2875
 translate crowdin d11tfirsts_8ff8ec9a:
 
     # mc "Seriously, [j]."
     mc "Seriously, [j]."
 
-# game/events_t.rpy:2890
+# game/events_t.rpy:2877
 translate crowdin d11tfirsts_1cae3073:
 
     # j "Sorry, I won't do it again."
     j "Sorry, I won't do it again."
 
-# game/events_t.rpy:2892
+# game/events_t.rpy:2879
 translate crowdin d11tfirsts_cb2c03b6:
 
     # mc "I hope so, otherwise I'll have to punish you, young lady."
     mc "I hope so, otherwise I'll have to punish you, young lady."
 
-# game/events_t.rpy:2894
+# game/events_t.rpy:2881
 translate crowdin d11tfirsts_ad88acdc:
 
     # j "Hehe, don't tempt me, [mcmd]."
     j "Hehe, don't tempt me, [mcmd]."
 
-# game/events_t.rpy:2896
+# game/events_t.rpy:2883
 translate crowdin d11tfirsts_d4cfca71:
 
     # mc "But seriously, [j], don't do it again, unless you know everyone is fine with it."
     mc "But seriously, [j], don't do it again, unless you know everyone is fine with it."
 
-# game/events_t.rpy:2898
+# game/events_t.rpy:2885
 translate crowdin d11tfirsts_ecc233ae:
 
     # j "I won't, promise."
     j "I won't, promise."
 
-# game/events_t.rpy:2900
+# game/events_t.rpy:2887
 translate crowdin d11tfirsts_21c608a2_1:
 
     # j "She has a really nice ass in those pants."
     j "She has a really nice ass in those pants."
 
-# game/events_t.rpy:2901
+# game/events_t.rpy:2888
 translate crowdin d11tfirsts_c041bb9a_3:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2905
+# game/events_t.rpy:2892
 translate crowdin d11tfirsts_73ee3052_1:
 
     # j "No wonder you like her."
     j "No wonder you like her."
 
-# game/events_t.rpy:2906
+# game/events_t.rpy:2893
 translate crowdin d11tfirsts_f8e63386_1:
 
     # j "Too bad [e] and [m] just came back home."
     j "Too bad [e] and [m] just came back home."
 
-# game/events_t.rpy:2908
+# game/events_t.rpy:2895
 translate crowdin d11tfirsts_6dbd57f7_1:
 
     # mc "I doubt that them coming home changed much."
     mc "I doubt that them coming home changed much."
 
-# game/events_t.rpy:2910
+# game/events_t.rpy:2897
 translate crowdin d11tfirsts_60d0d9c0:
 
     # j "Sorry, I guess I..."
     j "Sorry, I guess I..."
 
-# game/events_t.rpy:2914
+# game/events_t.rpy:2901
 translate crowdin d11tfirsts_dc5bbf95:
 
     # j "Hey, [e], welcome back."
     j "Hey, [e], welcome back."
 
-# game/events_t.rpy:2916
+# game/events_t.rpy:2903
 translate crowdin d11tfirsts_6bca4e18:
 
     # t "Come on, [e], I don't have much time..."
     t "Come on, [e], I don't have much time..."
 
-# game/events_t.rpy:2918
+# game/events_t.rpy:2905
 translate crowdin d11tfirsts_f63da726:
 
     # t "Ugh, are you still..."
     t "Ugh, are you still..."
 
-# game/events_t.rpy:2920
+# game/events_t.rpy:2907
 translate crowdin d11tfirsts_2b40a022:
 
     # e "Huh?"
     e "Huh?"
 
-# game/events_t.rpy:2922
+# game/events_t.rpy:2909
 translate crowdin d11tfirsts_143db3d9:
 
     # m "Hey, what's going..."
     m "Hey, what's going..."
 
-# game/events_t.rpy:2924
+# game/events_t.rpy:2911
 translate crowdin d11tfirsts_5da0228b:
 
     # m "O-Oh... err..."
     m "O-Oh... err..."
 
-# game/events_t.rpy:2926
+# game/events_t.rpy:2913
 translate crowdin d11tfirsts_7d25852a:
 
     # m "Come on, [e], [t] is waiting for you."
     m "Come on, [e], [t] is waiting for you."
 
-# game/events_t.rpy:2927
+# game/events_t.rpy:2914
 translate crowdin d11tfirsts_9c5e6f88:
 
     # e "Whaa..."
     e "Whaa..."
 
-# game/events_t.rpy:2930
+# game/events_t.rpy:2917
 translate crowdin d11tfirsts_6894d896:
 
     # mc "Shit, I better put my pants on."
     mc "Shit, I better put my pants on."
 
-# game/events_t.rpy:2931
+# game/events_t.rpy:2918
 translate crowdin d11tfirsts_d1f3ebf7:
 
     # j "Yeah... sorry..."
     j "Yeah... sorry..."
 
-# game/events_t.rpy:2933
+# game/events_t.rpy:2920
 translate crowdin d11tfirsts_9405a33c:
 
     # j "...I'll go see if [m] needs help with anything..."
     j "...I'll go see if [m] needs help with anything..."
 
-# game/events_t.rpy:2934
+# game/events_t.rpy:2921
 translate crowdin d11tfirsts_2fcc7ac5:
 
     # mc "Sure..."
     mc "Sure..."
 
-# game/events_t.rpy:2937
+# game/events_t.rpy:2924
 translate crowdin d11tfirsts_6894d896_1:
 
     # mc "Shit, I better put my pants on."
     mc "Shit, I better put my pants on."
 
-# game/events_t.rpy:2938
-translate crowdin d11tfirsts_36a6d3ec:
+# game/events_t.rpy:2925
+translate crowdin d11tfirsts_775d8a57:
 
-    # j "yeah... too bad..."
-    j "yeah... too bad..."
+    # j "Yeah... too bad..."
+    j "Yeah... too bad..."
 
-# game/events_t.rpy:2940
+# game/events_t.rpy:2927
 translate crowdin d11tfirsts_c80207c6:
 
     # mc "Well, at least they didn't see me and [t]."
     mc "Well, at least they didn't see me and [t]."
 
-# game/events_t.rpy:2942
+# game/events_t.rpy:2929
 translate crowdin d11tfirsts_de476f0d:
 
     # j "Hehe, yeah, that might've ended up worse than it did."
     j "Hehe, yeah, that might've ended up worse than it did."
 
-# game/events_t.rpy:2944
+# game/events_t.rpy:2931
 translate crowdin d11tfirsts_69c25b65:
 
     # mc "Yeah..."
     mc "Yeah..."
 
-# game/events_t.rpy:2945
+# game/events_t.rpy:2932
 translate crowdin d11tfirsts_5bec3d56:
 
     # j "Too bad [m] isn't okay with us, yet, this could've ended up in a nice little orgy."
     j "Too bad [m] isn't okay with us, yet, this could've ended up in a nice little orgy."
 
-# game/events_t.rpy:2947
+# game/events_t.rpy:2934
 translate crowdin d11tfirsts_ad9c5742:
 
     # mc "Damn, [j]..."
     mc "Damn, [j]..."
 
-# game/events_t.rpy:2949
+# game/events_t.rpy:2936
 translate crowdin d11tfirsts_a475dd4c:
 
     # j "What?"
     j "What?"
 
-# game/events_t.rpy:2951
+# game/events_t.rpy:2938
 translate crowdin d11tfirsts_6b7cbff5:
 
     # mc "What do mean by \"yet\" by the way?"
     mc "What do mean by \"yet\" by the way?"
 
-# game/events_t.rpy:2953
+# game/events_t.rpy:2940
 translate crowdin d11tfirsts_52908790:
 
     # j "Well, we obviously need to convince her to join your little harem, right?"
     j "Well, we obviously need to convince her to join your little harem, right?"
 
-# game/events_t.rpy:2955
+# game/events_t.rpy:2942
 translate crowdin d11tfirsts_c0d05d94:
 
     # mc "My harem? Why do I get the feeling that that's more like what {b}you{/b} want?"
     mc "My harem? Why do I get the feeling that that's more like what {b}you{/b} want?"
 
-# game/events_t.rpy:2957
+# game/events_t.rpy:2944
 translate crowdin d11tfirsts_8bd5ac3d:
 
     # j "Nah, that'd be too much work for me..."
     j "Nah, that'd be too much work for me..."
 
-# game/events_t.rpy:2959
+# game/events_t.rpy:2946
 translate crowdin d11tfirsts_27aa9bd3:
 
     # mc "Oh, so you let me do all the hard work."
     mc "Oh, so you let me do all the hard work."
 
-# game/events_t.rpy:2961
+# game/events_t.rpy:2948
 translate crowdin d11tfirsts_09798197:
 
     # j "Hey, I'm trying to help you! Also, it's not only hard, but also juicy, isn't it?"
     j "Hey, I'm trying to help you! Also, it's not only hard, but also juicy, isn't it?"
 
-# game/events_t.rpy:2963
+# game/events_t.rpy:2950
 translate crowdin d11tfirsts_fbe5e1b8:
 
     # mc "Heh, well, kind of."
     mc "Heh, well, kind of."
 
-# game/events_t.rpy:2965
+# game/events_t.rpy:2952
 translate crowdin d11tfirsts_21f63e97:
 
     # j "See? And it's not like I'm not doing my part, hehe."
     j "See? And it's not like I'm not doing my part, hehe."
 
-# game/events_t.rpy:2968
+# game/events_t.rpy:2955
 translate crowdin d11tfirsts_fbf4c6b0:
 
     # mc "Yeah... and you really are okay with that?"
     mc "Yeah... and you really are okay with that?"
 
-# game/events_t.rpy:2970
+# game/events_t.rpy:2957
 translate crowdin d11tfirsts_e3b51cb3:
 
     # j "Yeah, sure, I mean..."
     j "Yeah, sure, I mean..."
 
-# game/events_t.rpy:2972
+# game/events_t.rpy:2959
 translate crowdin d11tfirsts_b4fa3fc0_3:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2974
+# game/events_t.rpy:2961
 translate crowdin d11tfirsts_9655811c_1:
 
     # mc "[j]?"
     mc "[j]?"
 
-# game/events_t.rpy:2976
+# game/events_t.rpy:2963
 translate crowdin d11tfirsts_6cb3f283:
 
     # j "Err... yeah, haha."
     j "Err... yeah, haha."
 
-# game/events_t.rpy:2978
+# game/events_t.rpy:2965
 translate crowdin d11tfirsts_8b470045:
 
     # j "Absolutely!"
     j "Absolutely!"
 
-# game/events_t.rpy:2980
+# game/events_t.rpy:2967
 translate crowdin d11tfirsts_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/events_t.rpy:2982
+# game/events_t.rpy:2969
 translate crowdin d11tfirsts_b4fa3fc0_4:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2984
+# game/events_t.rpy:2971
 translate crowdin d11tfirsts_88057329:
 
     # j "Well..."
     j "Well..."
 
-# game/events_t.rpy:2986
+# game/events_t.rpy:2973
 translate crowdin d11tfirsts_9405a33c_1:
 
     # j "...I'll go see if [m] needs help with anything..."
     j "...I'll go see if [m] needs help with anything..."
 
-# game/events_t.rpy:2988
+# game/events_t.rpy:2975
 translate crowdin d11tfirsts_b4fa3fc0_5:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2992
+# game/events_t.rpy:2979
 translate crowdin d11tfirsts_c8c2ebc6:
 
     # mcthink "Is she lying?"
     mcthink "Is she lying?"
 
-# game/events_t.rpy:2993
+# game/events_t.rpy:2980
 translate crowdin d11tfirsts_ac118115:
 
     # mcthink "But why would she say she's okay with it, if she's not okay with it?"

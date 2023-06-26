@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-04-29 19:07
+﻿# TODO: Translation updated at 2023-06-26 18:40
 
 # game/events_m.rpy:6
 translate crowdin rachelBathroomDay0_299fb66f:
@@ -9234,961 +9234,961 @@ translate crowdin d12rachels_ed63aa8a:
     # mc "How about this then?"
     mc "How about this then?"
 
-# game/events_m.rpy:2625
+# game/events_m.rpy:2624
 translate crowdin d12rachels_82cb9f22:
 
     # m "Hnn! Oh god, yes, Hun..."
     m "Hnn! Oh god, yes, Hun..."
 
-# game/events_m.rpy:2627
+# game/events_m.rpy:2626
 translate crowdin d12rachels_30fbf381:
 
     # m "Nnnh, haaa..."
     m "Nnnh, haaa..."
 
-# game/events_m.rpy:2628
+# game/events_m.rpy:2627
 translate crowdin d12rachels_a517dc4b:
 
     # mcthink "She's getting close!"
     mcthink "She's getting close!"
 
-# game/events_m.rpy:2629
+# game/events_m.rpy:2628
 translate crowdin d12rachels_902a5e48:
 
     # m "Mmhh, hmmm..."
     m "Mmhh, hmmm..."
 
-# game/events_m.rpy:2633
+# game/events_m.rpy:2631
 translate crowdin d12rachels_ed0d357c:
 
     # m "Haaa... ahhh!"
     m "Haaa... ahhh!"
 
-# game/events_m.rpy:2635
+# game/events_m.rpy:2633
 translate crowdin d12rachels_324d8d7f:
 
     # m "Haaah... god... that felt so good... Hun..."
     m "Haaah... god... that felt so good... Hun..."
 
-# game/events_m.rpy:2636
+# game/events_m.rpy:2634
 translate crowdin d12rachels_b9a152a3:
 
     # mc "And we've just started."
     mc "And we've just started."
 
-# game/events_m.rpy:2637
+# game/events_m.rpy:2635
 translate crowdin d12rachels_984b7eb6:
 
     # m "Haah... oh, I'm ready for more... don't let me stop you."
     m "Haah... oh, I'm ready for more... don't let me stop you."
 
-# game/events_m.rpy:2640
+# game/events_m.rpy:2638
 translate crowdin d12rachels_7d6050b1:
 
     # mc "Let's try this then..."
     mc "Let's try this then..."
 
-# game/events_m.rpy:2643
+# game/events_m.rpy:2641
 translate crowdin d12rachels_442356a5:
 
     # m "Ahh... haaa..."
     m "Ahh... haaa..."
 
-# game/events_m.rpy:2644
+# game/events_m.rpy:2642
 translate crowdin d12rachels_34c829da:
 
     # mcthink "Damn, what a view!"
     mcthink "Damn, what a view!"
 
-# game/events_m.rpy:2645
+# game/events_m.rpy:2643
 translate crowdin d12rachels_60690d8b:
 
     # m "Oh god, yes!"
     m "Oh god, yes!"
 
-# game/events_m.rpy:2652
+# game/events_m.rpy:2650
 translate crowdin d12rachels_1064d32a:
 
     # m "Hnn... nnhh..."
     m "Hnn... nnhh..."
 
-# game/events_m.rpy:2655
+# game/events_m.rpy:2653
 translate crowdin d12rachels_c7829391:
 
     # m "Will... hnnn... will you come inside me?"
     m "Will... hnnn... will you come inside me?"
 
-# game/events_m.rpy:2656
+# game/events_m.rpy:2654
 translate crowdin d12rachels_3c140d5c:
 
     # mc "Do you want that?"
     mc "Do you want that?"
 
-# game/events_m.rpy:2657
+# game/events_m.rpy:2655
 translate crowdin d12rachels_cc71f5ad:
 
     # m "Hnnn... I... don't know... haaa... I don't mind... haaa..."
     m "Hnnn... I... don't know... haaa... I don't mind... haaa..."
 
-# game/events_m.rpy:2658
+# game/events_m.rpy:2656
 translate crowdin d12rachels_07fea3ab:
 
     # m "I-I'm on the pill anyway... hnnn..."
     m "I-I'm on the pill anyway... hnnn..."
 
-# game/events_m.rpy:2660
+# game/events_m.rpy:2658
 translate crowdin d12rachels_403c0481:
 
     # m "Mhhh... you can... ahnn... come inside me, if you want...hnnn..."
     m "Mhhh... you can... ahnn... come inside me, if you want...hnnn..."
 
-# game/events_m.rpy:2661
+# game/events_m.rpy:2659
 translate crowdin d12rachels_cfce055e:
 
     # mc "Are you sure?"
     mc "Are you sure?"
 
-# game/events_m.rpy:2662
+# game/events_m.rpy:2660
 translate crowdin d12rachels_f4a590a5:
 
     # m "I'm on the pill anyway... haaah..."
     m "I'm on the pill anyway... haaah..."
 
-# game/events_m.rpy:2663
+# game/events_m.rpy:2661
 translate crowdin d12rachels_fe0044c8:
 
     # mc "Damn, I think even if I wanted to hold back, I wouldn't be able to..."
     mc "Damn, I think even if I wanted to hold back, I wouldn't be able to..."
 
-# game/events_m.rpy:2664
+# game/events_m.rpy:2662
 translate crowdin d12rachels_0284a8ac:
 
     # mc "Hngh!"
     mc "Hngh!"
 
-# game/events_m.rpy:2667
+# game/events_m.rpy:2665
 translate crowdin d12rachels_e6bfe51d:
 
     # m "Ahh... haah...{w=1}{nw}"
     m "Ahh... haah...{w=1}{nw}"
 
-# game/events_m.rpy:2669
+# game/events_m.rpy:2667
 translate crowdin d12rachels_535b6d2a:
 
     # mcthink "Shit, that felt good!"
     mcthink "Shit, that felt good!"
 
-# game/events_m.rpy:2672
+# game/events_m.rpy:2670
 translate crowdin d12rachels_1ce0b818:
 
     # m "You're so... mmhh... beautiful... haa..."
     m "You're so... mmhh... beautiful... haa..."
 
-# game/events_m.rpy:2676
+# game/events_m.rpy:2673
 translate crowdin d12rachels_a5f93caf:
 
     # m "Mhaaa... haaa!" with hpunch
     m "Mhaaa... haaa!" with hpunch
 
-# game/events_m.rpy:2677
+# game/events_m.rpy:2674
 translate crowdin d12rachels_23c8b861:
 
     # m "Oh god, Hun..."
     m "Oh god, Hun..."
 
-# game/events_m.rpy:2678
+# game/events_m.rpy:2675
 translate crowdin d12rachels_ce3fd2ce:
 
     # mc "Ready for another round, [mmom]?"
     mc "Ready for another round, [mmom]?"
 
-# game/events_m.rpy:2679
+# game/events_m.rpy:2676
 translate crowdin d12rachels_4a2fb722:
 
     # m "Of course, Hun!"
     m "Of course, Hun!"
 
-# game/events_m.rpy:2686
+# game/events_m.rpy:2683
 translate crowdin d12rachels_e5c2d6fb:
 
     # n "Hours later..."
     n "Hours later..."
 
-# game/events_m.rpy:2688
+# game/events_m.rpy:2685
 translate crowdin d12rachels_d9d8c021:
 
     # m "Hmmm... I really needed that..."
     m "Hmmm... I really needed that..."
 
-# game/events_m.rpy:2690
+# game/events_m.rpy:2687
 translate crowdin d12rachels_8ae272d2:
 
     # mc "Glad I was able to help out."
     mc "Glad I was able to help out."
 
-# game/events_m.rpy:2692
+# game/events_m.rpy:2689
 translate crowdin d12rachels_fe140204:
 
     # m "Oh, don't sell yourself short, Hun. I'm glad we finally did it."
     m "Oh, don't sell yourself short, Hun. I'm glad we finally did it."
 
-# game/events_m.rpy:2694
+# game/events_m.rpy:2691
 translate crowdin d12rachels_74f83bd8:
 
     # mc "I just hope it wasn't a one time thing."
     mc "I just hope it wasn't a one time thing."
 
-# game/events_m.rpy:2696
+# game/events_m.rpy:2693
 translate crowdin d12rachels_b0a54000:
 
     # m "We can do it as much as you like, Hun."
     m "We can do it as much as you like, Hun."
 
-# game/events_m.rpy:2699
+# game/events_m.rpy:2696
 translate crowdin d12rachels_7ba7ca2b:
 
     # mc "Well, you were very reluctant under the shower."
     mc "Well, you were very reluctant under the shower."
 
-# game/events_m.rpy:2701
+# game/events_m.rpy:2698
 translate crowdin d12rachels_c0d50767:
 
     # m "Oh... but that was only because we weren't alone at the time."
     m "Oh... but that was only because we weren't alone at the time."
 
-# game/events_m.rpy:2703
+# game/events_m.rpy:2700
 translate crowdin d12rachels_09681d46:
 
     # mc "Well, you've never been like this before."
     mc "Well, you've never been like this before."
 
-# game/events_m.rpy:2705
+# game/events_m.rpy:2702
 translate crowdin d12rachels_24b26cfa:
 
     # m "But that's because we were never alone."
     m "But that's because we were never alone."
 
-# game/events_m.rpy:2707
+# game/events_m.rpy:2704
 translate crowdin d12rachels_97988602:
 
     # mc "Well, we had some time alone before."
     mc "Well, we had some time alone before."
 
-# game/events_m.rpy:2709
+# game/events_m.rpy:2706
 translate crowdin d12rachels_21b67d8d:
 
     # m "Yes, but... there has always been someone around the house..."
     m "Yes, but... there has always been someone around the house..."
 
-# game/events_m.rpy:2711
+# game/events_m.rpy:2708
 translate crowdin d12rachels_bf30e20b:
 
     # mc "There'll be someone around most of the time, but honestly, I don't care about that."
     mc "There'll be someone around most of the time, but honestly, I don't care about that."
 
-# game/events_m.rpy:2713
+# game/events_m.rpy:2710
 translate crowdin d12rachels_3c8e055f:
 
     # m "I..."
     m "I..."
 
-# game/events_m.rpy:2715
+# game/events_m.rpy:2712
 translate crowdin d12rachels_c68f4101:
 
     # m "I'm sorry... I know I should be more open about it... It's just that... what if they hear us?"
     m "I'm sorry... I know I should be more open about it... It's just that... what if they hear us?"
 
-# game/events_m.rpy:2717
+# game/events_m.rpy:2714
 translate crowdin d12rachels_4728fc03:
 
     # mc "Who cares, they'll find out anyway."
     mc "Who cares, they'll find out anyway."
 
-# game/events_m.rpy:2719
+# game/events_m.rpy:2716
 translate crowdin d12rachels_e612037c_2:
 
     # m "..."
     m "..."
 
-# game/events_m.rpy:2721
+# game/events_m.rpy:2718
 translate crowdin d12rachels_0aa3b07a:
 
     # m "You're right... it won't work if I don't jump over my own fence. I'll do it!"
     m "You're right... it won't work if I don't jump over my own fence. I'll do it!"
 
-# game/events_m.rpy:2723
+# game/events_m.rpy:2720
 translate crowdin d12rachels_cfce055e_1:
 
     # mc "Are you sure?"
     mc "Are you sure?"
 
-# game/events_m.rpy:2725
+# game/events_m.rpy:2722
 translate crowdin d12rachels_6fe63bad:
 
     # m "Yes, I'll be more open from now on, a good relationship needs good sex. Otherwise it won't last long."
     m "Yes, I'll be more open from now on, a good relationship needs good sex. Otherwise it won't last long."
 
-# game/events_m.rpy:2727
+# game/events_m.rpy:2724
 translate crowdin d12rachels_3c4580b7:
 
     # mc "That's true..."
     mc "That's true..."
 
-# game/events_m.rpy:2728
+# game/events_m.rpy:2725
 translate crowdin d12rachels_9a56adc6:
 
     # mc "So you won't mind if I come over to your bedroom later?"
     mc "So you won't mind if I come over to your bedroom later?"
 
-# game/events_m.rpy:2730
+# game/events_m.rpy:2727
 translate crowdin d12rachels_005dde1d:
 
     # m "Of course I don't mind... we'll just have to be more quiet."
     m "Of course I don't mind... we'll just have to be more quiet."
 
-# game/events_m.rpy:2732
+# game/events_m.rpy:2729
 translate crowdin d12rachels_2a143ed1:
 
     # mc "Heh, I don't mind if they hear us."
     mc "Heh, I don't mind if they hear us."
 
-# game/events_m.rpy:2734
+# game/events_m.rpy:2731
 translate crowdin d12rachels_33e32971:
 
     # m "Oh, I bet you don't..."
     m "Oh, I bet you don't..."
 
-# game/events_m.rpy:2737
+# game/events_m.rpy:2734
 translate crowdin d12rachels_5ba37574:
 
     # mc "And I bet [j] would enjoy hearing us."
     mc "And I bet [j] would enjoy hearing us."
 
-# game/events_m.rpy:2739
+# game/events_m.rpy:2736
 translate crowdin d12rachels_061f9ecb:
 
     # m "Oh... that..."
     m "Oh... that..."
 
-# game/events_m.rpy:2741
+# game/events_m.rpy:2738
 translate crowdin d12rachels_8e27e9d4:
 
     # m "Do you think she'd..."
     m "Do you think she'd..."
 
-# game/events_m.rpy:2743
+# game/events_m.rpy:2740
 translate crowdin d12rachels_ee874216:
 
     # mc "She'd probably want to join us."
     mc "She'd probably want to join us."
 
-# game/events_m.rpy:2745
+# game/events_m.rpy:2742
 translate crowdin d12rachels_e612037c_3:
 
     # m "..."
     m "..."
 
-# game/events_m.rpy:2747
+# game/events_m.rpy:2744
 translate crowdin d12rachels_cc7a323c:
 
     # m "Do you..."
     m "Do you..."
 
-# game/events_m.rpy:2749
+# game/events_m.rpy:2746
 translate crowdin d12rachels_e612037c_4:
 
     # m "..."
     m "..."
 
-# game/events_m.rpy:2751
+# game/events_m.rpy:2748
 translate crowdin d12rachels_08b59ef1:
 
     # m "I-I don't know if I can do that..."
     m "I-I don't know if I can do that..."
 
-# game/events_m.rpy:2754
+# game/events_m.rpy:2751
 translate crowdin d12rachels_23a0ed21:
 
     # mc "You had sex with a woman before..."
     mc "You had sex with a woman before..."
 
-# game/events_m.rpy:2756
+# game/events_m.rpy:2753
 translate crowdin d12rachels_f2e306f4:
 
     # m "Yes... yes, but..."
     m "Yes... yes, but..."
 
-# game/events_m.rpy:2759
+# game/events_m.rpy:2756
 translate crowdin d12rachels_553d9627:
 
     # mc "Didn't you say you'd do anything for me?"
     mc "Didn't you say you'd do anything for me?"
 
-# game/events_m.rpy:2761
+# game/events_m.rpy:2758
 translate crowdin d12rachels_ea4942f9:
 
     # m "Yes... yes... I..."
     m "Yes... yes... I..."
 
-# game/events_m.rpy:2763
+# game/events_m.rpy:2760
 translate crowdin d12rachels_46fb0fa9:
 
     # m "I promise, I'll try, but please give me a bit time, Hun."
     m "I promise, I'll try, but please give me a bit time, Hun."
 
-# game/events_m.rpy:2765
+# game/events_m.rpy:2762
 translate crowdin d12rachels_d12f9523:
 
     # mc "Sure, but don't take too much time."
     mc "Sure, but don't take too much time."
 
-# game/events_m.rpy:2767
+# game/events_m.rpy:2764
 translate crowdin d12rachels_ad1c97ff:
 
     # m "I won't, I promise."
     m "I won't, I promise."
 
-# game/events_m.rpy:2770
+# game/events_m.rpy:2767
 translate crowdin d12rachels_af2b49d8:
 
     # m "Maybe if I'm in the right mood..."
     m "Maybe if I'm in the right mood..."
 
-# game/events_m.rpy:2772
+# game/events_m.rpy:2769
 translate crowdin d12rachels_f203a1d5:
 
     # mc "We don't need to push it."
     mc "We don't need to push it."
 
-# game/events_m.rpy:2774
+# game/events_m.rpy:2771
 translate crowdin d12rachels_6f4c46dc_1:
 
     # m "Thanks, Hun."
     m "Thanks, Hun."
 
-# game/events_m.rpy:2776
+# game/events_m.rpy:2773
 translate crowdin d12rachels_aaf37f29:
 
     # m "Maybe I should wait to take my meds before you come..."
     m "Maybe I should wait to take my meds before you come..."
 
-# game/events_m.rpy:2778
+# game/events_m.rpy:2775
 translate crowdin d12rachels_d352dd75:
 
     # mc "Eh, you'd forget we had sex the moment the effect wears off."
     mc "Eh, you'd forget we had sex the moment the effect wears off."
 
-# game/events_m.rpy:2780
+# game/events_m.rpy:2777
 translate crowdin d12rachels_70cba569:
 
     # m "But I'd still feel it, and I'd probably be more open to... things, while the effect lasts."
     m "But I'd still feel it, and I'd probably be more open to... things, while the effect lasts."
 
-# game/events_m.rpy:2782
+# game/events_m.rpy:2779
 translate crowdin d12rachels_38a404ff:
 
     # mc "Yeah, but I want you to be more open in general."
     mc "Yeah, but I want you to be more open in general."
 
-# game/events_m.rpy:2784
+# game/events_m.rpy:2781
 translate crowdin d12rachels_ad323304:
 
     # m "Oh, I know, and I'll try..."
     m "Oh, I know, and I'll try..."
 
-# game/events_m.rpy:2786
+# game/events_m.rpy:2783
 translate crowdin d12rachels_2f48c905:
 
     # mc "That's all I want."
     mc "That's all I want."
 
-# game/events_m.rpy:2788
+# game/events_m.rpy:2785
 translate crowdin d12rachels_faa03e1a:
 
     # mc "Haha."
     mc "Haha."
 
-# game/events_m.rpy:2789
+# game/events_m.rpy:2786
 translate crowdin d12rachels_e612037c_5:
 
     # m "..."
     m "..."
 
-# game/events_m.rpy:2791
+# game/events_m.rpy:2788
 translate crowdin d12rachels_7044aecc:
 
     # m "I'm glad we can finally look behind the past..."
     m "I'm glad we can finally look behind the past..."
 
-# game/events_m.rpy:2792
+# game/events_m.rpy:2789
 translate crowdin d12rachels_c72f4019:
 
     # m "...maybe even forget about it."
     m "...maybe even forget about it."
 
-# game/events_m.rpy:2794
+# game/events_m.rpy:2791
 translate crowdin d12rachels_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/events_m.rpy:2797
+# game/events_m.rpy:2794
 translate crowdin d12rachels_4b84156e:
 
     # m "Oh, I should get ready. I need to pick up the girls."
     m "Oh, I should get ready. I need to pick up the girls."
 
-# game/events_m.rpy:2799
+# game/events_m.rpy:2796
 translate crowdin d12rachels_e52f5795:
 
     # mc "Yeah, right, it's probably time..."
     mc "Yeah, right, it's probably time..."
 
-# game/events_m.rpy:2801
+# game/events_m.rpy:2798
 translate crowdin d12rachels_a33a4f8c:
 
     # m "Sorry, Hun. See you later."
     m "Sorry, Hun. See you later."
 
-# game/events_m.rpy:2803
+# game/events_m.rpy:2800
 translate crowdin d12rachels_1a79366e:
 
     # m "*smooch*"
     m "*smooch*"
 
-# game/events_m.rpy:2805
+# game/events_m.rpy:2802
 translate crowdin d12rachels_ef16ecbe:
 
     # mc "Later, [mmom]."
     mc "Later, [mmom]."
 
-# game/events_m.rpy:2807
+# game/events_m.rpy:2804
 translate crowdin d12rachels_457c6f63:
 
     # mcthink "..."
     mcthink "..."
 
-# game/events_m.rpy:2811
+# game/events_m.rpy:2808
 translate crowdin d12rachels_b8f9ea6c:
 
     # mcthink "...what a day..."
     mcthink "...what a day..."
 
-# game/events_m.rpy:2820
+# game/events_m.rpy:2817
 translate crowdin d12mkitchen_8fef7f6e:
 
     # mc "Hey, [mmom], did she come back?"
     mc "Hey, [mmom], did she come back?"
 
-# game/events_m.rpy:2822
+# game/events_m.rpy:2819
 translate crowdin d12mkitchen_7acab59d:
 
     # m "No, I haven't seen her. She's not in the garden?"
     m "No, I haven't seen her. She's not in the garden?"
 
-# game/events_m.rpy:2824
+# game/events_m.rpy:2821
 translate crowdin d12mkitchen_b1c3ee5b:
 
     # mc "No, but don't worry, she's probably not far away."
     mc "No, but don't worry, she's probably not far away."
 
-# game/events_m.rpy:2826
+# game/events_m.rpy:2823
 translate crowdin d12mkitchen_22ab29d2:
 
     # m "But I {b}am{/b} worried, [mc]. She never just disappeared like that, except one time, and you know what happened..."
     m "But I {b}am{/b} worried, [mc]. She never just disappeared like that, except one time, and you know what happened..."
 
-# game/events_m.rpy:2828
+# game/events_m.rpy:2825
 translate crowdin d12mkitchen_bbec196a:
 
     # mc "Don't worry, it was just a small argument, nothing dramatic, she just needs to calm down."
     mc "Don't worry, it was just a small argument, nothing dramatic, she just needs to calm down."
 
-# game/events_m.rpy:2830
+# game/events_m.rpy:2827
 translate crowdin d12mkitchen_c3ec3b3d:
 
     # m "Okay... if you say so..."
     m "Okay... if you say so..."
 
-# game/events_m.rpy:2831
+# game/events_m.rpy:2828
 translate crowdin d12mkitchen_38ce56dd:
 
     # mcthink "At least I hope so..."
     mcthink "At least I hope so..."
 
-# game/events_m.rpy:2838
+# game/events_m.rpy:2837
 translate crowdin d12mevening_aaef2673:
 
     # mcthink "Looks like [j] didn't say a word to anyone. [m] was probably in her room the whole time, and [e] still has her session with [t]..."
     mcthink "Looks like [j] didn't say a word to anyone. [m] was probably in her room the whole time, and [e] still has her session with [t]..."
 
-# game/events_m.rpy:2839
+# game/events_m.rpy:2838
 translate crowdin d12mevening_d6fe42b2:
 
     # mcthink "I wonder if [j] really doesn't care..."
     mcthink "I wonder if [j] really doesn't care..."
 
-# game/events_m.rpy:2840
+# game/events_m.rpy:2839
 translate crowdin d12mevening_ae4249a3:
 
     # mcthink "Anyway, what am I gonna do now?"
     mcthink "Anyway, what am I gonna do now?"
 
-# game/events_m.rpy:2842
+# game/events_m.rpy:2841
 translate crowdin d12mevening_df385ad7:
 
     # mcthink "Hmm, that was a lot of talk for less changes than I expected, I could probably fix that in one or two hours..."
     mcthink "Hmm, that was a lot of talk for less changes than I expected, I could probably fix that in one or two hours..."
 
-# game/events_m.rpy:2845
+# game/events_m.rpy:2844
 translate crowdin d12mevening_8bf6dc88:
 
     # n "*Knock* *Knock*"
     n "*Knock* *Knock*"
 
-# game/events_m.rpy:2851
+# game/events_m.rpy:2850
 translate crowdin d12mevening_1fbec05b:
 
     # mc "Hm? [mmom]? What's up?"
     mc "Hm? [mmom]? What's up?"
 
-# game/events_m.rpy:2855
+# game/events_m.rpy:2854
 translate crowdin d12mevening_ddc195e8:
 
     # m "Shhh..."
     m "Shhh..."
 
-# game/events_m.rpy:2857
+# game/events_m.rpy:2856
 translate crowdin d12mevening_6135c0b8:
 
     # m "...hm?"
     m "...hm?"
 
-# game/events_m.rpy:2859
+# game/events_m.rpy:2858
 translate crowdin d12mevening_52f082d4:
 
     # m "You moved the furniture."
     m "You moved the furniture."
 
-# game/events_m.rpy:2860
+# game/events_m.rpy:2859
 translate crowdin d12mevening_69c25b65:
 
     # mc "Yeah..."
     mc "Yeah..."
 
-# game/events_m.rpy:2862
+# game/events_m.rpy:2861
 translate crowdin d12mevening_ac85739b:
 
     # m "... anyway, I'm sorry for earlier... I might've overreacted a bit when I heard that [e] disappeared..."
     m "... anyway, I'm sorry for earlier... I might've overreacted a bit when I heard that [e] disappeared..."
 
-# game/events_m.rpy:2868
+# game/events_m.rpy:2867
 translate crowdin d12mevening_a793e92e:
 
     # m "But still, I should've listened to you..."
     m "But still, I should've listened to you..."
 
-# game/events_m.rpy:2871
+# game/events_m.rpy:2870
 translate crowdin d12mevening_01992f42:
 
     # m "Thanks, Hun, but still..."
     m "Thanks, Hun, but still..."
 
-# game/events_m.rpy:2875
+# game/events_m.rpy:2874
 translate crowdin d12mevening_b538454c:
 
     # m "I know, I'm sorry, Hun."
     m "I know, I'm sorry, Hun."
 
-# game/events_m.rpy:2878
+# game/events_m.rpy:2877
 translate crowdin d12mevening_6194ccf5:
 
     # m "I was just so worried..."
     m "I was just so worried..."
 
-# game/events_m.rpy:2880
+# game/events_m.rpy:2879
 translate crowdin d12mevening_49771941:
 
     # m "I want to make it up to you... and... you want me to be more open right?"
     m "I want to make it up to you... and... you want me to be more open right?"
 
-# game/events_m.rpy:2882
+# game/events_m.rpy:2881
 translate crowdin d12mevening_84d9991b:
 
     # mc "Yes..."
     mc "Yes..."
 
-# game/events_m.rpy:2885
+# game/events_m.rpy:2884
 translate crowdin d12mevening_8720508c:
 
     # m "So, I thought... maybe you want to do something..."
     m "So, I thought... maybe you want to do something..."
 
-# game/events_m.rpy:2887
+# game/events_m.rpy:2886
 translate crowdin d12mevening_8cc8f92e:
 
     # mc "Something?"
     mc "Something?"
 
-# game/events_m.rpy:2889
+# game/events_m.rpy:2888
 translate crowdin d12mevening_e8ec7015:
 
     # m "Yes, whatever you want to do... maybe something... naughty..."
     m "Yes, whatever you want to do... maybe something... naughty..."
 
-# game/events_m.rpy:2891
+# game/events_m.rpy:2890
 translate crowdin d12mevening_4ab5929b:
 
     # mc "Something naughty, huh? Now you have my interest. What do you have in mind?"
     mc "Something naughty, huh? Now you have my interest. What do you have in mind?"
 
-# game/events_m.rpy:2893
+# game/events_m.rpy:2892
 translate crowdin d12mevening_a13815bc:
 
     # m "So, I thought, now might be a good idea to show you that I {b}{i}can{/i}{/b} be more open..."
     m "So, I thought, now might be a good idea to show you that I {b}{i}can{/i}{/b} be more open..."
 
-# game/events_m.rpy:2895
+# game/events_m.rpy:2894
 translate crowdin d12mevening_6c4e9a51:
 
     # mc "Sounds good, what do you have in mind?"
     mc "Sounds good, what do you have in mind?"
 
-# game/events_m.rpy:2898
+# game/events_m.rpy:2897
 translate crowdin d12mevening_3539013c:
 
     # m "I... well, I want to make you happy, so you should decide what we do."
     m "I... well, I want to make you happy, so you should decide what we do."
 
-# game/events_m.rpy:2900
+# game/events_m.rpy:2899
 translate crowdin d12mevening_62d5ed3b:
 
     # mc "Hmm... well, why don't you show me what you have under those clothes, for a start."
     mc "Hmm... well, why don't you show me what you have under those clothes, for a start."
 
-# game/events_m.rpy:2902
+# game/events_m.rpy:2901
 translate crowdin d12mevening_e4ae0d1f:
 
     # m "Oh, of course."
     m "Oh, of course."
 
-# game/events_m.rpy:2904
+# game/events_m.rpy:2903
 translate crowdin d12mevening_2a5bf264:
 
     # m "Well, first of all get rid of all the unnecesseray clothes..."
     m "Well, first of all get rid of all the unnecesseray clothes..."
 
-# game/events_m.rpy:2906
+# game/events_m.rpy:2905
 translate crowdin d12mevening_364c9875:
 
     # mc "Heh, good idea."
     mc "Heh, good idea."
 
-# game/events_m.rpy:2915
+# game/events_m.rpy:2914
 translate crowdin d12mevening_bccf0f73:
 
     # mc "Mhh... no underwear? Naughty."
     mc "Mhh... no underwear? Naughty."
 
-# game/events_m.rpy:2918
+# game/events_m.rpy:2917
 translate crowdin d12mevening_840d436f:
 
     # m "Is that... okay for you? I thought it might be easier, but I don't want you to think I'm a slut."
     m "Is that... okay for you? I thought it might be easier, but I don't want you to think I'm a slut."
 
-# game/events_m.rpy:2921
+# game/events_m.rpy:2920
 translate crowdin d12mevening_905c941d:
 
     # mc "It's fine, [mmom]. You don't need to wear underwear at all."
     mc "It's fine, [mmom]. You don't need to wear underwear at all."
 
-# game/events_m.rpy:2923
+# game/events_m.rpy:2922
 translate crowdin d12mevening_c88d3cba:
 
     # mc "Don't worry, [mmom], it's a good idea."
     mc "Don't worry, [mmom], it's a good idea."
 
-# game/events_m.rpy:2926
+# game/events_m.rpy:2925
 translate crowdin d12mevening_2e989b42:
 
     # m "I thought you might like that."
     m "I thought you might like that."
 
-# game/events_m.rpy:2928
+# game/events_m.rpy:2927
 translate crowdin d12mevening_e2fdb398:
 
     # mc "Oh, I do!"
     mc "Oh, I do!"
 
-# game/events_m.rpy:2930
+# game/events_m.rpy:2929
 translate crowdin d12mevening_8f151143:
 
     # m "So... shall we go over to the bed?"
     m "So... shall we go over to the bed?"
 
-# game/events_m.rpy:2932
+# game/events_m.rpy:2931
 translate crowdin d12mevening_81fb2402:
 
     # mc "Sure, but first let me enjoy the view for a sec."
     mc "Sure, but first let me enjoy the view for a sec."
 
-# game/events_m.rpy:2936
+# game/events_m.rpy:2935
 translate crowdin d12mevening_40c35369:
 
     # m "Enough?"
     m "Enough?"
 
-# game/events_m.rpy:2938
+# game/events_m.rpy:2937
 translate crowdin d12mevening_cafceea2:
 
     # mc "I'm not sure I'll ever get enough of that view."
     mc "I'm not sure I'll ever get enough of that view."
 
-# game/events_m.rpy:2940
+# game/events_m.rpy:2939
 translate crowdin d12mevening_1897b9c3:
 
     # m "Oh, you can look at me as much as you like, Hun."
     m "Oh, you can look at me as much as you like, Hun."
 
-# game/events_m.rpy:2942
+# game/events_m.rpy:2941
 translate crowdin d12mevening_7c6c0ca0:
 
     # mc "Good to know, now let's head to the bed."
     mc "Good to know, now let's head to the bed."
 
-# game/events_m.rpy:2945
+# game/events_m.rpy:2944
 translate crowdin d12mevening_5b1fcf1a:
 
     # m "Mhh, you really have a nice body, Hun."
     m "Mhh, you really have a nice body, Hun."
 
-# game/events_m.rpy:2947
+# game/events_m.rpy:2946
 translate crowdin d12mevening_707de6a6:
 
     # mc "I could say the same to you."
     mc "I could say the same to you."
 
-# game/events_m.rpy:2950
+# game/events_m.rpy:2949
 translate crowdin d12mevening_796f8950:
 
     # m "So, what do you want me to do, Hun?"
     m "So, what do you want me to do, Hun?"
 
-# game/events_m.rpy:2953
+# game/events_m.rpy:2952
 translate crowdin d12mevening_c38afe8f:
 
     # mc "Why don't you put it in your mouth?"
     mc "Why don't you put it in your mouth?"
 
-# game/events_m.rpy:2955
+# game/events_m.rpy:2954
 translate crowdin d12mevening_30a66545:
 
     # m "Okay."
     m "Okay."
 
-# game/events_m.rpy:2957
+# game/events_m.rpy:2956
 translate crowdin d12mevening_c00474fe:
 
     # mc "Hmm... why don't you start with my tits?"
     mc "Hmm... why don't you start with my tits?"
 
-# game/events_m.rpy:2959
+# game/events_m.rpy:2958
 translate crowdin d12mevening_30a66545_1:
 
     # m "Okay."
     m "Okay."
 
-# game/events_m.rpy:2961
+# game/events_m.rpy:2960
 translate crowdin d12mevening_b391f9a1:
 
     # m "Why don't you lean back and let me take care of you, Hun?"
     m "Why don't you lean back and let me take care of you, Hun?"
 
-# game/events_m.rpy:2963
+# game/events_m.rpy:2962
 translate crowdin d12mevening_9745bd51:
 
     # mc "With pleasure."
     mc "With pleasure."
 
-# game/events_m.rpy:2967
+# game/events_m.rpy:2966
 translate crowdin d12mevening_17dcf185:
 
     # m "Mhm, so big..."
     m "Mhm, so big..."
 
-# game/events_m.rpy:2969
+# game/events_m.rpy:2968
 translate crowdin d12mevening_00d47240:
 
     # m "I think it's the biggest one I've ever seen."
     m "I think it's the biggest one I've ever seen."
 
-# game/events_m.rpy:2971
+# game/events_m.rpy:2970
 translate crowdin d12mevening_e612037c:
 
     # m "..."
     m "..."
 
-# game/events_m.rpy:2976
+# game/events_m.rpy:2975
 translate crowdin d12mevening_39baad65:
 
     # m "You're so beautiful..."
     m "You're so beautiful..."
 
-# game/events_m.rpy:2978
+# game/events_m.rpy:2977
 translate crowdin d12mevening_25a7ffc1:
 
     # m "*Smooch*"
     m "*Smooch*"
 
-# game/events_m.rpy:2980
+# game/events_m.rpy:2979
 translate crowdin d12mevening_25a7ffc1_1:
 
     # m "*Smooch*"
     m "*Smooch*"
 
-# game/events_m.rpy:2987
+# game/events_m.rpy:2986
 translate crowdin d12mevening_e612037c_1:
 
     # m "..."
     m "..."
 
-# game/events_m.rpy:2989
+# game/events_m.rpy:2988
 translate crowdin d12mevening_63c59aad:
 
     # m "I'm sorry for earlier..."
     m "I'm sorry for earlier..."
 
-# game/events_m.rpy:2991
+# game/events_m.rpy:2990
 translate crowdin d12mevening_7a2b6926:
 
     # m "...I might've overreacted a bit when I heard that [e] disappeared..."
     m "...I might've overreacted a bit when I heard that [e] disappeared..."
 
-# game/events_m.rpy:2997
+# game/events_m.rpy:2996
 translate crowdin d12mevening_a793e92e_1:
 
     # m "But still, I should've listened to you..."
     m "But still, I should've listened to you..."
 
-# game/events_m.rpy:3000
+# game/events_m.rpy:2999
 translate crowdin d12mevening_01992f42_1:
 
     # m "Thanks, Hun, but still..."
     m "Thanks, Hun, but still..."
 
-# game/events_m.rpy:3004
+# game/events_m.rpy:3003
 translate crowdin d12mevening_b538454c_1:
 
     # m "I know, I'm sorry, Hun."
     m "I know, I'm sorry, Hun."
 
-# game/events_m.rpy:3007
+# game/events_m.rpy:3006
 translate crowdin d12mevening_6194ccf5_1:
 
     # m "I was just so worried..."
     m "I was just so worried..."
 
-# game/events_m.rpy:3009
+# game/events_m.rpy:3008
 translate crowdin d12mevening_a0f59a92:
 
     # m "It won't happen again, I promise..."
@@ -10324,11 +10324,11 @@ translate crowdin strings:
     old "Rip her clothes off."
     new "Rip her clothes off."
 
-    # game/events_m.rpy:2864
+    # game/events_m.rpy:2863
     old "It's okay, I know it's not usual for [e] to just leave like that."
     new "It's okay, I know it's not usual for [e] to just leave like that."
 
-    # game/events_m.rpy:2864
+    # game/events_m.rpy:2863
     old "You should've just listened to me."
     new "You should've just listened to me."
 
