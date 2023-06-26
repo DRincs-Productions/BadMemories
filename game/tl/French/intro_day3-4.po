@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-13 05:42\n"
+"PO-Revision-Date: 2023-06-26 16:47\n"
 
-# TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day3-4.rpy:3 #-#-# translate crowdin intro_day3_8046137e:
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day3-4.rpy:3 #-#-# translate crowdin intro_day3_8046137e:
 msgid "[_n_] Next morning in the motel [withdissolve]"
 msgstr "[_n_] Le lendemain matin au motel [withdissolve]"
 
