@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-26 16:46\n"
+"PO-Revision-Date: 2023-07-03 15:25\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
 msgid "{b}Use text outline?{/b}"
-msgstr ""
+msgstr "{b}Utiliser le plan du texte?{/b}"
 
 # game/screens.rpy:251
 msgid "{i}(You can also change this, the textbox transparency, text color and more in the settings.){/i}"
-msgstr ""
+msgstr "{i}(Vous pouvez également modifier ce paramètre, la transparence de la zone de texte, la couleur du texte et bien d'autres choses encore dans les paramètres..){/i}"
 
 # game/screens.rpy:252
 msgid "Yes"
@@ -66,7 +66,7 @@ msgstr "Menu"
 
 # game/screens.rpy:430
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 # game/screens.rpy:434
 msgid "End Replay"
@@ -144,7 +144,7 @@ msgstr ">"
 
 # game/screens.rpy:873
 msgid "#General"
-msgstr ""
+msgstr "#Général"
 
 # game/screens.rpy:881
 msgid "Display"
@@ -196,35 +196,35 @@ msgstr "{size=-10}{color=#ff0000}Toutes les traductions sont faites par des fans
 
 # game/screens.rpy:914
 msgid "#Text"
-msgstr ""
+msgstr "#Texte"
 
 # game/screens.rpy:921
 msgid "Text Outline"
-msgstr ""
+msgstr "Contour du texte"
 
 # game/screens.rpy:925
 msgid "Dark"
-msgstr ""
+msgstr "Sombre"
 
 # game/screens.rpy:927
 msgid "Light"
-msgstr ""
+msgstr "Léger"
 
 # game/screens.rpy:931
 msgid "Thicc  "
-msgstr ""
+msgstr "Épais  "
 
 # game/screens.rpy:935
 msgid "Medium  "
-msgstr ""
+msgstr "Moyen  "
 
 # game/screens.rpy:939
 msgid "Smol  "
-msgstr ""
+msgstr "Lissage  "
 
 # game/screens.rpy:942
 msgid "None  "
-msgstr ""
+msgstr "Aucun  "
 
 # game/screens.rpy:949
 msgid "Textbox Transparency"
@@ -240,7 +240,7 @@ msgstr "Réinitialiser"
 
 # game/screens.rpy:962
 msgid "Reset All"
-msgstr ""
+msgstr "Tout réinitialiser"
 
 # game/screens.rpy:966
 msgid "Text Speed"
@@ -257,7 +257,7 @@ msgstr "Mise à l'échelle \n"
 
 # game/screens.rpy:983
 msgid "#Sound"
-msgstr ""
+msgstr "#Son"
 
 # game/screens.rpy:991
 msgid "Music Volume"
@@ -265,7 +265,7 @@ msgstr "Volume Musique"
 
 # game/screens.rpy:998
 msgid "Effects Volume"
-msgstr ""
+msgstr "Volume des effets sonores"
 
 # game/screens.rpy:1004
 msgid "Test"
