@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-26 16:46\n"
+"PO-Revision-Date: 2023-07-03 15:25\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro.rpy:5 #-#-# translate crowdin intro_af100c11:
 msgid "[_n_] Somewhere in a cab."
@@ -98,7 +98,7 @@ msgstr "[_n_] En tournant dans une petite ruelle, vous remarquez une fille qui v
 
 # game/intro.rpy:36 #-#-# translate crowdin intro_59650aa3:
 msgid "[_mcthink_] Huh?! Why is that girl staring at me like that?"
-msgstr ""
+msgstr "[_mcthink_] Huh ?! Pourquoi cette fille me regarde-t-elle comme ça ?"
 
 # game/intro.rpy:37 #-#-# translate crowdin intro_b96a2916:
 msgid "[_mcthink_] Do I know her?"
