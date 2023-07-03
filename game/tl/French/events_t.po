@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-26 16:47\n"
+"PO-Revision-Date: 2023-07-03 15:25\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -1134,7 +1134,7 @@ msgstr "[_t_] Je ne ferais jamais une telle chose, je ne suis pas comme ça !"
 
 # game/events_t.rpy:512 #-#-# translate crowdin tcoerce2_c8970423:
 msgid "[_mc_] Hmph... well I guess that makes me the only possible reason, doesn't it?"
-msgstr ""
+msgstr "[_mc_] Hmph... Je suppose que cela fait de moi la seule raison possible, n'est-ce pas ?"
 
 # game/events_t.rpy:513 #-#-# translate crowdin tcoerce2_30b46fd1:
 msgid "[_t_] N-no! I..."
@@ -4802,7 +4802,7 @@ msgstr "[_mc_] Quelqu'un comme moi, hein ? Si tu penses {b}si{/b} mal de moi, al
 
 # game/events_t.rpy:2287 #-#-# translate crowdin d11tfirsts_d9829137:
 msgid "[_t_] Why do you even think I'd be interested in someone like you? Or a woman at all."
-msgstr ""
+msgstr "[_t_] Pourquoi pensez-vous que je m'intéresse à quelqu'un comme vous ? Ou une femme tout court."
 
 # game/events_t.rpy:2289 #-#-# translate crowdin d11tfirsts_5db8c5b6:
 msgid "[_mc_] If you'd think {b}that{/b} bad of me, then I wonder why you're sitting on my lap."
@@ -5982,7 +5982,7 @@ msgstr "[_mc_] Merde, je ferais mieux de mettre mon pantalon."
 
 # game/events_t.rpy:2925 #-#-# translate crowdin d11tfirsts_775d8a57:
 msgid "[_j_] Yeah... too bad..."
-msgstr ""
+msgstr "[_j_] Ouais... dommage..."
 
 # game/events_t.rpy:2927 #-#-# translate crowdin d11tfirsts_c80207c6:
 msgid "[_mc_] Well, at least they didn't see me and [t]."
