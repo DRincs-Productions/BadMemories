@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-26 16:47\n"
+"PO-Revision-Date: 2023-07-03 15:25\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -6554,7 +6554,7 @@ msgstr "[_j_] Si vous ne le faites pas, [mcmd]."
 
 # game/events_mc.rpy:2900 #-#-# translate crowdin d10nfe_ddda4d95:
 msgid "[_mc_] Get over here, Babygirl!"
-msgstr ""
+msgstr "[_mc_] Viens ici, Petite fille !"
 
 # game/events_mc.rpy:2901 #-#-# translate crowdin d10nfe_3b76887f:
 msgid "[_j_] Yay!"
@@ -6650,7 +6650,7 @@ msgstr "[_e_] Hnnn... nhnnn !"
 
 # game/events_mc.rpy:2961 #-#-# translate crowdin d10nfj_52d8a598:
 msgid "[_j_] Ohh god, [mcmd], I love your dick!"
-msgstr ""
+msgstr "[_j_] Ohh bon sang, [mcmd], j'aime ta bite !"
 
 # game/events_mc.rpy:2962 #-#-# translate crowdin d10nfj_931f3edc:
 msgid "[_j_] Shit, hnn... [mcmd]."
@@ -6926,7 +6926,7 @@ msgstr "[_e_] *Smooch*"
 
 # game/events_mc.rpy:3101 #-#-# translate crowdin d10nend_4f21397f:
 msgid "[_j_] God, we need to do this again some day."
-msgstr ""
+msgstr "[_j_] Bon sang, nous devons refaire ça un jour."
 
 # game/events_mc.rpy:3102 #-#-# translate crowdin d10nend_cf1adef2:
 msgid "[_mc_] Yeah."
