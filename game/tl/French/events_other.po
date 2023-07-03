@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-26 16:47\n"
+"PO-Revision-Date: 2023-07-03 15:25\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_other.rpy:2 #-#-# translate crowdin cafeBeforeOffice_8514b197:
 msgid "[_mc_] Hey, [h]!"
@@ -4830,7 +4830,7 @@ msgstr "[_mcthink_] Bon sang, elle a l'air vraiment chaude dans cette robe."
 
 # game/events_other.rpy:2346 #-#-# translate crowdin d12stdate_4b6dbf97:
 msgid "[_st_] It's a lot more quiet and comfortable here."
-msgstr ""
+msgstr "[_st_] C'est beaucoup plus calme et confortable ici."
 
 # game/events_other.rpy:2348 #-#-# translate crowdin d12stdate_538b4cb3:
 msgid "[_st_] So we can talk about the project without any disturbance."
