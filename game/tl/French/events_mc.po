@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-07-03 15:25\n"
+"PO-Revision-Date: 2023-07-04 03:24\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -8622,7 +8622,7 @@ msgstr "[_mc_] Hmm... ça sonne bien."
 
 # game/events_mc.rpy:4024 #-#-# translate crowdin d12beforetsession_f3ef4962:
 msgid "[_m_] ...and maybe... maybe later today... we could go a little further..."
-msgstr ""
+msgstr "[_m_] ...et Peut... peut-être plus tard aujourd'hui... nous pourrions aller un peu plus loin..."
 
 # game/events_mc.rpy:4030 #-#-# translate crowdin d12beforetsession_32d2430b:
 msgid "[_m_] It's... it's alright, I think it's what I want."
@@ -9298,27 +9298,27 @@ msgstr "[_mcthink_]..."
 
 # game/events_mc.rpy:4323 #-#-# translate crowdin lastDream_25997609:
 msgid "[_mcthink_] A few seconds later [m] rushed into the room..."
-msgstr ""
+msgstr "[_mcthink_] Quelques secondes plus tard [m] s'est précipité dans la chambre..."
 
 # game/events_mc.rpy:4324 #-#-# translate crowdin lastDream_33b808fc:
 msgid "[_mcthink_] She was shocked of course, as much as [e]..."
-msgstr ""
+msgstr "[_mcthink_] Elle a été choquée, bien sûr, autant que [e]..."
 
 # game/events_mc.rpy:4325 #-#-# translate crowdin lastDream_9ac802d6:
 msgid "[_mcthink_] ...but I think I was shocked the most about what I just did..."
-msgstr ""
+msgstr "[_mcthink_] ... mais je pense que j'ai été le plus choqué par ce que je viens de faire ..."
 
 # game/events_mc.rpy:4326 #-#-# translate crowdin lastDream_fd3d1cb2:
 msgid "[_mcthink_] Nobody said anything for what felt like ages..."
-msgstr ""
+msgstr "[_mcthink_] Personne n'a rien dit pendant ce qui m'a semblé être une éternité..."
 
 # game/events_mc.rpy:4327 #-#-# translate crowdin lastDream_2d5ce398:
 msgid "[_mcthink_] Then [e] jumped up, rushed into my arms and started crying..."
-msgstr ""
+msgstr "[_mcthink_] Puis [e] s'est levé d'un bond, s'est précipité dans mes bras et s'est mis à pleurer..."
 
 # game/events_mc.rpy:4328 #-#-# translate crowdin lastDream_b7b66325:
 msgid "[_mcthink_] She clung so hard to me, it hurt..."
-msgstr ""
+msgstr "[_mcthink_] Elle s'est accrochée si fort à moi que ça m'a fait mal..."
 
 # game/events_mc.rpy:4329 #-#-# translate crowdin lastDream_457c6f63_1:
 msgid "[_mcthink_] ..."
@@ -9326,27 +9326,27 @@ msgstr "[_mcthink_]..."
 
 # game/events_mc.rpy:4330 #-#-# translate crowdin lastDream_cfc5c3c9:
 msgid "[_mcthink_] A while later [oc] showed up... I guess [m] must've called him..."
-msgstr ""
+msgstr "[_mcthink_] Un peu plus tard, [oc] est apparu... Je suppose que [m] a dû l'appeler..."
 
 # game/events_mc.rpy:4331 #-#-# translate crowdin lastDream_c58c6d14:
 msgid "[_mcthink_] ...and of course [oc] didn't come alone, he and the old man were both cops after all..."
-msgstr ""
+msgstr "[_mcthink_] ...et bien sûr [oc] n'est pas venu seul, lui et le vieil homme étaient tous deux flics après tout..."
 
 # game/events_mc.rpy:4332 #-#-# translate crowdin lastDream_f79d3ac8:
 msgid "[_mcthink_] I'm not sure what happened to the gun, but [m] told [oc] that an intruder shot the old man..."
-msgstr ""
+msgstr "[_mcthink_] Je ne sais pas ce qu'il est advenu de l'arme, mais [m] a dit à [oc] qu'un intrus avait tiré sur le vieil homme..."
 
 # game/events_mc.rpy:4333 #-#-# translate crowdin lastDream_db302c93:
 msgid "[_mcthink_] I'm pretty sure [oc] saw the burn marks from the gun on my hands though..."
-msgstr ""
+msgstr "[_mcthink_] Je suis presque sûr que [oc] a vu les marques de brûlure de l'arme sur mes mains..."
 
 # game/events_mc.rpy:4334 #-#-# translate crowdin lastDream_e1afcf85:
 msgid "[_mcthink_] From that day on he was a bit like a second dad for me... he always tried to keep me out of trouble... almost as if he wanted to make up for something..."
-msgstr ""
+msgstr "[_mcthink_] Depuis ce jour, il était un peu comme un deuxième père pour moi... il a toujours essayé de m'éviter les ennuis... comme s'il voulait se rattraper..."
 
 # game/events_mc.rpy:4335 #-#-# translate crowdin lastDream_535e0b59:
 msgid "[_mcthink_] He must've known something..."
-msgstr ""
+msgstr "[_mcthink_] Il devait savoir quelque chose..."
 
 # game/events_mc.rpy:4336 #-#-# translate crowdin lastDream_457c6f63_2:
 msgid "[_mcthink_] ..."
