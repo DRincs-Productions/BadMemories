@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-26 16:47\n"
+"PO-Revision-Date: 2023-07-06 14:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -18,23 +18,23 @@ msgstr "[_n_] Некоторое время спустя [withdissolve]"
 
 # game/events_t.rpy:8 #-#-# translate crowdin tIntroductionDay1_8d5a1f41:
 msgid "[_mcthink_] ...alright, back to the livingroom. At least [m] and [e] are back now, so it shouldn't be that boring anymore..."
-msgstr ""
+msgstr "[_mcthink_] ... хорошо, назад в комнату. По крайней мере, [m] и [e] вернулись, так что не должно быть так скучно ..."
 
 # game/events_t.rpy:12 #-#-# translate crowdin tIntroductionDay1_49c00c69:
 msgid "Voice [special_delimiter] {size=-10}Good afternoon [e]. How are you today? Did you do everything I told you?{/size}"
-msgstr ""
+msgstr "Голос [special_delimiter] {size=-10} Добрый день [e]. Как ты сегодня? Ты сделал все, что я тебе говорил?{/size}"
 
 # game/events_t.rpy:14 #-#-# translate crowdin tIntroductionDay1_856c2e03:
 msgid "[_mcthink_] Huh? Who's this?"
-msgstr ""
+msgstr "[_mcthink_] А? Кто это?"
 
 # game/events_t.rpy:16 #-#-# translate crowdin tIntroductionDay1_057c994d:
 msgid "[_mc_] Hey [e], and..."
-msgstr ""
+msgstr "[_mc_] Эй [e], и..."
 
 # game/events_t.rpy:18 #-#-# translate crowdin tIntroductionDay1_0308040d:
 msgid "Woman [special_delimiter] You must be [mc], I guess?"
-msgstr ""
+msgstr "Женщина [special_delimiter] Вы должно быть [mc]?"
 
 # game/events_t.rpy:19 #-#-# translate crowdin tIntroductionDay1_0268896c:
 msgid "[_mc_] Uh, yes and you are?"
