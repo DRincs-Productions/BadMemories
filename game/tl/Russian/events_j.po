@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-26 16:46\n"
+"PO-Revision-Date: 2023-07-07 02:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -106,31 +106,31 @@ msgstr "[_mc_] Да, до скорого."
 
 # game/events_j.rpy:31 #-#-# translate crowdin jadaFirstMeet_d157900b:
 msgid "[_mcthink_] Hm... [e]'s classmate? She looks older than [e]..."
-msgstr ""
+msgstr "[_mcthink_] Хм... одноклассница [e]? Она выглядит старше, чем [e]..."
 
 # game/events_j.rpy:33 #-#-# translate crowdin jadaFirstMeet_04e69971:
 msgid "[_mcthink_] ...uff... what a gap!"
-msgstr ""
+msgstr "[_mcthink_] ...уфф... какой пробел!"
 
 # game/events_j.rpy:37 #-#-# translate crowdin jadaFirstMeet_4cab35c5:
 msgid "[_j_] {size=-10}{i}Hey [e], you should have told me that your [bs] looks so cute!{/i}{/size}"
-msgstr ""
+msgstr "[_j_] {size=-10}{i}Эй, [e], ты должен был сказать мне, что твой [bs] выглядит так мило!{/i}{/size}"
 
 # game/events_j.rpy:38 #-#-# translate crowdin jadaFirstMeet_b5138eab:
 msgid "[_mcthink_] WTF! She clearly wanted me to hear that!"
-msgstr ""
+msgstr "[_mcthink_] WTF! Она явно хотела, чтобы я это услышал!"
 
 # game/events_j.rpy:41 #-#-# translate crowdin jadaFirstMeet_471e41d5:
 msgid "[_mcthink_] Little minx!"
-msgstr ""
+msgstr "[_mcthink_] Маленькая шалунья!"
 
 # game/events_j.rpy:48 #-#-# translate crowdin flirtyJ_2926cfec:
 msgid "[_mcthink_] Alright, time to ask [m] some serious questions..."
-msgstr ""
+msgstr "[_mcthink_] Хорошо, время задать [m] несколько серьезных вопросов..."
 
 # game/events_j.rpy:51 #-#-# translate crowdin flirtyJ_b7433871:
 msgid "[_j_] Hey!{w=.5}{nw}"
-msgstr ""
+msgstr "[_j_] Эй! {w=.5}{nw}"
 
 # game/events_j.rpy:52 #-#-# translate crowdin flirtyJ_3b6bc8c7:
 msgid "[_mc_] Whoa what the!?"
