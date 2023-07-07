@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-07-06 14:27\n"
+"PO-Revision-Date: 2023-07-07 02:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -38,11 +38,11 @@ msgstr "Женщина [special_delimiter] Вы должно быть [mc]?"
 
 # game/events_t.rpy:19 #-#-# translate crowdin tIntroductionDay1_0268896c:
 msgid "[_mc_] Uh, yes and you are?"
-msgstr ""
+msgstr "[_mc_] Эх, да и вы?"
 
 # game/events_t.rpy:21 #-#-# translate crowdin tIntroductionDay1_e98c5f0a:
 msgid "Woman [special_delimiter] Oh? No one told you about me?"
-msgstr ""
+msgstr "Женщина [special_delimiter] О, никто не говорил тебе обо мне?"
 
 # game/events_t.rpy:22 #-#-# translate crowdin tIntroductionDay1_cc761816:
 msgid "[_mc_] No..."
@@ -50,15 +50,15 @@ msgstr ""
 
 # game/events_t.rpy:24 #-#-# translate crowdin tIntroductionDay1_2c1d6a1f:
 msgid "Woman [special_delimiter] I'm [e]'s therapist."
-msgstr ""
+msgstr "Женщина [special_delimiter] Я терапевт [e]."
 
 # game/events_t.rpy:26 #-#-# translate crowdin tIntroductionDay1_4d24c2d6:
 msgid "[_mcthink_] Okay, no introduction then..."
-msgstr ""
+msgstr "[_mcthink_] Хорошо, без введения..."
 
 # game/events_t.rpy:27 #-#-# translate crowdin tIntroductionDay1_f66bdcd0:
 msgid "[_mc_] She has her own therapist?"
-msgstr ""
+msgstr "[_mc_] У неё собственный терапевт?"
 
 # game/events_t.rpy:29 #-#-# translate crowdin tIntroductionDay1_6d770962:
 msgid "[_t1_] Of course."
