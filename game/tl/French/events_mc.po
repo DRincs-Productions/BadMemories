@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-07-04 03:24\n"
+"PO-Revision-Date: 2023-07-10 15:56\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -9354,7 +9354,7 @@ msgstr "[_mcthink_]..."
 
 # game/events_mc.rpy:4337 #-#-# translate crowdin lastDream_f0d7ceb7:
 msgid "[_mcthink_] [e] didn't speak a word for several days... and she was clinging to me even more for a while..."
-msgstr ""
+msgstr "[_mcthink_] [e] n'a pas dit un mot pendant plusieurs jours... et elle s'est encore plus accrochée à moi pendant un moment..."
 
 # game/events_mc.rpy:4338 #-#-# translate crowdin lastDream_ceb0a363:
 msgid "[_mcthink_] She also snuck into my room and my bed more and more often at night..."
