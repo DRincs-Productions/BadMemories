@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/intro_day1.rpy:3
 translate french intro_day1_26086d61:
@@ -160,7 +160,7 @@ translate french intro_day1_f86f9603:
 translate french intro_day1_bf1e18b7:
 
     # "Maggy" "Okay then, I will call you as soon as I know something [mrms] [mcsure]."
-    "MaggyMaggy" "Ok alors, je vous appelle dès que je sais quelque chose [mrms] [mcsure]."
+    "Maggy" "Ok alors, je vous appelle dès que je sais quelque chose [mrms] [mcsure]."
 
 # game/intro_day1.rpy:34
 translate french intro_day1_5fabb0eb:
@@ -520,7 +520,7 @@ translate french intro_day1_5d94781a:
 translate french intro_day1_e2b5906f:
 
     # m "What brings you back? Are you visiting some old friends?"
-    m "Qu'est-ce qui te ramène? Tu rends visite à de vieux amis?"
+    m "Qu'est-ce qui t'amène ici? Tu rends visite à de vieux amis?"
 
 # game/intro_day1.rpy:125
 translate french intro_day1_79cdd2e8:

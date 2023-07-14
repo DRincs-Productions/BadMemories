@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/intro_day2.rpy:3
 translate french intro_day2_d8b6e64b:
@@ -16,7 +16,7 @@ translate french intro_day2_bb2cf764:
 translate french intro_day2_0de96e02:
 
     # "Loud Voice" "I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN!" with vpunch
-    "Voix bruyante" "Je l'ai vu! NE T'AVISE PAS DE ME MENTIR À NOUVEAU!" with vpunch
+    "Voix forte" "Je l'ai vu! NE T'AVISE PAS DE ME MENTIR À NOUVEAU!" with vpunch
 
 # game/intro_day2.rpy:10
 translate french intro_day2_e7c86f6c:

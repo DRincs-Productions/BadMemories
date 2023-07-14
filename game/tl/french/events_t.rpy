@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/events_t.rpy:3
 translate french tIntroductionDay1_d40b86d0:
@@ -1681,10 +1681,10 @@ translate french tcoerce2_a21ef384:
     t "Je ne ferais jamais une telle chose, je ne suis pas comme ça !"
 
 # game/events_t.rpy:512
-translate french tcoerce2_6e0ec75f:
+translate french tcoerce2_c8970423:
 
-    # mc "Hmph... well I guess that make me the only possible reason, doesn't it?"
-    mc "Hmph... bien je suppose que ça fait de moi la seule raison possible, n'est-ce pas ?"
+    # mc "Hmph... well I guess that makes me the only possible reason, doesn't it?"
+    mc "Hmph... Je suppose que cela fait de moi la seule raison possible, n'est-ce pas ?"
 
 # game/events_t.rpy:513
 translate french tcoerce2_30b46fd1:
@@ -1966,7 +1966,7 @@ translate french tcoerce2_r_7104efb5:
 translate french tcoerce2_r_fd848b85:
 
     # t "W-why would I do that!? You molested me..."
-    t "P-Pourquoi je ferais ça!? Tu m'asridiculisé..."
+    t "P-Pourquoi je ferais ça!? Tu m'as ridiculisé..."
 
 # game/events_t.rpy:608
 translate french tcoerce2_r_e276c843:
@@ -4162,7 +4162,7 @@ translate french d10takekathome_7232a9b4:
 translate french d10takekathome_3185cbc8:
 
     # m "Oh, [mc], could you take [t] home? I'm awaiting a call."
-    "Oh, [_m_] Oh, [mc], pourrais-tu ramener [t] chez elle ? J'attends un appel."
+    m "Oh, [mc], pourrais-tu ramener [t] chez elle? J'attends un appel."
 
 # game/events_t.rpy:1265
 translate french d10takekathome_5d2afd68:
@@ -7183,10 +7183,10 @@ translate french d11tfirsts_b112dad0:
     mc "Quelqu'un comme moi, hein ? Si tu penses {b}si{/b} mal de moi, alors je me demande pourquoi tu es assis sur mes genoux."
 
 # game/events_t.rpy:2287
-translate french d11tfirsts_4b2bb02d:
+translate french d11tfirsts_d9829137:
 
-    # t "Why do you even think I'd be interested in someone like you? Or a women at all."
-    t "Pourquoi pensez-vous que je serais intéressé par quelqu'un comme vous ? Ou par une femme tout court."
+    # t "Why do you even think I'd be interested in someone like you? Or a woman at all."
+    t "Pourquoi pensez-vous que je m'intéresse à quelqu'un comme vous ? Ou une femme tout court."
 
 # game/events_t.rpy:2289
 translate french d11tfirsts_5db8c5b6:
@@ -7464,1657 +7464,1657 @@ translate french d11tfirsts_060d0345:
     # t "What are you..."
     t "Qu'est-ce que tu..."
 
-# game/events_t.rpy:2379
+# game/events_t.rpy:2378
 translate french d11tfirsts_33170189:
 
     # t "Whaaa!"
     t "Whouaa!"
 
-# game/events_t.rpy:2380
+# game/events_t.rpy:2379
 translate french d11tfirsts_9032333a:
 
     # mc "Just relax and keep hugging me."
     mc "Détendez-vous et continuez à me faire des câlins."
 
-# game/events_t.rpy:2381
+# game/events_t.rpy:2380
 translate french d11tfirsts_dc508caf:
 
     # t "T-That's not going to help me relax!"
     t "Ça ne va pas m'aider à me détendre !"
 
-# game/events_t.rpy:2382
+# game/events_t.rpy:2381
 translate french d11tfirsts_9319dfd9:
 
     # mc "Try it."
     mc "L'essayer."
 
-# game/events_t.rpy:2383
+# game/events_t.rpy:2382
 translate french d11tfirsts_985c02f6:
 
     # t "Ugh..."
     t "Ugh ..."
 
-# game/events_t.rpy:2385
+# game/events_t.rpy:2384
 translate french d11tfirsts_a8df5ff6:
 
     # t "Just hurry up."
     t "Dépêchez-vous."
 
-# game/events_t.rpy:2386
+# game/events_t.rpy:2385
 translate french d11tfirsts_e119df09:
 
     # mc "As you wish."
     mc "Comme vous le souhaitez."
 
-# game/events_t.rpy:2388
+# game/events_t.rpy:2387
 translate french d11tfirsts_6a4e0edc:
 
     # t "Nh-hnn..."
     t "Nh-hnn..."
 
-# game/events_t.rpy:2390
+# game/events_t.rpy:2389
 translate french d11tfirsts_daa6c5e0:
 
     # mc "Are you relaxing?"
     mc "Vous vous détendez ?"
 
-# game/events_t.rpy:2391
+# game/events_t.rpy:2390
 translate french d11tfirsts_17eb562c:
 
     # t "I-I told you it's not going to hn...help."
     t "Je t'ai dit que ça ne t'aiderait pas."
 
-# game/events_t.rpy:2392
+# game/events_t.rpy:2391
 translate french d11tfirsts_b9ec45d7:
 
     # mc "Are you even trying?"
     mc "Est-ce que tu essaies au moins ?"
 
-# game/events_t.rpy:2393
+# game/events_t.rpy:2392
 translate french d11tfirsts_ad590ab0:
 
     # t "You try mhh... relaxing while being molested."
     t "Vous essayez de vous détendre pendant que vous êtes molesté."
 
-# game/events_t.rpy:2394
+# game/events_t.rpy:2393
 translate french d11tfirsts_3e498912:
 
     # mc "I'm just caressing you."
     mc "Je ne fais que te caresser."
 
-# game/events_t.rpy:2395
+# game/events_t.rpy:2394
 translate french d11tfirsts_d53a9eb7:
 
     # t "Call it how you want, I...nhh don't care."
     t "Appelle ça comme tu veux, je...nhh m'en fous."
 
-# game/events_t.rpy:2396
+# game/events_t.rpy:2395
 translate french d11tfirsts_d42d15ae:
 
     # mc "Hmm... I guess we should try something else then."
     mc "Hmm... Je suppose que nous devrions essayer autre chose alors."
 
-# game/events_t.rpy:2398
+# game/events_t.rpy:2397
 translate french d11tfirsts_058bb0d3:
 
     # t "What's the point anyway?"
     t "A quoi bon, de toute façon ?"
 
-# game/events_t.rpy:2400
+# game/events_t.rpy:2399
 translate french d11tfirsts_9d00e0b0:
 
     # mc "As I said, to get you to relax."
     mc "Comme je l'ai dit, pour que tu te détendes."
 
-# game/events_t.rpy:2402
+# game/events_t.rpy:2401
 translate french d11tfirsts_ae00eb09:
 
     # t "As if..."
     t "Comme si..."
 
-# game/events_t.rpy:2404
+# game/events_t.rpy:2403
 translate french d11tfirsts_f6f229e7:
 
     # mc "Take your top off."
     mc "Enlève ton haut."
 
-# game/events_t.rpy:2406
+# game/events_t.rpy:2405
 translate french d11tfirsts_d84460d0:
 
     # t "Tch... and how would that help?"
     t "Tch... et en quoi ça aiderait ?"
 
-# game/events_t.rpy:2408
+# game/events_t.rpy:2407
 translate french d11tfirsts_6a0887df:
 
     # mc "You obviously have no idea how to relax, so just do what I'm saying, [t]."
     mc "Tu n'as manifestement aucune idée de comment te détendre, alors fais ce que je dis, [t]."
 
-# game/events_t.rpy:2410
+# game/events_t.rpy:2409
 translate french d11tfirsts_088885ba:
 
     # t "Pff..."
     t "Pff..."
 
-# game/events_t.rpy:2412
+# game/events_t.rpy:2411
 translate french d11tfirsts_1bb01731_5:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2413
+# game/events_t.rpy:2412
 translate french d11tfirsts_b9b155fe:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2414
+# game/events_t.rpy:2413
 translate french d11tfirsts_b9b155fe_1:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2415
+# game/events_t.rpy:2414
 translate french d11tfirsts_b9b155fe_2:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2426
+# game/events_t.rpy:2425
 translate french d11tfirsts_15b235d6:
 
     # mc "That's better, isn't it?"
     mc "C'est mieux, n'est-ce pas ?"
 
-# game/events_t.rpy:2428
+# game/events_t.rpy:2427
 translate french d11tfirsts_dc977b30:
 
     # t "You really can't think of anything else, can you?"
     t "Tu ne peux vraiment pas penser à autre chose, n'est-ce pas ?"
 
-# game/events_t.rpy:2430
+# game/events_t.rpy:2429
 translate french d11tfirsts_0c0641e0:
 
     # t "...dyke."
     t "...gouine."
 
-# game/events_t.rpy:2432
+# game/events_t.rpy:2431
 translate french d11tfirsts_25e6b7c6:
 
     # mc "I'm just trying to prove or disprove my theory."
     mc "J'essaie juste de prouver ou de réfuter ma théorie."
 
-# game/events_t.rpy:2434
+# game/events_t.rpy:2433
 translate french d11tfirsts_c041bb9a:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2437
+# game/events_t.rpy:2436
 translate french d11tfirsts_c1914d7c:
 
     # mc "Also, calling me a dyke won't hide the fact that you're interested in women..."
     mc "De plus, me traiter de gouine ne cachera pas le fait que tu t'intéresses aux femmes..."
 
-# game/events_t.rpy:2438
+# game/events_t.rpy:2437
 translate french d11tfirsts_2d73988b:
 
     # mc "We've done this several times already, and you're still turning red like a tomato."
     mc "On l'a déjà fait plusieurs fois, et tu es toujours rouge comme une tomate."
 
-# game/events_t.rpy:2439
+# game/events_t.rpy:2438
 translate french d11tfirsts_c899cea3:
 
     # t "T-That's not true..."
     t "C-Ce n'est pas vrai..."
 
-# game/events_t.rpy:2440
+# game/events_t.rpy:2439
 translate french d11tfirsts_c541293e:
 
     # mc "Do you want me to take a photo to show you?"
     mc "Tu veux que je prenne une photo pour te la montrer ?"
 
-# game/events_t.rpy:2441
+# game/events_t.rpy:2440
 translate french d11tfirsts_bb069667:
 
     # t "N-No, don't you dare take a photo of me!"
     t "N-Non, ne t'avise pas de prendre une photo de moi !"
 
-# game/events_t.rpy:2443
+# game/events_t.rpy:2442
 translate french d11tfirsts_848e3ce6:
 
     # mc "You should really be a bit more comfortable with your boyfriend."
     mc "Tu devrais vraiment être un peu plus à l'aise avec ton petit ami."
 
-# game/events_t.rpy:2445
+# game/events_t.rpy:2444
 translate french d11tfirsts_d8ac267f:
 
     # mc "You should really be a bit more comfortable with your girlfriend."
     mc "Tu devrais vraiment être un peu plus à l'aise avec ta petite amie."
 
-# game/events_t.rpy:2446
+# game/events_t.rpy:2445
 translate french d11tfirsts_71eaf407:
 
     # t "That's not even...{w=0.5}{nw}"
     t "Ce n'est même pas... {w=0.5}{nw}"
 
-# game/events_t.rpy:2448
+# game/events_t.rpy:2447
 translate french d11tfirsts_303376db:
 
     # mc "Come, turn around."
     mc "Viens, tourne-toi."
 
-# game/events_t.rpy:2450
+# game/events_t.rpy:2449
 translate french d11tfirsts_060d0345_1:
 
     # t "What are you..."
     t "Qu'est-ce que tu..."
 
-# game/events_t.rpy:2452
+# game/events_t.rpy:2451
 translate french d11tfirsts_72ba5e48:
 
     # mc "Trying to make it more comfortable for you."
     mc "J'essaie de rendre les choses plus confortables pour vous."
 
-# game/events_t.rpy:2454
+# game/events_t.rpy:2453
 translate french d11tfirsts_660a9a17:
 
     # t "Oh..."
     t "Oh..."
 
-# game/events_t.rpy:2455
+# game/events_t.rpy:2454
 translate french d11tfirsts_4d6b1202:
 
     # mc "It'll help you relax."
     mc "Ça vous aidera à vous détendre."
 
-# game/events_t.rpy:2457
+# game/events_t.rpy:2456
 translate french d11tfirsts_c352fee8:
 
     # t "Hmph, just stop acting as if you're doing it for me."
     t "Hmph, arrête d'agir comme si tu le faisais pour moi."
 
-# game/events_t.rpy:2459
+# game/events_t.rpy:2458
 translate french d11tfirsts_18d7cd70:
 
     # mc "You think I'm doing this for myself?"
     mc "Tu crois que je fais ça pour moi ?"
 
-# game/events_t.rpy:2460
+# game/events_t.rpy:2459
 translate french d11tfirsts_728dbb2f:
 
     # t "Of course you do."
     t "Bien sûr que oui."
 
-# game/events_t.rpy:2462
+# game/events_t.rpy:2461
 translate french d11tfirsts_02b79881:
 
     # mc "Oh really? Well I guess there's no point in going on then..."
     mc "Ah bon ? Eh bien, je suppose qu'il n'y a pas de raison de continuer alors..."
 
-# game/events_t.rpy:2464
+# game/events_t.rpy:2463
 translate french d11tfirsts_19ec77da:
 
     # t "You... you're just going to stop now?"
     t "Vous... vous allez juste arrêter maintenant ?"
 
-# game/events_t.rpy:2465
+# game/events_t.rpy:2464
 translate french d11tfirsts_b16bc564:
 
     # mc "Yeah, unless you want me to go on."
     mc "Oui, sauf si vous voulez que je continue."
 
-# game/events_t.rpy:2467
+# game/events_t.rpy:2466
 translate french d11tfirsts_c041bb9a_1:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2468
+# game/events_t.rpy:2467
 translate french d11tfirsts_b9b155fe_3:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2469
+# game/events_t.rpy:2468
 translate french d11tfirsts_b9b155fe_4:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2471
+# game/events_t.rpy:2470
 translate french d11tfirsts_1bb01731_6:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2473
+# game/events_t.rpy:2472
 translate french d11tfirsts_51e464e6:
 
     # t "Fine..."
     t "Très bien..."
 
-# game/events_t.rpy:2475
+# game/events_t.rpy:2474
 translate french d11tfirsts_ca5e40c7:
 
     # mc "Fine what?"
     mc "Bien quoi ?"
 
-# game/events_t.rpy:2477
+# game/events_t.rpy:2476
 translate french d11tfirsts_ab4e34d6:
 
     # t "I'm going to play your stupid game..."
     t "Je vais jouer à votre jeu stupide..."
 
-# game/events_t.rpy:2478
+# game/events_t.rpy:2477
 translate french d11tfirsts_ca94c41b:
 
     # mc "My stupid game?"
     mc "Mon jeu stupide ?"
 
-# game/events_t.rpy:2480
+# game/events_t.rpy:2479
 translate french d11tfirsts_1bb01731_7:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2482
+# game/events_t.rpy:2481
 translate french d11tfirsts_582359ea:
 
     # mc "Hm?"
     mc "Hm?"
 
-# game/events_t.rpy:2484
+# game/events_t.rpy:2483
 translate french d11tfirsts_113d073b:
 
     # t "Just take it off already..."
     t "Enlève-le déjà..."
 
-# game/events_t.rpy:2486
+# game/events_t.rpy:2485
 translate french d11tfirsts_0ab621c3:
 
     # mc "You mean my pants? Didn't you just say..."
     mc "Tu veux dire mon pantalon ? Tu ne viens pas de dire..."
 
-# game/events_t.rpy:2488
+# game/events_t.rpy:2487
 translate french d11tfirsts_61215f86:
 
     # t "Just do it already."
     t "Fais-le, c'est tout."
 
-# game/events_t.rpy:2489
+# game/events_t.rpy:2488
 translate french d11tfirsts_0ebdb2b3:
 
     # mc "Well, if you insist..."
     mc "Eh bien, si vous insistez..."
 
-# game/events_t.rpy:2496
+# game/events_t.rpy:2495
 translate french d11tfirsts_d7f0ca85:
 
     # mc "There we go."
     mc "Voilà."
 
-# game/events_t.rpy:2498
+# game/events_t.rpy:2497
 translate french d11tfirsts_1bb01731_8:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2505
+# game/events_t.rpy:2504
 translate french d11tfirsts_1bb01731_9:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2517
+# game/events_t.rpy:2516
 translate french d11tfirsts_901e624c:
 
     # mc "Not bad, [t]... not bad."
     mc "Pas mal, [t]... pas mal."
 
-# game/events_t.rpy:2536
+# game/events_t.rpy:2527
 translate french d11tfirsts_6f89aedb:
 
     # mcthink "Damn, this looks uncomfortable..."
     mcthink "Bon sang, ça a l'air inconfortable..."
 
-# game/events_t.rpy:2537
+# game/events_t.rpy:2528
 translate french d11tfirsts_103ad989:
 
     # mcthink "...and it doesn't feel that great either..."
     mcthink "...et on ne se sent pas si bien que ça non plus..."
 
-# game/events_t.rpy:2548
+# game/events_t.rpy:2539
 translate french d11tfirsts_44acca36:
 
     # mc "Hmm, not bad, [t], not bad..."
     mc "Hmm, pas mal, [t], pas mal..."
 
-# game/events_t.rpy:2553
+# game/events_t.rpy:2543
 translate french d11tfirsts_98f7313d:
 
     # mc "Alright, [t], get up."
     mc "D'accord, [t], lève-toi."
 
-# game/events_t.rpy:2555
+# game/events_t.rpy:2545
 translate french d11tfirsts_38e263ea:
 
     # t "W-Why?! Did I do something wrong?"
     t "P-Pourquoi ? ! Est-ce que j'ai fait quelque chose de mal ?"
 
-# game/events_t.rpy:2557
+# game/events_t.rpy:2547
 translate french d11tfirsts_c0bd7d13:
 
     # mc "Just do what I said."
     mc "Fais juste ce que je t'ai dit."
 
-# game/events_t.rpy:2559
+# game/events_t.rpy:2549
 translate french d11tfirsts_fb44b6fa:
 
     # t "You didn't even cum, yet..."
     t "Tu n'as même pas joui, encore..."
 
-# game/events_t.rpy:2560
+# game/events_t.rpy:2550
 translate french d11tfirsts_51adb54b:
 
     # mc "As I said, it's not about me."
     mc "Comme je l'ai dit, il ne s'agit pas de moi."
 
-# game/events_t.rpy:2562
+# game/events_t.rpy:2552
 translate french d11tfirsts_706d3ae9:
 
     # t "Fine... what do you want now?"
     t "Bien... qu'est-ce que tu veux maintenant ?"
 
-# game/events_t.rpy:2564
+# game/events_t.rpy:2554
 translate french d11tfirsts_ed54f708:
 
     # mc "Take your pants off."
     mc "Enlève ton pantalon."
 
-# game/events_t.rpy:2566
+# game/events_t.rpy:2556
 translate french d11tfirsts_1bb01731_10:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2575
+# game/events_t.rpy:2565
 translate french d11tfirsts_608e7bbc:
 
     # t "What now?"
     t "Et maintenant?"
 
-# game/events_t.rpy:2578
+# game/events_t.rpy:2568
 translate french d11tfirsts_9e9fcde8:
 
     # mc "Sit on my lap."
     mc "Assieds-toi sur mes genoux."
 
-# game/events_t.rpy:2580
+# game/events_t.rpy:2570
 translate french d11tfirsts_f106db48:
 
     # t "W-What?! I'm not going to sit on your dick!"
     t "Q-Quoi ? ! Je ne vais pas m'asseoir sur ta queue !"
 
-# game/events_t.rpy:2582
+# game/events_t.rpy:2572
 translate french d11tfirsts_7a65c02e:
 
     # mc "You just had it in your mouth, what's the problem with sitting on it?"
     mc "Tu l'as juste eu dans ta bouche, quel est le problème de s'asseoir dessus ?"
 
-# game/events_t.rpy:2584
+# game/events_t.rpy:2574
 translate french d11tfirsts_c242cfd7:
 
     # t "That's something different..."
     t "C'est quelque chose de différent..."
 
-# game/events_t.rpy:2585
+# game/events_t.rpy:2575
 translate french d11tfirsts_6a950321:
 
     # mc "Are you scared it could accidentally enter the wrong hole?"
     mc "Vous avez peur qu'il entre accidentellement dans le mauvais trou ?"
 
-# game/events_t.rpy:2586
+# game/events_t.rpy:2576
 translate french d11tfirsts_b2115cfe:
 
     # t "It could accidentally enter any hole!"
     t "Il pourrait accidentellement entrer dans n'importe quel trou !"
 
-# game/events_t.rpy:2588
+# game/events_t.rpy:2578
 translate french d11tfirsts_6c9a924f:
 
     # mc "Heh... come here."
     mc "Heh... viens ici."
 
-# game/events_t.rpy:2592
+# game/events_t.rpy:2582
 translate french d11tfirsts_99a8a636:
 
     # mc "See? It's not that... hard, right?"
     mc "Tu vois ? Ce n'est pas si... difficile, hein ?"
 
-# game/events_t.rpy:2593
+# game/events_t.rpy:2583
 translate french d11tfirsts_1bb01731_11:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2595
+# game/events_t.rpy:2585
 translate french d11tfirsts_5f299e6d:
 
     # mc "Alright, why don't you grind on it?"
     mc "D'accord, pourquoi tu ne t'y mets pas ?"
 
-# game/events_t.rpy:2596
+# game/events_t.rpy:2586
 translate french d11tfirsts_bd65a88a:
 
     # t "Just grind?"
     t "Il suffit de moudre?"
 
-# game/events_t.rpy:2597
+# game/events_t.rpy:2587
 translate french d11tfirsts_199e031f:
 
     # mc "Just grind."
     mc "Il suffit de moudre."
 
-# game/events_t.rpy:2599
+# game/events_t.rpy:2589
 translate french d11tfirsts_8ee27418:
 
     # t "Okay..."
     t "Ok ..."
 
-# game/events_t.rpy:2601
+# game/events_t.rpy:2591
 translate french d11tfirsts_93a82aa0:
 
     # t "Like this?"
     t "Comme ça?"
 
-# game/events_t.rpy:2602
+# game/events_t.rpy:2592
 translate french d11tfirsts_cf1adef2:
 
     # mc "Yeah."
     mc "Oui."
 
-# game/events_t.rpy:2609
+# game/events_t.rpy:2599
 translate french d11tfirsts_8cb1c1c3:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2610
+# game/events_t.rpy:2600
 translate french d11tfirsts_bc5b1a02:
 
     # mc "Are you comfortable?"
     mc "Êtes-vous à l'aise ?"
 
-# game/events_t.rpy:2611
+# game/events_t.rpy:2601
 translate french d11tfirsts_4cc81c8f:
 
     # t "Hnn... what kind of question is that?!"
     t "Hnn... quel genre de question est-ce là ? !"
 
-# game/events_t.rpy:2612
+# game/events_t.rpy:2602
 translate french d11tfirsts_91b2d9fb:
 
     # mc "Hey, I'm just making sure it's feeling good for you."
     mc "Hey, je m'assure juste que ça te fait du bien."
 
-# game/events_t.rpy:2613
+# game/events_t.rpy:2603
 translate french d11tfirsts_37e1c8e2:
 
     # t "It's... okay..."
     t "C'est... ok..."
 
-# game/events_t.rpy:2614
+# game/events_t.rpy:2604
 translate french d11tfirsts_7de8b566:
 
     # mc "Come on, [t]."
     mc "Allez, [t]."
 
-# game/events_t.rpy:2615
+# game/events_t.rpy:2605
 translate french d11tfirsts_da845a08:
 
     # t "Ugh... it's, nhh... it's good..."
     t "Ugh... c'est, nhh... c'est bon..."
 
-# game/events_t.rpy:2616
+# game/events_t.rpy:2606
 translate french d11tfirsts_d7962bef:
 
     # mc "Do you like it, or not?"
     mc "Tu aimes ça, ou pas ?"
 
-# game/events_t.rpy:2617
+# game/events_t.rpy:2607
 translate french d11tfirsts_73181d76:
 
     # t "C-Can you shut up?"
     t "Pouvez-vous vous taire ?"
 
-# game/events_t.rpy:2618
+# game/events_t.rpy:2608
 translate french d11tfirsts_d053fdb5:
 
     # mc "Being bitchy again, huh?"
     mc "Tu fais encore la garce, hein ?"
 
-# game/events_t.rpy:2619
+# game/events_t.rpy:2609
 translate french d11tfirsts_394d3c06:
 
     # t "I'm not bitchy!"
     t "Je ne suis pas une garce !"
 
-# game/events_t.rpy:2620
+# game/events_t.rpy:2610
 translate french d11tfirsts_0106dce4:
 
     # mc "Alright, a little bit higher, [t]."
     mc "D'accord, un peu plus haut, [t]."
 
-# game/events_t.rpy:2621
+# game/events_t.rpy:2611
 translate french d11tfirsts_1bb01731_12:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2627
+# game/events_t.rpy:2616
 translate french d11tfirsts_93a82aa0_1:
 
     # t "Like this?"
     t "Comme ça?"
 
-# game/events_t.rpy:2628
+# game/events_t.rpy:2617
 translate french d11tfirsts_91bd44e8:
 
     # mc "Higher."
     mc "Plus haut, plus fort."
 
-# game/events_t.rpy:2631
+# game/events_t.rpy:2620
 translate french d11tfirsts_4a1bb688:
 
     # mc "A little more."
     mc "Un peu plus."
 
-# game/events_t.rpy:2632
+# game/events_t.rpy:2621
 translate french d11tfirsts_c69c221d:
 
     # t "N-Nhhn..."
     t "N-Nhhn..."
 
-# game/events_t.rpy:2635
+# game/events_t.rpy:2624
 translate french d11tfirsts_516cd5cf:
 
     # t "Haah!"
     t "Haah!"
 
-# game/events_t.rpy:2636
+# game/events_t.rpy:2625
 translate french d11tfirsts_3556e475:
 
     # mc "Oh, looks like it almost slipped in... accidentally."
     mc "Oh, on dirait que ça a presque glissé... accidentellement."
 
-# game/events_t.rpy:2638
+# game/events_t.rpy:2627
 translate french d11tfirsts_7a046ec3:
 
     # t "A-Accidentally? As if you didn't plan to do this."
     t "A-Accidentellement ? Comme si vous n'aviez pas prévu de le faire."
 
-# game/events_t.rpy:2640
+# game/events_t.rpy:2629
 translate french d11tfirsts_d6e97873:
 
     # mc "Heh, it was totally by accident, but... what are we going to do about it?"
     mc "Heh, c'était totalement par accident, mais... qu'est-ce qu'on va faire pour ça ?"
 
-# game/events_t.rpy:2642
+# game/events_t.rpy:2631
 translate french d11tfirsts_ba21a0dd:
 
     # t "Hmrph..."
     t "Hmrph..."
 
-# game/events_t.rpy:2644
+# game/events_t.rpy:2633
 translate french d11tfirsts_1bb01731_13:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2646
+# game/events_t.rpy:2635
 translate french d11tfirsts_8cb1c1c3_1:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2649
+# game/events_t.rpy:2638
 translate french d11tfirsts_142fe13e:
 
     # t "Haah..."
     t "Haah..."
 
-# game/events_t.rpy:2651
+# game/events_t.rpy:2640
 translate french d11tfirsts_9a2f20df:
 
     # mcthink "Wow, I didn't expect her to just slide it in."
     mcthink "Wow, je ne m'attendais pas à ce qu'elle le glisse juste dedans."
 
-# game/events_t.rpy:2653
+# game/events_t.rpy:2642
 translate french d11tfirsts_c35be849:
 
     # mc "Looks like you accidentally slid down, [t]."
     mc "On dirait que tu as accidentellement glissé vers le bas, [t]."
 
-# game/events_t.rpy:2655
+# game/events_t.rpy:2644
 translate french d11tfirsts_c873d93e:
 
     # t "Humph..."
     t "Humph..."
 
-# game/events_t.rpy:2656
+# game/events_t.rpy:2645
 translate french d11tfirsts_cfeb5f00:
 
     # mc "*Smirks* go on."
     mc "*Smirks* continuez."
 
-# game/events_t.rpy:2658
+# game/events_t.rpy:2647
 translate french d11tfirsts_1bb01731_14:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2666
+# game/events_t.rpy:2655
 translate french d11tfirsts_7c07ff4c:
 
     # t "N-Nhh..."
     t "N-Nhh..."
 
-# game/events_t.rpy:2671
+# game/events_t.rpy:2659
 translate french d11tfirsts_dc5cfd13:
 
     # mc "Are you finally relaxing?"
     mc "Vous vous détendez enfin ?"
 
-# game/events_t.rpy:2672
+# game/events_t.rpy:2660
 translate french d11tfirsts_a3ea99e9:
 
     # t "If...hnnhh... you want to call it that..."
     t "Si... hnnhh... tu veux l'appeler comme ça..."
 
-# game/events_t.rpy:2673
+# game/events_t.rpy:2661
 translate french d11tfirsts_ef4566de:
 
     # mc "It's just that you should be a bit more comfortable with your boyfriend."
     mc "C'est juste que tu devrais être un peu plus à l'aise avec ton petit ami."
 
-# game/events_t.rpy:2674
+# game/events_t.rpy:2662
 translate french d11tfirsts_2d2ce1e5:
 
     # t "Nhhh... maybe..."
     t "Nhhh... peut-être..."
 
-# game/events_t.rpy:2675
+# game/events_t.rpy:2663
 translate french d11tfirsts_cf75e010:
 
     # mc "No objections to the boyfriend part?"
     mc "Aucune objection à la partie \"petit ami\" ?"
 
-# game/events_t.rpy:2676
+# game/events_t.rpy:2664
 translate french d11tfirsts_e2562688:
 
     # t "N-Nhnn..."
     t "N-Nhnn..."
 
-# game/events_t.rpy:2685
+# game/events_t.rpy:2672
 translate french d11tfirsts_b0d0df57:
 
     # mc "Come closer, let me get a nice, close look between your sexy legs."
     mc "Approche-toi, laisse-moi regarder de près entre tes jambes sexy."
 
-# game/events_t.rpy:2686
+# game/events_t.rpy:2673
 translate french d11tfirsts_1bb01731_15:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2689
+# game/events_t.rpy:2676
 translate french d11tfirsts_fcb04132:
 
     # t "I-I don't know if that's a good idea..."
     t "Je ne sais pas si c'est une bonne idée..."
 
-# game/events_t.rpy:2691
+# game/events_t.rpy:2678
 translate french d11tfirsts_8cc8f365:
 
     # mc "Don't worry, I'll hold you."
     mc "Ne t'inquiète pas, je vais te tenir."
 
-# game/events_t.rpy:2693
+# game/events_t.rpy:2680
 translate french d11tfirsts_8cb1c1c3_2:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2696
+# game/events_t.rpy:2683
 translate french d11tfirsts_8e2fe8ed:
 
     # mc "Mhm, Looks tasty."
     mc "Mhm, ça a l'air savoureux."
 
-# game/events_t.rpy:2697
+# game/events_t.rpy:2684
 translate french d11tfirsts_b46eaf8e:
 
     # t "Just make sure you won't let me fall."
     t "Assure-toi juste de ne pas me laisser tomber."
 
-# game/events_t.rpy:2699
+# game/events_t.rpy:2686
 translate french d11tfirsts_a615069f:
 
     # mc "Do you really think I'd let my girlfriend fall?"
     mc "Vous pensez vraiment que je laisserais ma petite amie tomber ?"
 
-# game/events_t.rpy:2700
+# game/events_t.rpy:2687
 translate french d11tfirsts_1bb01731_16:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2701
+# game/events_t.rpy:2688
 translate french d11tfirsts_166b169a:
 
     # mc "No objections to the girlfriend part?"
     mc "Aucune objection à la partie \"petite amie\" ?"
 
-# game/events_t.rpy:2705
+# game/events_t.rpy:2692
 translate french d11tfirsts_df4b35f8:
 
     # t "Huh?"
     t "Hein ?"
 
-# game/events_t.rpy:2707
+# game/events_t.rpy:2694
 translate french d11tfirsts_d0661dce:
 
     # t "WHAAH!"
     t "WHAAH !"
 
-# game/events_t.rpy:2710
+# game/events_t.rpy:2697
 translate french d11tfirsts_6ad2d418:
 
     # mc "What the!?"
     mc "Qu'est ce que!?"
 
-# game/events_t.rpy:2713
+# game/events_t.rpy:2700
 translate french d11tfirsts_9655811c:
 
     # mc "[j]?"
     mc "[j]?"
 
-# game/events_t.rpy:2715
+# game/events_t.rpy:2702
 translate french d11tfirsts_b4fa3fc0:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2717
+# game/events_t.rpy:2704
 translate french d11tfirsts_bd88c022:
 
     # t "God..."
     t "Mon Dieu..."
 
-# game/events_t.rpy:2719
+# game/events_t.rpy:2706
 translate french d11tfirsts_04b77ce1:
 
     # t "I can't believe this, I..."
     t "Je ne peux pas le croire, je..."
 
-# game/events_t.rpy:2721
+# game/events_t.rpy:2708
 translate french d11tfirsts_12c2022f:
 
     # j "AU!"
     j "AU !"
 
-# game/events_t.rpy:2723
+# game/events_t.rpy:2710
 translate french d11tfirsts_79dba188:
 
     # mc "Shit..."
     mc "Merde..."
 
-# game/events_t.rpy:2725
+# game/events_t.rpy:2712
 translate french d11tfirsts_5b24e48a:
 
     # mc "I better have a look."
     mc "Je ferais mieux de regarder."
 
-# game/events_t.rpy:2726
+# game/events_t.rpy:2713
 translate french d11tfirsts_b284dc60:
 
     # t "Yes."
     t "Oui."
 
-# game/events_t.rpy:2730
+# game/events_t.rpy:2717
 translate french d11tfirsts_8bcaad36:
 
     # j "Damn..."
     j "Bon sang..."
 
-# game/events_t.rpy:2732
+# game/events_t.rpy:2719
 translate french d11tfirsts_3a36d8d7:
 
     # mc "What happened, are you okay?"
     mc "Que s'est-il passé, tu vas bien ?"
 
-# game/events_t.rpy:2734
+# game/events_t.rpy:2721
 translate french d11tfirsts_9ce126f8:
 
     # j "I'm okay, I just slipped from the railing..."
     j "Je vais bien, j'ai juste glissé de la balustrade..."
 
-# game/events_t.rpy:2735
+# game/events_t.rpy:2722
 translate french d11tfirsts_7c9e345f:
 
     # mc "Well, that's what you get for peeping."
     mc "Eh bien, c'est ce que vous obtenez pour le voyeurisme."
 
-# game/events_t.rpy:2737
+# game/events_t.rpy:2724
 translate french d11tfirsts_0f5155b3:
 
     # j "Hey, you were making weird noises, I was just checking..."
     j "Hé, tu faisais des bruits bizarres, je vérifiais juste..."
 
-# game/events_t.rpy:2739
+# game/events_t.rpy:2726
 translate french d11tfirsts_b8a2d68e:
 
     # mc "Yeah, sure... weird noises, huh..."
     mc "Oui, bien sûr... des bruits bizarres, hein..."
 
-# game/events_t.rpy:2741
+# game/events_t.rpy:2728
 translate french d11tfirsts_3c15b2a2:
 
     # mc "Come on, you can go through my room."
     mc "Allez, tu peux passer par ma chambre."
 
-# game/events_t.rpy:2743
+# game/events_t.rpy:2730
 translate french d11tfirsts_1bb01731_17:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2747
+# game/events_t.rpy:2734
 translate french d11tfirsts_205d1898:
 
     # j "Uhh... sorry for the interruption..."
     j "Uhh... désolé pour l'interruption..."
 
-# game/events_t.rpy:2749
+# game/events_t.rpy:2736
 translate french d11tfirsts_250cbd58:
 
     # t "Shouldn't you be mad or something?"
     t "Tu ne devrais pas être en colère ou quelque chose comme ça ?"
 
-# game/events_t.rpy:2751
+# game/events_t.rpy:2738
 translate french d11tfirsts_d3ac2a0e:
 
     # j "Uhh... should I?"
     j "Euh... je devrais ?"
 
-# game/events_t.rpy:2755
+# game/events_t.rpy:2742
 translate french d11tfirsts_55d9e1e6:
 
     # t "He's your boyfriend!"
     t "C'est ton petit ami !"
 
-# game/events_t.rpy:2757
+# game/events_t.rpy:2744
 translate french d11tfirsts_0ce979a0:
 
     # t "She's your girlfriend!"
     t "C'est ta petite amie !"
 
-# game/events_t.rpy:2759
+# game/events_t.rpy:2746
 translate french d11tfirsts_f58238a1:
 
     # j "And yours, too, right?"
     j "Et le tien aussi, non ?"
 
-# game/events_t.rpy:2761
+# game/events_t.rpy:2748
 translate french d11tfirsts_2f64c1e9:
 
     # mc "How long have you been watching?"
     mc "Depuis combien de temps tu regardes ?"
 
-# game/events_t.rpy:2763
+# game/events_t.rpy:2750
 translate french d11tfirsts_a3d1076c:
 
     # j "Uhh..."
     j "Uhh ..."
 
-# game/events_t.rpy:2766
+# game/events_t.rpy:2753
 translate french d11tfirsts_b63da1b0:
 
     # t "How can you be okay with that?!"
     t "Comment peux-tu être d'accord avec ça ? !"
 
-# game/events_t.rpy:2768
+# game/events_t.rpy:2755
 translate french d11tfirsts_85bc7991:
 
     # mc "I told you she'd be fine with it, didn't I?"
     mc "Je t'avais dit qu'elle serait d'accord avec ça, n'est-ce pas ?"
 
-# game/events_t.rpy:2770
+# game/events_t.rpy:2757
 translate french d11tfirsts_599807f6:
 
     # t "How can you be okay with that?! [e] is your best friend!"
     t "Comment peux-tu être d'accord avec ça ? ! [e] est ton meilleur ami !"
 
-# game/events_t.rpy:2772
+# game/events_t.rpy:2759
 translate french d11tfirsts_cc12fb8c:
 
     # mc "I told you [e] would be fine with it, didn't I?"
     mc "Je t'avais dit que [e] serait d'accord avec ça, n'est-ce pas ?"
 
-# game/events_t.rpy:2774
+# game/events_t.rpy:2761
 translate french d11tfirsts_3aac889c:
 
     # t "Uch, you're both weird..."
     t "Uch, vous êtes tous les deux bizarres..."
 
-# game/events_t.rpy:2777
+# game/events_t.rpy:2764
 translate french d11tfirsts_c73fa029:
 
     # j "Hey."
     j "Hé."
 
-# game/events_t.rpy:2779
+# game/events_t.rpy:2766
 translate french d11tfirsts_8bdc5dfa:
 
     # j "How would you know that I'm fine with it?"
     j "Comment saurais-tu que ça me convient ?"
 
-# game/events_t.rpy:2781
+# game/events_t.rpy:2768
 translate french d11tfirsts_23c4f530:
 
     # mc "Well, you basically said it yourself, on my second day here, after I got you and [e] from school, remember?"
     mc "Eh bien, tu l'as dit toi-même, lors de mon deuxième jour ici, après que je vous ai récupérés toi et [e] à l'école, tu te souviens ?"
 
-# game/events_t.rpy:2783
+# game/events_t.rpy:2770
 translate french d11tfirsts_416a130e:
 
     # j "Oh..."
     j "Oh..."
 
-# game/events_t.rpy:2785
+# game/events_t.rpy:2772
 translate french d11tfirsts_89ef383a:
 
     # j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone if you want."
     j "Euh, hey, [t], tu n'as vraiment pas besoin de te rhabiller, je vais vous laisser tous les deux si tu veux."
 
-# game/events_t.rpy:2788
+# game/events_t.rpy:2775
 translate french d11tfirsts_cfafea18:
 
     # j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone..."
     j "Euh, hé, [t], tu n'as vraiment pas besoin de te rhabiller, je vous laisse seuls tous les deux..."
 
-# game/events_t.rpy:2790
+# game/events_t.rpy:2777
 translate french d11tfirsts_f1af56f8:
 
     # t "No thanks, I'll just be leaving."
     t "Non merci, je vais partir."
 
-# game/events_t.rpy:2792
+# game/events_t.rpy:2779
 translate french d11tfirsts_47f8e571:
 
     # j "Aww, come on, don't leave. I'm sorry, okay?"
     j "Aww, allez, ne pars pas. Je suis désolé, ok ?"
 
-# game/events_t.rpy:2794
+# game/events_t.rpy:2781
 translate french d11tfirsts_07b535c6:
 
     # t "You two can do what ever you want, but I don't need to be part of it."
     t "Vous pouvez faire ce que vous voulez, mais je n'ai pas besoin d'en faire partie."
 
-# game/events_t.rpy:2796
+# game/events_t.rpy:2783
 translate french d11tfirsts_8055313a:
 
     # t "Just do me a favor and don't tell anyone what you've seen today..."
     t "Fais-moi une faveur et ne dis à personne ce que tu as vu aujourd'hui..."
 
-# game/events_t.rpy:2798
+# game/events_t.rpy:2785
 translate french d11tfirsts_24f19ac1:
 
     # j "Of course not..."
     j "Bien sûr que non..."
 
-# game/events_t.rpy:2800
+# game/events_t.rpy:2787
 translate french d11tfirsts_e357a6c7:
 
     # j "I mean..."
     j "Je veux dire..."
 
-# game/events_t.rpy:2801
+# game/events_t.rpy:2788
 translate french d11tfirsts_a3d1076c_1:
 
     # j "Uhh..."
     j "Uhh ..."
 
-# game/events_t.rpy:2803
+# game/events_t.rpy:2790
 translate french d11tfirsts_a0e65641:
 
     # j "That means you owe me something, right?"
     j "Ça veut dire que tu me dois quelque chose, non ?"
 
-# game/events_t.rpy:2806
+# game/events_t.rpy:2793
 translate french d11tfirsts_223921ba:
 
     # t "Ugh, you two really are a perfect match!"
     t "Ugh, vous deux êtes vraiment un match parfait !"
 
-# game/events_t.rpy:2808
+# game/events_t.rpy:2795
 translate french d11tfirsts_02998f1f:
 
     # t "Ugh, you two would make a perfect couple!"
     t "Ugh, vous feriez un couple parfait !"
 
-# game/events_t.rpy:2810
+# game/events_t.rpy:2797
 translate french d11tfirsts_fba7b537:
 
     # j "Hehe."
     j "Hehe."
 
-# game/events_t.rpy:2812
+# game/events_t.rpy:2799
 translate french d11tfirsts_b79c704a:
 
     # t "What do you want?"
     t "Que veux-tu?"
 
-# game/events_t.rpy:2814
+# game/events_t.rpy:2801
 translate french d11tfirsts_a00c928e:
 
     # j "Hey, don't be mad, I just want you to stay. You have an appointment with [e] anyway, don't you?"
     j "Hey, ne sois pas en colère, je veux juste que tu restes. Tu as un rendez-vous avec [e] de toute façon, n'est-ce pas ?"
 
-# game/events_t.rpy:2816
+# game/events_t.rpy:2803
 translate french d11tfirsts_d6944372:
 
     # t "Hmph... fine."
     t "Hmph... bien."
 
-# game/events_t.rpy:2818
+# game/events_t.rpy:2805
 translate french d11tfirsts_24eee438:
 
     # t "...but I'm just going to sit and wait until [e] is home for her therapy..."
     t "...mais je vais juste m'asseoir et attendre que [e] soit à la maison pour sa thérapie..."
 
-# game/events_t.rpy:2822
+# game/events_t.rpy:2809
 translate french d11tfirsts_b4fa3fc0_1:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2824
+# game/events_t.rpy:2811
 translate french d11tfirsts_ff3bd3ea:
 
     # j "Well, okay."
     j "Bon, d'accord."
 
-# game/events_t.rpy:2826
+# game/events_t.rpy:2813
 translate french d11tfirsts_1bb01731_18:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2828
+# game/events_t.rpy:2815
 translate french d11tfirsts_128fd593:
 
     # j "What are you standing there like a lost sheep, come, sit between us!"
     j "Que faites-vous là comme une brebis égarée, venez, asseyez-vous entre nous !"
 
-# game/events_t.rpy:2830
+# game/events_t.rpy:2817
 translate french d11tfirsts_985c02f6_1:
 
     # t "Ugh..."
     t "Ugh ..."
 
-# game/events_t.rpy:2835
+# game/events_t.rpy:2822
 translate french d11tfirsts_62dfb6eb:
 
     # j "Nothing better than cuddling with your girlfriendssss, right?"
     j "Rien de mieux que de se câliner avec ses copines, non ?"
 
-# game/events_t.rpy:2837
+# game/events_t.rpy:2824
 translate french d11tfirsts_de5cbbbb:
 
     # mc "Heh, right."
     mc "Heh, c'est vrai."
 
-# game/events_t.rpy:2839
+# game/events_t.rpy:2826
 translate french d11tfirsts_01901a7d:
 
     # mc "Wouldn't you say, too, [t]?"
     mc "Ne diriez-vous pas aussi, [t]?"
 
-# game/events_t.rpy:2841
+# game/events_t.rpy:2828
 translate french d11tfirsts_b4fa3fc0_2:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2843
+# game/events_t.rpy:2830
 translate french d11tfirsts_4e2823dd:
 
     # t "*grml*"
     t "*grml*"
 
-# game/events_t.rpy:2845
+# game/events_t.rpy:2832
 translate french d11tfirsts_7de8b566_1:
 
     # mc "Come on, [t]."
     mc "Allez, [t]."
 
-# game/events_t.rpy:2847
+# game/events_t.rpy:2834
 translate french d11tfirsts_001e9bbe:
 
     # mc "Shit happens sometimes, right?"
     mc "Les merdes arrivent parfois, non ?"
 
-# game/events_t.rpy:2849
+# game/events_t.rpy:2836
 translate french d11tfirsts_1bb01731_19:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2852
+# game/events_t.rpy:2839
 translate french d11tfirsts_64691207:
 
     # j "Come on, [t], there's nothing wrong with having fun with your boyfriend."
     j "Allez, [t], il n'y a rien de mal à s'amuser avec son petit ami."
 
-# game/events_t.rpy:2854
+# game/events_t.rpy:2841
 translate french d11tfirsts_55670417:
 
     # j "Come on, [t], there's nothing wrong with having fun with your girlfriend."
     j "Allez, [t], il n'y a rien de mal à s'amuser avec sa petite amie."
 
-# game/events_t.rpy:2857
+# game/events_t.rpy:2844
 translate french d11tfirsts_c33b515c:
 
     # mc "Err..."
     mc "Err..."
 
-# game/events_t.rpy:2858
+# game/events_t.rpy:2845
 translate french d11tfirsts_8cf97b9c:
 
     # j "I won't tell anybody, promise."
     j "Je ne dirai rien à personne, promis."
 
-# game/events_t.rpy:2860
+# game/events_t.rpy:2847
 translate french d11tfirsts_03ae43fd:
 
     # mcthink "Damn, [j] is such a naughty little..."
     mcthink "Bon sang, [j] est une petite coquine..."
 
-# game/events_t.rpy:2864
+# game/events_t.rpy:2851
 translate french d11tfirsts_ee342a8f:
 
     # mc "Sounds like [m] and [e] are back."
     mc "On dirait que [m] et [e] sont de retour."
 
-# game/events_t.rpy:2866
+# game/events_t.rpy:2853
 translate french d11tfirsts_75abc27f:
 
     # t "Good, time to do my job."
     t "Bien, il est temps de faire mon travail."
 
-# game/events_t.rpy:2871
+# game/events_t.rpy:2858
 translate french d11tfirsts_21c608a2:
 
     # j "She has a really nice ass in those pants."
     j "Elle a un très beau cul dans ce pantalon."
 
-# game/events_t.rpy:2872
+# game/events_t.rpy:2859
 translate french d11tfirsts_c041bb9a_2:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2877
+# game/events_t.rpy:2864
 translate french d11tfirsts_73ee3052:
 
     # j "No wonder you like her."
     j "Pas étonnant que tu l'aimes bien."
 
-# game/events_t.rpy:2879
+# game/events_t.rpy:2866
 translate french d11tfirsts_f8e63386:
 
     # j "Too bad [e] and [m] just came back home."
     j "Dommage que [e] et [m] viennent de rentrer à la maison."
 
-# game/events_t.rpy:2881
+# game/events_t.rpy:2868
 translate french d11tfirsts_6dbd57f7:
 
     # mc "I doubt that them coming home changed much."
     mc "Je doute que leur retour à la maison ait changé grand-chose."
 
-# game/events_t.rpy:2883
+# game/events_t.rpy:2870
 translate french d11tfirsts_cd33cad5:
 
     # j "Aww, sorry, I'll be more careful next time."
     j "Aww, désolé, je ferai plus attention la prochaine fois."
 
-# game/events_t.rpy:2885
+# game/events_t.rpy:2872
 translate french d11tfirsts_cbb21558:
 
     # mc "More careful? You shouldn't peep in the first place."
     mc "Plus prudent ? Vous ne devriez pas épier en premier lieu."
 
-# game/events_t.rpy:2887
+# game/events_t.rpy:2874
 translate french d11tfirsts_d5a8f0fe:
 
     # j "Hrm..."
     j "Hrm..."
 
-# game/events_t.rpy:2888
+# game/events_t.rpy:2875
 translate french d11tfirsts_8ff8ec9a:
 
     # mc "Seriously, [j]."
     mc "Sérieusement, [j]."
 
-# game/events_t.rpy:2890
+# game/events_t.rpy:2877
 translate french d11tfirsts_1cae3073:
 
     # j "Sorry, I won't do it again."
     j "Désolé, je ne le ferai plus."
 
-# game/events_t.rpy:2892
+# game/events_t.rpy:2879
 translate french d11tfirsts_cb2c03b6:
 
     # mc "I hope so, otherwise I'll have to punish you, young lady."
     mc "Je l'espère, sinon je vais devoir vous punir, jeune fille."
 
-# game/events_t.rpy:2894
+# game/events_t.rpy:2881
 translate french d11tfirsts_ad88acdc:
 
     # j "Hehe, don't tempt me, [mcmd]."
     j "Hehe, ne me tentez pas, [mcmd]."
 
-# game/events_t.rpy:2896
+# game/events_t.rpy:2883
 translate french d11tfirsts_d4cfca71:
 
     # mc "But seriously, [j], don't do it again, unless you know everyone is fine with it."
     mc "Mais sérieusement, [j], ne le refais pas, à moins que tu saches que tout le monde est d'accord."
 
-# game/events_t.rpy:2898
+# game/events_t.rpy:2885
 translate french d11tfirsts_ecc233ae:
 
     # j "I won't, promise."
     j "Je ne le ferai pas, promis."
 
-# game/events_t.rpy:2900
+# game/events_t.rpy:2887
 translate french d11tfirsts_21c608a2_1:
 
     # j "She has a really nice ass in those pants."
     j "Elle a un très beau cul dans ce pantalon."
 
-# game/events_t.rpy:2901
+# game/events_t.rpy:2888
 translate french d11tfirsts_c041bb9a_3:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2905
+# game/events_t.rpy:2892
 translate french d11tfirsts_73ee3052_1:
 
     # j "No wonder you like her."
     j "Pas étonnant que tu l'aimes bien."
 
-# game/events_t.rpy:2906
+# game/events_t.rpy:2893
 translate french d11tfirsts_f8e63386_1:
 
     # j "Too bad [e] and [m] just came back home."
     j "Dommage que [e] et [m] viennent de rentrer à la maison."
 
-# game/events_t.rpy:2908
+# game/events_t.rpy:2895
 translate french d11tfirsts_6dbd57f7_1:
 
     # mc "I doubt that them coming home changed much."
     mc "Je doute que leur retour à la maison ait changé grand-chose."
 
-# game/events_t.rpy:2910
+# game/events_t.rpy:2897
 translate french d11tfirsts_60d0d9c0:
 
     # j "Sorry, I guess I..."
     j "Désolé, je suppose que je..."
 
-# game/events_t.rpy:2914
+# game/events_t.rpy:2901
 translate french d11tfirsts_dc5bbf95:
 
     # j "Hey, [e], welcome back."
     j "Hé, [e], bon retour."
 
-# game/events_t.rpy:2916
+# game/events_t.rpy:2903
 translate french d11tfirsts_6bca4e18:
 
     # t "Come on, [e], I don't have much time..."
     t "Allez, [e], je n'ai pas beaucoup de temps..."
 
-# game/events_t.rpy:2918
+# game/events_t.rpy:2905
 translate french d11tfirsts_f63da726:
 
     # t "Ugh, are you still..."
     t "Ugh, tu es toujours..."
 
-# game/events_t.rpy:2920
+# game/events_t.rpy:2907
 translate french d11tfirsts_2b40a022:
 
     # e "Huh?"
     e "Hein ?"
 
-# game/events_t.rpy:2922
+# game/events_t.rpy:2909
 translate french d11tfirsts_143db3d9:
 
     # m "Hey, what's going..."
     m "Hé, qu'est-ce qui se passe..."
 
-# game/events_t.rpy:2924
+# game/events_t.rpy:2911
 translate french d11tfirsts_5da0228b:
 
     # m "O-Oh... err..."
     m "O-Oh... err..."
 
-# game/events_t.rpy:2926
+# game/events_t.rpy:2913
 translate french d11tfirsts_7d25852a:
 
     # m "Come on, [e], [t] is waiting for you."
     m "Allez, [e], [t] t'attend."
 
-# game/events_t.rpy:2927
+# game/events_t.rpy:2914
 translate french d11tfirsts_9c5e6f88:
 
     # e "Whaa..."
     e "Quoiii..."
 
-# game/events_t.rpy:2930
+# game/events_t.rpy:2917
 translate french d11tfirsts_6894d896:
 
     # mc "Shit, I better put my pants on."
     mc "Merde, je ferais mieux de mettre mon pantalon."
 
-# game/events_t.rpy:2931
+# game/events_t.rpy:2918
 translate french d11tfirsts_d1f3ebf7:
 
     # j "Yeah... sorry..."
     j "Ouais... désolé..."
 
-# game/events_t.rpy:2933
+# game/events_t.rpy:2920
 translate french d11tfirsts_9405a33c:
 
     # j "...I'll go see if [m] needs help with anything..."
     j "...Je vais voir si [m] a besoin d'aide pour quoi que ce soit..."
 
-# game/events_t.rpy:2934
+# game/events_t.rpy:2921
 translate french d11tfirsts_2fcc7ac5:
 
     # mc "Sure..."
     mc "Bien sûr..."
 
-# game/events_t.rpy:2937
+# game/events_t.rpy:2924
 translate french d11tfirsts_6894d896_1:
 
     # mc "Shit, I better put my pants on."
     mc "Merde, je ferais mieux de mettre mon pantalon."
 
-# game/events_t.rpy:2938
-translate french d11tfirsts_36a6d3ec:
+# game/events_t.rpy:2925
+translate french d11tfirsts_775d8a57:
 
-    # j "yeah... too bad..."
+    # j "Yeah... too bad..."
     j "Ouais... dommage..."
 
-# game/events_t.rpy:2940
+# game/events_t.rpy:2927
 translate french d11tfirsts_c80207c6:
 
     # mc "Well, at least they didn't see me and [t]."
     mc "Au moins, ils ne m'ont pas vu et [t]."
 
-# game/events_t.rpy:2942
+# game/events_t.rpy:2929
 translate french d11tfirsts_de476f0d:
 
     # j "Hehe, yeah, that might've ended up worse than it did."
     j "Hehe, ouais, ça aurait pu être pire que ça ne l'a été."
 
-# game/events_t.rpy:2944
+# game/events_t.rpy:2931
 translate french d11tfirsts_69c25b65:
 
     # mc "Yeah..."
     mc "Oui ..."
 
-# game/events_t.rpy:2945
+# game/events_t.rpy:2932
 translate french d11tfirsts_5bec3d56:
 
     # j "Too bad [m] isn't okay with us, yet, this could've ended up in a nice little orgy."
     j "Dommage que [m] ne soit pas encore d'accord avec nous, ça aurait pu finir en une jolie petite orgie."
 
-# game/events_t.rpy:2947
+# game/events_t.rpy:2934
 translate french d11tfirsts_ad9c5742:
 
     # mc "Damn, [j]..."
     mc "Merde, [j]..."
 
-# game/events_t.rpy:2949
+# game/events_t.rpy:2936
 translate french d11tfirsts_a475dd4c:
 
     # j "What?"
     j "Que puis-je faire pour toi?"
 
-# game/events_t.rpy:2951
+# game/events_t.rpy:2938
 translate french d11tfirsts_6b7cbff5:
 
     # mc "What do mean by \"yet\" by the way?"
     mc "Au fait, qu'entendez-vous par \"encore\" ?"
 
-# game/events_t.rpy:2953
+# game/events_t.rpy:2940
 translate french d11tfirsts_52908790:
 
     # j "Well, we obviously need to convince her to join your little harem, right?"
     j "Eh bien, nous devons évidemment la convaincre de rejoindre votre petit harem, non ?"
 
-# game/events_t.rpy:2955
+# game/events_t.rpy:2942
 translate french d11tfirsts_c0d05d94:
 
     # mc "My harem? Why do I get the feeling that that's more like what {b}you{/b} want?"
     mc "Mon harem ? Pourquoi ai-je l'impression que c'est plutôt ce que {b}vous voulez ?"
 
-# game/events_t.rpy:2957
+# game/events_t.rpy:2944
 translate french d11tfirsts_8bd5ac3d:
 
     # j "Nah, that'd be too much work for me..."
     j "Non, ça serait trop de travail pour moi..."
 
-# game/events_t.rpy:2959
+# game/events_t.rpy:2946
 translate french d11tfirsts_27aa9bd3:
 
     # mc "Oh, so you let me do all the hard work."
     mc "Oh, donc tu me laisses faire tout le travail difficile."
 
-# game/events_t.rpy:2961
+# game/events_t.rpy:2948
 translate french d11tfirsts_09798197:
 
     # j "Hey, I'm trying to help you! Also, it's not only hard, but also juicy, isn't it?"
     j "Hé, j'essaie de t'aider ! Et puis, ce n'est pas seulement difficile, mais aussi juteux, n'est-ce pas ?"
 
-# game/events_t.rpy:2963
+# game/events_t.rpy:2950
 translate french d11tfirsts_fbe5e1b8:
 
     # mc "Heh, well, kind of."
     mc "Heh, et bien, en quelque sorte."
 
-# game/events_t.rpy:2965
+# game/events_t.rpy:2952
 translate french d11tfirsts_21f63e97:
 
     # j "See? And it's not like I'm not doing my part, hehe."
     j "Tu vois ? Et ce n'est pas comme si je ne faisais pas ma part, hehe."
 
-# game/events_t.rpy:2968
+# game/events_t.rpy:2955
 translate french d11tfirsts_fbf4c6b0:
 
     # mc "Yeah... and you really are okay with that?"
     mc "Oui... et tu es vraiment d'accord avec ça ?"
 
-# game/events_t.rpy:2970
+# game/events_t.rpy:2957
 translate french d11tfirsts_e3b51cb3:
 
     # j "Yeah, sure, I mean..."
     j "Oui, bien sûr, je veux dire..."
 
-# game/events_t.rpy:2972
+# game/events_t.rpy:2959
 translate french d11tfirsts_b4fa3fc0_3:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2974
+# game/events_t.rpy:2961
 translate french d11tfirsts_9655811c_1:
 
     # mc "[j]?"
     mc "[j]?"
 
-# game/events_t.rpy:2976
+# game/events_t.rpy:2963
 translate french d11tfirsts_6cb3f283:
 
     # j "Err... yeah, haha."
     j "Err... ouais, haha."
 
-# game/events_t.rpy:2978
+# game/events_t.rpy:2965
 translate french d11tfirsts_8b470045:
 
     # j "Absolutely!"
     j "Absolument !"
 
-# game/events_t.rpy:2980
+# game/events_t.rpy:2967
 translate french d11tfirsts_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/events_t.rpy:2982
+# game/events_t.rpy:2969
 translate french d11tfirsts_b4fa3fc0_4:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2984
+# game/events_t.rpy:2971
 translate french d11tfirsts_88057329:
 
     # j "Well..."
     j "Eh bien, l'as-tu suivie..."
 
-# game/events_t.rpy:2986
+# game/events_t.rpy:2973
 translate french d11tfirsts_9405a33c_1:
 
     # j "...I'll go see if [m] needs help with anything..."
     j "...Je vais voir si [m] a besoin d'aide pour quoi que ce soit..."
 
-# game/events_t.rpy:2988
+# game/events_t.rpy:2975
 translate french d11tfirsts_b4fa3fc0_5:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2992
+# game/events_t.rpy:2979
 translate french d11tfirsts_c8c2ebc6:
 
     # mcthink "Is she lying?"
     mcthink "Est-ce qu'elle ment ?"
 
-# game/events_t.rpy:2993
+# game/events_t.rpy:2980
 translate french d11tfirsts_ac118115:
 
     # mcthink "But why would she say she's okay with it, if she's not okay with it?"
@@ -9148,7 +9148,7 @@ translate french strings:
 
     # game/events_t.rpy:799
     old "I need coffee!!!"
-    new "J'ai besoin de café!!!"
+    new "J'ai besoin d'un café!!!"
 
     # game/events_t.rpy:1798
     old "(Look down.)"
@@ -9164,5 +9164,5 @@ translate french strings:
 
     # game/events_t.rpy:1798
     old "(Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
-    new "(Lui dire de se pencher.) {i}{color=#f00}avancez la scène{/color}{/i}"
+    new "(Lui dire de se pencher.) {i}{color=#f00}avance la scène{/color}{/i}"
 

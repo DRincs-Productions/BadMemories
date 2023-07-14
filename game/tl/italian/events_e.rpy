@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/events_e.rpy:4
 translate italian elliePCRoomSleepDay0_6400ba37:
@@ -1770,2995 +1770,2995 @@ translate italian makedinnerwithE_aadd0180:
     # e "*Smootch*"
     e "*Smootch*"
 
-# game/events_e.rpy:571
+# game/events_e.rpy:570
 translate italian makedinnerwithE_5d9a2297:
 
     # mc "Looks like we have to make dinner today."
     mc "Sembra che oggi dobbiamo preparare la cena."
 
-# game/events_e.rpy:573
+# game/events_e.rpy:572
 translate italian makedinnerwithE_a78ec29f:
 
     # mc "Err... yeah, I guess [m] isn't going to make dinner today..."
     mc "Ehm... sì, credo che [m] non preparerà la cena oggi..."
 
-# game/events_e.rpy:575
+# game/events_e.rpy:574
 translate italian makedinnerwithE_bb585fc3:
 
     # mc "Sorry, that's my fault. I had an argument with her a bit earlier today..."
     mc "Scusate, è colpa mia. Ho avuto una discussione con lei poco fa..."
 
-# game/events_e.rpy:576
+# game/events_e.rpy:575
 translate italian makedinnerwithE_7e00e9ab:
 
     # mc "Anyway..."
     mc "Comunque..."
 
-# game/events_e.rpy:577
+# game/events_e.rpy:576
 translate italian makedinnerwithE_9cc4b469:
 
     # mc "What do you think, should we cook something together?"
     mc "Che ne dici, cuciniamo qualcosa insieme?"
 
-# game/events_e.rpy:579
+# game/events_e.rpy:578
 translate italian makedinnerwithE_9bee5006:
 
     # e "Hn!"
     e "Hn!"
 
-# game/events_e.rpy:582
+# game/events_e.rpy:581
 translate italian makedinnerwithE_45c48d7b:
 
     # n "You check the available food and decide to make some noodles."
     n "Controllate il cibo disponibile e decidete di fare delle tagliatelle."
 
-# game/events_e.rpy:584
+# game/events_e.rpy:583
 translate italian makedinnerwithE_6da1ccad:
 
     # mcthink "Damn, that's a lot to eat..."
     mcthink "Accidenti, c'è molto da mangiare..."
 
-# game/events_e.rpy:585
+# game/events_e.rpy:584
 translate italian makedinnerwithE_a7f2f2e8:
 
     # mc "How is it?"
     mc "Com'è?"
 
-# game/events_e.rpy:587
+# game/events_e.rpy:586
 translate italian makedinnerwithE_1d00ffaa:
 
     # e "Uhuh!"
     e "Uhuh!"
 
-# game/events_e.rpy:588
+# game/events_e.rpy:587
 translate italian makedinnerwithE_ec2492cd:
 
     # mc "Alright, let's eat then."
     mc "Bene, allora mangiamo."
 
-# game/events_e.rpy:592
+# game/events_e.rpy:591
 translate italian makedinnerwithE_1b121f23:
 
     # mc "Phew, quite spicy..."
     mc "Phew, piuttosto piccante..."
 
-# game/events_e.rpy:594
+# game/events_e.rpy:593
 translate italian makedinnerwithE_8dc2d98e:
 
     # mc "...don't you think, [e]?"
     mc "...non credi, [e]?"
 
-# game/events_e.rpy:595
+# game/events_e.rpy:594
 translate italian makedinnerwithE_a2067332:
 
     # mc "PWAHAHA, do you need a bib, [e]?"
     mc "PWAHAHA, ti serve una pettorina, [e]?"
 
-# game/events_e.rpy:597
+# game/events_e.rpy:596
 translate italian makedinnerwithE_321634ed:
 
     # mc "The sauce is all over your face..."
     mc "La salsa è su tutto il viso..."
 
-# game/events_e.rpy:599
+# game/events_e.rpy:598
 translate italian makedinnerwithE_c6f1863c:
 
     # mc "Whoa!"
     mc "Wow!"
 
-# game/events_e.rpy:601
+# game/events_e.rpy:600
 translate italian makedinnerwithE_3c456130:
 
     # mc "Hey, what if I wanted to eat that?"
     mc "E se volessi mangiarlo?"
 
-# game/events_e.rpy:603
+# game/events_e.rpy:602
 translate italian makedinnerwithE_e28fe5b2:
 
     # e "Tee-hee."
     e "Tee-hee."
 
-# game/events_e.rpy:607
+# game/events_e.rpy:606
 translate italian makedinnerwithE_2808519c:
 
     # mcthink "Phew... I'm full..."
     mcthink "Uff... Sono pieno..."
 
-# game/events_e.rpy:609
+# game/events_e.rpy:608
 translate italian makedinnerwithE_54c62a50:
 
     # mc "[e], you still want more?"
     mc "[e]Vuoi ancora di più?"
 
-# game/events_e.rpy:611
+# game/events_e.rpy:610
 translate italian makedinnerwithE_dea16caf:
 
     # e "Uh-uh..."
     e "Uh-uh..."
 
-# game/events_e.rpy:613
+# game/events_e.rpy:612
 translate italian makedinnerwithE_845bacdd:
 
     # mcthink "Oh, she's going to give it to [m]?"
     mcthink "Oh, lo darà a [m]?"
 
-# game/events_e.rpy:615
+# game/events_e.rpy:614
 translate italian makedinnerwithE_48cdd89a:
 
     # m "{size=-10}[e], what are you...?! Oh...{/size}"
     m "{size=-10}[e], cosa sei...?! Oh...{/size}"
 
-# game/events_e.rpy:616
+# game/events_e.rpy:615
 translate italian makedinnerwithE_2859ad31:
 
     # mcthink "Hum, I didn't expect [e] to be so caring about her mother..."
     mcthink "Hum, non mi aspettavo che [e] fosse così premuroso nei confronti della madre..."
 
-# game/events_e.rpy:617
+# game/events_e.rpy:616
 translate italian makedinnerwithE_4666b727:
 
     # m "{size=-10}Thank you, but I'm not hungry.{/size}"
     m "{size=-10}Grazie, ma non ho fame.{/size}"
 
-# game/events_e.rpy:619
+# game/events_e.rpy:618
 translate italian makedinnerwithE_b5466672:
 
     # n "You can hear the door to [m]'s room closing."
     n "Puoi sentire la porta alla chiusura della stanza di [m]."
 
-# game/events_e.rpy:620
+# game/events_e.rpy:619
 translate italian makedinnerwithE_c3fd0d51:
 
     # mcthink "Hah, looks like [e] doesn't accept a no as an answer..."
     mcthink "Hah, sembra che [e] non accetti un no come risposta..."
 
-# game/events_e.rpy:623
+# game/events_e.rpy:622
 translate italian makedinnerwithE_cc85c724:
 
     # n "You wait a few minutes for [e] to come back, but she doesn't. After a while you go back to your room and spend the rest of the evening watching some funny videos and finally decide to go to bed..."
     n "Aspettate qualche minuto che [e] torni, ma non lo fa. Dopo un po' tornate nella vostra stanza e passate il resto della serata a guardare qualche video divertente e finalmente decidete di andare a letto..."
 
-# game/events_e.rpy:629
+# game/events_e.rpy:628
 translate italian eHumpNight5_d8b6e64b:
 
     # n "At night" with dissolve
     n "Di notte" with dissolve
 
-# game/events_e.rpy:630
+# game/events_e.rpy:629
 translate italian eHumpNight5_3b4daaf7:
 
     # m "[bpc] WHERE IS MY WINE?" with hpunch
     m "[bpc] DOV'È IL MIO VINO?" with hpunch
 
-# game/events_e.rpy:631
+# game/events_e.rpy:630
 translate italian eHumpNight5_80dbab52:
 
     # mc "Huh? How would I know?"
     mc "Eh? Come faccio a saperlo?"
 
-# game/events_e.rpy:632
+# game/events_e.rpy:631
 translate italian eHumpNight5_38ceb860:
 
     # m "I KNOW YOU HAVE IT! GIVE IT BACK YOU LITTLE BASTARD!"
     m "Lo so che lo hai! VIVI TORNA A BACK LITTLE BASTARD!"
 
-# game/events_e.rpy:633
+# game/events_e.rpy:632
 translate italian eHumpNight5_425733e3:
 
     # mc "I don't have your stupid wine..."
     mc "Non ho il tuo stupido vino..."
 
-# game/events_e.rpy:634
+# game/events_e.rpy:633
 translate italian eHumpNight5_dd5fa9f8:
 
     # m "Oh, so the bottle just disappeared from the kitchen table by itself? DO YOU THINK I'M STUPID?!"
     m "Oh, quindi la bottiglia è appena scomparsa dal tavolo da cucina da sola? FATTI SIAMO STUPID?!"
 
-# game/events_e.rpy:635
+# game/events_e.rpy:634
 translate italian eHumpNight5_ebc0fa33:
 
     # mc "You mean the bottle you drank before the last one?"
     mc "Intendi la bottiglia che hai bevuto prima dell'ultima?"
 
-# game/events_e.rpy:636
+# game/events_e.rpy:635
 translate italian eHumpNight5_de238c83:
 
     # m "What?!"
     m "Cosa?!"
 
-# game/events_e.rpy:637
+# game/events_e.rpy:636
 translate italian eHumpNight5_45625b6a:
 
     # mc "Maybe you should drink a little bit less, then you might actually remember how much you drank..."
     mc "Forse dovresti bere un po' meno, così potresti davvero ricordare quanto hai bevuto..."
 
-# game/events_e.rpy:638
+# game/events_e.rpy:637
 translate italian eHumpNight5_4e2d4e16:
 
     # m "What did you just say?"
     m "Che cosa hai appena detto?"
 
-# game/events_e.rpy:639
+# game/events_e.rpy:638
 translate italian eHumpNight5_52e4a233:
 
     # m "Do you think I don't know how much I drink?!"
     m "Pensi che io non so quanto bevo?!"
 
-# game/events_e.rpy:640
+# game/events_e.rpy:639
 translate italian eHumpNight5_9f7e4aa4:
 
     # mc "Obviously..."
     mc "Ovviamente..."
 
-# game/events_e.rpy:641
+# game/events_e.rpy:640
 translate italian eHumpNight5_8a60a841:
 
     # m "Oh, you will regret saying this! Come here, take your pants off!"
     m "Oh, ti pentirai di dirlo! Vieni qui, tolga i pantaloni!"
 
-# game/events_e.rpy:643
+# game/events_e.rpy:642
 translate italian eHumpNight5_553041f5:
 
     # mcthink "W-What?"
     mcthink "Cosa?"
 
-# game/events_e.rpy:645
+# game/events_e.rpy:644
 translate italian eHumpNight5_b42b6009:
 
     # m "As a punishment, I will suck your cock!"
     m "Come punizione, io succherò il tuo cazzo!"
 
-# game/events_e.rpy:647
+# game/events_e.rpy:646
 translate italian eHumpNight5_18bf16a5:
 
     # m "As a punishment, I will lick your pussy!"
     m "Come punizione, leccherò la tua figa!"
 
-# game/events_e.rpy:648
+# game/events_e.rpy:647
 translate italian eHumpNight5_4722f18c:
 
     # mcthink "What the...!"
     mcthink "Ma che...!"
 
-# game/events_e.rpy:649
+# game/events_e.rpy:648
 translate italian eHumpNight5_7d9fd67b:
 
     # m "SHUT UP! You'll regret everything you said once I have... *hmmmph* *slurp*"
     m "SHUT UP! Ti pentirai di tutto quello che hai detto una volta... *hmmmph* *slurp*"
 
-# game/events_e.rpy:653
+# game/events_e.rpy:652
 translate italian eHumpNight5_r_9b19ae6f:
 
     # mcthink "What the fuck!"
     mcthink "Che cazzo!"
 
-# game/events_e.rpy:654
+# game/events_e.rpy:653
 translate italian eHumpNight5_r_1383f788:
 
     # e "Hmmm... *slurp* *slurp*"
     e "Hmmm... *slurp* *slurp*"
 
-# game/events_e.rpy:655
+# game/events_e.rpy:654
 translate italian eHumpNight5_r_9029586f:
 
     # mcthink "Shit, what's going on?!"
     mcthink "Merda, che succede?!"
 
-# game/events_e.rpy:656
+# game/events_e.rpy:655
 translate italian eHumpNight5_r_1b5fea38:
 
     # m "*Slurp*"
     m "*Slurp*"
 
-# game/events_e.rpy:657
+# game/events_e.rpy:656
 translate italian eHumpNight5_r_97088a3e:
 
     # mc "Damn, this feels good..."
     mc "Accidenti, che bella sensazione..."
 
-# game/events_e.rpy:658
+# game/events_e.rpy:657
 translate italian eHumpNight5_r_52d6b73f:
 
     # e "Hn..."
     e "Hn..."
 
-# game/events_e.rpy:659
+# game/events_e.rpy:658
 translate italian eHumpNight5_r_ef4019a8:
 
     # mcthink "W-Wait, what?"
     mcthink "Aspetta, cosa?"
 
-# game/events_e.rpy:661
+# game/events_e.rpy:660
 translate italian eHumpNight5_r_daae00e4:
 
     # mcthink "What the hell?"
     mcthink "Ma che diavolo?"
 
-# game/events_e.rpy:664
+# game/events_e.rpy:663
 translate italian eHumpNight5_r_76fbaa58:
 
     # mc "[e]?!"
     mc "[e]?!"
 
-# game/events_e.rpy:668
+# game/events_e.rpy:667
 translate italian eHumpNight5_r_52ce903d:
 
     # mc "What are you doing [e]?"
     mc "Cosa stai facendo [e]?"
 
-# game/events_e.rpy:670
+# game/events_e.rpy:669
 translate italian eHumpNight5_r_6e3b6836:
 
     # e "Hehe."
     e "Hehe."
 
-# game/events_e.rpy:674
+# game/events_e.rpy:673
 translate italian eHumpNight5_r_98aa830c:
 
     # mcthink "Am I still dreaming?"
     mcthink "Sto ancora sognando?"
 
-# game/events_e.rpy:676
+# game/events_e.rpy:675
 translate italian eHumpNight5_r_2cb092fa:
 
     # mcthink "Shit this is... so hot, I'm so horny, I can't believe it!"
     mcthink "Cazzo, è... così eccitante, sono così arrapato, non posso crederci!"
 
-# game/events_e.rpy:677
+# game/events_e.rpy:676
 translate italian eHumpNight5_r_5cab906b:
 
     # mcthink "I would've never expected her to do something like this!"
     mcthink "Non mi sarei mai aspettato che facesse una cosa del genere!"
 
-# game/events_e.rpy:680
+# game/events_e.rpy:679
 translate italian eHumpNight5_r_f0101653:
 
     # mcthink "She's clearly inexperienced, but damn..."
     mcthink "E' chiaramente inesperta, ma cavolo..."
 
-# game/events_e.rpy:682
+# game/events_e.rpy:681
 translate italian eHumpNight5_r_f92c46fa:
 
     # mcthink "Wow, she's really good with her tongue..."
     mcthink "Wow, è davvero brava con la lingua..."
 
-# game/events_e.rpy:683
+# game/events_e.rpy:682
 translate italian eHumpNight5_r_962ce38a:
 
     # e "*Slurp*"
     e "*Slurp*"
 
-# game/events_e.rpy:685
+# game/events_e.rpy:684
 translate italian eHumpNight5_r_05500ff6:
 
     # mc "Huh?"
     mc "Eh?"
 
-# game/events_e.rpy:687
+# game/events_e.rpy:686
 translate italian eHumpNight5_r_dbf56cc9:
 
     # mcthink "Shit..."
     mcthink "Mossa..."
 
-# game/events_e.rpy:689
+# game/events_e.rpy:688
 translate italian eHumpNight5_r_2b079e63:
 
     # mc "Are you sure about this, [e]?"
     mc "Ne sei sicuro, [e]?"
 
-# game/events_e.rpy:691
+# game/events_e.rpy:690
 translate italian eHumpNight5_r_9bee5006:
 
     # e "Hn!"
     e "Hn!"
 
-# game/events_e.rpy:695
+# game/events_e.rpy:694
 translate italian eHumpNight5_r_6493d6be:
 
     # e "Haaahn..."
     e "Haaahn..."
 
-# game/events_e.rpy:697
+# game/events_e.rpy:696
 translate italian eHumpNight5_r_3fa6652e:
 
     # mc "Shit, [e]..."
     mc "Merda, [e]..."
 
-# game/events_e.rpy:698
+# game/events_e.rpy:697
 translate italian eHumpNight5_r_559f6c59:
 
     # mcthink "She just shoved it in..."
     mcthink "L'ha infilato dentro..."
 
-# game/events_e.rpy:703
+# game/events_e.rpy:702
 translate italian eHumpNight5_r_18fb8869:
 
     # e "Nnn..."
     e "Nnn..."
 
-# game/events_e.rpy:711
+# game/events_e.rpy:710
 translate italian eHumpNight5_r_57ace962:
 
     # mcthink "God..."
     mcthink "Dio..."
 
-# game/events_e.rpy:713
+# game/events_e.rpy:712
 translate italian eHumpNight5_r_a741c8a5:
 
     # extend " so tight!"
     extend " così stretto!"
 
-# game/events_e.rpy:715
+# game/events_e.rpy:714
 translate italian eHumpNight5_r_a15f96b0:
 
     # extend " [e]..."
     extend " [e]..."
 
-# game/events_e.rpy:716
+# game/events_e.rpy:715
 translate italian eHumpNight5_r_ba5afc34:
 
     # e "Nnnh..."
     e "Nnnh..."
 
-# game/events_e.rpy:718
+# game/events_e.rpy:717
 translate italian eHumpNight5_r_f3e02235:
 
     # mc "Damn, [e], this feels incredible!"
     mc "Accidenti, [e], è una sensazione incredibile!"
 
-# game/events_e.rpy:719
+# game/events_e.rpy:718
 translate italian eHumpNight5_r_7e6e776f:
 
     # e "Hnn... nhnn..."
     e "Hnn... nhnn..."
 
-# game/events_e.rpy:721
+# game/events_e.rpy:720
 translate italian eHumpNight5_r_5b9e35c6:
 
     # mc "Shit, I'm going to cum, [e]!"
     mc "Cazzo, sto per sborrare, [e]!"
 
-# game/events_e.rpy:722
+# game/events_e.rpy:721
 translate italian eHumpNight5_r_a9a510d6:
 
     # e "Hnnn... haah..." with flash
     e "Hnnn... haah..." with flash
 
-# game/events_e.rpy:726
+# game/events_e.rpy:724
 translate italian eHumpNight5_r_ccfe6e9c:
 
     # e "Nnnhaaah!" with flash
     e "Nnnhaaah!" with flash
 
-# game/events_e.rpy:728
+# game/events_e.rpy:726
 translate italian eHumpNight5_r_848a432b:
 
     # e "Haa..."
     e "Haa..."
 
-# game/events_e.rpy:730
+# game/events_e.rpy:728
 translate italian eHumpNight5_r_36fcc878:
 
     # e "*Pant*"
     e "*Pant*"
 
-# game/events_e.rpy:732
+# game/events_e.rpy:730
 translate italian eHumpNight5_r_c52f5a7a:
 
     # n "[e] collapses on top of you, she hugs you tightly and softly kisses your neck a few times while still panting heavily."
     n "[e] si accascia su di te, ti abbraccia forte e ti bacia dolcemente il collo un paio di volte, mentre ancora ansima pesantemente."
 
-# game/events_e.rpy:734
+# game/events_e.rpy:732
 translate italian eHumpNight5_r_1b392326:
 
     # mcthink "Damn, I came right inside her..."
     mcthink "Dannazione, sono venuto proprio dentro di lei..."
 
-# game/events_e.rpy:736
+# game/events_e.rpy:734
 translate italian eHumpNight5_r_457c6f63:
 
     # mcthink "..."
     mcthink "..."
 
-# game/events_e.rpy:737
+# game/events_e.rpy:735
 translate italian eHumpNight5_r_a8f8312f:
 
     # mcthink "Doesn't she want me to pull out?"
     mcthink "Non vuole che mi ritiri?"
 
-# game/events_e.rpy:738
+# game/events_e.rpy:736
 translate italian eHumpNight5_r_8b99c58d:
 
     # n "You hug her and softly stroke her back for a while until both of you fall asleep."
     n "La abbracciate e la soffocate dolcemente per un po' fino ad addormentarsi entrambi."
 
-# game/events_e.rpy:748
+# game/events_e.rpy:746
 translate italian eschool_d6_892b1bb5:
 
     # mcthink "Looks like it's break time..."
     mcthink "Sembra che sia arrivato il momento della pausa..."
 
-# game/events_e.rpy:750
+# game/events_e.rpy:748
 translate italian eschool_d6_eff0a42a:
 
     # mcthink "Not many pupils out here... but it's hot today, so... huh?!"
     mcthink "Non ci sono molti alunni qui fuori... ma oggi fa caldo, quindi... eh?!"
 
-# game/events_e.rpy:752
+# game/events_e.rpy:750
 translate italian eschool_d6_09ce9ab4:
 
     # mcthink "[e]? She's alone?"
     mcthink "[e]? E' sola?"
 
-# game/events_e.rpy:754
+# game/events_e.rpy:752
 translate italian eschool_d6_a741adbb:
 
     # mc "Hey, [e]!"
     mc "Ehi, [e]!"
 
-# game/events_e.rpy:758
+# game/events_e.rpy:756
 translate italian eschool_d6_4498bb06:
 
     # mc "Hey, I'm going for a walk and thought I'd come by and have a look if I see you."
     mc "Ehi, sto facendo una passeggiata e ho pensato di passare a dare un'occhiata se ti vedo."
 
-# game/events_e.rpy:761
+# game/events_e.rpy:759
 translate italian eschool_d6_98805c19:
 
     # e "*Smooch*"
     e "*Smooch*"
 
-# game/events_e.rpy:763
+# game/events_e.rpy:761
 translate italian eschool_d6_972c6add:
 
     # mc "Too bad, looks like the break is over already..."
     mc "Peccato, sembra che la pausa sia già finita..."
 
-# game/events_e.rpy:767
+# game/events_e.rpy:765
 translate italian eschool_d6_bc41ce09:
 
     # mc "See you at home, [e]."
     mc "Ci vediamo a casa, [e]."
 
-# game/events_e.rpy:769
+# game/events_e.rpy:767
 translate italian eschool_d6_e86e3f9b:
 
     # mcthink "Well, time to move on..."
     mcthink "Beh, è ora di andare avanti..."
 
-# game/events_e.rpy:776
+# game/events_e.rpy:774
 translate italian d7_evening_e_17dc783b:
 
     # mcthink "Hum..."
     mcthink "Hum..."
 
-# game/events_e.rpy:777
+# game/events_e.rpy:775
 translate italian d7_evening_e_30c2c674:
 
     # mcthink "Alright, I think I'll stop for today... I've made some progress at least..."
     mcthink "Va bene, credo che per oggi mi fermerò... Almeno ho fatto qualche progresso..."
 
-# game/events_e.rpy:778
+# game/events_e.rpy:776
 translate italian d7_evening_e_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/events_e.rpy:779
+# game/events_e.rpy:777
 translate italian d7_evening_e_bff1e0c9:
 
     # mcthink "Hum... maybe I'll watch some VR porn..."
     mcthink "Hum... forse guarderò qualche porno VR..."
 
-# game/events_e.rpy:780
+# game/events_e.rpy:778
 translate italian d7_evening_e_a1feef41:
 
     # mcthink "Oh wait, I still need some answers from [m], I should go ask her out first!"
     mcthink "Oh, aspetta, ho ancora bisogno di risposte da [m], dovrei prima chiederle di uscire!"
 
-# game/events_e.rpy:782
+# game/events_e.rpy:780
 translate italian d7_evening_e_2e7510bd:
 
     # mcthink "Wait, did I give her a pill today?"
     mcthink "Aspetta, le ho dato una pillola oggi?"
 
-# game/events_e.rpy:784
+# game/events_e.rpy:782
 translate italian d7_evening_e_05500ff6:
 
     # mc "Huh?"
     mc "Eh?"
 
-# game/events_e.rpy:786
+# game/events_e.rpy:784
 translate italian d7_evening_e_b929e9b2:
 
     # mc "Oh hey, err..."
     mc "Oh, ehi, ehm..."
 
-# game/events_e.rpy:787
+# game/events_e.rpy:785
 translate italian d7_evening_e_6af44877:
 
     # mcthink "That catgirl costume again."
     mcthink "Ancora quel costume da catgirl."
 
-# game/events_e.rpy:788
+# game/events_e.rpy:786
 translate italian d7_evening_e_5ccb24b0:
 
     # mc "... Kitten."
     mc "... Gattino."
 
-# game/events_e.rpy:790
+# game/events_e.rpy:788
 translate italian d7_evening_e_53fea70b:
 
     # e "Nya!!"
     e "Nya!!!"
 
-# game/events_e.rpy:792
+# game/events_e.rpy:790
 translate italian d7_evening_e_47f0ea46:
 
     # mc "Wha..."
     mc "Cosa..."
 
-# game/events_e.rpy:794
+# game/events_e.rpy:792
 translate italian d7_evening_e_8ee4b356:
 
     # mc "Umph!"
     mc "Umph!"
 
-# game/events_e.rpy:796
+# game/events_e.rpy:794
 translate italian d7_evening_e_d21c78e1:
 
     # mcthink "I guess I won't ask [m] any questions today..."
     mcthink "Credo che oggi non farò domande a [m] ..."
 
-# game/events_e.rpy:799
+# game/events_e.rpy:797
 translate italian d7_evening_e_8d602797:
 
     # mc "You really like to assault me out of nowhere, don't you, [e]?"
     mc "Ti piace proprio aggredirmi all'improvviso, vero, [e]?"
 
-# game/events_e.rpy:800
+# game/events_e.rpy:798
 translate italian d7_evening_e_8de614b1:
 
     # e "Khehe!"
     e "Khehe!"
 
-# game/events_e.rpy:802
+# game/events_e.rpy:800
 translate italian d7_evening_e_582359ea:
 
     # mc "Hm?"
     mc "Hm?"
 
-# game/events_e.rpy:806
+# game/events_e.rpy:804
 translate italian d7_evening_e_59592220:
 
     # mc "Do you want to use it?"
     mc "Vuoi usarlo?"
 
-# game/events_e.rpy:808
+# game/events_e.rpy:806
 translate italian d7_evening_e_1395e551:
 
     # e "HN!"
     e "HN!"
 
-# game/events_e.rpy:810
+# game/events_e.rpy:808
 translate italian d7_evening_e_84f16542:
 
     # mc "Okay..."
     mc "Okay..."
 
-# game/events_e.rpy:811
+# game/events_e.rpy:809
 translate italian d7_evening_e_24e2e73a:
 
     # mc "But no porn!"
     mc "Ma niente porno!"
 
-# game/events_e.rpy:813
+# game/events_e.rpy:811
 translate italian d7_evening_e_1da7971d:
 
     # e "Unh..."
     e "Unh..."
 
-# game/events_e.rpy:814
+# game/events_e.rpy:812
 translate italian d7_evening_e_d93af161:
 
     # mc "Arf... fine, you're old enough anyway..."
     mc "Arf... bene, sei comunque abbastanza grande..."
 
-# game/events_e.rpy:816
+# game/events_e.rpy:814
 translate italian d7_evening_e_3fa6b1c9:
 
     # e "Khehehe."
     e "Khehehe."
 
-# game/events_e.rpy:819
+# game/events_e.rpy:817
 translate italian d7_evening_e_0445b44a:
 
     # e "Whoooo!"
     e "Whoooo!"
 
-# game/events_e.rpy:821
+# game/events_e.rpy:819
 translate italian d7_evening_e_6cc64e73:
 
     # mcthink "Damn, she really likes these lesbian scenes."
     mcthink "Accidenti, le piacciono molto queste scene lesbiche."
 
-# game/events_e.rpy:823
+# game/events_e.rpy:821
 translate italian d7_evening_e_9d6ed293:
 
     # mcthink "Damn, she's really into that stuff."
     mcthink "Accidenti, è davvero appassionata di queste cose."
 
-# game/events_e.rpy:825
+# game/events_e.rpy:823
 translate italian d7_evening_e_1f939a1a:
 
     # mcthink "Hum, isn't that the scene where the camera suddenly shakes for a few seconds?"
     mcthink "Non è la scena in cui la telecamera trema improvvisamente per qualche secondo?"
 
-# game/events_e.rpy:827
+# game/events_e.rpy:825
 translate italian d7_evening_e_b84c4489:
 
     # e "Ugh uhhh..."
     e "Ugh uhhh..."
 
-# game/events_e.rpy:828
+# game/events_e.rpy:826
 translate italian d7_evening_e_ae9e12ac:
 
     # mcthink "Yep, it is."
     mcthink "Sì, è così."
 
-# game/events_e.rpy:830
+# game/events_e.rpy:828
 translate italian d7_evening_e_03de4f2a:
 
     # mc "Whoa, hold tight, [e]!" with hpunch
     mc "Tieni duro, [e]!" with hpunch
 
-# game/events_e.rpy:832
+# game/events_e.rpy:830
 translate italian d7_evening_e_e792b68b:
 
     # e "Uhhh..."
     e "Uhhh..."
 
-# game/events_e.rpy:833
+# game/events_e.rpy:831
 translate italian d7_evening_e_9f918409:
 
     # mc "Haha, looks like it was a bit too much."
     mc "Haha, sembra che sia stato un po' troppo."
 
-# game/events_e.rpy:835
+# game/events_e.rpy:833
 translate italian d7_evening_e_8d18633d:
 
     # e "Unnnh..."
     e "Unnnh..."
 
-# game/events_e.rpy:836
+# game/events_e.rpy:834
 translate italian d7_evening_e_248e6977:
 
     # mc "Don't worry, it'll stop in a few seconds."
     mc "Non preoccupatevi, si fermerà in pochi secondi."
 
-# game/events_e.rpy:838
+# game/events_e.rpy:836
 translate italian d7_evening_e_ed95c37f:
 
     # n "After a while..."
     n "Dopo un po'..."
 
-# game/events_e.rpy:840
+# game/events_e.rpy:838
 translate italian d7_evening_e_a686c5ad:
 
     # mcthink "Hum... she's fallen asleep..."
     mcthink "Hum... si è addormentata..."
 
-# game/events_e.rpy:842
+# game/events_e.rpy:840
 translate italian d7_evening_e_98270c19:
 
     # mcthink "Looks like it hit her a bit harder then I'd have expected..."
     mcthink "Sembra che l'abbia colpita un po' più duramente di quanto mi sarei aspettato..."
 
-# game/events_e.rpy:843
+# game/events_e.rpy:841
 translate italian d7_evening_e_e4166c3e:
 
     # e "{size=-10}Hnnn...{/size}"
     e "{size=-10}Hnnn...{/size}"
 
-# game/events_e.rpy:844
+# game/events_e.rpy:842
 translate italian d7_evening_e_de54bd6f:
 
     # mc "...Cutie..."
     mc "...carino..."
 
-# game/events_e.rpy:845
+# game/events_e.rpy:843
 translate italian d7_evening_e_249dde85:
 
     # mcthink "I guess I should take her to bed..."
     mcthink "Credo che dovrei portarla a letto..."
 
-# game/events_e.rpy:851
+# game/events_e.rpy:849
 translate italian d7_evening_e_689bbee5:
 
     # mcthink "...she's so cute..."
     mcthink "...è così carina..."
 
-# game/events_e.rpy:856
+# game/events_e.rpy:854
 translate italian d7_evening_e_689bbee5_1:
 
     # mcthink "...she's so cute..."
     mcthink "...è così carina..."
 
-# game/events_e.rpy:859
+# game/events_e.rpy:857
 translate italian d7_evening_e_8b76ea0e:
 
     # mcthink "Well, I guess I should get some sleep too..."
     mcthink "Beh, credo che anch'io dovrei dormire un po'..."
 
-# game/events_e.rpy:860
+# game/events_e.rpy:858
 translate italian d7_evening_e_41792d1d:
 
     # mc "Good night, sweetie..."
     mc "Buonanotte, tesoro..."
 
-# game/events_e.rpy:869
+# game/events_e.rpy:867
 translate italian d8_etalk_ca928d31:
 
     # mc "Hey [e], there's something we should talk about."
     mc "Ehi [e], c'è qualcosa di cui dovremmo parlare."
 
-# game/events_e.rpy:871
+# game/events_e.rpy:869
 translate italian d8_etalk_bcdf8669:
 
     # mc "I'm sure [j] told you about her situation..."
     mc "Sono sicuro che [j] ti ha parlato della sua situazione..."
 
-# game/events_e.rpy:872
+# game/events_e.rpy:870
 translate italian d8_etalk_9bee5006:
 
     # e "Hn!"
     e "Hn!"
 
-# game/events_e.rpy:874
+# game/events_e.rpy:872
 translate italian d8_etalk_3f4e2618:
 
     # mc "Good... well I was thinking that... maybe she could live here for a while... with us."
     mc "Bene... stavo pensando che... forse potrebbe vivere qui per un po'... con noi."
 
-# game/events_e.rpy:875
+# game/events_e.rpy:873
 translate italian d8_etalk_1395e551:
 
     # e "HN!"
     e "HN!"
 
-# game/events_e.rpy:877
+# game/events_e.rpy:875
 translate italian d8_etalk_252f17df:
 
     # mc "Oh she told you about it already?"
     mc "Oh, te ne ha già parlato?"
 
-# game/events_e.rpy:878
+# game/events_e.rpy:876
 translate italian d8_etalk_587e6ebd:
 
     # e "Nhn!"
     e "Nhn!"
 
-# game/events_e.rpy:879
+# game/events_e.rpy:877
 translate italian d8_etalk_11e3c8ea:
 
     # mc "Ha, of course she did."
     mc "Certo che l'ha fatto."
 
-# game/events_e.rpy:881
+# game/events_e.rpy:879
 translate italian d8_etalk_81bedd9e:
 
     # mc "Well, I told her I'll ask [m], but I'm also asking you. I don't want her to live here if you're not okay with it..."
     mc "Beh, le ho detto che lo chiederò a [m], ma lo chiedo anche a te. Non voglio che viva qui se tu non sei d'accordo..."
 
-# game/events_e.rpy:882
+# game/events_e.rpy:880
 translate italian d8_etalk_10d0fccf:
 
     # mc "I know you're friends, but I also know that she can be a bit annoying at times, so if you don't want her to live here, you can tell me."
     mc "So che siete amici, ma so anche che a volte è un po' fastidiosa, quindi se non vuoi che viva qui, puoi dirmelo."
 
-# game/events_e.rpy:883
+# game/events_e.rpy:881
 translate italian d8_etalk_836b39ba:
 
     # mc "So, what do you think, should we let her live with us for a while?"
     mc "Allora, cosa ne pensi, dovremmo lasciarla vivere con noi per un po'?"
 
-# game/events_e.rpy:886
+# game/events_e.rpy:884
 translate italian d8_etalk_ea4c64ae:
 
     # e "Nnn!"
     e "Nnn!"
 
-# game/events_e.rpy:887
+# game/events_e.rpy:885
 translate italian d8_etalk_272b6391:
 
     # mc "Err... just to make sure, you're okay with her staying here?"
     mc "Ehm... solo per essere sicuri, ti va bene che rimanga qui?"
 
-# game/events_e.rpy:888
+# game/events_e.rpy:886
 translate italian d8_etalk_9a87cbd7:
 
     # e "HNNN!"
     e "HNNN!"
 
-# game/events_e.rpy:893
+# game/events_e.rpy:891
 translate italian d8_etalk_4892ad1e:
 
     # n "She nods in a very exaggerated way to make sure that you really get it."
     n "Lei annuisce in modo molto esagerato per assicurarsi che si ottiene davvero."
 
-# game/events_e.rpy:894
+# game/events_e.rpy:892
 translate italian d8_etalk_67756ae4:
 
     # mc "Haha, okay I get!"
     mc "Haha, ok ho capito!"
 
-# game/events_e.rpy:896
+# game/events_e.rpy:894
 translate italian d8_etalk_93227c0c:
 
     # e "Khehe."
     e "Khehe."
 
-# game/events_e.rpy:897
+# game/events_e.rpy:895
 translate italian d8_etalk_6476d8e4:
 
     # mc "So now we only have to convince [m]... which might not be so easy..."
     mc "Quindi ora dobbiamo solo convincere [m]... il che potrebbe non essere così facile..."
 
-# game/events_e.rpy:898
+# game/events_e.rpy:896
 translate italian d8_etalk_fbade8c1:
 
     # mc "You don't happen to know anything that could convince her?"
     mc "Non è che sa qualcosa che possa convincerla?"
 
-# game/events_e.rpy:900
+# game/events_e.rpy:898
 translate italian d8_etalk_de828ddd:
 
     # e "Hum..."
     e "Hum..."
 
-# game/events_e.rpy:903
+# game/events_e.rpy:901
 translate italian d8_etalk_2284960a:
 
     # e "Mwhaa"
     e "Mwhaa"
 
-# game/events_e.rpy:905
+# game/events_e.rpy:903
 translate italian d8_etalk_9e3ccd85:
 
     # mc "Wait a minute, that gives me an idea..."
     mc "Aspetta un attimo, questo mi dà un'idea..."
 
-# game/events_e.rpy:906
+# game/events_e.rpy:904
 translate italian d8_etalk_864f5fc2:
 
     # mc "I think I should go talk to [m] now, thanks [e]."
     mc "Penso che ora dovrei andare a parlare con [m] , grazie [e]."
 
-# game/events_e.rpy:907
+# game/events_e.rpy:905
 translate italian d8_etalk_93227c0c_1:
 
     # e "Khehe."
     e "Khehe."
 
-# game/events_e.rpy:914
+# game/events_e.rpy:912
 translate italian d9_ebathroom_5e052277:
 
     # mcthink "...time to get out."
     mcthink "...è ora di uscire."
 
-# game/events_e.rpy:918
+# game/events_e.rpy:916
 translate italian d9_ebathroom_4711d07b:
 
     # mcthink "Hm? [e]?"
     mcthink "Hm? [e]?"
 
-# game/events_e.rpy:920
+# game/events_e.rpy:918
 translate italian d9_ebathroom_72a33094:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:922
+# game/events_e.rpy:920
 translate italian d9_ebathroom_8b993db7:
 
     # mcthink "Doesn't she notice me?"
     mcthink "Non si accorge di me?"
 
-# game/events_e.rpy:926
+# game/events_e.rpy:924
 translate italian d9_ebathroom_ca3af21d:
 
     # mc "Ahem!"
     mc "Ahem!"
 
-# game/events_e.rpy:928
+# game/events_e.rpy:926
 translate italian d9_ebathroom_d593d4b0:
 
     # e "Eh?"
     e "Eh?"
 
-# game/events_e.rpy:929
+# game/events_e.rpy:927
 translate italian d9_ebathroom_03c093a1:
 
     # mc "Good morning [e]..."
     mc "Buongiorno [e]..."
 
-# game/events_e.rpy:933
+# game/events_e.rpy:931
 translate italian d9_ebathroom_0972c153:
 
     # mc "Erm..."
     mc "Ehm..."
 
-# game/events_e.rpy:936
+# game/events_e.rpy:934
 translate italian d9_ebathroom_d593d4b0_1:
 
     # e "Eh?"
     e "Eh?"
 
-# game/events_e.rpy:937
+# game/events_e.rpy:935
 translate italian d9_ebathroom_2e02e516:
 
     # mc "Morning [e], I was wondering when you'd notice me, haha."
     mc "Buongiorno [e], mi chiedevo quando ti saresti accorto di me, haha."
 
-# game/events_e.rpy:941
+# game/events_e.rpy:939
 translate italian d9_ebathroom_98805c19:
 
     # e "*Smooch*"
     e "*Smooch*"
 
-# game/events_e.rpy:946
+# game/events_e.rpy:944
 translate italian d9_ebathroom_07e7357b:
 
     # mcthink "Wow, she was still half asleep..."
     mcthink "Wow, era ancora mezza addormentata..."
 
-# game/events_e.rpy:948
+# game/events_e.rpy:946
 translate italian d9_ebathroom_2e41202a:
 
     # mcthink "Anyway, let's get ready for the day."
     mcthink "Comunque, prepariamoci per la giornata."
 
-# game/events_e.rpy:950
+# game/events_e.rpy:948
 translate italian d9_ebathroom_f0f72c75:
 
     # n "You get dressed and go to the living room where the others have already started their breakfast."
     n "Ti vesti e vai in salotto dove gli altri hanno già iniziato la loro colazione."
 
-# game/events_e.rpy:957
+# game/events_e.rpy:955
 translate italian d9_pcroom_e01_5984ed7b:
 
     # mcthink "Alright, I guess I should look for..."
     mcthink "Va bene, credo che dovrei cercare..."
 
-# game/events_e.rpy:959
+# game/events_e.rpy:957
 translate italian d9_pcroom_e01_134bdf68:
 
     # mcthink "Huh? What the..."
     mcthink "Eh? Ma che..."
 
-# game/events_e.rpy:960
+# game/events_e.rpy:958
 translate italian d9_pcroom_e01_90fb2234:
 
     # mc "[e]?"
     mc "[e]?"
 
-# game/events_e.rpy:961
+# game/events_e.rpy:959
 translate italian d9_pcroom_e01_589d6261:
 
     # mcthink "What's she doing?"
     mcthink "Cosa sta facendo?"
 
-# game/events_e.rpy:963
+# game/events_e.rpy:961
 translate italian d9_pcroom_e01_2fdf0376:
 
     # mc "[e] are you alright?"
     mc "[e] Stai bene?"
 
-# game/events_e.rpy:965
+# game/events_e.rpy:963
 translate italian d9_pcroom_e01_ceb2e0ba:
 
     # mcthink "Oh, I get it, she's trying to prank me again."
     mcthink "Oh, ho capito, sta cercando di farmi un altro scherzo."
 
-# game/events_e.rpy:967
+# game/events_e.rpy:965
 translate italian d9_pcroom_e01_dcd86f14:
 
     # mcthink "But not this time!"
     mcthink "Ma non questa volta!"
 
-# game/events_e.rpy:970
+# game/events_e.rpy:968
 translate italian d9_pcroom_e01_dcb4aec9:
 
     # n "*SMACK*"
     n "*SMACK*"
 
-# game/events_e.rpy:972
+# game/events_e.rpy:970
 translate italian d9_pcroom_e01_a03f5e6c:
 
     # e "WHAAA!"
     e "WHAAA!"
 
-# game/events_e.rpy:974
+# game/events_e.rpy:972
 translate italian d9_pcroom_e01_8aef7132:
 
     # mc "Haha, gotya!"
     mc "Haha, capito!"
 
-# game/events_e.rpy:975
+# game/events_e.rpy:973
 translate italian d9_pcroom_e01_cc8d0386:
 
     # e "HNN!"
     e "HNN!"
 
-# game/events_e.rpy:976
+# game/events_e.rpy:974
 translate italian d9_pcroom_e01_1eb5f038:
 
     # mc "What? Are you mad that I didn't fall for your little prank? You won't get me so easy anymore."
     mc "Cosa? Sei arrabbiato perché non sono caduto nel tuo scherzetto? Non mi fregherai più così facilmente."
 
-# game/events_e.rpy:978
+# game/events_e.rpy:976
 translate italian d9_pcroom_e01_b12a297a:
 
     # e "Mmmmm!"
     e "Mmmmm!"
 
-# game/events_e.rpy:979
+# game/events_e.rpy:977
 translate italian d9_pcroom_e01_693fdd56:
 
     # mc "Haha, you're cute."
     mc "Haha, sei carino."
 
-# game/events_e.rpy:981
+# game/events_e.rpy:979
 translate italian d9_pcroom_e01_3ca0f6e9:
 
     # mc "By the way, why are you wearing my shirt?"
     mc "A proposito, perché indossi la mia camicia?"
 
-# game/events_e.rpy:983
+# game/events_e.rpy:981
 translate italian d9_pcroom_e01_72a33094:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:984
+# game/events_e.rpy:982
 translate italian d9_pcroom_e01_d87588d8:
 
     # mc "Speak up young lady, or I'll have to..."
     mc "Parli più forte, signorina, o dovrò..."
 
-# game/events_e.rpy:986
+# game/events_e.rpy:984
 translate italian d9_pcroom_e01_65d69d96:
 
     # mc "Tickle you until you submit!" with hpunch
     mc "Solleticarvi finché non vi sottomettete!" with hpunch
 
-# game/events_e.rpy:988
+# game/events_e.rpy:986
 translate italian d9_pcroom_e01_b3a08e3e:
 
     # e "Wha..."
     e "Cosa..."
 
-# game/events_e.rpy:990
+# game/events_e.rpy:988
 translate italian d9_pcroom_e01_74a7a7ab:
 
     # e "Hahahahaha!"
     e "Hahahahahaha!"
 
-# game/events_e.rpy:991
+# game/events_e.rpy:989
 translate italian d9_pcroom_e01_d598c365:
 
     # mc "WHOA!"
     mc "WHOA!"
 
-# game/events_e.rpy:994
+# game/events_e.rpy:992
 translate italian d9_pcroom_e01_7b4b2ccf:
 
     # mc "Ouch..."
     mc "Ahi..."
 
-# game/events_e.rpy:996
+# game/events_e.rpy:994
 translate italian d9_pcroom_e01_5916f987:
 
     # e "Hnn..."
     e "Hnn..."
 
-# game/events_e.rpy:998
+# game/events_e.rpy:996
 translate italian d9_pcroom_e01_9b9d9591:
 
     # mcthink "Uff, she's heavier than she looks."
     mcthink "È più pesante di quanto sembri."
 
-# game/events_e.rpy:1000
+# game/events_e.rpy:998
 translate italian d9_pcroom_e01_609b26be:
 
     # e "Mmmmh..."
     e "Mmmmh..."
 
-# game/events_e.rpy:1002
+# game/events_e.rpy:1000
 translate italian d9_pcroom_e01_22ea82b8:
 
     # mc "Cutie..."
     mc "Carino..."
 
-# game/events_e.rpy:1004
+# game/events_e.rpy:1002
 translate italian d9_pcroom_e01_fb2e5377:
 
     # mc "Eh?"
     mc "Eh?"
 
-# game/events_e.rpy:1009
+# game/events_e.rpy:1007
 translate italian d9_pcroom_e01_943b6183:
 
     # mcthink "Oh damn!"
     mcthink "Oh, dannazione!"
 
-# game/events_e.rpy:1012
+# game/events_e.rpy:1010
 translate italian d9_pcroom_e01_aa040d63:
 
     # mc "Cute and hot!"
     mc "Carino e sexy!"
 
-# game/events_e.rpy:1016
+# game/events_e.rpy:1014
 translate italian d9_pcroom_e01_bf2f4cbd:
 
     # mcthink "Shit, first [j] and now [e] too?"
     mcthink "Merda, prima [j] e ora anche [e] ?"
 
-# game/events_e.rpy:1019
+# game/events_e.rpy:1017
 translate italian d9_pcroom_e01_83ecf350:
 
     # mcthink "Damn, okay, I'm rock hard again just from her grinding on it..."
     mcthink "Dannazione, ok, sono di nuovo duro solo grazie al suo strusciamento..."
 
-# game/events_e.rpy:1021
+# game/events_e.rpy:1019
 translate italian d9_pcroom_e01_33ff280b:
 
     # mcthink "Damn, I'm rock hard just from her grinding on it..."
     mcthink "Dannazione, sono duro come una roccia solo per il suo strusciamento..."
 
-# game/events_e.rpy:1023
+# game/events_e.rpy:1021
 translate italian d9_pcroom_e01_4aaa0914:
 
     # mc "Hmm, you're so beautiful, [e]."
     mc "Hmm, sei così bella, [e]."
 
-# game/events_e.rpy:1024
+# game/events_e.rpy:1022
 translate italian d9_pcroom_e01_be8d3b3c:
 
     # e "Khehe..."
     e "Khehe..."
 
-# game/events_e.rpy:1029
+# game/events_e.rpy:1027
 translate italian d9_pcroom_e01_72a33094_1:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1035
+# game/events_e.rpy:1033
 translate italian d9_pcroom_e01_120d67b0:
 
     # mcthink "Oh I know where this is going."
     mcthink "Oh, so dove si va a parare."
 
-# game/events_e.rpy:1036
+# game/events_e.rpy:1034
 translate italian d9_pcroom_e01_4c949a83:
 
     # mc "Give me that cute pussy!"
     mc "Dammi quella bella figa!"
 
-# game/events_e.rpy:1039
+# game/events_e.rpy:1037
 translate italian d9_pcroom_e01_2d458537:
 
     # mc "Look who's all excited already."
     mc "Guardate chi è già tutto eccitato."
 
-# game/events_e.rpy:1040
+# game/events_e.rpy:1038
 translate italian d9_pcroom_e01_069bf969:
 
     # e "*Smooch* kehehe."
     e "*Smooch* kehehe."
 
-# game/events_e.rpy:1042
+# game/events_e.rpy:1040
 translate italian d9_pcroom_e01_480e4b44:
 
     # n "[e] kisses the head of your dick and starts to suck it."
     n "[e] bacia la testa del tuo cazzo e inizia a succhiarlo."
 
-# game/events_e.rpy:1044
+# game/events_e.rpy:1042
 translate italian d9_pcroom_e01_1910c5a9:
 
     # n "[e] kisses your already moist slit and starts to lick your clit."
     n "[e] bacia la tua fessura già umida e inizia a leccare il tuo clitoride."
 
-# game/events_e.rpy:1045
+# game/events_e.rpy:1043
 translate italian d9_pcroom_e01_7f0c8c2e:
 
     # mcthink "Alright, time to taste that honey I guess."
     mcthink "Bene, è ora di assaggiare il miele, credo."
 
-# game/events_e.rpy:1048
+# game/events_e.rpy:1046
 translate italian d9_pcroom_e01_848a0e8e:
 
     # e "Hnnnn..."
     e "Hnnnn..."
 
-# game/events_e.rpy:1049
+# game/events_e.rpy:1047
 translate italian d9_pcroom_e01_dbde3c75:
 
     # mcthink "Wait, what's this taste?"
     mcthink "Aspetta, cos'è questo sapore?"
 
-# game/events_e.rpy:1050
+# game/events_e.rpy:1048
 translate italian d9_pcroom_e01_25a3d31f:
 
     # e "...nnnh."
     e "...nnh."
 
-# game/events_e.rpy:1051
+# game/events_e.rpy:1049
 translate italian d9_pcroom_e01_977ec534:
 
     # mcthink "This tastes like..."
     mcthink "Questo ha il sapore di..."
 
-# game/events_e.rpy:1053
+# game/events_e.rpy:1051
 translate italian d9_pcroom_e01_546ad35c:
 
     # mc "[e] did you smear honey onto your pussy?"
     mc "[e] Hai spalmato del miele sulla tua figa?"
 
-# game/events_e.rpy:1054
+# game/events_e.rpy:1052
 translate italian d9_pcroom_e01_d04c5a54:
 
     # e "Mhmm..."
     e "Mhmm..."
 
-# game/events_e.rpy:1055
+# game/events_e.rpy:1053
 translate italian d9_pcroom_e01_3565d6bb:
 
     # mc "Haha, you're crazy!"
     mc "Haha, sei pazzo!"
 
-# game/events_e.rpy:1056
+# game/events_e.rpy:1054
 translate italian d9_pcroom_e01_e66e62b7:
 
     # e "Khehehe!"
     e "Khehehe!"
 
-# game/events_e.rpy:1058
+# game/events_e.rpy:1056
 translate italian d9_pcroom_e01_372f6be7:
 
     # mcthink "Did she plan this together with [j]?"
     mcthink "L'ha pianificato insieme a [j]?"
 
-# game/events_e.rpy:1061
+# game/events_e.rpy:1059
 translate italian d9_pcroom_e01_bd01f82a:
 
     # mcthink "But if [j] knew about it, why did she want to go down on me first?"
     mcthink "Ma se [j] ne era a conoscenza, perché ha voluto fare sesso con me per prima?"
 
-# game/events_e.rpy:1063
+# game/events_e.rpy:1061
 translate italian d9_pcroom_e01_e87cca40:
 
     # mcthink "Naughty girls!"
     mcthink "Ragazze cattive!"
 
-# game/events_e.rpy:1070
+# game/events_e.rpy:1068
 translate italian d9_pcroom_e01_ecd29a3b:
 
     # mcthink "Damn, now she's giving it her all..."
     mcthink "Dannazione, ora sta dando il massimo..."
 
-# game/events_e.rpy:1072
+# game/events_e.rpy:1070
 translate italian d9_pcroom_e01_e7944f43:
 
     # mc "Oh shit, this feels great [e]!"
     mc "Oh merda, è una sensazione fantastica [e]!"
 
-# game/events_e.rpy:1073
+# game/events_e.rpy:1071
 translate italian d9_pcroom_e01_233e0bf2:
 
     # e "Hnnn... nnnnhnn!"
     e "Hnnn... nnnnn!"
 
-# game/events_e.rpy:1075
+# game/events_e.rpy:1073
 translate italian d9_pcroom_e01_c3ee7755:
 
     # e "Nnnnh... hnnn!"
     e "Nnnnh... hnnn!"
 
-# game/events_e.rpy:1076
+# game/events_e.rpy:1074
 translate italian d9_pcroom_e01_72884bb0:
 
     # mcthink "Oh damn, oh shit!"
     mcthink "Oh, dannazione, oh, merda!"
 
-# game/events_e.rpy:1084
+# game/events_e.rpy:1081
 translate italian d9_pcroom_e01_00140258:
 
     # mcthink "Shit, what is she..."
     mcthink "Merda, cosa sta..."
 
-# game/events_e.rpy:1086
+# game/events_e.rpy:1083
 translate italian d9_pcroom_e01_38d74f1a:
 
     # mcthink "Now she wants to ride me? Shit, I already almost came!"
     mcthink "Ora vuole cavalcarmi? Merda, sono già quasi venuto!"
 
-# game/events_e.rpy:1093
+# game/events_e.rpy:1090
 translate italian d9_pcroom_e01_5748521c:
 
     # e "Nhhh... haaa..."
     e "Nhhh... haaa..."
 
-# game/events_e.rpy:1094
+# game/events_e.rpy:1091
 translate italian d9_pcroom_e01_e5ac0958:
 
     # mcthink "Damn, I'm so close..."
     mcthink "Dannazione, sono così vicino..."
 
-# game/events_e.rpy:1103
+# game/events_e.rpy:1097
 translate italian d9_pcroom_e01_0a45a02d:
 
     # mc "Oh god, oh god... I'm gonna..."
     mc "Oh Dio, oh Dio... Sto per..."
 
-# game/events_e.rpy:1104
+# game/events_e.rpy:1098
 translate italian d9_pcroom_e01_9c0d642e:
 
     # e "HAAAA!" with flash
     e "HAAAA!" with flash
 
-# game/events_e.rpy:1112
+# game/events_e.rpy:1105
 translate italian d9_pcroom_e01_a6fa37ed:
 
     # e "Hnaaa, haaa, haaaaa!" with flash
     e "Hnaaa, haaa, haaaaa!" with flash
 
-# game/events_e.rpy:1123
+# game/events_e.rpy:1116
 translate italian d9_pcroom_e01_53d3cd71:
 
     # mc "Fuck..."
     mc "Cazzo..."
 
-# game/events_e.rpy:1127
+# game/events_e.rpy:1120
 translate italian d9_pcroom_e01_c5b8faf1:
 
     # mc "Hnnaaa..."
     mc "Hnnaaa..."
 
-# game/events_e.rpy:1129
+# game/events_e.rpy:1122
 translate italian d9_pcroom_e01_c19d5638:
 
     # e "*pant*..."
     e "*pant*..."
 
-# game/events_e.rpy:1130
+# game/events_e.rpy:1123
 translate italian d9_pcroom_e01_702040ca:
 
     # extend "*pant*"
     extend "*pant*"
 
-# game/events_e.rpy:1131
+# game/events_e.rpy:1124
 translate italian d9_pcroom_e01_d9d300ad:
 
     # mc "Damn..."
     mc "Dannazione..."
 
-# game/events_e.rpy:1133
+# game/events_e.rpy:1126
 translate italian d9_pcroom_e01_72a33094_2:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1134
+# game/events_e.rpy:1127
 translate italian d9_pcroom_e01_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/events_e.rpy:1135
+# game/events_e.rpy:1128
 translate italian d9_pcroom_e01_dfb8f8bc:
 
     # mc "I can still taste that honey..."
     mc "Sento ancora il sapore del miele..."
 
-# game/events_e.rpy:1137
+# game/events_e.rpy:1130
 translate italian d9_pcroom_e01_082bfa42:
 
     # e "Kehehehe..."
     e "Kehehehe..."
 
-# game/events_e.rpy:1139
+# game/events_e.rpy:1132
 translate italian d9_pcroom_e01_98805c19:
 
     # e "*Smooch*"
     e "*Smooch*"
 
-# game/events_e.rpy:1142
+# game/events_e.rpy:1135
 translate italian d9_pcroom_e01_10caec51:
 
     # n "You cuddle for a while until you remember that you wanted to question [m] about that woman you're supposed to know."
     n "Vi coccolate per un po', finché non vi ricordate che volevate interrogare [m] su quella donna che dovreste conoscere."
 
-# game/events_e.rpy:1143
+# game/events_e.rpy:1136
 translate italian d9_pcroom_e01_63a2e702:
 
     # mc "I'll be right back, [e]."
     mc "Torno subito, [e]."
 
-# game/events_e.rpy:1144
+# game/events_e.rpy:1137
 translate italian d9_pcroom_e01_3f6ea813:
 
     # e "Mhmm."
     e "Mhmm."
 
-# game/events_e.rpy:1150
+# game/events_e.rpy:1143
 translate italian d10eshow_3b5ad369:
 
     # mc "Hm? Where's [e]?"
     mc "Hm? Dov'è [e]?"
 
-# game/events_e.rpy:1151
+# game/events_e.rpy:1144
 translate italian d10eshow_a54d485b:
 
     # e "NYAAAAA!"
     e "NYAAAAA!"
 
-# game/events_e.rpy:1153
+# game/events_e.rpy:1146
 translate italian d10eshow_02dfb483:
 
     # mc "Wh...{w=.5}{nw}"
     mc "Wh...{w=.5}{nw}"
 
-# game/events_e.rpy:1155
+# game/events_e.rpy:1148
 translate italian d10eshow_c6f1863c:
 
     # mc "Whoa!"
     mc "Wow!"
 
-# game/events_e.rpy:1156
+# game/events_e.rpy:1149
 translate italian d10eshow_06e1f691:
 
     # j "Haha, I don't remember that being part of the plan, [e]."
     j "Haha, non ricordo che fa parte del piano, [e]."
 
-# game/events_e.rpy:1158
+# game/events_e.rpy:1151
 translate italian d10eshow_e66e62b7:
 
     # e "Khehehe!"
     e "Khehehe!"
 
-# game/events_e.rpy:1159
+# game/events_e.rpy:1152
 translate italian d10eshow_6ef43781:
 
     # mc "Damn... what are you guys up to?"
     mc "Dannazione... cosa state combinando?"
 
-# game/events_e.rpy:1161
+# game/events_e.rpy:1154
 translate italian d10eshow_fbb7ffce:
 
     # j "[e] wasn't sure what to wear today, so we decided to let you decide."
     j "[e] non era sicura di cosa indossare oggi, quindi abbiamo deciso di lasciar decidere a voi."
 
-# game/events_e.rpy:1162
+# game/events_e.rpy:1155
 translate italian d10eshow_faf363ba:
 
     # j "Though, I'm not so sure if that's still the plan, hehe."
     j "Anche se, non sono così sicuro se questo è ancora il piano, he."
 
-# game/events_e.rpy:1164
+# game/events_e.rpy:1157
 translate italian d10eshow_ca7f80d9:
 
     # e "Eh..."
     e "Eh..."
 
-# game/events_e.rpy:1166
+# game/events_e.rpy:1159
 translate italian d10eshow_61e271ca:
 
     # n "[e] gets up and you place yourself on the bed next to your old teddy bear..."
     n "[e] si alza e si mette sul letto accanto al suo vecchio orsacchiotto..."
 
-# game/events_e.rpy:1168
+# game/events_e.rpy:1161
 translate italian d10eshow_73bfdce0:
 
     # n "Seeing the old teddy again makes you think about old times before your mom died..." with dissolve
     n "Vedendo di nuovo il vecchio peluche ti fa pensare ai vecchi tempi prima che tua mamma morisca..." with dissolve
 
-# game/events_e.rpy:1169
+# game/events_e.rpy:1162
 translate italian d10eshow_3268304f:
 
     # mc "..." with dissolve
     mc "..." with dissolve
 
-# game/events_e.rpy:1170
+# game/events_e.rpy:1163
 translate italian d10eshow_688cad9a:
 
     # j "Hey, [e]..."
     j "Ehi, [e]..."
 
-# game/events_e.rpy:1172
+# game/events_e.rpy:1165
 translate italian d10eshow_3176312f:
 
     # j "...hurry up, [mc] is getting bored already!"
     j "...sbrigati, [mc] si sta già annoiando!"
 
-# game/events_e.rpy:1174
+# game/events_e.rpy:1167
 translate italian d10eshow_e16c645a:
 
     # mc "Huh? No I was just thinking about something..."
     mc "Eh? No, stavo solo pensando a qualcosa..."
 
-# game/events_e.rpy:1176
+# game/events_e.rpy:1169
 translate italian d10eshow_4d4db786:
 
     # j "Maybe you need to shake your ass a bit to get [hisher] attention, hehe."
     j "Forse devi scuotere un po' il culo per attirare l'attenzione di [hisher] , hehe."
 
-# game/events_e.rpy:1186
+# game/events_e.rpy:1179
 translate italian d10eshow_69996647:
 
     # mc "Haha, yes, I'm fully focused now!"
     mc "Haha, sì, ora sono completamente concentrato!"
 
-# game/events_e.rpy:1187
+# game/events_e.rpy:1180
 translate italian d10eshow_93227c0c:
 
     # e "Khehe."
     e "Khehe."
 
-# game/events_e.rpy:1188
+# game/events_e.rpy:1181
 translate italian d10eshow_0e4787b7:
 
     # j "Now hurry up, [e] before [heshe] loses concentration again!"
     j "Ora sbrigati, [e] prima che [heshe] perda di nuovo la concentrazione!"
 
-# game/events_e.rpy:1189
+# game/events_e.rpy:1182
 translate italian d10eshow_9bee5006:
 
     # e "Hn!"
     e "Hn!"
 
-# game/events_e.rpy:1192
+# game/events_e.rpy:1185
 translate italian d10eshow_328234f8:
 
     # j "Oh come on [e], that looks almost like your normal outfit!"
     j "Oh vieni su [e], che sembra quasi il tuo outfit normale!"
 
-# game/events_e.rpy:1198
+# game/events_e.rpy:1191
 translate italian d10eshow_7d3f0a17:
 
     # j "Show [himher] the next outfit, [e]."
     j "Mostra a [himher] il prossimo vestito, [e]."
 
-# game/events_e.rpy:1199
+# game/events_e.rpy:1192
 translate italian d10eshow_9bee5006_1:
 
     # e "Hn!"
     e "Hn!"
 
-# game/events_e.rpy:1202
+# game/events_e.rpy:1195
 translate italian d10eshow_10e0ed24:
 
     # j "Uhh, I like that one!"
     j "Uhh, mi piace quello!"
 
-# game/events_e.rpy:1208
+# game/events_e.rpy:1201
 translate italian d10eshow_60c72bfa:
 
     # j "Okay, next one, [e]."
     j "Ok, il prossimo, [e]."
 
-# game/events_e.rpy:1211
+# game/events_e.rpy:1204
 translate italian d10eshow_23987803:
 
     # j "Cuuuuute~"
     j "Cuuuuute~"
 
-# game/events_e.rpy:1216
+# game/events_e.rpy:1209
 translate italian d10eshow_a3f90caf:
 
     # j "I knew it, hehe!"
     j "Lo sapevo, lui!"
 
-# game/events_e.rpy:1220
+# game/events_e.rpy:1213
 translate italian d10eshow_d078077d:
 
     # j "Next one, [e]."
     j "Successivo, [e]."
 
-# game/events_e.rpy:1223
+# game/events_e.rpy:1216
 translate italian d10eshow_f5cfa47a:
 
     # j "Haha, we should do a cosplay together one time, [e]."
     j "Haha, dovremmo fare un cosplay insieme una volta, [e]."
 
-# game/events_e.rpy:1224
+# game/events_e.rpy:1217
 translate italian d10eshow_11a7ee4c:
 
     # j "Next one."
     j "Successivo."
 
-# game/events_e.rpy:1228
+# game/events_e.rpy:1221
 translate italian d10eshow_fd0c551d:
 
     # j "Aww, who's that now..."
     j "Aww, chi è quello ora..."
 
-# game/events_e.rpy:1230
+# game/events_e.rpy:1223
 translate italian d10eshow_5c10a83f:
 
     # mc "Damn, [m] is probably still under the shower..."
     mc "Dannazione, [m] è probabilmente ancora sotto la doccia..."
 
-# game/events_e.rpy:1232
+# game/events_e.rpy:1225
 translate italian d10eshow_32cd212d:
 
     # mc "Guess, I should open the door then. Why don't you choose the next outfit until I'm back?"
     mc "Immagino che dovrei aprire la porta, allora. Perché non scegli il prossimo vestito finché non torno?"
 
-# game/events_e.rpy:1234
+# game/events_e.rpy:1227
 translate italian d10eshow_76a9f2bd:
 
     # mc "By the way, I like this outfit most, [e]."
     mc "A proposito, mi piace soprattutto questo outfit, [e]."
 
-# game/events_e.rpy:1235
+# game/events_e.rpy:1228
 translate italian d10eshow_93227c0c_1:
 
     # e "Khehe."
     e "Khehe."
 
-# game/events_e.rpy:1240
+# game/events_e.rpy:1233
 translate italian d10eshow_a59e7505:
 
     # mc "Oh... [t]..."
     mc "Oh... [t]..."
 
-# game/events_e.rpy:1241
+# game/events_e.rpy:1234
 translate italian d10eshow_1758e38a:
 
     # mc "Right, you got a session with [e], right?"
     mc "Bene, hai una sessione con [e], giusto?"
 
-# game/events_e.rpy:1243
+# game/events_e.rpy:1236
 translate italian d10eshow_1bb01731:
 
     # t "..."
     t "..."
 
-# game/events_e.rpy:1245
+# game/events_e.rpy:1238
 translate italian d10eshow_0972c153:
 
     # mc "Erm..."
     mc "Ehm..."
 
-# game/events_e.rpy:1247
+# game/events_e.rpy:1240
 translate italian d10eshow_2963891b:
 
     # mc "Yeah it's nice to see you, too, why don't you just come in..."
     mc "Si', anche per me e' un piacere vederti, perche' non entri..."
 
-# game/events_e.rpy:1249
+# game/events_e.rpy:1242
 translate italian d10eshow_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/events_e.rpy:1250
+# game/events_e.rpy:1243
 translate italian d10eshow_c4e8c71d:
 
     # mc "Jeez, what's up with her again..."
     mc "Cavolo, cosa le succede di nuovo..."
 
-# game/events_e.rpy:1253
+# game/events_e.rpy:1246
 translate italian d10eshow_327daeaf:
 
     # mcthink "And here I thought she'd be a bit more... reasonable after yesterday..."
     mcthink "E io che pensavo che sarebbe stata un po' più... ragionevole dopo ieri..."
 
-# game/events_e.rpy:1254
+# game/events_e.rpy:1247
 translate italian d10eshow_0bfaa88d:
 
     # mcthink "She's like the prototype of a tsundere in manga..."
     mcthink "È il prototipo di tsundere nei manga..."
 
-# game/events_e.rpy:1255
+# game/events_e.rpy:1248
 translate italian d10eshow_424b170a:
 
     # mcthink "I wonder if she ever reads manga."
     mcthink "Mi chiedo se legge mai i manga."
 
-# game/events_e.rpy:1256
+# game/events_e.rpy:1249
 translate italian d10eshow_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/events_e.rpy:1257
+# game/events_e.rpy:1250
 translate italian d10eshow_fc4d4d75:
 
     # mcthink "Oh shit, I hope [e] got dressed in time!"
     mcthink "Oh merda, spero che [e] si sia vestito in tempo!"
 
-# game/events_e.rpy:1258
+# game/events_e.rpy:1251
 translate italian d10eshow_457c6f63:
 
     # mcthink "..."
     mcthink "..."
 
-# game/events_e.rpy:1266
+# game/events_e.rpy:1259
 translate italian d12founde_b12df24a:
 
     # j "This is the spot, and it looks like I was right."
     j "Questo è il posto e sembra che avessi ragione."
 
-# game/events_e.rpy:1269
+# game/events_e.rpy:1262
 translate italian d12founde_532bf210:
 
     # mc "Yeah, you were right."
     mc "Sì, avevi ragione."
 
-# game/events_e.rpy:1271
+# game/events_e.rpy:1264
 translate italian d12founde_630ea86c:
 
     # mc "Jeez, not now..."
     mc "Cavolo, non ora..."
 
-# game/events_e.rpy:1272
+# game/events_e.rpy:1265
 translate italian d12founde_8f7f5165:
 
     # mc "[m]?"
     mc "[m]?"
 
-# game/events_e.rpy:1275
+# game/events_e.rpy:1268
 translate italian d12founde_242ddf06:
 
     # mc "What's up, [mmom]?"
     mc "Come va, [mmom]?"
 
-# game/events_e.rpy:1276
+# game/events_e.rpy:1269
 translate italian d12founde_2da082c4:
 
     # m "Hey, Hun, uhm..."
     m "Ehi, Hun, uhm..."
 
-# game/events_e.rpy:1277
+# game/events_e.rpy:1270
 translate italian d12founde_420f93be:
 
     # m "...err..."
     m "...ehm..."
 
-# game/events_e.rpy:1278
+# game/events_e.rpy:1271
 translate italian d12founde_40f38c48:
 
     # m "...did you find [e]?"
     m "...hai trovato [e]?"
 
-# game/events_e.rpy:1280
+# game/events_e.rpy:1273
 translate italian d12founde_d17e1189:
 
     # mc "Yeah, we just found her, she's fine."
     mc "Sì, l'abbiamo appena trovata, sta bene."
 
-# game/events_e.rpy:1281
+# game/events_e.rpy:1274
 translate italian d12founde_2713c020:
 
     # m "Oh{cps=2}...{/cps} I mean, thank god!"
     m "Oh{cps=2}...{/cps} Voglio dire, grazie a Dio!"
 
-# game/events_e.rpy:1283
+# game/events_e.rpy:1276
 translate italian d12founde_23b3f239:
 
     # mc "\"Oh\"?"
     mc "\"Oh\"?"
 
-# game/events_e.rpy:1284
+# game/events_e.rpy:1277
 translate italian d12founde_69fbbc0a:
 
     # m "Uhm... well... I just called [oc]..."
     m "Uhm... beh... Ho appena chiamato [oc]..."
 
-# game/events_e.rpy:1286
+# game/events_e.rpy:1279
 translate italian d12founde_7219e6f6:
 
     # mc "[oc]!? But why?"
     mc "[oc]!? Ma perché?"
 
-# game/events_e.rpy:1287
+# game/events_e.rpy:1280
 translate italian d12founde_30495ff7:
 
     # m "I was worried [e] ran away again. I just couldn't sit still and do nothing."
     m "Ero preoccupato che [e] fosse scappato di nuovo. Non riuscivo a stare fermo e a non fare niente."
 
-# game/events_e.rpy:1289
+# game/events_e.rpy:1282
 translate italian d12founde_5d6aea14:
 
     # mc "But I told you it was just a minor argument, [mmom]."
     mc "Ma ti ho detto che era solo una piccola discussione, [mmom]."
 
-# game/events_e.rpy:1290
+# game/events_e.rpy:1283
 translate italian d12founde_03628af6:
 
     # m "I know, it's just..."
     m "Lo so, è solo..."
 
-# game/events_e.rpy:1291
+# game/events_e.rpy:1284
 translate italian d12founde_e612037c:
 
     # m "..."
     m "..."
 
-# game/events_e.rpy:1295
+# game/events_e.rpy:1288
 translate italian d12founde_7193f325:
 
     # mc "It's okay, [mmom], I can understand you."
     mc "Va bene, [mmom], posso capirti."
 
-# game/events_e.rpy:1296
+# game/events_e.rpy:1289
 translate italian d12founde_d569fad9:
 
     # m "Thanks, Hun..."
     m "Grazie, Hun..."
 
-# game/events_e.rpy:1298
+# game/events_e.rpy:1291
 translate italian d12founde_d1e70e05:
 
     # mc "[mmom], that was absolutely unnecessary. You should've just listened to me."
     mc "[mmom]Non era assolutamente necessario. Avresti dovuto ascoltarmi e basta."
 
-# game/events_e.rpy:1300
+# game/events_e.rpy:1293
 translate italian d12founde_cf976efa:
 
     # m "I-I know... I... I'm sorry, Hun."
     m "Lo so... I... Mi dispiace, Hun."
 
-# game/events_e.rpy:1302
+# game/events_e.rpy:1295
 translate italian d12founde_8ca3a3bc:
 
     # extend " I know I should've listened to you, I promise it won't happen again."
     extend " So che avrei dovuto ascoltarti, ti prometto che non succederà più."
 
-# game/events_e.rpy:1304
+# game/events_e.rpy:1297
 translate italian d12founde_7cea3671:
 
     # m "I know... I was just so worried... I overreacted..."
     m "Lo so... Ero così preoccupata... Ho reagito in modo eccessivo..."
 
-# game/events_e.rpy:1306
+# game/events_e.rpy:1299
 translate italian d12founde_aae147af:
 
     # m "I'll call [oc] again and tell him that you found her... and..."
     m "Chiamerò di nuovo [oc] e gli dirò che l'hai trovata... e..."
 
-# game/events_e.rpy:1307
+# game/events_e.rpy:1300
 translate italian d12founde_64ec0f12:
 
     # m "...please don't tell [e] that I reacted like that."
     m "...per favore non dire a [e] che ho reagito così."
 
-# game/events_e.rpy:1308
+# game/events_e.rpy:1301
 translate italian d12founde_9c066d4d:
 
     # mc "Okay... we'll be back soon."
     mc "Ok... torneremo presto."
 
-# game/events_e.rpy:1310
+# game/events_e.rpy:1303
 translate italian d12founde_aec6737f:
 
     # mcthink "Wow, I didn't expect her to be so worried..."
     mcthink "Wow, non mi aspettavo che fosse così preoccupata..."
 
-# game/events_e.rpy:1311
+# game/events_e.rpy:1304
 translate italian d12founde_5c947442:
 
     # j "What happened?"
     j "Che cosa è successo?"
 
-# game/events_e.rpy:1313
+# game/events_e.rpy:1306
 translate italian d12founde_c05eba5c:
 
     # mc "Err... well, nothing special, [m] was just worried."
     mc "Ehm... beh, niente di speciale, [m] era solo preoccupato."
 
-# game/events_e.rpy:1315
+# game/events_e.rpy:1308
 translate italian d12founde_e87529f8:
 
     # j "Oh, okay..."
     j "Oh, ok..."
 
-# game/events_e.rpy:1317
+# game/events_e.rpy:1310
 translate italian d12founde_5d890138:
 
     # mc "Looks like [e] didn't notice us, yet..."
     mc "Sembra che [e] non si sia ancora accorto di noi..."
 
-# game/events_e.rpy:1319
+# game/events_e.rpy:1312
 translate italian d12founde_eea6e5a9:
 
     # mc "Alright, I guess it's better if I talk to her alone."
     mc "Va bene, credo che sia meglio se le parlo da solo."
 
-# game/events_e.rpy:1321
+# game/events_e.rpy:1314
 translate italian d12founde_7d0fdebe:
 
     # j "Yeah, I'll leave you to it."
     j "Sì, ti lascio fare."
 
-# game/events_e.rpy:1323
+# game/events_e.rpy:1316
 translate italian d12founde_5088a5e5:
 
     # mc "Thanks, [j]."
     mc "Grazie, [j]."
 
-# game/events_e.rpy:1326
+# game/events_e.rpy:1319
 translate italian d12founde_81815153:
 
     # mcthink "I wonder what she's thinking..."
     mcthink "Mi chiedo cosa stia pensando..."
 
-# game/events_e.rpy:1328
+# game/events_e.rpy:1321
 translate italian d12founde_d83dcc7d:
 
     # mc "[e]."
     mc "[e]."
 
-# game/events_e.rpy:1330
+# game/events_e.rpy:1323
 translate italian d12founde_72a33094:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1331
+# game/events_e.rpy:1324
 translate italian d12founde_5db35a38:
 
     # mc "Why did you run away, [e]? Why don't you talk to me?"
     mc "Perché sei scappato, [e]? Perché non mi parli?"
 
-# game/events_e.rpy:1332
+# game/events_e.rpy:1325
 translate italian d12founde_72a33094_1:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1333
+# game/events_e.rpy:1326
 translate italian d12founde_7d6aef6d:
 
     # mc "Look, I don't know why you don't want to talk to me, but the cat is out of the bag now. I know you can talk, so what's the point of keep being silent?"
     mc "Senti, non so perché non vuoi parlarmi, ma ormai il gatto è fuori dal sacco. So che puoi parlare, quindi che senso ha continuare a tacere?"
 
-# game/events_e.rpy:1334
+# game/events_e.rpy:1327
 translate italian d12founde_72a33094_2:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1335
+# game/events_e.rpy:1328
 translate italian d12founde_c01e1149:
 
     # mcthink "Hmm, she still doesn't want to talk to me..."
     mcthink "Hmm, non vuole ancora parlarmi..."
 
-# game/events_e.rpy:1336
+# game/events_e.rpy:1329
 translate italian d12founde_72a33094_3:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1338
+# game/events_e.rpy:1331
 translate italian d12founde_62185db9:
 
     # mc "Alright, alright..."
     mc "Va bene, va bene..."
 
-# game/events_e.rpy:1340
+# game/events_e.rpy:1333
 translate italian d12founde_2f792493:
 
     # mc "I know you wanted me to stay, so I'll just sit here and shut up."
     mc "So che volevi che restassi, quindi me ne starò qui seduto e zitto."
 
-# game/events_e.rpy:1342
+# game/events_e.rpy:1335
 translate italian d12founde_db89f17e:
 
     # mc "Let's both be silent..."
     mc "Facciamo entrambi silenzio..."
 
-# game/events_e.rpy:1344
+# game/events_e.rpy:1337
 translate italian d12founde_72a33094_4:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1345
+# game/events_e.rpy:1338
 translate italian d12founde_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/events_e.rpy:1347
+# game/events_e.rpy:1340
 translate italian d12founde_5e674c82:
 
     # mcthink "Hrm... why doesn't she talk to me?"
     mcthink "Perché non mi parla?"
 
-# game/events_e.rpy:1349
+# game/events_e.rpy:1342
 translate italian d12founde_457c6f63:
 
     # mcthink "..."
     mcthink "..."
 
-# game/events_e.rpy:1350
+# game/events_e.rpy:1343
 translate italian d12founde_67b3e392:
 
     # mcthink "This area... I haven't been here since I was a child..."
     mcthink "Questa zona... Non vengo qui da quando ero bambino..."
 
-# game/events_e.rpy:1351
+# game/events_e.rpy:1344
 translate italian d12founde_627669d7:
 
     # mcthink "It used to be way above the water... then it got flooded after they built the dam, and now it's a marsh..."
     mcthink "Una volta era molto al di sopra dell'acqua... poi è stato allagato dopo la costruzione della diga, e ora è una palude..."
 
-# game/events_e.rpy:1352
+# game/events_e.rpy:1345
 translate italian d12founde_57dedef6:
 
     # mcthink "I wonder if [e] knows about any of it."
     mcthink "Mi chiedo se [e] ne sia a conoscenza."
 
-# game/events_e.rpy:1353
+# game/events_e.rpy:1346
 translate italian d12founde_163bd0d7:
 
     # e "You just left."
     e "Te ne sei appena andato."
 
-# game/events_e.rpy:1355
+# game/events_e.rpy:1348
 translate italian d12founde_05500ff6:
 
     # mc "Huh?"
     mc "Eh?"
 
-# game/events_e.rpy:1356
+# game/events_e.rpy:1349
 translate italian d12founde_72a33094_5:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1358
+# game/events_e.rpy:1351
 translate italian d12founde_948b5791:
 
     # e "You didn't even say goodbye..."
     e "Non mi hai nemmeno salutato..."
 
-# game/events_e.rpy:1360
+# game/events_e.rpy:1353
 translate italian d12founde_dab90c03:
 
     # mc "Is that why you didn't want to talk to me?"
     mc "È per questo che non volevi parlarmi?"
 
-# game/events_e.rpy:1361
+# game/events_e.rpy:1354
 translate italian d12founde_72a33094_6:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1362
+# game/events_e.rpy:1355
 translate italian d12founde_78688855:
 
     # mc "Look, I'm sorry. It was..."
     mc "Senti, mi dispiace. E' stato..."
 
-# game/events_e.rpy:1364
+# game/events_e.rpy:1357
 translate italian d12founde_1c71e874:
 
     # mc "... it was... well, you know the circumstances..."
     mc "... è stato... beh, conoscete le circostanze..."
 
-# game/events_e.rpy:1366
+# game/events_e.rpy:1359
 translate italian d12founde_f370e1c8:
 
     # mc "I know I shouldn't have just left without a word, I know I should've told you, but I was young, I was angry, I was desperate, I just didn't know any better way."
     mc "So che non avrei dovuto andarmene senza dire una parola, so che avrei dovuto dirtelo, ma ero giovane, ero arrabbiata, ero disperata, non conoscevo un modo migliore."
 
-# game/events_e.rpy:1367
+# game/events_e.rpy:1360
 translate italian d12founde_0dd6c55c:
 
     # e "I..."
     e "Io..."
 
-# game/events_e.rpy:1371
+# game/events_e.rpy:1364
 translate italian d12founde_4caf6306:
 
     # e "I missed you..."
     e "Mi sei mancato..."
 
-# game/events_e.rpy:1373
+# game/events_e.rpy:1366
 translate italian d12founde_377b7f9b:
 
     # mc "I'm sorry, [e]."
     mc "Mi dispiace, [e]."
 
-# game/events_e.rpy:1374
+# game/events_e.rpy:1367
 translate italian d12founde_72a33094_7:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1376
+# game/events_e.rpy:1369
 translate italian d12founde_7430a1e3:
 
     # e "I wanted to talk to you..."
     e "Volevo parlarti..."
 
-# game/events_e.rpy:1378
+# game/events_e.rpy:1371
 translate italian d12founde_b60ecc88:
 
     # mc "But you wanted to know if I'd stay..."
     mc "Ma volevi sapere se sarei rimasto..."
 
-# game/events_e.rpy:1380
+# game/events_e.rpy:1373
 translate italian d12founde_ffce2520:
 
     # e "I needed to be sure..."
     e "Dovevo essere sicuro..."
 
-# game/events_e.rpy:1382
+# game/events_e.rpy:1375
 translate italian d12founde_6b6945bc:
 
     # e "...but then..."
     e "...ma poi..."
 
-# game/events_e.rpy:1384
+# game/events_e.rpy:1377
 translate italian d12founde_72a33094_8:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1385
+# game/events_e.rpy:1378
 translate italian d12founde_e4becfc3:
 
     # mc "Then what? What happened?"
     mc "E poi? Cosa è successo?"
 
-# game/events_e.rpy:1387
+# game/events_e.rpy:1380
 translate italian d12founde_cc6176e3:
 
     # e "I... I got scared about what you'd think of me, if I told you it was all just a lie..."
     e "I... Ho avuto paura di quello che avresti pensato di me, se ti avessi detto che era solo una bugia..."
 
-# game/events_e.rpy:1388
+# game/events_e.rpy:1381
 translate italian d12founde_b49c82a8:
 
     # e "I thought you might leave again if I told you..."
     e "Pensavo che te ne saresti andato di nuovo se te l'avessi detto..."
 
-# game/events_e.rpy:1390
+# game/events_e.rpy:1383
 translate italian d12founde_4cc6327f:
 
     # e "I don't want you to leave..."
     e "Non voglio che tu te ne vada..."
 
-# game/events_e.rpy:1392
+# game/events_e.rpy:1385
 translate italian d12founde_861b8df0:
 
     # mc "I already told you I won't leave. I have a good job here, and it looks like [m] really has changed, so, I guess it's time to let the past be the past..."
     mc "Ti ho già detto che non me ne andrò. Ho un buon lavoro qui, e sembra che [m] sia davvero cambiato, quindi, credo sia ora di lasciare che il passato sia passato..."
 
-# game/events_e.rpy:1393
+# game/events_e.rpy:1386
 translate italian d12founde_bfaa4279:
 
     # mc "... and that aside you're the only family I have left."
     mc "... e a parte questo siete l'unica famiglia che mi è rimasta."
 
-# game/events_e.rpy:1395
+# game/events_e.rpy:1388
 translate italian d12founde_14329d51:
 
     # e "You aren't mad at me?"
     e "Non sei arrabbiato con me?"
 
-# game/events_e.rpy:1397
+# game/events_e.rpy:1390
 translate italian d12founde_fa47f9b7:
 
     # mc "Not really... a bit disappointed... but I guess I kinda deserved it."
     mc "Non proprio... un po' deluso... ma credo di essermelo meritato."
 
-# game/events_e.rpy:1399
+# game/events_e.rpy:1392
 translate italian d12founde_eb4c8c60:
 
     # e "I'm sorry..."
     e "Mi dispiace..."
 
-# game/events_e.rpy:1401
+# game/events_e.rpy:1394
 translate italian d12founde_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/events_e.rpy:1403
+# game/events_e.rpy:1396
 translate italian d12founde_7a9c7117:
 
     # e "Unn..."
     e "Non..."
 
-# game/events_e.rpy:1405
+# game/events_e.rpy:1398
 translate italian d12founde_5554e5fc:
 
     # mc "Whoa, [e] watch out!"
     mc "Whoa, [e] attenzione!"
 
-# game/events_e.rpy:1410
+# game/events_e.rpy:1403
 translate italian d12founde_a7d23cfc:
 
     # mc "Ugh... are you okay, [e]?"
     mc "Stai bene, [e]?"
 
-# game/events_e.rpy:1412
+# game/events_e.rpy:1405
 translate italian d12founde_93f8632f:
 
     # e "Egh..."
     e "Egh..."
 
-# game/events_e.rpy:1414
+# game/events_e.rpy:1407
 translate italian d12founde_9bee5006:
 
     # e "Hn!"
     e "Hn!"
 
-# game/events_e.rpy:1416
+# game/events_e.rpy:1409
 translate italian d12founde_52c5726e:
 
     # mc "Hn? Are you falling back to being silent again?"
     mc "Hn? Stai tornando a essere silenzioso?"
 
-# game/events_e.rpy:1418
+# game/events_e.rpy:1411
 translate italian d12founde_9d7d0855:
 
     # e "Eh... s-sorry, I'm just not used to talking much..."
     e "Eh... scusate, ma non sono abituato a parlare molto..."
 
-# game/events_e.rpy:1421
+# game/events_e.rpy:1414
 translate italian d12founde_6722b901:
 
     # mc "Nngh... You really only talk to [j], don't you?"
     mc "Nngh... Parli davvero solo con [j], vero?"
 
-# game/events_e.rpy:1423
+# game/events_e.rpy:1416
 translate italian d12founde_72a33094_9:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1425
+# game/events_e.rpy:1418
 translate italian d12founde_2d91591f:
 
     # mc "Why did you stop talking anyway?"
     mc "Perché hai smesso di parlare?"
 
-# game/events_e.rpy:1427
+# game/events_e.rpy:1420
 translate italian d12founde_3f88a4cf:
 
     # e "I... don't know..."
     e "Io... non lo so..."
 
-# game/events_e.rpy:1429
+# game/events_e.rpy:1422
 translate italian d12founde_9a364fd1:
 
     # mc "You don't know?"
     mc "Non lo sai?"
 
-# game/events_e.rpy:1431
+# game/events_e.rpy:1424
 translate italian d12founde_4bb1b0d9:
 
     # e "I... for a while I wasn't able to speak... I think..."
     e "Io... per un po' non sono stato in grado di parlare... Credo..."
 
-# game/events_e.rpy:1433
+# game/events_e.rpy:1426
 translate italian d12founde_5f427bc2:
 
     # mc "You think? You're not sure?"
     mc "Credi? Non sei sicuro?"
 
-# game/events_e.rpy:1435
+# game/events_e.rpy:1428
 translate italian d12founde_46e508b3:
 
     # e "It's been so long... for a while I really thought I can't speak, I hadn't said anything for a long time, but one day I just blurped out some words and realized I could talk again..."
     e "È passato così tanto tempo... per un po' ho pensato davvero di non riuscire a parlare, non ho detto nulla per molto tempo, ma un giorno ho buttato giù qualche parola e ho capito che potevo parlare di nuovo..."
 
-# game/events_e.rpy:1437
+# game/events_e.rpy:1430
 translate italian d12founde_880b86ef:
 
     # mc "Do you remember what happened that day when you went missing?"
     mc "Ricorda cosa è successo quel giorno in cui è scomparsa?"
 
-# game/events_e.rpy:1439
+# game/events_e.rpy:1432
 translate italian d12founde_c7ff2f69:
 
     # e "Uh-nh..."
     e "Uh-nh..."
 
-# game/events_e.rpy:1441
+# game/events_e.rpy:1434
 translate italian d12founde_427520df:
 
     # e "I... all I remember is seeing a white light..."
     e "Io... ricordo solo di aver visto una luce bianca..."
 
-# game/events_e.rpy:1443
+# game/events_e.rpy:1436
 translate italian d12founde_b95ae7cf:
 
     # mc "A white light?"
     mc "Una luce bianca?"
 
-# game/events_e.rpy:1445
+# game/events_e.rpy:1438
 translate italian d12founde_b31df3a4:
 
     # e "Uh-huh... like headlights of a car."
     e "Come i fari di un'auto."
 
-# game/events_e.rpy:1447
+# game/events_e.rpy:1440
 translate italian d12founde_9526c46b:
 
     # mc "A car, huh. Do you think you got hit by it?"
     mc "Una macchina, eh. Pensi di essere stato investito?"
 
-# game/events_e.rpy:1449
+# game/events_e.rpy:1442
 translate italian d12founde_de82b08f:
 
     # e "Uh-uh... I don't think so."
     e "Non credo proprio."
 
-# game/events_e.rpy:1451
+# game/events_e.rpy:1444
 translate italian d12founde_282e63c1:
 
     # mc "Oh, right, [m] mentioned that doctors checked you when they found you..."
     mc "Oh, giusto, [m] ha detto che i dottori ti hanno controllato quando ti hanno trovato..."
 
-# game/events_e.rpy:1453
+# game/events_e.rpy:1446
 translate italian d12founde_8ac64678:
 
     # e "Hn."
     e "Hn."
 
-# game/events_e.rpy:1455
+# game/events_e.rpy:1448
 translate italian d12founde_e55a8818:
 
     # mc "Anything else you remember?"
     mc "Ricorda qualcos'altro?"
 
-# game/events_e.rpy:1457
+# game/events_e.rpy:1450
 translate italian d12founde_ca035141:
 
     # e "I don't know... it was late... it was dark..."
     e "Non lo so... era tardi... era buio..."
 
-# game/events_e.rpy:1459
+# game/events_e.rpy:1452
 translate italian d12founde_3ba82c8b:
 
     # e "I was getting cold..."
     e "Mi stavo raffreddando..."
 
-# game/events_e.rpy:1461
+# game/events_e.rpy:1454
 translate italian d12founde_4bf3a0a8:
 
     # e "I was walking on a street, then the light... that's all I remember."
     e "Stavo camminando su una strada, poi la luce... è tutto ciò che ricordo."
 
-# game/events_e.rpy:1463
+# game/events_e.rpy:1456
 translate italian d12founde_8fea2db2:
 
     # mc "Hmm..."
     mc "Hmm..."
 
-# game/events_e.rpy:1465
+# game/events_e.rpy:1458
 translate italian d12founde_238d90b9:
 
     # e "You won't tell Mom, right?"
     e "Non lo dirai alla mamma, vero?"
 
-# game/events_e.rpy:1467
+# game/events_e.rpy:1460
 translate italian d12founde_0ea927a7:
 
     # mc "[m]? She really doesn't know?"
     mc "[m]? Davvero non lo sa?"
 
-# game/events_e.rpy:1469
+# game/events_e.rpy:1462
 translate italian d12founde_338e0c12:
 
     # e "Uh-uh."
     e "Ah-ah."
 
-# game/events_e.rpy:1471
+# game/events_e.rpy:1464
 translate italian d12founde_2f3f7cb7:
 
     # mc "But why? Why didn't you tell her? I doubt you've just started talking a few days ago."
     mc "Ma perché? Perché non glielo hai detto? Dubito che abbiate iniziato a parlare solo pochi giorni fa."
 
-# game/events_e.rpy:1473
+# game/events_e.rpy:1466
 translate italian d12founde_72a33094_10:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1475
+# game/events_e.rpy:1468
 translate italian d12founde_b6bbb0fe:
 
     # mc "[e] you need to tell her! She's your mother!"
     mc "[e] devi dirglielo! Lei è tua madre!"
 
-# game/events_e.rpy:1477
+# game/events_e.rpy:1470
 translate italian d12founde_8ce5b6cf:
 
     # e "I know!"
     e "Lo so!"
 
-# game/events_e.rpy:1479
+# game/events_e.rpy:1472
 translate italian d12founde_d4993d94:
 
     # e "But..."
     e "Ma..."
 
-# game/events_e.rpy:1481
+# game/events_e.rpy:1474
 translate italian d12founde_3cfcf66d:
 
     # e "If she knew I was able to talk all this time..."
     e "Se sapesse che sono stato in grado di parlare per tutto questo tempo..."
 
-# game/events_e.rpy:1483
+# game/events_e.rpy:1476
 translate italian d12founde_72a33094_11:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1485
+# game/events_e.rpy:1478
 translate italian d12founde_8ba44c7b:
 
     # mc "How long have you been able to talk again?"
     mc "Da quanto tempo è in grado di parlare di nuovo?"
 
-# game/events_e.rpy:1487
+# game/events_e.rpy:1480
 translate italian d12founde_9aac9d76:
 
     # e "... three or four years I think..."
     e "... tre o quattro anni, credo..."
 
-# game/events_e.rpy:1489
+# game/events_e.rpy:1482
 translate italian d12founde_5e4ae1b4:
 
     # mc "Really?! And you haven't ever talked to [m] since then?"
     mc "Davvero?! E da allora non hai più parlato con [m] ?"
 
-# game/events_e.rpy:1491
+# game/events_e.rpy:1484
 translate italian d12founde_72a33094_12:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1493
+# game/events_e.rpy:1486
 translate italian d12founde_b47472ea:
 
     # mc "[e]..."
     mc "[e]..."
 
-# game/events_e.rpy:1495
+# game/events_e.rpy:1488
 translate italian d12founde_75d38b76:
 
     # e "She made you leave! It was her fault!"
     e "Ti ha costretto ad andartene! E' stata colpa sua!"
 
-# game/events_e.rpy:1497
+# game/events_e.rpy:1490
 translate italian d12founde_f7611903:
 
     # mc "She's changed, [e], you know that better than anybody else, don't you? ...and I know you care about her."
     mc "È cambiata, [e], lo sai meglio di chiunque altro, vero? ...e so che tieni a lei."
 
-# game/events_e.rpy:1499
+# game/events_e.rpy:1492
 translate italian d12founde_1ab9e770:
 
     # e "I do..."
     e "Io..."
 
-# game/events_e.rpy:1501
+# game/events_e.rpy:1494
 translate italian d12founde_6dbf29b9:
 
     # mc "Look, I can forget about the past, and I think you can do it too, don't you think?"
     mc "Io riesco a dimenticare il passato e credo che anche lei possa farlo, non crede?"
 
-# game/events_e.rpy:1503
+# game/events_e.rpy:1496
 translate italian d12founde_b3e547fa:
 
     # e "It's... not only that... I just don't know how to tell her..."
     e "E'... non solo... Non so come dirglielo..."
 
-# game/events_e.rpy:1505
+# game/events_e.rpy:1498
 translate italian d12founde_b4a084ac:
 
     # e "You've been disappointed I didn't talk to you for a few days, but for her it's been years."
     e "Tu sei rimasto deluso dal fatto che non ti abbia parlato per qualche giorno, ma per lei sono passati anni."
 
-# game/events_e.rpy:1507
+# game/events_e.rpy:1500
 translate italian d12founde_4ebfb5a1:
 
     # mc "I get that you don't want to hurt her feelings, but I'm sure she'd just be happy to hear you talk again."
     mc "Capisco che non vuoi ferire i suoi sentimenti, ma sono sicura che sarebbe felice di sentirti parlare di nuovo."
 
-# game/events_e.rpy:1509
+# game/events_e.rpy:1502
 translate italian d12founde_95027ac7:
 
     # e "No, I mean... she's been through so much... your dad... the alcohol... the therapy..."
     e "No, voglio dire... ne ha passate tante... tuo padre... l'alcol... la terapia..."
 
-# game/events_e.rpy:1511
+# game/events_e.rpy:1504
 translate italian d12founde_52dafab9:
 
     # e "I'm scared of what telling her might do to her... to her psyche."
     e "Ho paura di quello che potrebbe farle dire... alla sua psiche."
 
-# game/events_e.rpy:1513
+# game/events_e.rpy:1506
 translate italian d12founde_8fea2db2_1:
 
     # mc "Hmm..."
     mc "Hmm..."
 
-# game/events_e.rpy:1514
+# game/events_e.rpy:1507
 translate italian d12founde_429990d1:
 
     # mcthink "I can understand her concerns... [m] has changed, and she might even be able to discontinue using the pills, but her mind is still somewhat fragile..."
     mcthink "Posso capire le sue preoccupazioni... [m] è cambiata e potrebbe anche essere in grado di smettere di usare le pillole, ma la sua mente è ancora un po' fragile..."
 
-# game/events_e.rpy:1515
+# game/events_e.rpy:1508
 translate italian d12founde_dce920d4:
 
     # mcthink "Maybe I should talk to [t]... she's a trained psychologist after all. That reminds me..."
     mcthink "Forse dovrei parlare con [t]... dopotutto è una psicologa esperta. Questo mi ricorda che..."
 
-# game/events_e.rpy:1517
+# game/events_e.rpy:1510
 translate italian d12founde_e13a1979:
 
     # mc "By the way, could it be that you've been talking to [t] at some point?"
     mc "A proposito, è possibile che tu abbia parlato con [t] a un certo punto?"
 
-# game/events_e.rpy:1519
+# game/events_e.rpy:1512
 translate italian d12founde_7406841e:
 
     # e "Err..."
     e "Ehm..."
 
-# game/events_e.rpy:1521
+# game/events_e.rpy:1514
 translate italian d12founde_6118e94a:
 
     # e "A few words... at the beginning..."
     e "Qualche parola... all'inizio..."
 
-# game/events_e.rpy:1523
+# game/events_e.rpy:1516
 translate italian d12founde_89160b2e:
 
     # mc "I thought so. Why did you stop? Because you don't like her?"
     mc "Lo immaginavo. Perché hai smesso? Perché non ti piace?"
 
-# game/events_e.rpy:1525
+# game/events_e.rpy:1518
 translate italian d12founde_5d25027a:
 
     # e "No..."
     e "No..."
 
-# game/events_e.rpy:1527
+# game/events_e.rpy:1520
 translate italian d12founde_3c703554:
 
     # e "She always wanted me to practice this and that... tried to make me talk..."
     e "Voleva sempre che praticassi questo e quello... cercava di farmi parlare..."
 
-# game/events_e.rpy:1529
+# game/events_e.rpy:1522
 translate italian d12founde_9ee4962b:
 
     # e "...when she noticed I {b}can{/b} talk, she tried even more, it was so annoying..."
     e "...quando si è accorta che {b}so parlare, ci ha provato ancora di più, era così fastidioso..."
 
-# game/events_e.rpy:1531
+# game/events_e.rpy:1524
 translate italian d12founde_72a33094_13:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1533
+# game/events_e.rpy:1526
 translate italian d12founde_cb490328:
 
     # e "I don't like to talk much..."
     e "Non mi piace parlare molto..."
 
-# game/events_e.rpy:1535
+# game/events_e.rpy:1528
 translate italian d12founde_e04be80d:
 
     # mc "But you should at least talk to the people close to you, [e]. Being quiet all the time can cause a lot of trouble, but I'm sure you know that better than anyone."
     mc "Ma dovresti almeno parlare con le persone che ti sono vicine, [e]. Essere sempre silenziosi può causare molti problemi, ma sono sicuro che lo sapete meglio di chiunque altro."
 
-# game/events_e.rpy:1537
+# game/events_e.rpy:1530
 translate italian d12founde_e8cdee2a:
 
     # e "But even when you talk, people don't understand, they don't listen. They rather hear what they want."
     e "Ma anche quando si parla, la gente non capisce, non ascolta. Preferiscono sentire ciò che vogliono."
 
-# game/events_e.rpy:1539
+# game/events_e.rpy:1532
 translate italian d12founde_1e1789cb:
 
     # e "I don't want to talk to people..."
     e "Non voglio parlare con le persone..."
 
-# game/events_e.rpy:1541
+# game/events_e.rpy:1534
 translate italian d12founde_804d9637:
 
     # mc "But you talk to [j]... and me now."
     mc "Ma tu parli con [j]... e con me adesso."
 
-# game/events_e.rpy:1543
+# game/events_e.rpy:1536
 translate italian d12founde_d6faa8fa:
 
     # e "That's different... and [t]... I don't hate her, I just wanted her to leave me alone, so I stopped talking to her."
     e "Questo è diverso... e [t]... Non la odio, volevo solo che mi lasciasse in pace, così ho smesso di parlarle."
 
-# game/events_e.rpy:1545
+# game/events_e.rpy:1538
 translate italian d12founde_457883fa:
 
     # mc "Well, that didn't work out, did it?"
     mc "Beh, non ha funzionato, vero?"
 
-# game/events_e.rpy:1547
+# game/events_e.rpy:1540
 translate italian d12founde_72a33094_14:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1548
+# game/events_e.rpy:1541
 translate italian d12founde_8fea2db2_2:
 
     # mc "Hmm..."
     mc "Hmm..."
 
-# game/events_e.rpy:1550
+# game/events_e.rpy:1543
 translate italian d12founde_3f2aedca:
 
     # mc "So you don't hate her?"
     mc "Quindi non la odi?"
 
-# game/events_e.rpy:1552
+# game/events_e.rpy:1545
 translate italian d12founde_8a93dcfa:
 
     # e "No, I just don't like the sessions..."
     e "No, è solo che non mi piacciono le sessioni..."
 
-# game/events_e.rpy:1554
+# game/events_e.rpy:1547
 translate italian d12founde_a7bcf340:
 
     # mc "I see..."
     mc "Lo vedo..."
 
-# game/events_e.rpy:1555
+# game/events_e.rpy:1548
 translate italian d12founde_72a33094_15:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1557
+# game/events_e.rpy:1550
 translate italian d12founde_8087eeb0:
 
     # mc "Alright, well, why don't we head back? [m] must be wondering where we are, and I think [j] might be a bit worried."
     mc "Va bene, perché non torniamo indietro? [m] si starà chiedendo dove siamo, e credo che [j] sia un po' preoccupato."
 
-# game/events_e.rpy:1559
+# game/events_e.rpy:1552
 translate italian d12founde_7a9c7117_1:
 
     # e "Unn..."
     e "Non..."
 
-# game/events_e.rpy:1560
+# game/events_e.rpy:1553
 translate italian d12founde_4bf805e7:
 
     # mc "Come on, [e]. Do you want them to worry about us?"
     mc "Andiamo, [e]. Vuoi che si preoccupino di noi?"
 
-# game/events_e.rpy:1562
+# game/events_e.rpy:1555
 translate italian d12founde_72a33094_16:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1564
+# game/events_e.rpy:1557
 translate italian d12founde_0741d388:
 
     # mc "I'll think about something regarding [m], so you don't have to worry, but you have to promise me something."
     mc "Penserò a qualcosa riguardo a [m], così non dovrai preoccuparti, ma devi promettermi qualcosa."
 
-# game/events_e.rpy:1566
+# game/events_e.rpy:1559
 translate italian d12founde_349d364e:
 
     # e "Hn?"
     e "Hn?"
 
-# game/events_e.rpy:1567
+# game/events_e.rpy:1560
 translate italian d12founde_d6d1cf16:
 
     # mc "Don't stop talking to me like you did with [t]."
     mc "Non smettere di parlarmi come hai fatto con [t]."
 
-# game/events_e.rpy:1569
+# game/events_e.rpy:1562
 translate italian d12founde_6d4c997e:
 
     # e "I-I won't."
     e "Non lo farò."
 
-# game/events_e.rpy:1571
+# game/events_e.rpy:1564
 translate italian d12founde_ab23fbf0:
 
     # mc "Alright, let's go then."
     mc "Va bene, allora andiamo."
 
-# game/events_e.rpy:1575
+# game/events_e.rpy:1568
 translate italian d12founde_0d2fe0a9:
 
     # mc "By the way, [e]."
     mc "A proposito, [e]."
 
-# game/events_e.rpy:1577
+# game/events_e.rpy:1570
 translate italian d12founde_0fba19b8:
 
     # e "Hm?"
     e "Hm?"
 
-# game/events_e.rpy:1579
+# game/events_e.rpy:1572
 translate italian d12founde_fdbfc645:
 
     # mc "Why did you think you'd need to make me stay with sex?"
     mc "Perché hai pensato di dovermi costringere a rimanere con il sesso?"
 
-# game/events_e.rpy:1581
+# game/events_e.rpy:1574
 translate italian d12founde_5cde65bd:
 
     # e "E-Eh?!"
     e "E-Eh?!"
 
-# game/events_e.rpy:1583
+# game/events_e.rpy:1576
 translate italian d12founde_6c6b5f0e:
 
     # e "T-That was just..."
     e "E' stato solo..."
 
-# game/events_e.rpy:1585
+# game/events_e.rpy:1578
 translate italian d12founde_a7385111:
 
     # e "...it was not..."
     e "...non era..."
 
-# game/events_e.rpy:1587
+# game/events_e.rpy:1580
 translate italian d12founde_72a33094_17:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1589
+# game/events_e.rpy:1582
 translate italian d12founde_949cb8bf:
 
     # e "The others are waiting!"
     e "Gli altri stanno aspettando!"
 
-# game/events_e.rpy:1590
+# game/events_e.rpy:1583
 translate italian d12founde_466f3b0a:
 
     # mcthink "Heh, she's embarrassed..."
     mcthink "E' imbarazzata..."
 
-# game/events_e.rpy:1592
+# game/events_e.rpy:1585
 translate italian d12founde_2bfec3d2:
 
     # mcthink "Huh, who's that?"
     mcthink "Chi è?"
 
-# game/events_e.rpy:1594
+# game/events_e.rpy:1587
 translate italian d12founde_53be607e:
 
     # mcthink "Is that [oc]?"
     mcthink "Quello è [oc]?"
 
-# game/events_e.rpy:1597
+# game/events_e.rpy:1590
 translate italian d12founde_d48e7efc:
 
     # mcthink "Damn, he must've come to see if everything's alright..."
     mcthink "Dannazione, deve essere venuto a vedere se va tutto bene..."
 
-# game/events_e.rpy:1599
+# game/events_e.rpy:1592
 translate italian d12founde_881d2057:
 
     # mc "Hey, [oc]. Sorry for the trouble. I think [m] is a little overprotective."
     mc "Ciao, [oc]. Scusa per il disturbo. Credo che [m] sia un po' troppo protettivo."
 
-# game/events_e.rpy:1601
+# game/events_e.rpy:1594
 translate italian d12founde_1d43850b:
 
     # oc "No surprise with your history, you guys should know better. You're lucky I could stop the \"rescue operation\" in time, after [m] called me a second time."
     oc "Non mi sorprende che con la vostra storia, voi ragazzi dovreste saperlo bene. Siete fortunati che io sia riuscito a fermare l'\"operazione di salvataggio\" in tempo, dopo che [m] mi ha chiamato una seconda volta."
 
-# game/events_e.rpy:1603
+# game/events_e.rpy:1596
 translate italian d12founde_97856d53:
 
     # mc "Rescue operation?! Shit."
     mc "Operazione di salvataggio?! Merda."
 
-# game/events_e.rpy:1605
+# game/events_e.rpy:1598
 translate italian d12founde_1653d084:
 
     # oc "[e], you're old enough to think about your decisions, so think twice before you just disappear without a word again."
     oc "[e]Sei abbastanza grande per riflettere sulle tue decisioni, quindi pensaci due volte prima di sparire di nuovo senza una parola."
 
-# game/events_e.rpy:1607
+# game/events_e.rpy:1600
 translate italian d12founde_72a33094_18:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1609
+# game/events_e.rpy:1602
 translate italian d12founde_f50e25c3:
 
     # oc "I know you don't talk, but there's always a way to let others know."
     oc "So che non parli, ma c'è sempre un modo per farlo sapere agli altri."
 
-# game/events_e.rpy:1611
+# game/events_e.rpy:1604
 translate italian d12founde_52d6b73f:
 
     # e "Hn..."
     e "Hn..."
 
-# game/events_e.rpy:1613
+# game/events_e.rpy:1606
 translate italian d12founde_e4da8e3d:
 
     # mc "Come on, [oc], everyone needs some fresh air once in a while, [m] just overreacted."
     mc "Dai, [oc], tutti hanno bisogno di un po' di aria fresca ogni tanto, [m] ha solo esagerato."
 
-# game/events_e.rpy:1615
+# game/events_e.rpy:1608
 translate italian d12founde_97632af7:
 
     # oc "True, but not everyone is mute and has a history like you two."
     oc "È vero, ma non tutti sono muti e hanno una storia come voi due."
 
-# game/events_e.rpy:1617
+# game/events_e.rpy:1610
 translate italian d12founde_9c660865:
 
     # mc "Well... true... I guess, but history is history... and shouldn't we leave the past in the past, and all that stuff?"
     mc "Beh... è vero... Credo, ma la storia è storia... e non dovremmo lasciare il passato nel passato, e tutte queste cose?"
 
-# game/events_e.rpy:1619
+# game/events_e.rpy:1612
 translate italian d12founde_7cb2b25a:
 
     # oc "You've always been good at talking your way out of bad situations..."
     oc "Sei sempre stato bravo a trovare una via d'uscita dalle situazioni difficili..."
 
-# game/events_e.rpy:1622
+# game/events_e.rpy:1615
 translate italian d12founde_ff04d9d4:
 
     # oc "...but what about your sister, do you think she's the same?"
     oc "...ma che dire di tua sorella, pensi che sia la stessa cosa?"
 
-# game/events_e.rpy:1624
+# game/events_e.rpy:1617
 translate italian d12founde_72a33094_19:
 
     # e "..."
     e "..."
 
-# game/events_e.rpy:1626
+# game/events_e.rpy:1619
 translate italian d12founde_29096bb3:
 
     # mc "Let's get inside, [e]."
@@ -4798,51 +4798,51 @@ translate italian strings:
     old "Leave."
     new "Lascia."
 
-    # game/events_e.rpy:846
+    # game/events_e.rpy:844
     old "Her bed."
     new "Il suo letto."
 
-    # game/events_e.rpy:846
+    # game/events_e.rpy:844
     old "Your bed."
     new "Il vostro letto."
 
-    # game/events_e.rpy:924
+    # game/events_e.rpy:922
     old "(Make a noise)"
     new "(Fare rumore)"
 
-    # game/events_e.rpy:924
+    # game/events_e.rpy:922
     old "(Wait)"
     new "(Attendi)"
 
-    # game/events_e.rpy:1193
+    # game/events_e.rpy:1186
     old "Looks great, I like it."
     new "Sembra fantastico, mi piace."
 
-    # game/events_e.rpy:1193
+    # game/events_e.rpy:1186
     old "Nah, your normal outfit looks better."
     new "No, il tuo abbigliamento normale è più bello."
 
-    # game/events_e.rpy:1203
+    # game/events_e.rpy:1196
     old "Hot!"
     new "Caldo!"
 
-    # game/events_e.rpy:1203
+    # game/events_e.rpy:1196
     old "Nah, that's too goth style."
     new "No, è uno stile troppo gotico."
 
-    # game/events_e.rpy:1212
+    # game/events_e.rpy:1205
     old "Looks great, but isn't that a little bit too much for everyday use?"
     new "Sembra ottimo, ma non è un po' troppo per l'uso quotidiano?"
 
-    # game/events_e.rpy:1212
+    # game/events_e.rpy:1205
     old "Luscious! I love it!"
     new "Lussuoso! Lo adoro!"
 
-    # game/events_e.rpy:1293
+    # game/events_e.rpy:1286
     old "Comfort her."
     new "Confortarla."
 
-    # game/events_e.rpy:1293
+    # game/events_e.rpy:1286
     old "Scold her."
     new "Sgridatela."
 

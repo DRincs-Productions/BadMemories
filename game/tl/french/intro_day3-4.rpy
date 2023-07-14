@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/intro_day3-4.rpy:3
 translate french intro_day3_8046137e:
@@ -256,7 +256,7 @@ translate french intro_day3_719102df:
 translate french intro_day3_a897bc95:
 
     # "Waitress" "Here you go."
-    "Serveuse" "Vous y allez."
+    "Serveuse" "Voilà pour vous."
 
 # game/intro_day3-4.rpy:70
 translate french intro_day3_e25ff158:
@@ -622,7 +622,7 @@ translate french intro_day3_69c25b65_1:
 translate french intro_day3_de7e8a28:
 
     # m "Okay, great! Do you need help with anything? Do you want me to pick you up?"
-    m "Ok, super ! Tu as besoin d'aide pour quelque chose ? Tu veux que je vienne te chercher ?"
+    m "Ok, super! Tu as besoin d'aide pour quelque chose? Tu veux que je vienne te chercher?"
 
 # game/intro_day3-4.rpy:148
 translate french intro_day3_6d197c55:
@@ -664,7 +664,7 @@ translate french intro_day3_2b35b6fe_8:
 translate french intro_day3_b78c28fa:
 
     # mcthink "God, am I really going to move in there again?"
-    mcthink "Mon Dieu, est-ce que je vais vraiment encore emménager là-dedans ?"
+    mcthink "Mon Dieu, est-ce que je vais vraiment encore emménager là-bas?"
 
 # game/intro_day3-4.rpy:158
 translate french intro_day3_b1fd587f:
@@ -700,7 +700,7 @@ translate french intro_day3_6304347d:
 translate french intro_day3_90741ea4:
 
     # m "Heyyy, look who found [hisher] way home."
-    m "Héééee, regarde qui a trouvé [hisher] le chemin de la maison."
+    m "Héééee, regardez qui a trouvé [hisher] chemin vers la maison."
 
 # game/intro_day3-4.rpy:170
 translate french intro_day3_ae090eee:
