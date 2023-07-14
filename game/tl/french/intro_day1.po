@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 05:49\n"
+"PO-Revision-Date: 2023-06-26 16:47\n"
 
-# TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day1.rpy:3 #-#-# translate crowdin intro_day1_26086d61:
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day1.rpy:3 #-#-# translate crowdin intro_day1_26086d61:
 msgid "[_n_] Next Day [withdissolve]"
 msgstr "[_n_] Jour suivant [withdissolve]"
 
@@ -118,7 +118,7 @@ msgstr "[_mc_] Bien sûr, mais au moins vous m'avez donné de l'espoir."
 
 # game/intro_day1.rpy:33 #-#-# translate crowdin intro_day1_bf1e18b7:
 msgid "Maggy [special_delimiter] Okay then, I will call you as soon as I know something [mrms] [mcsure]."
-msgstr "MaggyMaggy [special_delimiter] Ok alors, je vous appelle dès que je sais quelque chose [mrms] [mcsure]."
+msgstr "Maggy [special_delimiter] Ok alors, je vous appelle dès que je sais quelque chose [mrms] [mcsure]."
 
 # game/intro_day1.rpy:34 #-#-# translate crowdin intro_day1_5fabb0eb:
 msgid "[_mc_] Thanks Maggy, and call me [mc]."
@@ -358,7 +358,7 @@ msgstr "[_mcthink_] Ou la malchance. Je semble en avoir beaucoup ces derniers te
 
 # game/intro_day1.rpy:124 #-#-# translate crowdin intro_day1_e2b5906f:
 msgid "[_m_] What brings you back? Are you visiting some old friends?"
-msgstr "[_m_] Qu'est-ce qui te ramène? Tu rends visite à de vieux amis?"
+msgstr "[_m_] Qu'est-ce qui t'amène ici? Tu rends visite à de vieux amis?"
 
 # game/intro_day1.rpy:125 #-#-# translate crowdin intro_day1_79cdd2e8:
 msgid "[_mc_] A new job..."

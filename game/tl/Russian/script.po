@@ -10,56 +10,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-06-02 21:02\n"
+"PO-Revision-Date: 2023-06-26 16:47\n"
 
-# TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/script.rpy:498 #-#-# translate crowdin start_e4253911:
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/script.rpy:524 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
 msgstr ""
 
-# game/script.rpy:500 #-#-# translate crowdin start_eb52a69f:
+# game/script.rpy:526 #-#-# translate crowdin start_eb52a69f:
 msgid "[_n_] This game is a work of fiction, all characters are designed to represent their age in the game and are at least 18 years old.\n"
 "None of the characters are in any way related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
 msgstr ""
 
-# game/script.rpy:501 #-#-# translate crowdin start_e2e26806:
+# game/script.rpy:527 #-#-# translate crowdin start_e2e26806:
 msgid "[_n_] Also note that some situations in this game might come off as offensive, and/or aggressive and should {b}NEVER{/b} be practised in real life or without consent! [withdissolve]"
 msgstr ""
 
-# game/script.rpy:502 #-#-# translate crowdin start_36a0049e:
+# game/script.rpy:528 #-#-# translate crowdin start_36a0049e:
 msgid "[_n_] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
 msgstr ""
 
-# game/script.rpy:503 #-#-# translate crowdin start_200b5921:
+# game/script.rpy:529 #-#-# translate crowdin start_200b5921:
 msgid "[_extend_] ...or the game starts as usual ;_;"
 msgstr ""
 
-# game/script.rpy:544 #-#-# translate crowdin start_rachel_5e56089c:
+# game/script.rpy:569 #-#-# translate crowdin start_rachel_5e56089c:
 msgid "[_m_] Hello [mc] [mcsure], this is a test!"
 msgstr ""
 
-# game/script.rpy:550 #-#-# translate crowdin endGame_9b5f61b4:
+# game/script.rpy:575 #-#-# translate crowdin endGame_9b5f61b4:
 msgid "[_n_] This is the end of the current version, a quick save has been created."
 msgstr ""
 
-# game/script.rpy:551 #-#-# translate crowdin endGame_e7eca580:
+# game/script.rpy:576 #-#-# translate crowdin endGame_e7eca580:
 msgid "[_n_] I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
 msgstr ""
 
-# game/script.rpy:570 #-#-# translate crowdin endGame_3ab21b59:
+# game/script.rpy:595 #-#-# translate crowdin endGame_3ab21b59:
 msgid "[_n_] {size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\n"
 "and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
 msgstr ""
 
-# game/script.rpy:572 #-#-# translate crowdin endGame_a5f61313:
+# game/script.rpy:597 #-#-# translate crowdin endGame_a5f61313:
 msgid "[_n_] {size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
 msgstr "[_n_] {size= + 20}{b}Особо спасибо всем моим сторонникам, тестерам и всем, кто помогал мне каким-то образом.\n"
 "вы, ребята, потрясающие! {/b} {/size}"
 
-# game/script.rpy:579 #-#-# translate crowdin gameOverE_9ad555d3:
+# game/script.rpy:604 #-#-# translate crowdin gameOverE_9ad555d3:
 msgid "[_n_] Congratulation! You broke her heart...idiot!"
 msgstr "[_n_] Поздравляю! Ты разбил ей сердце... идиот!"
 
@@ -67,59 +67,59 @@ msgstr "[_n_] Поздравляю! Ты разбил ей сердце... ид�
 msgid "Rachel"
 msgstr "Рейчел"
 
-# game/script.rpy:496
+# game/script.rpy:522
 msgid "You"
 msgstr "Вы"
 
-# game/script.rpy:505
+# game/script.rpy:531
 msgid "Play as Man"
 msgstr "Сыграть в роли мужчины"
 
-# game/script.rpy:505
+# game/script.rpy:531
 msgid "Play as Woman (lesbian)"
 msgstr "Играть как женщина (лесбиянка)"
 
-# game/script.rpy:507
+# game/script.rpy:533
 msgid "male"
 msgstr "мужской"
 
-# game/script.rpy:517
+# game/script.rpy:543
 msgid "female"
 msgstr "женский"
 
-# game/script.rpy:518
+# game/script.rpy:544
 msgid "woman"
 msgstr "женщина"
 
-# game/script.rpy:519
+# game/script.rpy:545
 msgid "Ms."
 msgstr "Мисс."
 
-# game/script.rpy:520
+# game/script.rpy:546
 msgid "she"
 msgstr "она"
 
-# game/script.rpy:521
+# game/script.rpy:547
 msgid "girl"
 msgstr "девочка"
 
-# game/script.rpy:522
+# game/script.rpy:548
 msgid "Mommy"
 msgstr "Мамочка"
 
-# game/script.rpy:523
+# game/script.rpy:549
 msgid "daughter"
 msgstr "дочька"
 
-# game/script.rpy:524
+# game/script.rpy:550
 msgid "her"
 msgstr "ее"
 
-# game/script.rpy:525
+# game/script.rpy:551
 msgid "Jill"
 msgstr "Джилл"
 
-# game/script.rpy:526
+# game/script.rpy:552
 msgid "sister"
 msgstr "сестра"
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-05 19:59\n"
+"PO-Revision-Date: 2023-07-03 15:25\n"
 
-# TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
 msgstr "[_n_] Quelques heures plus tard [withdissolve]"
 
@@ -1132,9 +1132,9 @@ msgstr "[_mc_] Tu as intérêt à dire la vérité !"
 msgid "[_t_] I'd never do such a thing, I'm not like that!"
 msgstr "[_t_] Je ne ferais jamais une telle chose, je ne suis pas comme ça !"
 
-# game/events_t.rpy:512 #-#-# translate crowdin tcoerce2_6e0ec75f:
-msgid "[_mc_] Hmph... well I guess that make me the only possible reason, doesn't it?"
-msgstr "[_mc_] Hmph... bien je suppose que ça fait de moi la seule raison possible, n'est-ce pas ?"
+# game/events_t.rpy:512 #-#-# translate crowdin tcoerce2_c8970423:
+msgid "[_mc_] Hmph... well I guess that makes me the only possible reason, doesn't it?"
+msgstr "[_mc_] Hmph... Je suppose que cela fait de moi la seule raison possible, n'est-ce pas ?"
 
 # game/events_t.rpy:513 #-#-# translate crowdin tcoerce2_30b46fd1:
 msgid "[_t_] N-no! I..."
@@ -1322,7 +1322,7 @@ msgstr "[_mc_] Je suis sûr que tu m'as entendu."
 
 # game/events_t.rpy:607 #-#-# translate crowdin tcoerce2_r_fd848b85:
 msgid "[_t_] W-why would I do that!? You molested me..."
-msgstr "[_t_] P-Pourquoi je ferais ça!? Tu m'asridiculisé..."
+msgstr "[_t_] P-Pourquoi je ferais ça!? Tu m'as ridiculisé..."
 
 # game/events_t.rpy:608 #-#-# translate crowdin tcoerce2_r_e276c843:
 msgid "[_mc_] I made you cum, and you clearly needed that."
@@ -2786,7 +2786,7 @@ msgstr "[_m_] Oh, hé, Hun, aurais-tu l'amabilité de prendre [t] chez elle, j'a
 
 # game/events_t.rpy:1263 #-#-# translate crowdin d10takekathome_3185cbc8:
 msgid "[_m_] Oh, [mc], could you take [t] home? I'm awaiting a call."
-msgstr "Oh, [_m_] Oh, [mc], pourrais-tu ramener [t] chez elle ? J'attends un appel."
+msgstr "[_m_] Oh, [mc], pourrais-tu ramener [t] chez elle? J'attends un appel."
 
 # game/events_t.rpy:1265 #-#-# translate crowdin d10takekathome_5d2afd68:
 msgid "[_t_] I-I would honestly prefer it if you would take me back home, [m]."
@@ -4800,9 +4800,9 @@ msgstr "[_t_] Pourquoi pensez-vous que je serais intéressé par quelqu'un comme
 msgid "[_mc_] Someone like me, huh? If you think {b}that{/b} bad of me, then I wonder why you're sitting on my lap."
 msgstr "[_mc_] Quelqu'un comme moi, hein ? Si tu penses {b}si{/b} mal de moi, alors je me demande pourquoi tu es assis sur mes genoux."
 
-# game/events_t.rpy:2287 #-#-# translate crowdin d11tfirsts_4b2bb02d:
-msgid "[_t_] Why do you even think I'd be interested in someone like you? Or a women at all."
-msgstr "[_t_] Pourquoi pensez-vous que je serais intéressé par quelqu'un comme vous ? Ou par une femme tout court."
+# game/events_t.rpy:2287 #-#-# translate crowdin d11tfirsts_d9829137:
+msgid "[_t_] Why do you even think I'd be interested in someone like you? Or a woman at all."
+msgstr "[_t_] Pourquoi pensez-vous que je m'intéresse à quelqu'un comme vous ? Ou une femme tout court."
 
 # game/events_t.rpy:2289 #-#-# translate crowdin d11tfirsts_5db8c5b6:
 msgid "[_mc_] If you'd think {b}that{/b} bad of me, then I wonder why you're sitting on my lap."
@@ -4988,1107 +4988,1107 @@ msgstr "[_mc_] Eh bien, je suppose que je vais devoir vous aider à vous détend
 msgid "[_t_] What are you..."
 msgstr "[_t_] Qu'est-ce que tu..."
 
-# game/events_t.rpy:2379 #-#-# translate crowdin d11tfirsts_33170189:
+# game/events_t.rpy:2378 #-#-# translate crowdin d11tfirsts_33170189:
 msgid "[_t_] Whaaa!"
 msgstr "[_t_] Whouaa!"
 
-# game/events_t.rpy:2380 #-#-# translate crowdin d11tfirsts_9032333a:
+# game/events_t.rpy:2379 #-#-# translate crowdin d11tfirsts_9032333a:
 msgid "[_mc_] Just relax and keep hugging me."
 msgstr "[_mc_] Détendez-vous et continuez à me faire des câlins."
 
-# game/events_t.rpy:2381 #-#-# translate crowdin d11tfirsts_dc508caf:
+# game/events_t.rpy:2380 #-#-# translate crowdin d11tfirsts_dc508caf:
 msgid "[_t_] T-That's not going to help me relax!"
 msgstr "[_t_] Ça ne va pas m'aider à me détendre !"
 
-# game/events_t.rpy:2382 #-#-# translate crowdin d11tfirsts_9319dfd9:
+# game/events_t.rpy:2381 #-#-# translate crowdin d11tfirsts_9319dfd9:
 msgid "[_mc_] Try it."
 msgstr "[_mc_] L'essayer."
 
-# game/events_t.rpy:2383 #-#-# translate crowdin d11tfirsts_985c02f6:
+# game/events_t.rpy:2382 #-#-# translate crowdin d11tfirsts_985c02f6:
 msgid "[_t_] Ugh..."
 msgstr "[_t_] Ugh ..."
 
-# game/events_t.rpy:2385 #-#-# translate crowdin d11tfirsts_a8df5ff6:
+# game/events_t.rpy:2384 #-#-# translate crowdin d11tfirsts_a8df5ff6:
 msgid "[_t_] Just hurry up."
 msgstr "[_t_] Dépêchez-vous."
 
-# game/events_t.rpy:2386 #-#-# translate crowdin d11tfirsts_e119df09:
+# game/events_t.rpy:2385 #-#-# translate crowdin d11tfirsts_e119df09:
 msgid "[_mc_] As you wish."
 msgstr "[_mc_] Comme vous le souhaitez."
 
-# game/events_t.rpy:2388 #-#-# translate crowdin d11tfirsts_6a4e0edc:
+# game/events_t.rpy:2387 #-#-# translate crowdin d11tfirsts_6a4e0edc:
 msgid "[_t_] Nh-hnn..."
 msgstr "[_t_] Nh-hnn..."
 
-# game/events_t.rpy:2390 #-#-# translate crowdin d11tfirsts_daa6c5e0:
+# game/events_t.rpy:2389 #-#-# translate crowdin d11tfirsts_daa6c5e0:
 msgid "[_mc_] Are you relaxing?"
 msgstr "[_mc_] Vous vous détendez ?"
 
-# game/events_t.rpy:2391 #-#-# translate crowdin d11tfirsts_17eb562c:
+# game/events_t.rpy:2390 #-#-# translate crowdin d11tfirsts_17eb562c:
 msgid "[_t_] I-I told you it's not going to hn...help."
 msgstr "[_t_] Je t'ai dit que ça ne t'aiderait pas."
 
-# game/events_t.rpy:2392 #-#-# translate crowdin d11tfirsts_b9ec45d7:
+# game/events_t.rpy:2391 #-#-# translate crowdin d11tfirsts_b9ec45d7:
 msgid "[_mc_] Are you even trying?"
 msgstr "[_mc_] Est-ce que tu essaies au moins ?"
 
-# game/events_t.rpy:2393 #-#-# translate crowdin d11tfirsts_ad590ab0:
+# game/events_t.rpy:2392 #-#-# translate crowdin d11tfirsts_ad590ab0:
 msgid "[_t_] You try mhh... relaxing while being molested."
 msgstr "[_t_] Vous essayez de vous détendre pendant que vous êtes molesté."
 
-# game/events_t.rpy:2394 #-#-# translate crowdin d11tfirsts_3e498912:
+# game/events_t.rpy:2393 #-#-# translate crowdin d11tfirsts_3e498912:
 msgid "[_mc_] I'm just caressing you."
 msgstr "[_mc_] Je ne fais que te caresser."
 
-# game/events_t.rpy:2395 #-#-# translate crowdin d11tfirsts_d53a9eb7:
+# game/events_t.rpy:2394 #-#-# translate crowdin d11tfirsts_d53a9eb7:
 msgid "[_t_] Call it how you want, I...nhh don't care."
 msgstr "[_t_] Appelle ça comme tu veux, je...nhh m'en fous."
 
-# game/events_t.rpy:2396 #-#-# translate crowdin d11tfirsts_d42d15ae:
+# game/events_t.rpy:2395 #-#-# translate crowdin d11tfirsts_d42d15ae:
 msgid "[_mc_] Hmm... I guess we should try something else then."
 msgstr "[_mc_] Hmm... Je suppose que nous devrions essayer autre chose alors."
 
-# game/events_t.rpy:2398 #-#-# translate crowdin d11tfirsts_058bb0d3:
+# game/events_t.rpy:2397 #-#-# translate crowdin d11tfirsts_058bb0d3:
 msgid "[_t_] What's the point anyway?"
 msgstr "[_t_] A quoi bon, de toute façon ?"
 
-# game/events_t.rpy:2400 #-#-# translate crowdin d11tfirsts_9d00e0b0:
+# game/events_t.rpy:2399 #-#-# translate crowdin d11tfirsts_9d00e0b0:
 msgid "[_mc_] As I said, to get you to relax."
 msgstr "[_mc_] Comme je l'ai dit, pour que tu te détendes."
 
-# game/events_t.rpy:2402 #-#-# translate crowdin d11tfirsts_ae00eb09:
+# game/events_t.rpy:2401 #-#-# translate crowdin d11tfirsts_ae00eb09:
 msgid "[_t_] As if..."
 msgstr "[_t_] Comme si..."
 
-# game/events_t.rpy:2404 #-#-# translate crowdin d11tfirsts_f6f229e7:
+# game/events_t.rpy:2403 #-#-# translate crowdin d11tfirsts_f6f229e7:
 msgid "[_mc_] Take your top off."
 msgstr "[_mc_] Enlève ton haut."
 
-# game/events_t.rpy:2406 #-#-# translate crowdin d11tfirsts_d84460d0:
+# game/events_t.rpy:2405 #-#-# translate crowdin d11tfirsts_d84460d0:
 msgid "[_t_] Tch... and how would that help?"
 msgstr "[_t_] Tch... et en quoi ça aiderait ?"
 
-# game/events_t.rpy:2408 #-#-# translate crowdin d11tfirsts_6a0887df:
+# game/events_t.rpy:2407 #-#-# translate crowdin d11tfirsts_6a0887df:
 msgid "[_mc_] You obviously have no idea how to relax, so just do what I'm saying, [t]."
 msgstr "[_mc_] Tu n'as manifestement aucune idée de comment te détendre, alors fais ce que je dis, [t]."
 
-# game/events_t.rpy:2410 #-#-# translate crowdin d11tfirsts_088885ba:
+# game/events_t.rpy:2409 #-#-# translate crowdin d11tfirsts_088885ba:
 msgid "[_t_] Pff..."
 msgstr "[_t_] Pff..."
 
-# game/events_t.rpy:2412 #-#-# translate crowdin d11tfirsts_1bb01731_5:
+# game/events_t.rpy:2411 #-#-# translate crowdin d11tfirsts_1bb01731_5:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2413 #-#-# translate crowdin d11tfirsts_b9b155fe:
+# game/events_t.rpy:2412 #-#-# translate crowdin d11tfirsts_b9b155fe:
 msgid "[_extend_] ."
 msgstr "[_extend_]."
 
-# game/events_t.rpy:2414 #-#-# translate crowdin d11tfirsts_b9b155fe_1:
+# game/events_t.rpy:2413 #-#-# translate crowdin d11tfirsts_b9b155fe_1:
 msgid "[_extend_] ."
 msgstr "[_extend_]."
 
-# game/events_t.rpy:2415 #-#-# translate crowdin d11tfirsts_b9b155fe_2:
+# game/events_t.rpy:2414 #-#-# translate crowdin d11tfirsts_b9b155fe_2:
 msgid "[_extend_] ."
 msgstr "[_extend_]."
 
-# game/events_t.rpy:2426 #-#-# translate crowdin d11tfirsts_15b235d6:
+# game/events_t.rpy:2425 #-#-# translate crowdin d11tfirsts_15b235d6:
 msgid "[_mc_] That's better, isn't it?"
 msgstr "[_mc_] C'est mieux, n'est-ce pas ?"
 
-# game/events_t.rpy:2428 #-#-# translate crowdin d11tfirsts_dc977b30:
+# game/events_t.rpy:2427 #-#-# translate crowdin d11tfirsts_dc977b30:
 msgid "[_t_] You really can't think of anything else, can you?"
 msgstr "[_t_] Tu ne peux vraiment pas penser à autre chose, n'est-ce pas ?"
 
-# game/events_t.rpy:2430 #-#-# translate crowdin d11tfirsts_0c0641e0:
+# game/events_t.rpy:2429 #-#-# translate crowdin d11tfirsts_0c0641e0:
 msgid "[_t_] ...dyke."
 msgstr "[_t_] ...gouine."
 
-# game/events_t.rpy:2432 #-#-# translate crowdin d11tfirsts_25e6b7c6:
+# game/events_t.rpy:2431 #-#-# translate crowdin d11tfirsts_25e6b7c6:
 msgid "[_mc_] I'm just trying to prove or disprove my theory."
 msgstr "[_mc_] J'essaie juste de prouver ou de réfuter ma théorie."
 
-# game/events_t.rpy:2434 #-#-# translate crowdin d11tfirsts_c041bb9a:
+# game/events_t.rpy:2433 #-#-# translate crowdin d11tfirsts_c041bb9a:
 msgid "[_t_] Hmph..."
 msgstr "[_t_] Hmph..."
 
-# game/events_t.rpy:2437 #-#-# translate crowdin d11tfirsts_c1914d7c:
+# game/events_t.rpy:2436 #-#-# translate crowdin d11tfirsts_c1914d7c:
 msgid "[_mc_] Also, calling me a dyke won't hide the fact that you're interested in women..."
 msgstr "[_mc_] De plus, me traiter de gouine ne cachera pas le fait que tu t'intéresses aux femmes..."
 
-# game/events_t.rpy:2438 #-#-# translate crowdin d11tfirsts_2d73988b:
+# game/events_t.rpy:2437 #-#-# translate crowdin d11tfirsts_2d73988b:
 msgid "[_mc_] We've done this several times already, and you're still turning red like a tomato."
 msgstr "[_mc_] On l'a déjà fait plusieurs fois, et tu es toujours rouge comme une tomate."
 
-# game/events_t.rpy:2439 #-#-# translate crowdin d11tfirsts_c899cea3:
+# game/events_t.rpy:2438 #-#-# translate crowdin d11tfirsts_c899cea3:
 msgid "[_t_] T-That's not true..."
 msgstr "[_t_] C-Ce n'est pas vrai..."
 
-# game/events_t.rpy:2440 #-#-# translate crowdin d11tfirsts_c541293e:
+# game/events_t.rpy:2439 #-#-# translate crowdin d11tfirsts_c541293e:
 msgid "[_mc_] Do you want me to take a photo to show you?"
 msgstr "[_mc_] Tu veux que je prenne une photo pour te la montrer ?"
 
-# game/events_t.rpy:2441 #-#-# translate crowdin d11tfirsts_bb069667:
+# game/events_t.rpy:2440 #-#-# translate crowdin d11tfirsts_bb069667:
 msgid "[_t_] N-No, don't you dare take a photo of me!"
 msgstr "[_t_] N-Non, ne t'avise pas de prendre une photo de moi !"
 
-# game/events_t.rpy:2443 #-#-# translate crowdin d11tfirsts_848e3ce6:
+# game/events_t.rpy:2442 #-#-# translate crowdin d11tfirsts_848e3ce6:
 msgid "[_mc_] You should really be a bit more comfortable with your boyfriend."
 msgstr "[_mc_] Tu devrais vraiment être un peu plus à l'aise avec ton petit ami."
 
-# game/events_t.rpy:2445 #-#-# translate crowdin d11tfirsts_d8ac267f:
+# game/events_t.rpy:2444 #-#-# translate crowdin d11tfirsts_d8ac267f:
 msgid "[_mc_] You should really be a bit more comfortable with your girlfriend."
 msgstr "[_mc_] Tu devrais vraiment être un peu plus à l'aise avec ta petite amie."
 
-# game/events_t.rpy:2446 #-#-# translate crowdin d11tfirsts_71eaf407:
+# game/events_t.rpy:2445 #-#-# translate crowdin d11tfirsts_71eaf407:
 msgid "[_t_] That's not even...{w=0.5}{nw}"
 msgstr "[_t_] Ce n'est même pas... {w=0.5}{nw}"
 
-# game/events_t.rpy:2448 #-#-# translate crowdin d11tfirsts_303376db:
+# game/events_t.rpy:2447 #-#-# translate crowdin d11tfirsts_303376db:
 msgid "[_mc_] Come, turn around."
 msgstr "[_mc_] Viens, tourne-toi."
 
-# game/events_t.rpy:2450 #-#-# translate crowdin d11tfirsts_060d0345_1:
+# game/events_t.rpy:2449 #-#-# translate crowdin d11tfirsts_060d0345_1:
 msgid "[_t_] What are you..."
 msgstr "[_t_] Qu'est-ce que tu..."
 
-# game/events_t.rpy:2452 #-#-# translate crowdin d11tfirsts_72ba5e48:
+# game/events_t.rpy:2451 #-#-# translate crowdin d11tfirsts_72ba5e48:
 msgid "[_mc_] Trying to make it more comfortable for you."
 msgstr "[_mc_] J'essaie de rendre les choses plus confortables pour vous."
 
-# game/events_t.rpy:2454 #-#-# translate crowdin d11tfirsts_660a9a17:
+# game/events_t.rpy:2453 #-#-# translate crowdin d11tfirsts_660a9a17:
 msgid "[_t_] Oh..."
 msgstr "[_t_] Oh..."
 
-# game/events_t.rpy:2455 #-#-# translate crowdin d11tfirsts_4d6b1202:
+# game/events_t.rpy:2454 #-#-# translate crowdin d11tfirsts_4d6b1202:
 msgid "[_mc_] It'll help you relax."
 msgstr "[_mc_] Ça vous aidera à vous détendre."
 
-# game/events_t.rpy:2457 #-#-# translate crowdin d11tfirsts_c352fee8:
+# game/events_t.rpy:2456 #-#-# translate crowdin d11tfirsts_c352fee8:
 msgid "[_t_] Hmph, just stop acting as if you're doing it for me."
 msgstr "[_t_] Hmph, arrête d'agir comme si tu le faisais pour moi."
 
-# game/events_t.rpy:2459 #-#-# translate crowdin d11tfirsts_18d7cd70:
+# game/events_t.rpy:2458 #-#-# translate crowdin d11tfirsts_18d7cd70:
 msgid "[_mc_] You think I'm doing this for myself?"
 msgstr "[_mc_] Tu crois que je fais ça pour moi ?"
 
-# game/events_t.rpy:2460 #-#-# translate crowdin d11tfirsts_728dbb2f:
+# game/events_t.rpy:2459 #-#-# translate crowdin d11tfirsts_728dbb2f:
 msgid "[_t_] Of course you do."
 msgstr "[_t_] Bien sûr que oui."
 
-# game/events_t.rpy:2462 #-#-# translate crowdin d11tfirsts_02b79881:
+# game/events_t.rpy:2461 #-#-# translate crowdin d11tfirsts_02b79881:
 msgid "[_mc_] Oh really? Well I guess there's no point in going on then..."
 msgstr "[_mc_] Ah bon ? Eh bien, je suppose qu'il n'y a pas de raison de continuer alors..."
 
-# game/events_t.rpy:2464 #-#-# translate crowdin d11tfirsts_19ec77da:
+# game/events_t.rpy:2463 #-#-# translate crowdin d11tfirsts_19ec77da:
 msgid "[_t_] You... you're just going to stop now?"
 msgstr "[_t_] Vous... vous allez juste arrêter maintenant ?"
 
-# game/events_t.rpy:2465 #-#-# translate crowdin d11tfirsts_b16bc564:
+# game/events_t.rpy:2464 #-#-# translate crowdin d11tfirsts_b16bc564:
 msgid "[_mc_] Yeah, unless you want me to go on."
 msgstr "[_mc_] Oui, sauf si vous voulez que je continue."
 
-# game/events_t.rpy:2467 #-#-# translate crowdin d11tfirsts_c041bb9a_1:
+# game/events_t.rpy:2466 #-#-# translate crowdin d11tfirsts_c041bb9a_1:
 msgid "[_t_] Hmph..."
 msgstr "[_t_] Hmph..."
 
-# game/events_t.rpy:2468 #-#-# translate crowdin d11tfirsts_b9b155fe_3:
+# game/events_t.rpy:2467 #-#-# translate crowdin d11tfirsts_b9b155fe_3:
 msgid "[_extend_] ."
 msgstr "[_extend_]."
 
-# game/events_t.rpy:2469 #-#-# translate crowdin d11tfirsts_b9b155fe_4:
+# game/events_t.rpy:2468 #-#-# translate crowdin d11tfirsts_b9b155fe_4:
 msgid "[_extend_] ."
 msgstr "[_extend_]."
 
-# game/events_t.rpy:2471 #-#-# translate crowdin d11tfirsts_1bb01731_6:
+# game/events_t.rpy:2470 #-#-# translate crowdin d11tfirsts_1bb01731_6:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2473 #-#-# translate crowdin d11tfirsts_51e464e6:
+# game/events_t.rpy:2472 #-#-# translate crowdin d11tfirsts_51e464e6:
 msgid "[_t_] Fine..."
 msgstr "[_t_] Très bien..."
 
-# game/events_t.rpy:2475 #-#-# translate crowdin d11tfirsts_ca5e40c7:
+# game/events_t.rpy:2474 #-#-# translate crowdin d11tfirsts_ca5e40c7:
 msgid "[_mc_] Fine what?"
 msgstr "[_mc_] Bien quoi ?"
 
-# game/events_t.rpy:2477 #-#-# translate crowdin d11tfirsts_ab4e34d6:
+# game/events_t.rpy:2476 #-#-# translate crowdin d11tfirsts_ab4e34d6:
 msgid "[_t_] I'm going to play your stupid game..."
 msgstr "[_t_] Je vais jouer à votre jeu stupide..."
 
-# game/events_t.rpy:2478 #-#-# translate crowdin d11tfirsts_ca94c41b:
+# game/events_t.rpy:2477 #-#-# translate crowdin d11tfirsts_ca94c41b:
 msgid "[_mc_] My stupid game?"
 msgstr "[_mc_] Mon jeu stupide ?"
 
-# game/events_t.rpy:2480 #-#-# translate crowdin d11tfirsts_1bb01731_7:
+# game/events_t.rpy:2479 #-#-# translate crowdin d11tfirsts_1bb01731_7:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2482 #-#-# translate crowdin d11tfirsts_582359ea:
+# game/events_t.rpy:2481 #-#-# translate crowdin d11tfirsts_582359ea:
 msgid "[_mc_] Hm?"
 msgstr "[_mc_] Hm?"
 
-# game/events_t.rpy:2484 #-#-# translate crowdin d11tfirsts_113d073b:
+# game/events_t.rpy:2483 #-#-# translate crowdin d11tfirsts_113d073b:
 msgid "[_t_] Just take it off already..."
 msgstr "[_t_] Enlève-le déjà..."
 
-# game/events_t.rpy:2486 #-#-# translate crowdin d11tfirsts_0ab621c3:
+# game/events_t.rpy:2485 #-#-# translate crowdin d11tfirsts_0ab621c3:
 msgid "[_mc_] You mean my pants? Didn't you just say..."
 msgstr "[_mc_] Tu veux dire mon pantalon ? Tu ne viens pas de dire..."
 
-# game/events_t.rpy:2488 #-#-# translate crowdin d11tfirsts_61215f86:
+# game/events_t.rpy:2487 #-#-# translate crowdin d11tfirsts_61215f86:
 msgid "[_t_] Just do it already."
 msgstr "[_t_] Fais-le, c'est tout."
 
-# game/events_t.rpy:2489 #-#-# translate crowdin d11tfirsts_0ebdb2b3:
+# game/events_t.rpy:2488 #-#-# translate crowdin d11tfirsts_0ebdb2b3:
 msgid "[_mc_] Well, if you insist..."
 msgstr "[_mc_] Eh bien, si vous insistez..."
 
-# game/events_t.rpy:2496 #-#-# translate crowdin d11tfirsts_d7f0ca85:
+# game/events_t.rpy:2495 #-#-# translate crowdin d11tfirsts_d7f0ca85:
 msgid "[_mc_] There we go."
 msgstr "[_mc_] Voilà."
 
-# game/events_t.rpy:2498 #-#-# translate crowdin d11tfirsts_1bb01731_8:
+# game/events_t.rpy:2497 #-#-# translate crowdin d11tfirsts_1bb01731_8:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2505 #-#-# translate crowdin d11tfirsts_1bb01731_9:
+# game/events_t.rpy:2504 #-#-# translate crowdin d11tfirsts_1bb01731_9:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2517 #-#-# translate crowdin d11tfirsts_901e624c:
+# game/events_t.rpy:2516 #-#-# translate crowdin d11tfirsts_901e624c:
 msgid "[_mc_] Not bad, [t]... not bad."
 msgstr "[_mc_] Pas mal, [t]... pas mal."
 
-# game/events_t.rpy:2536 #-#-# translate crowdin d11tfirsts_6f89aedb:
+# game/events_t.rpy:2527 #-#-# translate crowdin d11tfirsts_6f89aedb:
 msgid "[_mcthink_] Damn, this looks uncomfortable..."
 msgstr "[_mcthink_] Bon sang, ça a l'air inconfortable..."
 
-# game/events_t.rpy:2537 #-#-# translate crowdin d11tfirsts_103ad989:
+# game/events_t.rpy:2528 #-#-# translate crowdin d11tfirsts_103ad989:
 msgid "[_mcthink_] ...and it doesn't feel that great either..."
 msgstr "[_mcthink_] ...et on ne se sent pas si bien que ça non plus..."
 
-# game/events_t.rpy:2548 #-#-# translate crowdin d11tfirsts_44acca36:
+# game/events_t.rpy:2539 #-#-# translate crowdin d11tfirsts_44acca36:
 msgid "[_mc_] Hmm, not bad, [t], not bad..."
 msgstr "[_mc_] Hmm, pas mal, [t], pas mal..."
 
-# game/events_t.rpy:2553 #-#-# translate crowdin d11tfirsts_98f7313d:
+# game/events_t.rpy:2543 #-#-# translate crowdin d11tfirsts_98f7313d:
 msgid "[_mc_] Alright, [t], get up."
 msgstr "[_mc_] D'accord, [t], lève-toi."
 
-# game/events_t.rpy:2555 #-#-# translate crowdin d11tfirsts_38e263ea:
+# game/events_t.rpy:2545 #-#-# translate crowdin d11tfirsts_38e263ea:
 msgid "[_t_] W-Why?! Did I do something wrong?"
 msgstr "[_t_] P-Pourquoi ? ! Est-ce que j'ai fait quelque chose de mal ?"
 
-# game/events_t.rpy:2557 #-#-# translate crowdin d11tfirsts_c0bd7d13:
+# game/events_t.rpy:2547 #-#-# translate crowdin d11tfirsts_c0bd7d13:
 msgid "[_mc_] Just do what I said."
 msgstr "[_mc_] Fais juste ce que je t'ai dit."
 
-# game/events_t.rpy:2559 #-#-# translate crowdin d11tfirsts_fb44b6fa:
+# game/events_t.rpy:2549 #-#-# translate crowdin d11tfirsts_fb44b6fa:
 msgid "[_t_] You didn't even cum, yet..."
 msgstr "[_t_] Tu n'as même pas joui, encore..."
 
-# game/events_t.rpy:2560 #-#-# translate crowdin d11tfirsts_51adb54b:
+# game/events_t.rpy:2550 #-#-# translate crowdin d11tfirsts_51adb54b:
 msgid "[_mc_] As I said, it's not about me."
 msgstr "[_mc_] Comme je l'ai dit, il ne s'agit pas de moi."
 
-# game/events_t.rpy:2562 #-#-# translate crowdin d11tfirsts_706d3ae9:
+# game/events_t.rpy:2552 #-#-# translate crowdin d11tfirsts_706d3ae9:
 msgid "[_t_] Fine... what do you want now?"
 msgstr "[_t_] Bien... qu'est-ce que tu veux maintenant ?"
 
-# game/events_t.rpy:2564 #-#-# translate crowdin d11tfirsts_ed54f708:
+# game/events_t.rpy:2554 #-#-# translate crowdin d11tfirsts_ed54f708:
 msgid "[_mc_] Take your pants off."
 msgstr "[_mc_] Enlève ton pantalon."
 
-# game/events_t.rpy:2566 #-#-# translate crowdin d11tfirsts_1bb01731_10:
+# game/events_t.rpy:2556 #-#-# translate crowdin d11tfirsts_1bb01731_10:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2575 #-#-# translate crowdin d11tfirsts_608e7bbc:
+# game/events_t.rpy:2565 #-#-# translate crowdin d11tfirsts_608e7bbc:
 msgid "[_t_] What now?"
 msgstr "[_t_] Et maintenant?"
 
-# game/events_t.rpy:2578 #-#-# translate crowdin d11tfirsts_9e9fcde8:
+# game/events_t.rpy:2568 #-#-# translate crowdin d11tfirsts_9e9fcde8:
 msgid "[_mc_] Sit on my lap."
 msgstr "[_mc_] Assieds-toi sur mes genoux."
 
-# game/events_t.rpy:2580 #-#-# translate crowdin d11tfirsts_f106db48:
+# game/events_t.rpy:2570 #-#-# translate crowdin d11tfirsts_f106db48:
 msgid "[_t_] W-What?! I'm not going to sit on your dick!"
 msgstr "[_t_] Q-Quoi ? ! Je ne vais pas m'asseoir sur ta queue !"
 
-# game/events_t.rpy:2582 #-#-# translate crowdin d11tfirsts_7a65c02e:
+# game/events_t.rpy:2572 #-#-# translate crowdin d11tfirsts_7a65c02e:
 msgid "[_mc_] You just had it in your mouth, what's the problem with sitting on it?"
 msgstr "[_mc_] Tu l'as juste eu dans ta bouche, quel est le problème de s'asseoir dessus ?"
 
-# game/events_t.rpy:2584 #-#-# translate crowdin d11tfirsts_c242cfd7:
+# game/events_t.rpy:2574 #-#-# translate crowdin d11tfirsts_c242cfd7:
 msgid "[_t_] That's something different..."
 msgstr "[_t_] C'est quelque chose de différent..."
 
-# game/events_t.rpy:2585 #-#-# translate crowdin d11tfirsts_6a950321:
+# game/events_t.rpy:2575 #-#-# translate crowdin d11tfirsts_6a950321:
 msgid "[_mc_] Are you scared it could accidentally enter the wrong hole?"
 msgstr "[_mc_] Vous avez peur qu'il entre accidentellement dans le mauvais trou ?"
 
-# game/events_t.rpy:2586 #-#-# translate crowdin d11tfirsts_b2115cfe:
+# game/events_t.rpy:2576 #-#-# translate crowdin d11tfirsts_b2115cfe:
 msgid "[_t_] It could accidentally enter any hole!"
 msgstr "[_t_] Il pourrait accidentellement entrer dans n'importe quel trou !"
 
-# game/events_t.rpy:2588 #-#-# translate crowdin d11tfirsts_6c9a924f:
+# game/events_t.rpy:2578 #-#-# translate crowdin d11tfirsts_6c9a924f:
 msgid "[_mc_] Heh... come here."
 msgstr "[_mc_] Heh... viens ici."
 
-# game/events_t.rpy:2592 #-#-# translate crowdin d11tfirsts_99a8a636:
+# game/events_t.rpy:2582 #-#-# translate crowdin d11tfirsts_99a8a636:
 msgid "[_mc_] See? It's not that... hard, right?"
 msgstr "[_mc_] Tu vois ? Ce n'est pas si... difficile, hein ?"
 
-# game/events_t.rpy:2593 #-#-# translate crowdin d11tfirsts_1bb01731_11:
+# game/events_t.rpy:2583 #-#-# translate crowdin d11tfirsts_1bb01731_11:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2595 #-#-# translate crowdin d11tfirsts_5f299e6d:
+# game/events_t.rpy:2585 #-#-# translate crowdin d11tfirsts_5f299e6d:
 msgid "[_mc_] Alright, why don't you grind on it?"
 msgstr "[_mc_] D'accord, pourquoi tu ne t'y mets pas ?"
 
-# game/events_t.rpy:2596 #-#-# translate crowdin d11tfirsts_bd65a88a:
+# game/events_t.rpy:2586 #-#-# translate crowdin d11tfirsts_bd65a88a:
 msgid "[_t_] Just grind?"
 msgstr "[_t_] Il suffit de moudre?"
 
-# game/events_t.rpy:2597 #-#-# translate crowdin d11tfirsts_199e031f:
+# game/events_t.rpy:2587 #-#-# translate crowdin d11tfirsts_199e031f:
 msgid "[_mc_] Just grind."
 msgstr "[_mc_] Il suffit de moudre."
 
-# game/events_t.rpy:2599 #-#-# translate crowdin d11tfirsts_8ee27418:
+# game/events_t.rpy:2589 #-#-# translate crowdin d11tfirsts_8ee27418:
 msgid "[_t_] Okay..."
 msgstr "[_t_] Ok ..."
 
-# game/events_t.rpy:2601 #-#-# translate crowdin d11tfirsts_93a82aa0:
+# game/events_t.rpy:2591 #-#-# translate crowdin d11tfirsts_93a82aa0:
 msgid "[_t_] Like this?"
 msgstr "[_t_] Comme ça?"
 
-# game/events_t.rpy:2602 #-#-# translate crowdin d11tfirsts_cf1adef2:
+# game/events_t.rpy:2592 #-#-# translate crowdin d11tfirsts_cf1adef2:
 msgid "[_mc_] Yeah."
 msgstr "[_mc_] Oui."
 
-# game/events_t.rpy:2609 #-#-# translate crowdin d11tfirsts_8cb1c1c3:
+# game/events_t.rpy:2599 #-#-# translate crowdin d11tfirsts_8cb1c1c3:
 msgid "[_t_] Nh..."
 msgstr "[_t_] Nh..."
 
-# game/events_t.rpy:2610 #-#-# translate crowdin d11tfirsts_bc5b1a02:
+# game/events_t.rpy:2600 #-#-# translate crowdin d11tfirsts_bc5b1a02:
 msgid "[_mc_] Are you comfortable?"
 msgstr "[_mc_] Êtes-vous à l'aise ?"
 
-# game/events_t.rpy:2611 #-#-# translate crowdin d11tfirsts_4cc81c8f:
+# game/events_t.rpy:2601 #-#-# translate crowdin d11tfirsts_4cc81c8f:
 msgid "[_t_] Hnn... what kind of question is that?!"
 msgstr "[_t_] Hnn... quel genre de question est-ce là ? !"
 
-# game/events_t.rpy:2612 #-#-# translate crowdin d11tfirsts_91b2d9fb:
+# game/events_t.rpy:2602 #-#-# translate crowdin d11tfirsts_91b2d9fb:
 msgid "[_mc_] Hey, I'm just making sure it's feeling good for you."
 msgstr "[_mc_] Hey, je m'assure juste que ça te fait du bien."
 
-# game/events_t.rpy:2613 #-#-# translate crowdin d11tfirsts_37e1c8e2:
+# game/events_t.rpy:2603 #-#-# translate crowdin d11tfirsts_37e1c8e2:
 msgid "[_t_] It's... okay..."
 msgstr "[_t_] C'est... ok..."
 
-# game/events_t.rpy:2614 #-#-# translate crowdin d11tfirsts_7de8b566:
+# game/events_t.rpy:2604 #-#-# translate crowdin d11tfirsts_7de8b566:
 msgid "[_mc_] Come on, [t]."
 msgstr "[_mc_] Allez, [t]."
 
-# game/events_t.rpy:2615 #-#-# translate crowdin d11tfirsts_da845a08:
+# game/events_t.rpy:2605 #-#-# translate crowdin d11tfirsts_da845a08:
 msgid "[_t_] Ugh... it's, nhh... it's good..."
 msgstr "[_t_] Ugh... c'est, nhh... c'est bon..."
 
-# game/events_t.rpy:2616 #-#-# translate crowdin d11tfirsts_d7962bef:
+# game/events_t.rpy:2606 #-#-# translate crowdin d11tfirsts_d7962bef:
 msgid "[_mc_] Do you like it, or not?"
 msgstr "[_mc_] Tu aimes ça, ou pas ?"
 
-# game/events_t.rpy:2617 #-#-# translate crowdin d11tfirsts_73181d76:
+# game/events_t.rpy:2607 #-#-# translate crowdin d11tfirsts_73181d76:
 msgid "[_t_] C-Can you shut up?"
 msgstr "[_t_] Pouvez-vous vous taire ?"
 
-# game/events_t.rpy:2618 #-#-# translate crowdin d11tfirsts_d053fdb5:
+# game/events_t.rpy:2608 #-#-# translate crowdin d11tfirsts_d053fdb5:
 msgid "[_mc_] Being bitchy again, huh?"
 msgstr "[_mc_] Tu fais encore la garce, hein ?"
 
-# game/events_t.rpy:2619 #-#-# translate crowdin d11tfirsts_394d3c06:
+# game/events_t.rpy:2609 #-#-# translate crowdin d11tfirsts_394d3c06:
 msgid "[_t_] I'm not bitchy!"
 msgstr "[_t_] Je ne suis pas une garce !"
 
-# game/events_t.rpy:2620 #-#-# translate crowdin d11tfirsts_0106dce4:
+# game/events_t.rpy:2610 #-#-# translate crowdin d11tfirsts_0106dce4:
 msgid "[_mc_] Alright, a little bit higher, [t]."
 msgstr "[_mc_] D'accord, un peu plus haut, [t]."
 
-# game/events_t.rpy:2621 #-#-# translate crowdin d11tfirsts_1bb01731_12:
+# game/events_t.rpy:2611 #-#-# translate crowdin d11tfirsts_1bb01731_12:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2627 #-#-# translate crowdin d11tfirsts_93a82aa0_1:
+# game/events_t.rpy:2616 #-#-# translate crowdin d11tfirsts_93a82aa0_1:
 msgid "[_t_] Like this?"
 msgstr "[_t_] Comme ça?"
 
-# game/events_t.rpy:2628 #-#-# translate crowdin d11tfirsts_91bd44e8:
+# game/events_t.rpy:2617 #-#-# translate crowdin d11tfirsts_91bd44e8:
 msgid "[_mc_] Higher."
 msgstr "[_mc_] Plus haut, plus fort."
 
-# game/events_t.rpy:2631 #-#-# translate crowdin d11tfirsts_4a1bb688:
+# game/events_t.rpy:2620 #-#-# translate crowdin d11tfirsts_4a1bb688:
 msgid "[_mc_] A little more."
 msgstr "[_mc_] Un peu plus."
 
-# game/events_t.rpy:2632 #-#-# translate crowdin d11tfirsts_c69c221d:
+# game/events_t.rpy:2621 #-#-# translate crowdin d11tfirsts_c69c221d:
 msgid "[_t_] N-Nhhn..."
 msgstr "[_t_] N-Nhhn..."
 
-# game/events_t.rpy:2635 #-#-# translate crowdin d11tfirsts_516cd5cf:
+# game/events_t.rpy:2624 #-#-# translate crowdin d11tfirsts_516cd5cf:
 msgid "[_t_] Haah!"
 msgstr "[_t_] Haah!"
 
-# game/events_t.rpy:2636 #-#-# translate crowdin d11tfirsts_3556e475:
+# game/events_t.rpy:2625 #-#-# translate crowdin d11tfirsts_3556e475:
 msgid "[_mc_] Oh, looks like it almost slipped in... accidentally."
 msgstr "[_mc_] Oh, on dirait que ça a presque glissé... accidentellement."
 
-# game/events_t.rpy:2638 #-#-# translate crowdin d11tfirsts_7a046ec3:
+# game/events_t.rpy:2627 #-#-# translate crowdin d11tfirsts_7a046ec3:
 msgid "[_t_] A-Accidentally? As if you didn't plan to do this."
 msgstr "[_t_] A-Accidentellement ? Comme si vous n'aviez pas prévu de le faire."
 
-# game/events_t.rpy:2640 #-#-# translate crowdin d11tfirsts_d6e97873:
+# game/events_t.rpy:2629 #-#-# translate crowdin d11tfirsts_d6e97873:
 msgid "[_mc_] Heh, it was totally by accident, but... what are we going to do about it?"
 msgstr "[_mc_] Heh, c'était totalement par accident, mais... qu'est-ce qu'on va faire pour ça ?"
 
-# game/events_t.rpy:2642 #-#-# translate crowdin d11tfirsts_ba21a0dd:
+# game/events_t.rpy:2631 #-#-# translate crowdin d11tfirsts_ba21a0dd:
 msgid "[_t_] Hmrph..."
 msgstr "[_t_] Hmrph..."
 
-# game/events_t.rpy:2644 #-#-# translate crowdin d11tfirsts_1bb01731_13:
+# game/events_t.rpy:2633 #-#-# translate crowdin d11tfirsts_1bb01731_13:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2646 #-#-# translate crowdin d11tfirsts_8cb1c1c3_1:
+# game/events_t.rpy:2635 #-#-# translate crowdin d11tfirsts_8cb1c1c3_1:
 msgid "[_t_] Nh..."
 msgstr "[_t_] Nh..."
 
-# game/events_t.rpy:2649 #-#-# translate crowdin d11tfirsts_142fe13e:
+# game/events_t.rpy:2638 #-#-# translate crowdin d11tfirsts_142fe13e:
 msgid "[_t_] Haah..."
 msgstr "[_t_] Haah..."
 
-# game/events_t.rpy:2651 #-#-# translate crowdin d11tfirsts_9a2f20df:
+# game/events_t.rpy:2640 #-#-# translate crowdin d11tfirsts_9a2f20df:
 msgid "[_mcthink_] Wow, I didn't expect her to just slide it in."
 msgstr "[_mcthink_] Wow, je ne m'attendais pas à ce qu'elle le glisse juste dedans."
 
-# game/events_t.rpy:2653 #-#-# translate crowdin d11tfirsts_c35be849:
+# game/events_t.rpy:2642 #-#-# translate crowdin d11tfirsts_c35be849:
 msgid "[_mc_] Looks like you accidentally slid down, [t]."
 msgstr "[_mc_] On dirait que tu as accidentellement glissé vers le bas, [t]."
 
-# game/events_t.rpy:2655 #-#-# translate crowdin d11tfirsts_c873d93e:
+# game/events_t.rpy:2644 #-#-# translate crowdin d11tfirsts_c873d93e:
 msgid "[_t_] Humph..."
 msgstr "[_t_] Humph..."
 
-# game/events_t.rpy:2656 #-#-# translate crowdin d11tfirsts_cfeb5f00:
+# game/events_t.rpy:2645 #-#-# translate crowdin d11tfirsts_cfeb5f00:
 msgid "[_mc_] *Smirks* go on."
 msgstr "[_mc_] *Smirks* continuez."
 
-# game/events_t.rpy:2658 #-#-# translate crowdin d11tfirsts_1bb01731_14:
+# game/events_t.rpy:2647 #-#-# translate crowdin d11tfirsts_1bb01731_14:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2666 #-#-# translate crowdin d11tfirsts_7c07ff4c:
+# game/events_t.rpy:2655 #-#-# translate crowdin d11tfirsts_7c07ff4c:
 msgid "[_t_] N-Nhh..."
 msgstr "[_t_] N-Nhh..."
 
-# game/events_t.rpy:2671 #-#-# translate crowdin d11tfirsts_dc5cfd13:
+# game/events_t.rpy:2659 #-#-# translate crowdin d11tfirsts_dc5cfd13:
 msgid "[_mc_] Are you finally relaxing?"
 msgstr "[_mc_] Vous vous détendez enfin ?"
 
-# game/events_t.rpy:2672 #-#-# translate crowdin d11tfirsts_a3ea99e9:
+# game/events_t.rpy:2660 #-#-# translate crowdin d11tfirsts_a3ea99e9:
 msgid "[_t_] If...hnnhh... you want to call it that..."
 msgstr "[_t_] Si... hnnhh... tu veux l'appeler comme ça..."
 
-# game/events_t.rpy:2673 #-#-# translate crowdin d11tfirsts_ef4566de:
+# game/events_t.rpy:2661 #-#-# translate crowdin d11tfirsts_ef4566de:
 msgid "[_mc_] It's just that you should be a bit more comfortable with your boyfriend."
 msgstr "[_mc_] C'est juste que tu devrais être un peu plus à l'aise avec ton petit ami."
 
-# game/events_t.rpy:2674 #-#-# translate crowdin d11tfirsts_2d2ce1e5:
+# game/events_t.rpy:2662 #-#-# translate crowdin d11tfirsts_2d2ce1e5:
 msgid "[_t_] Nhhh... maybe..."
 msgstr "[_t_] Nhhh... peut-être..."
 
-# game/events_t.rpy:2675 #-#-# translate crowdin d11tfirsts_cf75e010:
+# game/events_t.rpy:2663 #-#-# translate crowdin d11tfirsts_cf75e010:
 msgid "[_mc_] No objections to the boyfriend part?"
 msgstr "[_mc_] Aucune objection à la partie \"petit ami\" ?"
 
-# game/events_t.rpy:2676 #-#-# translate crowdin d11tfirsts_e2562688:
+# game/events_t.rpy:2664 #-#-# translate crowdin d11tfirsts_e2562688:
 msgid "[_t_] N-Nhnn..."
 msgstr "[_t_] N-Nhnn..."
 
-# game/events_t.rpy:2685 #-#-# translate crowdin d11tfirsts_b0d0df57:
+# game/events_t.rpy:2672 #-#-# translate crowdin d11tfirsts_b0d0df57:
 msgid "[_mc_] Come closer, let me get a nice, close look between your sexy legs."
 msgstr "[_mc_] Approche-toi, laisse-moi regarder de près entre tes jambes sexy."
 
-# game/events_t.rpy:2686 #-#-# translate crowdin d11tfirsts_1bb01731_15:
+# game/events_t.rpy:2673 #-#-# translate crowdin d11tfirsts_1bb01731_15:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2689 #-#-# translate crowdin d11tfirsts_fcb04132:
+# game/events_t.rpy:2676 #-#-# translate crowdin d11tfirsts_fcb04132:
 msgid "[_t_] I-I don't know if that's a good idea..."
 msgstr "[_t_] Je ne sais pas si c'est une bonne idée..."
 
-# game/events_t.rpy:2691 #-#-# translate crowdin d11tfirsts_8cc8f365:
+# game/events_t.rpy:2678 #-#-# translate crowdin d11tfirsts_8cc8f365:
 msgid "[_mc_] Don't worry, I'll hold you."
 msgstr "[_mc_] Ne t'inquiète pas, je vais te tenir."
 
-# game/events_t.rpy:2693 #-#-# translate crowdin d11tfirsts_8cb1c1c3_2:
+# game/events_t.rpy:2680 #-#-# translate crowdin d11tfirsts_8cb1c1c3_2:
 msgid "[_t_] Nh..."
 msgstr "[_t_] Nh..."
 
-# game/events_t.rpy:2696 #-#-# translate crowdin d11tfirsts_8e2fe8ed:
+# game/events_t.rpy:2683 #-#-# translate crowdin d11tfirsts_8e2fe8ed:
 msgid "[_mc_] Mhm, Looks tasty."
 msgstr "[_mc_] Mhm, ça a l'air savoureux."
 
-# game/events_t.rpy:2697 #-#-# translate crowdin d11tfirsts_b46eaf8e:
+# game/events_t.rpy:2684 #-#-# translate crowdin d11tfirsts_b46eaf8e:
 msgid "[_t_] Just make sure you won't let me fall."
 msgstr "[_t_] Assure-toi juste de ne pas me laisser tomber."
 
-# game/events_t.rpy:2699 #-#-# translate crowdin d11tfirsts_a615069f:
+# game/events_t.rpy:2686 #-#-# translate crowdin d11tfirsts_a615069f:
 msgid "[_mc_] Do you really think I'd let my girlfriend fall?"
 msgstr "[_mc_] Vous pensez vraiment que je laisserais ma petite amie tomber ?"
 
-# game/events_t.rpy:2700 #-#-# translate crowdin d11tfirsts_1bb01731_16:
+# game/events_t.rpy:2687 #-#-# translate crowdin d11tfirsts_1bb01731_16:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2701 #-#-# translate crowdin d11tfirsts_166b169a:
+# game/events_t.rpy:2688 #-#-# translate crowdin d11tfirsts_166b169a:
 msgid "[_mc_] No objections to the girlfriend part?"
 msgstr "[_mc_] Aucune objection à la partie \"petite amie\" ?"
 
-# game/events_t.rpy:2705 #-#-# translate crowdin d11tfirsts_df4b35f8:
+# game/events_t.rpy:2692 #-#-# translate crowdin d11tfirsts_df4b35f8:
 msgid "[_t_] Huh?"
 msgstr "[_t_] Hein ?"
 
-# game/events_t.rpy:2707 #-#-# translate crowdin d11tfirsts_d0661dce:
+# game/events_t.rpy:2694 #-#-# translate crowdin d11tfirsts_d0661dce:
 msgid "[_t_] WHAAH!"
 msgstr "[_t_] WHAAH !"
 
-# game/events_t.rpy:2710 #-#-# translate crowdin d11tfirsts_6ad2d418:
+# game/events_t.rpy:2697 #-#-# translate crowdin d11tfirsts_6ad2d418:
 msgid "[_mc_] What the!?"
 msgstr "[_mc_] Qu'est ce que!?"
 
-# game/events_t.rpy:2713 #-#-# translate crowdin d11tfirsts_9655811c:
+# game/events_t.rpy:2700 #-#-# translate crowdin d11tfirsts_9655811c:
 msgid "[_mc_] [j]?"
 msgstr "[_mc_] [j]?"
 
-# game/events_t.rpy:2715 #-#-# translate crowdin d11tfirsts_b4fa3fc0:
+# game/events_t.rpy:2702 #-#-# translate crowdin d11tfirsts_b4fa3fc0:
 msgid "[_j_] ..."
 msgstr "[_j_]..."
 
-# game/events_t.rpy:2717 #-#-# translate crowdin d11tfirsts_bd88c022:
+# game/events_t.rpy:2704 #-#-# translate crowdin d11tfirsts_bd88c022:
 msgid "[_t_] God..."
 msgstr "[_t_] Mon Dieu..."
 
-# game/events_t.rpy:2719 #-#-# translate crowdin d11tfirsts_04b77ce1:
+# game/events_t.rpy:2706 #-#-# translate crowdin d11tfirsts_04b77ce1:
 msgid "[_t_] I can't believe this, I..."
 msgstr "[_t_] Je ne peux pas le croire, je..."
 
-# game/events_t.rpy:2721 #-#-# translate crowdin d11tfirsts_12c2022f:
+# game/events_t.rpy:2708 #-#-# translate crowdin d11tfirsts_12c2022f:
 msgid "[_j_] AU!"
 msgstr "[_j_] AU !"
 
-# game/events_t.rpy:2723 #-#-# translate crowdin d11tfirsts_79dba188:
+# game/events_t.rpy:2710 #-#-# translate crowdin d11tfirsts_79dba188:
 msgid "[_mc_] Shit..."
 msgstr "[_mc_] Merde..."
 
-# game/events_t.rpy:2725 #-#-# translate crowdin d11tfirsts_5b24e48a:
+# game/events_t.rpy:2712 #-#-# translate crowdin d11tfirsts_5b24e48a:
 msgid "[_mc_] I better have a look."
 msgstr "[_mc_] Je ferais mieux de regarder."
 
-# game/events_t.rpy:2726 #-#-# translate crowdin d11tfirsts_b284dc60:
+# game/events_t.rpy:2713 #-#-# translate crowdin d11tfirsts_b284dc60:
 msgid "[_t_] Yes."
 msgstr "[_t_] Oui."
 
-# game/events_t.rpy:2730 #-#-# translate crowdin d11tfirsts_8bcaad36:
+# game/events_t.rpy:2717 #-#-# translate crowdin d11tfirsts_8bcaad36:
 msgid "[_j_] Damn..."
 msgstr "[_j_] Bon sang..."
 
-# game/events_t.rpy:2732 #-#-# translate crowdin d11tfirsts_3a36d8d7:
+# game/events_t.rpy:2719 #-#-# translate crowdin d11tfirsts_3a36d8d7:
 msgid "[_mc_] What happened, are you okay?"
 msgstr "[_mc_] Que s'est-il passé, tu vas bien ?"
 
-# game/events_t.rpy:2734 #-#-# translate crowdin d11tfirsts_9ce126f8:
+# game/events_t.rpy:2721 #-#-# translate crowdin d11tfirsts_9ce126f8:
 msgid "[_j_] I'm okay, I just slipped from the railing..."
 msgstr "[_j_] Je vais bien, j'ai juste glissé de la balustrade..."
 
-# game/events_t.rpy:2735 #-#-# translate crowdin d11tfirsts_7c9e345f:
+# game/events_t.rpy:2722 #-#-# translate crowdin d11tfirsts_7c9e345f:
 msgid "[_mc_] Well, that's what you get for peeping."
 msgstr "[_mc_] Eh bien, c'est ce que vous obtenez pour le voyeurisme."
 
-# game/events_t.rpy:2737 #-#-# translate crowdin d11tfirsts_0f5155b3:
+# game/events_t.rpy:2724 #-#-# translate crowdin d11tfirsts_0f5155b3:
 msgid "[_j_] Hey, you were making weird noises, I was just checking..."
 msgstr "[_j_] Hé, tu faisais des bruits bizarres, je vérifiais juste..."
 
-# game/events_t.rpy:2739 #-#-# translate crowdin d11tfirsts_b8a2d68e:
+# game/events_t.rpy:2726 #-#-# translate crowdin d11tfirsts_b8a2d68e:
 msgid "[_mc_] Yeah, sure... weird noises, huh..."
 msgstr "[_mc_] Oui, bien sûr... des bruits bizarres, hein..."
 
-# game/events_t.rpy:2741 #-#-# translate crowdin d11tfirsts_3c15b2a2:
+# game/events_t.rpy:2728 #-#-# translate crowdin d11tfirsts_3c15b2a2:
 msgid "[_mc_] Come on, you can go through my room."
 msgstr "[_mc_] Allez, tu peux passer par ma chambre."
 
-# game/events_t.rpy:2743 #-#-# translate crowdin d11tfirsts_1bb01731_17:
+# game/events_t.rpy:2730 #-#-# translate crowdin d11tfirsts_1bb01731_17:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2747 #-#-# translate crowdin d11tfirsts_205d1898:
+# game/events_t.rpy:2734 #-#-# translate crowdin d11tfirsts_205d1898:
 msgid "[_j_] Uhh... sorry for the interruption..."
 msgstr "[_j_] Uhh... désolé pour l'interruption..."
 
-# game/events_t.rpy:2749 #-#-# translate crowdin d11tfirsts_250cbd58:
+# game/events_t.rpy:2736 #-#-# translate crowdin d11tfirsts_250cbd58:
 msgid "[_t_] Shouldn't you be mad or something?"
 msgstr "[_t_] Tu ne devrais pas être en colère ou quelque chose comme ça ?"
 
-# game/events_t.rpy:2751 #-#-# translate crowdin d11tfirsts_d3ac2a0e:
+# game/events_t.rpy:2738 #-#-# translate crowdin d11tfirsts_d3ac2a0e:
 msgid "[_j_] Uhh... should I?"
 msgstr "[_j_] Euh... je devrais ?"
 
-# game/events_t.rpy:2755 #-#-# translate crowdin d11tfirsts_55d9e1e6:
+# game/events_t.rpy:2742 #-#-# translate crowdin d11tfirsts_55d9e1e6:
 msgid "[_t_] He's your boyfriend!"
 msgstr "[_t_] C'est ton petit ami !"
 
-# game/events_t.rpy:2757 #-#-# translate crowdin d11tfirsts_0ce979a0:
+# game/events_t.rpy:2744 #-#-# translate crowdin d11tfirsts_0ce979a0:
 msgid "[_t_] She's your girlfriend!"
 msgstr "[_t_] C'est ta petite amie !"
 
-# game/events_t.rpy:2759 #-#-# translate crowdin d11tfirsts_f58238a1:
+# game/events_t.rpy:2746 #-#-# translate crowdin d11tfirsts_f58238a1:
 msgid "[_j_] And yours, too, right?"
 msgstr "[_j_] Et le tien aussi, non ?"
 
-# game/events_t.rpy:2761 #-#-# translate crowdin d11tfirsts_2f64c1e9:
+# game/events_t.rpy:2748 #-#-# translate crowdin d11tfirsts_2f64c1e9:
 msgid "[_mc_] How long have you been watching?"
 msgstr "[_mc_] Depuis combien de temps tu regardes ?"
 
-# game/events_t.rpy:2763 #-#-# translate crowdin d11tfirsts_a3d1076c:
+# game/events_t.rpy:2750 #-#-# translate crowdin d11tfirsts_a3d1076c:
 msgid "[_j_] Uhh..."
 msgstr "[_j_] Uhh ..."
 
-# game/events_t.rpy:2766 #-#-# translate crowdin d11tfirsts_b63da1b0:
+# game/events_t.rpy:2753 #-#-# translate crowdin d11tfirsts_b63da1b0:
 msgid "[_t_] How can you be okay with that?!"
 msgstr "[_t_] Comment peux-tu être d'accord avec ça ? !"
 
-# game/events_t.rpy:2768 #-#-# translate crowdin d11tfirsts_85bc7991:
+# game/events_t.rpy:2755 #-#-# translate crowdin d11tfirsts_85bc7991:
 msgid "[_mc_] I told you she'd be fine with it, didn't I?"
 msgstr "[_mc_] Je t'avais dit qu'elle serait d'accord avec ça, n'est-ce pas ?"
 
-# game/events_t.rpy:2770 #-#-# translate crowdin d11tfirsts_599807f6:
+# game/events_t.rpy:2757 #-#-# translate crowdin d11tfirsts_599807f6:
 msgid "[_t_] How can you be okay with that?! [e] is your best friend!"
 msgstr "[_t_] Comment peux-tu être d'accord avec ça ? ! [e] est ton meilleur ami !"
 
-# game/events_t.rpy:2772 #-#-# translate crowdin d11tfirsts_cc12fb8c:
+# game/events_t.rpy:2759 #-#-# translate crowdin d11tfirsts_cc12fb8c:
 msgid "[_mc_] I told you [e] would be fine with it, didn't I?"
 msgstr "[_mc_] Je t'avais dit que [e] serait d'accord avec ça, n'est-ce pas ?"
 
-# game/events_t.rpy:2774 #-#-# translate crowdin d11tfirsts_3aac889c:
+# game/events_t.rpy:2761 #-#-# translate crowdin d11tfirsts_3aac889c:
 msgid "[_t_] Uch, you're both weird..."
 msgstr "[_t_] Uch, vous êtes tous les deux bizarres..."
 
-# game/events_t.rpy:2777 #-#-# translate crowdin d11tfirsts_c73fa029:
+# game/events_t.rpy:2764 #-#-# translate crowdin d11tfirsts_c73fa029:
 msgid "[_j_] Hey."
 msgstr "[_j_] Hé."
 
-# game/events_t.rpy:2779 #-#-# translate crowdin d11tfirsts_8bdc5dfa:
+# game/events_t.rpy:2766 #-#-# translate crowdin d11tfirsts_8bdc5dfa:
 msgid "[_j_] How would you know that I'm fine with it?"
 msgstr "[_j_] Comment saurais-tu que ça me convient ?"
 
-# game/events_t.rpy:2781 #-#-# translate crowdin d11tfirsts_23c4f530:
+# game/events_t.rpy:2768 #-#-# translate crowdin d11tfirsts_23c4f530:
 msgid "[_mc_] Well, you basically said it yourself, on my second day here, after I got you and [e] from school, remember?"
 msgstr "[_mc_] Eh bien, tu l'as dit toi-même, lors de mon deuxième jour ici, après que je vous ai récupérés toi et [e] à l'école, tu te souviens ?"
 
-# game/events_t.rpy:2783 #-#-# translate crowdin d11tfirsts_416a130e:
+# game/events_t.rpy:2770 #-#-# translate crowdin d11tfirsts_416a130e:
 msgid "[_j_] Oh..."
 msgstr "[_j_] Oh..."
 
-# game/events_t.rpy:2785 #-#-# translate crowdin d11tfirsts_89ef383a:
+# game/events_t.rpy:2772 #-#-# translate crowdin d11tfirsts_89ef383a:
 msgid "[_j_] Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone if you want."
 msgstr "[_j_] Euh, hey, [t], tu n'as vraiment pas besoin de te rhabiller, je vais vous laisser tous les deux si tu veux."
 
-# game/events_t.rpy:2788 #-#-# translate crowdin d11tfirsts_cfafea18:
+# game/events_t.rpy:2775 #-#-# translate crowdin d11tfirsts_cfafea18:
 msgid "[_j_] Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone..."
 msgstr "[_j_] Euh, hé, [t], tu n'as vraiment pas besoin de te rhabiller, je vous laisse seuls tous les deux..."
 
-# game/events_t.rpy:2790 #-#-# translate crowdin d11tfirsts_f1af56f8:
+# game/events_t.rpy:2777 #-#-# translate crowdin d11tfirsts_f1af56f8:
 msgid "[_t_] No thanks, I'll just be leaving."
 msgstr "[_t_] Non merci, je vais partir."
 
-# game/events_t.rpy:2792 #-#-# translate crowdin d11tfirsts_47f8e571:
+# game/events_t.rpy:2779 #-#-# translate crowdin d11tfirsts_47f8e571:
 msgid "[_j_] Aww, come on, don't leave. I'm sorry, okay?"
 msgstr "[_j_] Aww, allez, ne pars pas. Je suis désolé, ok ?"
 
-# game/events_t.rpy:2794 #-#-# translate crowdin d11tfirsts_07b535c6:
+# game/events_t.rpy:2781 #-#-# translate crowdin d11tfirsts_07b535c6:
 msgid "[_t_] You two can do what ever you want, but I don't need to be part of it."
 msgstr "[_t_] Vous pouvez faire ce que vous voulez, mais je n'ai pas besoin d'en faire partie."
 
-# game/events_t.rpy:2796 #-#-# translate crowdin d11tfirsts_8055313a:
+# game/events_t.rpy:2783 #-#-# translate crowdin d11tfirsts_8055313a:
 msgid "[_t_] Just do me a favor and don't tell anyone what you've seen today..."
 msgstr "[_t_] Fais-moi une faveur et ne dis à personne ce que tu as vu aujourd'hui..."
 
-# game/events_t.rpy:2798 #-#-# translate crowdin d11tfirsts_24f19ac1:
+# game/events_t.rpy:2785 #-#-# translate crowdin d11tfirsts_24f19ac1:
 msgid "[_j_] Of course not..."
 msgstr "[_j_] Bien sûr que non..."
 
-# game/events_t.rpy:2800 #-#-# translate crowdin d11tfirsts_e357a6c7:
+# game/events_t.rpy:2787 #-#-# translate crowdin d11tfirsts_e357a6c7:
 msgid "[_j_] I mean..."
 msgstr "[_j_] Je veux dire..."
 
-# game/events_t.rpy:2801 #-#-# translate crowdin d11tfirsts_a3d1076c_1:
+# game/events_t.rpy:2788 #-#-# translate crowdin d11tfirsts_a3d1076c_1:
 msgid "[_j_] Uhh..."
 msgstr "[_j_] Uhh ..."
 
-# game/events_t.rpy:2803 #-#-# translate crowdin d11tfirsts_a0e65641:
+# game/events_t.rpy:2790 #-#-# translate crowdin d11tfirsts_a0e65641:
 msgid "[_j_] That means you owe me something, right?"
 msgstr "[_j_] Ça veut dire que tu me dois quelque chose, non ?"
 
-# game/events_t.rpy:2806 #-#-# translate crowdin d11tfirsts_223921ba:
+# game/events_t.rpy:2793 #-#-# translate crowdin d11tfirsts_223921ba:
 msgid "[_t_] Ugh, you two really are a perfect match!"
 msgstr "[_t_] Ugh, vous deux êtes vraiment un match parfait !"
 
-# game/events_t.rpy:2808 #-#-# translate crowdin d11tfirsts_02998f1f:
+# game/events_t.rpy:2795 #-#-# translate crowdin d11tfirsts_02998f1f:
 msgid "[_t_] Ugh, you two would make a perfect couple!"
 msgstr "[_t_] Ugh, vous feriez un couple parfait !"
 
-# game/events_t.rpy:2810 #-#-# translate crowdin d11tfirsts_fba7b537:
+# game/events_t.rpy:2797 #-#-# translate crowdin d11tfirsts_fba7b537:
 msgid "[_j_] Hehe."
 msgstr "[_j_] Hehe."
 
-# game/events_t.rpy:2812 #-#-# translate crowdin d11tfirsts_b79c704a:
+# game/events_t.rpy:2799 #-#-# translate crowdin d11tfirsts_b79c704a:
 msgid "[_t_] What do you want?"
 msgstr "[_t_] Que veux-tu?"
 
-# game/events_t.rpy:2814 #-#-# translate crowdin d11tfirsts_a00c928e:
+# game/events_t.rpy:2801 #-#-# translate crowdin d11tfirsts_a00c928e:
 msgid "[_j_] Hey, don't be mad, I just want you to stay. You have an appointment with [e] anyway, don't you?"
 msgstr "[_j_] Hey, ne sois pas en colère, je veux juste que tu restes. Tu as un rendez-vous avec [e] de toute façon, n'est-ce pas ?"
 
-# game/events_t.rpy:2816 #-#-# translate crowdin d11tfirsts_d6944372:
+# game/events_t.rpy:2803 #-#-# translate crowdin d11tfirsts_d6944372:
 msgid "[_t_] Hmph... fine."
 msgstr "[_t_] Hmph... bien."
 
-# game/events_t.rpy:2818 #-#-# translate crowdin d11tfirsts_24eee438:
+# game/events_t.rpy:2805 #-#-# translate crowdin d11tfirsts_24eee438:
 msgid "[_t_] ...but I'm just going to sit and wait until [e] is home for her therapy..."
 msgstr "[_t_] ...mais je vais juste m'asseoir et attendre que [e] soit à la maison pour sa thérapie..."
 
-# game/events_t.rpy:2822 #-#-# translate crowdin d11tfirsts_b4fa3fc0_1:
+# game/events_t.rpy:2809 #-#-# translate crowdin d11tfirsts_b4fa3fc0_1:
 msgid "[_j_] ..."
 msgstr "[_j_]..."
 
-# game/events_t.rpy:2824 #-#-# translate crowdin d11tfirsts_ff3bd3ea:
+# game/events_t.rpy:2811 #-#-# translate crowdin d11tfirsts_ff3bd3ea:
 msgid "[_j_] Well, okay."
 msgstr "[_j_] Bon, d'accord."
 
-# game/events_t.rpy:2826 #-#-# translate crowdin d11tfirsts_1bb01731_18:
+# game/events_t.rpy:2813 #-#-# translate crowdin d11tfirsts_1bb01731_18:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2828 #-#-# translate crowdin d11tfirsts_128fd593:
+# game/events_t.rpy:2815 #-#-# translate crowdin d11tfirsts_128fd593:
 msgid "[_j_] What are you standing there like a lost sheep, come, sit between us!"
 msgstr "[_j_] Que faites-vous là comme une brebis égarée, venez, asseyez-vous entre nous !"
 
-# game/events_t.rpy:2830 #-#-# translate crowdin d11tfirsts_985c02f6_1:
+# game/events_t.rpy:2817 #-#-# translate crowdin d11tfirsts_985c02f6_1:
 msgid "[_t_] Ugh..."
 msgstr "[_t_] Ugh ..."
 
-# game/events_t.rpy:2835 #-#-# translate crowdin d11tfirsts_62dfb6eb:
+# game/events_t.rpy:2822 #-#-# translate crowdin d11tfirsts_62dfb6eb:
 msgid "[_j_] Nothing better than cuddling with your girlfriendssss, right?"
 msgstr "[_j_] Rien de mieux que de se câliner avec ses copines, non ?"
 
-# game/events_t.rpy:2837 #-#-# translate crowdin d11tfirsts_de5cbbbb:
+# game/events_t.rpy:2824 #-#-# translate crowdin d11tfirsts_de5cbbbb:
 msgid "[_mc_] Heh, right."
 msgstr "[_mc_] Heh, c'est vrai."
 
-# game/events_t.rpy:2839 #-#-# translate crowdin d11tfirsts_01901a7d:
+# game/events_t.rpy:2826 #-#-# translate crowdin d11tfirsts_01901a7d:
 msgid "[_mc_] Wouldn't you say, too, [t]?"
 msgstr "[_mc_] Ne diriez-vous pas aussi, [t]?"
 
-# game/events_t.rpy:2841 #-#-# translate crowdin d11tfirsts_b4fa3fc0_2:
+# game/events_t.rpy:2828 #-#-# translate crowdin d11tfirsts_b4fa3fc0_2:
 msgid "[_j_] ..."
 msgstr "[_j_]..."
 
-# game/events_t.rpy:2843 #-#-# translate crowdin d11tfirsts_4e2823dd:
+# game/events_t.rpy:2830 #-#-# translate crowdin d11tfirsts_4e2823dd:
 msgid "[_t_] *grml*"
 msgstr "[_t_] *grml*"
 
-# game/events_t.rpy:2845 #-#-# translate crowdin d11tfirsts_7de8b566_1:
+# game/events_t.rpy:2832 #-#-# translate crowdin d11tfirsts_7de8b566_1:
 msgid "[_mc_] Come on, [t]."
 msgstr "[_mc_] Allez, [t]."
 
-# game/events_t.rpy:2847 #-#-# translate crowdin d11tfirsts_001e9bbe:
+# game/events_t.rpy:2834 #-#-# translate crowdin d11tfirsts_001e9bbe:
 msgid "[_mc_] Shit happens sometimes, right?"
 msgstr "[_mc_] Les merdes arrivent parfois, non ?"
 
-# game/events_t.rpy:2849 #-#-# translate crowdin d11tfirsts_1bb01731_19:
+# game/events_t.rpy:2836 #-#-# translate crowdin d11tfirsts_1bb01731_19:
 msgid "[_t_] ..."
 msgstr "[_t_]..."
 
-# game/events_t.rpy:2852 #-#-# translate crowdin d11tfirsts_64691207:
+# game/events_t.rpy:2839 #-#-# translate crowdin d11tfirsts_64691207:
 msgid "[_j_] Come on, [t], there's nothing wrong with having fun with your boyfriend."
 msgstr "[_j_] Allez, [t], il n'y a rien de mal à s'amuser avec son petit ami."
 
-# game/events_t.rpy:2854 #-#-# translate crowdin d11tfirsts_55670417:
+# game/events_t.rpy:2841 #-#-# translate crowdin d11tfirsts_55670417:
 msgid "[_j_] Come on, [t], there's nothing wrong with having fun with your girlfriend."
 msgstr "[_j_] Allez, [t], il n'y a rien de mal à s'amuser avec sa petite amie."
 
-# game/events_t.rpy:2857 #-#-# translate crowdin d11tfirsts_c33b515c:
+# game/events_t.rpy:2844 #-#-# translate crowdin d11tfirsts_c33b515c:
 msgid "[_mc_] Err..."
 msgstr "[_mc_] Err..."
 
-# game/events_t.rpy:2858 #-#-# translate crowdin d11tfirsts_8cf97b9c:
+# game/events_t.rpy:2845 #-#-# translate crowdin d11tfirsts_8cf97b9c:
 msgid "[_j_] I won't tell anybody, promise."
 msgstr "[_j_] Je ne dirai rien à personne, promis."
 
-# game/events_t.rpy:2860 #-#-# translate crowdin d11tfirsts_03ae43fd:
+# game/events_t.rpy:2847 #-#-# translate crowdin d11tfirsts_03ae43fd:
 msgid "[_mcthink_] Damn, [j] is such a naughty little..."
 msgstr "[_mcthink_] Bon sang, [j] est une petite coquine..."
 
-# game/events_t.rpy:2864 #-#-# translate crowdin d11tfirsts_ee342a8f:
+# game/events_t.rpy:2851 #-#-# translate crowdin d11tfirsts_ee342a8f:
 msgid "[_mc_] Sounds like [m] and [e] are back."
 msgstr "[_mc_] On dirait que [m] et [e] sont de retour."
 
-# game/events_t.rpy:2866 #-#-# translate crowdin d11tfirsts_75abc27f:
+# game/events_t.rpy:2853 #-#-# translate crowdin d11tfirsts_75abc27f:
 msgid "[_t_] Good, time to do my job."
 msgstr "[_t_] Bien, il est temps de faire mon travail."
 
-# game/events_t.rpy:2871 #-#-# translate crowdin d11tfirsts_21c608a2:
+# game/events_t.rpy:2858 #-#-# translate crowdin d11tfirsts_21c608a2:
 msgid "[_j_] She has a really nice ass in those pants."
 msgstr "[_j_] Elle a un très beau cul dans ce pantalon."
 
-# game/events_t.rpy:2872 #-#-# translate crowdin d11tfirsts_c041bb9a_2:
+# game/events_t.rpy:2859 #-#-# translate crowdin d11tfirsts_c041bb9a_2:
 msgid "[_t_] Hmph..."
 msgstr "[_t_] Hmph..."
 
-# game/events_t.rpy:2877 #-#-# translate crowdin d11tfirsts_73ee3052:
+# game/events_t.rpy:2864 #-#-# translate crowdin d11tfirsts_73ee3052:
 msgid "[_j_] No wonder you like her."
 msgstr "[_j_] Pas étonnant que tu l'aimes bien."
 
-# game/events_t.rpy:2879 #-#-# translate crowdin d11tfirsts_f8e63386:
+# game/events_t.rpy:2866 #-#-# translate crowdin d11tfirsts_f8e63386:
 msgid "[_j_] Too bad [e] and [m] just came back home."
 msgstr "[_j_] Dommage que [e] et [m] viennent de rentrer à la maison."
 
-# game/events_t.rpy:2881 #-#-# translate crowdin d11tfirsts_6dbd57f7:
+# game/events_t.rpy:2868 #-#-# translate crowdin d11tfirsts_6dbd57f7:
 msgid "[_mc_] I doubt that them coming home changed much."
 msgstr "[_mc_] Je doute que leur retour à la maison ait changé grand-chose."
 
-# game/events_t.rpy:2883 #-#-# translate crowdin d11tfirsts_cd33cad5:
+# game/events_t.rpy:2870 #-#-# translate crowdin d11tfirsts_cd33cad5:
 msgid "[_j_] Aww, sorry, I'll be more careful next time."
 msgstr "[_j_] Aww, désolé, je ferai plus attention la prochaine fois."
 
-# game/events_t.rpy:2885 #-#-# translate crowdin d11tfirsts_cbb21558:
+# game/events_t.rpy:2872 #-#-# translate crowdin d11tfirsts_cbb21558:
 msgid "[_mc_] More careful? You shouldn't peep in the first place."
 msgstr "[_mc_] Plus prudent ? Vous ne devriez pas épier en premier lieu."
 
-# game/events_t.rpy:2887 #-#-# translate crowdin d11tfirsts_d5a8f0fe:
+# game/events_t.rpy:2874 #-#-# translate crowdin d11tfirsts_d5a8f0fe:
 msgid "[_j_] Hrm..."
 msgstr "[_j_] Hrm..."
 
-# game/events_t.rpy:2888 #-#-# translate crowdin d11tfirsts_8ff8ec9a:
+# game/events_t.rpy:2875 #-#-# translate crowdin d11tfirsts_8ff8ec9a:
 msgid "[_mc_] Seriously, [j]."
 msgstr "[_mc_] Sérieusement, [j]."
 
-# game/events_t.rpy:2890 #-#-# translate crowdin d11tfirsts_1cae3073:
+# game/events_t.rpy:2877 #-#-# translate crowdin d11tfirsts_1cae3073:
 msgid "[_j_] Sorry, I won't do it again."
 msgstr "[_j_] Désolé, je ne le ferai plus."
 
-# game/events_t.rpy:2892 #-#-# translate crowdin d11tfirsts_cb2c03b6:
+# game/events_t.rpy:2879 #-#-# translate crowdin d11tfirsts_cb2c03b6:
 msgid "[_mc_] I hope so, otherwise I'll have to punish you, young lady."
 msgstr "[_mc_] Je l'espère, sinon je vais devoir vous punir, jeune fille."
 
-# game/events_t.rpy:2894 #-#-# translate crowdin d11tfirsts_ad88acdc:
+# game/events_t.rpy:2881 #-#-# translate crowdin d11tfirsts_ad88acdc:
 msgid "[_j_] Hehe, don't tempt me, [mcmd]."
 msgstr "[_j_] Hehe, ne me tentez pas, [mcmd]."
 
-# game/events_t.rpy:2896 #-#-# translate crowdin d11tfirsts_d4cfca71:
+# game/events_t.rpy:2883 #-#-# translate crowdin d11tfirsts_d4cfca71:
 msgid "[_mc_] But seriously, [j], don't do it again, unless you know everyone is fine with it."
 msgstr "[_mc_] Mais sérieusement, [j], ne le refais pas, à moins que tu saches que tout le monde est d'accord."
 
-# game/events_t.rpy:2898 #-#-# translate crowdin d11tfirsts_ecc233ae:
+# game/events_t.rpy:2885 #-#-# translate crowdin d11tfirsts_ecc233ae:
 msgid "[_j_] I won't, promise."
 msgstr "[_j_] Je ne le ferai pas, promis."
 
-# game/events_t.rpy:2900 #-#-# translate crowdin d11tfirsts_21c608a2_1:
+# game/events_t.rpy:2887 #-#-# translate crowdin d11tfirsts_21c608a2_1:
 msgid "[_j_] She has a really nice ass in those pants."
 msgstr "[_j_] Elle a un très beau cul dans ce pantalon."
 
-# game/events_t.rpy:2901 #-#-# translate crowdin d11tfirsts_c041bb9a_3:
+# game/events_t.rpy:2888 #-#-# translate crowdin d11tfirsts_c041bb9a_3:
 msgid "[_t_] Hmph..."
 msgstr "[_t_] Hmph..."
 
-# game/events_t.rpy:2905 #-#-# translate crowdin d11tfirsts_73ee3052_1:
+# game/events_t.rpy:2892 #-#-# translate crowdin d11tfirsts_73ee3052_1:
 msgid "[_j_] No wonder you like her."
 msgstr "[_j_] Pas étonnant que tu l'aimes bien."
 
-# game/events_t.rpy:2906 #-#-# translate crowdin d11tfirsts_f8e63386_1:
+# game/events_t.rpy:2893 #-#-# translate crowdin d11tfirsts_f8e63386_1:
 msgid "[_j_] Too bad [e] and [m] just came back home."
 msgstr "[_j_] Dommage que [e] et [m] viennent de rentrer à la maison."
 
-# game/events_t.rpy:2908 #-#-# translate crowdin d11tfirsts_6dbd57f7_1:
+# game/events_t.rpy:2895 #-#-# translate crowdin d11tfirsts_6dbd57f7_1:
 msgid "[_mc_] I doubt that them coming home changed much."
 msgstr "[_mc_] Je doute que leur retour à la maison ait changé grand-chose."
 
-# game/events_t.rpy:2910 #-#-# translate crowdin d11tfirsts_60d0d9c0:
+# game/events_t.rpy:2897 #-#-# translate crowdin d11tfirsts_60d0d9c0:
 msgid "[_j_] Sorry, I guess I..."
 msgstr "[_j_] Désolé, je suppose que je..."
 
-# game/events_t.rpy:2914 #-#-# translate crowdin d11tfirsts_dc5bbf95:
+# game/events_t.rpy:2901 #-#-# translate crowdin d11tfirsts_dc5bbf95:
 msgid "[_j_] Hey, [e], welcome back."
 msgstr "[_j_] Hé, [e], bon retour."
 
-# game/events_t.rpy:2916 #-#-# translate crowdin d11tfirsts_6bca4e18:
+# game/events_t.rpy:2903 #-#-# translate crowdin d11tfirsts_6bca4e18:
 msgid "[_t_] Come on, [e], I don't have much time..."
 msgstr "[_t_] Allez, [e], je n'ai pas beaucoup de temps..."
 
-# game/events_t.rpy:2918 #-#-# translate crowdin d11tfirsts_f63da726:
+# game/events_t.rpy:2905 #-#-# translate crowdin d11tfirsts_f63da726:
 msgid "[_t_] Ugh, are you still..."
 msgstr "[_t_] Ugh, tu es toujours..."
 
-# game/events_t.rpy:2920 #-#-# translate crowdin d11tfirsts_2b40a022:
+# game/events_t.rpy:2907 #-#-# translate crowdin d11tfirsts_2b40a022:
 msgid "[_e_] Huh?"
 msgstr "[_e_] Hein ?"
 
-# game/events_t.rpy:2922 #-#-# translate crowdin d11tfirsts_143db3d9:
+# game/events_t.rpy:2909 #-#-# translate crowdin d11tfirsts_143db3d9:
 msgid "[_m_] Hey, what's going..."
 msgstr "[_m_] Hé, qu'est-ce qui se passe..."
 
-# game/events_t.rpy:2924 #-#-# translate crowdin d11tfirsts_5da0228b:
+# game/events_t.rpy:2911 #-#-# translate crowdin d11tfirsts_5da0228b:
 msgid "[_m_] O-Oh... err..."
 msgstr "[_m_] O-Oh... err..."
 
-# game/events_t.rpy:2926 #-#-# translate crowdin d11tfirsts_7d25852a:
+# game/events_t.rpy:2913 #-#-# translate crowdin d11tfirsts_7d25852a:
 msgid "[_m_] Come on, [e], [t] is waiting for you."
 msgstr "[_m_] Allez, [e], [t] t'attend."
 
-# game/events_t.rpy:2927 #-#-# translate crowdin d11tfirsts_9c5e6f88:
+# game/events_t.rpy:2914 #-#-# translate crowdin d11tfirsts_9c5e6f88:
 msgid "[_e_] Whaa..."
 msgstr "[_e_] Quoiii..."
 
-# game/events_t.rpy:2930 #-#-# translate crowdin d11tfirsts_6894d896:
+# game/events_t.rpy:2917 #-#-# translate crowdin d11tfirsts_6894d896:
 msgid "[_mc_] Shit, I better put my pants on."
 msgstr "[_mc_] Merde, je ferais mieux de mettre mon pantalon."
 
-# game/events_t.rpy:2931 #-#-# translate crowdin d11tfirsts_d1f3ebf7:
+# game/events_t.rpy:2918 #-#-# translate crowdin d11tfirsts_d1f3ebf7:
 msgid "[_j_] Yeah... sorry..."
 msgstr "[_j_] Ouais... désolé..."
 
-# game/events_t.rpy:2933 #-#-# translate crowdin d11tfirsts_9405a33c:
+# game/events_t.rpy:2920 #-#-# translate crowdin d11tfirsts_9405a33c:
 msgid "[_j_] ...I'll go see if [m] needs help with anything..."
 msgstr "[_j_] ...Je vais voir si [m] a besoin d'aide pour quoi que ce soit..."
 
-# game/events_t.rpy:2934 #-#-# translate crowdin d11tfirsts_2fcc7ac5:
+# game/events_t.rpy:2921 #-#-# translate crowdin d11tfirsts_2fcc7ac5:
 msgid "[_mc_] Sure..."
 msgstr "[_mc_] Bien sûr..."
 
-# game/events_t.rpy:2937 #-#-# translate crowdin d11tfirsts_6894d896_1:
+# game/events_t.rpy:2924 #-#-# translate crowdin d11tfirsts_6894d896_1:
 msgid "[_mc_] Shit, I better put my pants on."
 msgstr "[_mc_] Merde, je ferais mieux de mettre mon pantalon."
 
-# game/events_t.rpy:2938 #-#-# translate crowdin d11tfirsts_36a6d3ec:
-msgid "[_j_] yeah... too bad..."
+# game/events_t.rpy:2925 #-#-# translate crowdin d11tfirsts_775d8a57:
+msgid "[_j_] Yeah... too bad..."
 msgstr "[_j_] Ouais... dommage..."
 
-# game/events_t.rpy:2940 #-#-# translate crowdin d11tfirsts_c80207c6:
+# game/events_t.rpy:2927 #-#-# translate crowdin d11tfirsts_c80207c6:
 msgid "[_mc_] Well, at least they didn't see me and [t]."
 msgstr "[_mc_] Au moins, ils ne m'ont pas vu et [t]."
 
-# game/events_t.rpy:2942 #-#-# translate crowdin d11tfirsts_de476f0d:
+# game/events_t.rpy:2929 #-#-# translate crowdin d11tfirsts_de476f0d:
 msgid "[_j_] Hehe, yeah, that might've ended up worse than it did."
 msgstr "[_j_] Hehe, ouais, ça aurait pu être pire que ça ne l'a été."
 
-# game/events_t.rpy:2944 #-#-# translate crowdin d11tfirsts_69c25b65:
+# game/events_t.rpy:2931 #-#-# translate crowdin d11tfirsts_69c25b65:
 msgid "[_mc_] Yeah..."
 msgstr "[_mc_] Oui ..."
 
-# game/events_t.rpy:2945 #-#-# translate crowdin d11tfirsts_5bec3d56:
+# game/events_t.rpy:2932 #-#-# translate crowdin d11tfirsts_5bec3d56:
 msgid "[_j_] Too bad [m] isn't okay with us, yet, this could've ended up in a nice little orgy."
 msgstr "[_j_] Dommage que [m] ne soit pas encore d'accord avec nous, ça aurait pu finir en une jolie petite orgie."
 
-# game/events_t.rpy:2947 #-#-# translate crowdin d11tfirsts_ad9c5742:
+# game/events_t.rpy:2934 #-#-# translate crowdin d11tfirsts_ad9c5742:
 msgid "[_mc_] Damn, [j]..."
 msgstr "[_mc_] Merde, [j]..."
 
-# game/events_t.rpy:2949 #-#-# translate crowdin d11tfirsts_a475dd4c:
+# game/events_t.rpy:2936 #-#-# translate crowdin d11tfirsts_a475dd4c:
 msgid "[_j_] What?"
 msgstr "[_j_] Que puis-je faire pour toi?"
 
-# game/events_t.rpy:2951 #-#-# translate crowdin d11tfirsts_6b7cbff5:
+# game/events_t.rpy:2938 #-#-# translate crowdin d11tfirsts_6b7cbff5:
 msgid "[_mc_] What do mean by \"yet\" by the way?"
 msgstr "[_mc_] Au fait, qu'entendez-vous par \"encore\" ?"
 
-# game/events_t.rpy:2953 #-#-# translate crowdin d11tfirsts_52908790:
+# game/events_t.rpy:2940 #-#-# translate crowdin d11tfirsts_52908790:
 msgid "[_j_] Well, we obviously need to convince her to join your little harem, right?"
 msgstr "[_j_] Eh bien, nous devons évidemment la convaincre de rejoindre votre petit harem, non ?"
 
-# game/events_t.rpy:2955 #-#-# translate crowdin d11tfirsts_c0d05d94:
+# game/events_t.rpy:2942 #-#-# translate crowdin d11tfirsts_c0d05d94:
 msgid "[_mc_] My harem? Why do I get the feeling that that's more like what {b}you{/b} want?"
 msgstr "[_mc_] Mon harem ? Pourquoi ai-je l'impression que c'est plutôt ce que {b}vous voulez ?"
 
-# game/events_t.rpy:2957 #-#-# translate crowdin d11tfirsts_8bd5ac3d:
+# game/events_t.rpy:2944 #-#-# translate crowdin d11tfirsts_8bd5ac3d:
 msgid "[_j_] Nah, that'd be too much work for me..."
 msgstr "[_j_] Non, ça serait trop de travail pour moi..."
 
-# game/events_t.rpy:2959 #-#-# translate crowdin d11tfirsts_27aa9bd3:
+# game/events_t.rpy:2946 #-#-# translate crowdin d11tfirsts_27aa9bd3:
 msgid "[_mc_] Oh, so you let me do all the hard work."
 msgstr "[_mc_] Oh, donc tu me laisses faire tout le travail difficile."
 
-# game/events_t.rpy:2961 #-#-# translate crowdin d11tfirsts_09798197:
+# game/events_t.rpy:2948 #-#-# translate crowdin d11tfirsts_09798197:
 msgid "[_j_] Hey, I'm trying to help you! Also, it's not only hard, but also juicy, isn't it?"
 msgstr "[_j_] Hé, j'essaie de t'aider ! Et puis, ce n'est pas seulement difficile, mais aussi juteux, n'est-ce pas ?"
 
-# game/events_t.rpy:2963 #-#-# translate crowdin d11tfirsts_fbe5e1b8:
+# game/events_t.rpy:2950 #-#-# translate crowdin d11tfirsts_fbe5e1b8:
 msgid "[_mc_] Heh, well, kind of."
 msgstr "[_mc_] Heh, et bien, en quelque sorte."
 
-# game/events_t.rpy:2965 #-#-# translate crowdin d11tfirsts_21f63e97:
+# game/events_t.rpy:2952 #-#-# translate crowdin d11tfirsts_21f63e97:
 msgid "[_j_] See? And it's not like I'm not doing my part, hehe."
 msgstr "[_j_] Tu vois ? Et ce n'est pas comme si je ne faisais pas ma part, hehe."
 
-# game/events_t.rpy:2968 #-#-# translate crowdin d11tfirsts_fbf4c6b0:
+# game/events_t.rpy:2955 #-#-# translate crowdin d11tfirsts_fbf4c6b0:
 msgid "[_mc_] Yeah... and you really are okay with that?"
 msgstr "[_mc_] Oui... et tu es vraiment d'accord avec ça ?"
 
-# game/events_t.rpy:2970 #-#-# translate crowdin d11tfirsts_e3b51cb3:
+# game/events_t.rpy:2957 #-#-# translate crowdin d11tfirsts_e3b51cb3:
 msgid "[_j_] Yeah, sure, I mean..."
 msgstr "[_j_] Oui, bien sûr, je veux dire..."
 
-# game/events_t.rpy:2972 #-#-# translate crowdin d11tfirsts_b4fa3fc0_3:
+# game/events_t.rpy:2959 #-#-# translate crowdin d11tfirsts_b4fa3fc0_3:
 msgid "[_j_] ..."
 msgstr "[_j_]..."
 
-# game/events_t.rpy:2974 #-#-# translate crowdin d11tfirsts_9655811c_1:
+# game/events_t.rpy:2961 #-#-# translate crowdin d11tfirsts_9655811c_1:
 msgid "[_mc_] [j]?"
 msgstr "[_mc_] [j]?"
 
-# game/events_t.rpy:2976 #-#-# translate crowdin d11tfirsts_6cb3f283:
+# game/events_t.rpy:2963 #-#-# translate crowdin d11tfirsts_6cb3f283:
 msgid "[_j_] Err... yeah, haha."
 msgstr "[_j_] Err... ouais, haha."
 
-# game/events_t.rpy:2978 #-#-# translate crowdin d11tfirsts_8b470045:
+# game/events_t.rpy:2965 #-#-# translate crowdin d11tfirsts_8b470045:
 msgid "[_j_] Absolutely!"
 msgstr "[_j_] Absolument !"
 
-# game/events_t.rpy:2980 #-#-# translate crowdin d11tfirsts_2b35b6fe_2:
+# game/events_t.rpy:2967 #-#-# translate crowdin d11tfirsts_2b35b6fe_2:
 msgid "[_mc_] ..."
 msgstr "[_mc_]..."
 
-# game/events_t.rpy:2982 #-#-# translate crowdin d11tfirsts_b4fa3fc0_4:
+# game/events_t.rpy:2969 #-#-# translate crowdin d11tfirsts_b4fa3fc0_4:
 msgid "[_j_] ..."
 msgstr "[_j_]..."
 
-# game/events_t.rpy:2984 #-#-# translate crowdin d11tfirsts_88057329:
+# game/events_t.rpy:2971 #-#-# translate crowdin d11tfirsts_88057329:
 msgid "[_j_] Well..."
 msgstr "[_j_] Eh bien, l'as-tu suivie..."
 
-# game/events_t.rpy:2986 #-#-# translate crowdin d11tfirsts_9405a33c_1:
+# game/events_t.rpy:2973 #-#-# translate crowdin d11tfirsts_9405a33c_1:
 msgid "[_j_] ...I'll go see if [m] needs help with anything..."
 msgstr "[_j_] ...Je vais voir si [m] a besoin d'aide pour quoi que ce soit..."
 
-# game/events_t.rpy:2988 #-#-# translate crowdin d11tfirsts_b4fa3fc0_5:
+# game/events_t.rpy:2975 #-#-# translate crowdin d11tfirsts_b4fa3fc0_5:
 msgid "[_j_] ..."
 msgstr "[_j_]..."
 
-# game/events_t.rpy:2992 #-#-# translate crowdin d11tfirsts_c8c2ebc6:
+# game/events_t.rpy:2979 #-#-# translate crowdin d11tfirsts_c8c2ebc6:
 msgid "[_mcthink_] Is she lying?"
 msgstr "[_mcthink_] Est-ce qu'elle ment ?"
 
-# game/events_t.rpy:2993 #-#-# translate crowdin d11tfirsts_ac118115:
+# game/events_t.rpy:2980 #-#-# translate crowdin d11tfirsts_ac118115:
 msgid "[_mcthink_] But why would she say she's okay with it, if she's not okay with it?"
 msgstr "[_mcthink_] Mais pourquoi dirait-elle qu'elle est d'accord avec ça, si elle ne l'est pas ?"
 
@@ -6118,7 +6118,7 @@ msgstr "La suivre."
 
 # game/events_t.rpy:799
 msgid "I need coffee!!!"
-msgstr "J'ai besoin de café!!!"
+msgstr "J'ai besoin d'un café!!!"
 
 # game/events_t.rpy:1798
 msgid "(Look down.)"
@@ -6134,5 +6134,5 @@ msgstr "(lui dire de se retourner.)"
 
 # game/events_t.rpy:1798
 msgid "(Tell her to bend over.) {i}{color=#f00}advance scene{/color}{/i}"
-msgstr "(Lui dire de se pencher.) {i}{color=#f00}avancez la scène{/color}{/i}"
+msgstr "(Lui dire de se pencher.) {i}{color=#f00}avance la scène{/color}{/i}"
 

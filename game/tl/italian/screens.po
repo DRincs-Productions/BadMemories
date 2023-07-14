@@ -10,389 +10,421 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-04-30 02:52\n"
+"PO-Revision-Date: 2023-06-27 04:47\n"
 
-# TODO: Translation updated at 2023-04-29 19:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:216
-msgid "{b}Add text outline?{/b}"
-msgstr "{b}Aggiungere il contorno del testo?{/b}"
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
+msgid "{b}Use text outline?{/b}"
+msgstr "{b}Usa il testo contorno?{/b}"
 
-# game/screens.rpy:217
-msgid "{i}(You can change this and textbox transparency in the Preferences.){/i}"
-msgstr "{i}(È possibile modificare questa opzione e la trasparenza delle caselle di testo nelle Preferenze)."
+# game/screens.rpy:251
+msgid "{i}(You can also change this, the textbox transparency, text color and more in the settings.){/i}"
+msgstr "{i}(Puoi anche cambiare questo, la trasparenza della casella di testo, il colore del testo e molto altro nelle impostazioni.){/i}"
 
-# game/screens.rpy:218
+# game/screens.rpy:252
 msgid "Yes"
 msgstr "Sì"
 
-# game/screens.rpy:219
+# game/screens.rpy:253
 msgid "No"
 msgstr "No"
 
-# game/screens.rpy:247
+# game/screens.rpy:281
 msgid "Ok"
 msgstr "Ok"
 
-# game/screens.rpy:325
+# game/screens.rpy:364
 msgid "Back"
 msgstr "Torna"
 
-# game/screens.rpy:326
+# game/screens.rpy:365
 msgid "History"
 msgstr "Cronologia"
 
-# game/screens.rpy:327
+# game/screens.rpy:366
 msgid "Hide"
 msgstr "Nascondere"
 
-# game/screens.rpy:328
+# game/screens.rpy:367
 msgid "Skip"
 msgstr "Salta"
 
-# game/screens.rpy:329
+# game/screens.rpy:368
 msgid "Auto"
 msgstr "Automatico"
 
-# game/screens.rpy:330
-msgid "Q.Save"
-msgstr "V.Save"
-
-# game/screens.rpy:331
-msgid "Q.Load"
-msgstr "V.Carica"
-
-# game/screens.rpy:332
-msgid "Menu"
-msgstr "Menu"
-
-# game/screens.rpy:385
+# game/screens.rpy:371
 msgid "Save"
 msgstr "Salvare"
 
-# game/screens.rpy:387
+# game/screens.rpy:372
 msgid "Load"
 msgstr "Carica"
 
-# game/screens.rpy:389
-msgid "Preferences"
-msgstr "Preferenze"
+# game/screens.rpy:373
+msgid "Menu"
+msgstr "Menu"
 
-# game/screens.rpy:393
+# game/screens.rpy:430
+msgid "Settings"
+msgstr "Impostazioni"
+
+# game/screens.rpy:434
 msgid "End Replay"
 msgstr "Fine Replay"
 
-# game/screens.rpy:397
+# game/screens.rpy:438
 msgid "Main Menu"
 msgstr "Menu principale"
 
-# game/screens.rpy:399
+# game/screens.rpy:440
 msgid "Gallery"
 msgstr "Galleria"
 
-# game/screens.rpy:401
+# game/screens.rpy:442
 msgid "About"
 msgstr "Informazioni"
 
-# game/screens.rpy:406
+# game/screens.rpy:447
 msgid "Help"
 msgstr "Aiuto"
 
-# game/screens.rpy:409
+# game/screens.rpy:450
 msgid "Quit"
 msgstr "Esci"
 
-# game/screens.rpy:567
+# game/screens.rpy:608
 msgid "Return"
 msgstr "Indietro"
 
-# game/screens.rpy:651
+# game/screens.rpy:692
 msgid "Version [config.version!t]\n"
 msgstr "Versione [config.version!t]\n"
 
-# game/screens.rpy:657
+# game/screens.rpy:698
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
 msgstr "Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
 
-# game/screens.rpy:697
+# game/screens.rpy:738
 msgid "Page {}"
 msgstr "Pagina {}"
 
-# game/screens.rpy:697
+# game/screens.rpy:738
 msgid "Automatic saves"
 msgstr "Salvataggi automatici"
 
-# game/screens.rpy:697
+# game/screens.rpy:738
 msgid "Quick saves"
 msgstr "Salvataggi rapidi"
 
-# game/screens.rpy:740
+# game/screens.rpy:781
 msgid "{#file_time}%a, %b %d %Y, %H:%M"
 msgstr "{#file_time}%a, %b %d %Y, %H:%M"
 
-# game/screens.rpy:740
+# game/screens.rpy:781
 msgid "empty slot"
 msgstr "slot vuoto"
 
-# game/screens.rpy:759
+# game/screens.rpy:800
 msgid "<"
 msgstr "<"
 
-# game/screens.rpy:762
+# game/screens.rpy:803
 msgid "{#auto_page}A"
 msgstr "{#auto_page}A"
 
-# game/screens.rpy:765
+# game/screens.rpy:806
 msgid "{#quick_page}Q"
 msgstr "{#quick_page}R"
 
-# game/screens.rpy:778
+# game/screens.rpy:819
 msgid ">"
 msgstr ">"
 
-# game/screens.rpy:839
+# game/screens.rpy:873
+msgid "#General"
+msgstr "#Generale"
+
+# game/screens.rpy:881
 msgid "Display"
 msgstr "Display"
 
-# game/screens.rpy:840
+# game/screens.rpy:882
 msgid "Window"
 msgstr "Finestra"
 
-# game/screens.rpy:841
+# game/screens.rpy:883
 msgid "Fullscreen"
 msgstr "Schermo Intero"
 
-# game/screens.rpy:845
+# game/screens.rpy:887
 msgid "Rollback Side"
 msgstr "Lato Di Rollback"
 
-# game/screens.rpy:846
+# game/screens.rpy:888
 msgid "Disable"
 msgstr "Disabilita"
 
-# game/screens.rpy:847
+# game/screens.rpy:889
 msgid "Left"
 msgstr "Sinistro"
 
-# game/screens.rpy:848
+# game/screens.rpy:890
 msgid "Right"
 msgstr "Destro"
 
-# game/screens.rpy:853
+# game/screens.rpy:895
 msgid "Unseen Text"
 msgstr "Testo non visto"
 
-# game/screens.rpy:854
+# game/screens.rpy:896
 msgid "After Choices"
 msgstr "Dopo Le Scelte"
 
-# game/screens.rpy:855
+# game/screens.rpy:897
 msgid "Transitions"
 msgstr "Transizioni"
 
-# game/screens.rpy:862
-msgid "Text with Outline"
-msgstr "Testo con contorno"
-
-# game/screens.rpy:869
+# game/screens.rpy:905
 msgid "Language"
 msgstr "Linguaggio"
 
-# game/screens.rpy:873
+# game/screens.rpy:909
 msgid "{size=-10}{color=#ff0000}All translations are fan-made.{/color}{/size}"
 msgstr "{size=-10}{color=#ff0000}Tutte le traduzioni sono fatte dai fan.{/color}{/size}"
 
-# game/screens.rpy:881
+# game/screens.rpy:914
+msgid "#Text"
+msgstr "#Testo"
+
+# game/screens.rpy:921
+msgid "Text Outline"
+msgstr "Contorno Testo"
+
+# game/screens.rpy:925
+msgid "Dark"
+msgstr "Scuro"
+
+# game/screens.rpy:927
+msgid "Light"
+msgstr "Chiaro"
+
+# game/screens.rpy:931
+msgid "Thicc  "
+msgstr "Thicc  "
+
+# game/screens.rpy:935
+msgid "Medium  "
+msgstr "Medio  "
+
+# game/screens.rpy:939
+msgid "Smol  "
+msgstr "Smol  "
+
+# game/screens.rpy:942
+msgid "None  "
+msgstr "Nessuno  "
+
+# game/screens.rpy:949
 msgid "Textbox Transparency"
 msgstr "Trasparenza della casella di testo"
 
-# game/screens.rpy:892
-msgid "Text Speed"
-msgstr "Velocità Testo"
-
-# game/screens.rpy:896
-msgid "Auto-Forward Time"
-msgstr "Tempo Di Auto-Inoltro"
-
-# game/screens.rpy:903
-msgid "Music Volume"
-msgstr "Volume della musica"
-
-# game/screens.rpy:910
-msgid "Sound Volume"
-msgstr "Volume dei suoni"
-
-# game/screens.rpy:916
-msgid "Test"
-msgstr "Test"
-
-# game/screens.rpy:920
-msgid "Voice Volume"
-msgstr "Volume Voce"
-
-# game/screens.rpy:932
-msgid "Mute All"
-msgstr "Silenzia tutto"
-
-# game/screens.rpy:936
-msgid "Reset"
-msgstr "Reset"
-
-# game/screens.rpy:947
+# game/screens.rpy:954
 msgid "Text Size Scaling"
 msgstr "Dimensione del testo in scala"
 
-# game/screens.rpy:959
+# game/screens.rpy:958
+msgid "Reset"
+msgstr "Reset"
+
+# game/screens.rpy:962
+msgid "Reset All"
+msgstr "Reimposta Tutto"
+
+# game/screens.rpy:966
+msgid "Text Speed"
+msgstr "Velocità Testo"
+
+# game/screens.rpy:970
+msgid "Auto-Forward Time"
+msgstr "Tempo Di Auto-Inoltro"
+
+# game/screens.rpy:974
 msgid "Line Spacing Scaling"
 msgstr "Interlinea Scala"
 
-# game/screens.rpy:1083
+# game/screens.rpy:983
+msgid "#Sound"
+msgstr "#Suono"
+
+# game/screens.rpy:991
+msgid "Music Volume"
+msgstr "Volume della musica"
+
+# game/screens.rpy:998
+msgid "Effects Volume"
+msgstr "Volume Effetti"
+
+# game/screens.rpy:1004
+msgid "Test"
+msgstr "Test"
+
+# game/screens.rpy:1008
+msgid "Voice Volume"
+msgstr "Volume Voce"
+
+# game/screens.rpy:1020
+msgid "Mute All"
+msgstr "Silenzia tutto"
+
+# game/screens.rpy:1152
 msgid "The dialogue history is empty."
 msgstr "La storia del dialogo è vuota."
 
-# game/screens.rpy:1153
+# game/screens.rpy:1222
 msgid "Keyboard"
 msgstr "Tastiera"
 
-# game/screens.rpy:1154
+# game/screens.rpy:1223
 msgid "Mouse"
 msgstr "Mouse"
 
-# game/screens.rpy:1157
+# game/screens.rpy:1226
 msgid "Gamepad"
 msgstr "Gamepad"
 
-# game/screens.rpy:1170
+# game/screens.rpy:1239
 msgid "Enter"
 msgstr "Invio"
 
-# game/screens.rpy:1171
+# game/screens.rpy:1240
 msgid "Advances dialogue and activates the interface."
 msgstr "Avanza il dialogo e attiva l'interfaccia."
 
-# game/screens.rpy:1174
+# game/screens.rpy:1243
 msgid "Space"
 msgstr "Spazio"
 
-# game/screens.rpy:1175
+# game/screens.rpy:1244
 msgid "Advances dialogue without selecting choices."
 msgstr "Avanza il dialogo senza selezionare le scelte."
 
-# game/screens.rpy:1178
+# game/screens.rpy:1247
 msgid "Arrow Keys"
 msgstr "Tasti Freccia"
 
-# game/screens.rpy:1179
+# game/screens.rpy:1248
 msgid "Navigate the interface."
 msgstr "Naviga nell'interfaccia."
 
-# game/screens.rpy:1182
+# game/screens.rpy:1251
 msgid "Escape"
 msgstr "Esci"
 
-# game/screens.rpy:1183
+# game/screens.rpy:1252
 msgid "Accesses the game menu."
 msgstr "Accede al menu di gioco."
 
-# game/screens.rpy:1186
+# game/screens.rpy:1255
 msgid "Ctrl"
 msgstr "Ctrl"
 
-# game/screens.rpy:1187
+# game/screens.rpy:1256
 msgid "Skips dialogue while held down."
 msgstr "Salta il dialogo mentre è trattenuto."
 
-# game/screens.rpy:1190
+# game/screens.rpy:1259
 msgid "Tab"
 msgstr "Tab"
 
-# game/screens.rpy:1191
+# game/screens.rpy:1260
 msgid "Toggles dialogue skipping."
 msgstr "Attiva/Disattiva salto dialogo."
 
-# game/screens.rpy:1194
+# game/screens.rpy:1263
 msgid "Page Up"
 msgstr "Pagina su"
 
-# game/screens.rpy:1195
+# game/screens.rpy:1264
 msgid "Rolls back to earlier dialogue."
 msgstr "Ritorna al dialogo precedente."
 
-# game/screens.rpy:1198
+# game/screens.rpy:1267
 msgid "Page Down"
 msgstr "Pagina giu"
 
-# game/screens.rpy:1199
+# game/screens.rpy:1268
 msgid "Rolls forward to later dialogue."
 msgstr "Si avvicina al dialogo successivo."
 
-# game/screens.rpy:1203
+# game/screens.rpy:1272
 msgid "Hides the user interface."
 msgstr "Nasconde l'interfaccia utente."
 
-# game/screens.rpy:1207
+# game/screens.rpy:1276
 msgid "Takes a screenshot."
 msgstr "Prende uno screenshot."
 
-# game/screens.rpy:1211
+# game/screens.rpy:1280
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 msgstr "Attiva/Disattiva assistenza {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
-# game/screens.rpy:1217
+# game/screens.rpy:1286
 msgid "Left Click"
 msgstr "Clic Sinistro"
 
-# game/screens.rpy:1221
+# game/screens.rpy:1290
 msgid "Middle Click"
 msgstr "Clic Centrale"
 
-# game/screens.rpy:1225
+# game/screens.rpy:1294
 msgid "Right Click"
 msgstr "Click Destro"
 
-# game/screens.rpy:1229
+# game/screens.rpy:1298
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
 msgstr "Mouse Wheel Up\n"
 "Click Rollback Lato"
 
-# game/screens.rpy:1233
+# game/screens.rpy:1302
 msgid "Mouse Wheel Down"
 msgstr "Ruota Del Mouse Giù"
 
-# game/screens.rpy:1240
+# game/screens.rpy:1309
 msgid "Right Trigger\n"
 "A/Bottom Button"
 msgstr "Trigger destro\n"
 "/ Pulsante inferiore"
 
-# game/screens.rpy:1244
+# game/screens.rpy:1313
 msgid "Left Trigger\n"
 "Left Shoulder"
 msgstr "Innesco sinistro\n"
 "Spalla sinistra"
 
-# game/screens.rpy:1248
+# game/screens.rpy:1317
 msgid "Right Shoulder"
 msgstr "Spalla Destra"
 
-# game/screens.rpy:1253
+# game/screens.rpy:1322
 msgid "D-Pad, Sticks"
 msgstr "D-Pad, Bastoncini"
 
-# game/screens.rpy:1257
+# game/screens.rpy:1326
 msgid "Start, Guide"
 msgstr "Iniziare, Guida"
 
-# game/screens.rpy:1261
+# game/screens.rpy:1330
 msgid "Y/Top Button"
 msgstr "Pulsante Y/Top"
 
-# game/screens.rpy:1264
+# game/screens.rpy:1333
 msgid "Calibrate"
 msgstr "Calibra"
 
-# game/screens.rpy:1376
+# game/screens.rpy:1445
 msgid "Skipping"
 msgstr "Saltare"
 

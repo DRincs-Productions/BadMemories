@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 17:47\n"
+"PO-Revision-Date: 2023-06-26 16:47\n"
 
-# TODO: Translation updated at 2023-04-29 19:07 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
 msgstr "[_n_] La nuit [withdissolve]"
 
@@ -22,7 +22,7 @@ msgstr "[_n_]..."
 
 # game/intro_day2.rpy:9 #-#-# translate crowdin intro_day2_0de96e02:
 msgid "Loud Voice [special_delimiter] I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN! [withvpunch]"
-msgstr "Voix bruyante [special_delimiter] Je l'ai vu! NE T'AVISE PAS DE ME MENTIR À NOUVEAU! [withvpunch]"
+msgstr "Voix forte [special_delimiter] Je l'ai vu! NE T'AVISE PAS DE ME MENTIR À NOUVEAU! [withvpunch]"
 
 # game/intro_day2.rpy:10 #-#-# translate crowdin intro_day2_e7c86f6c:
 msgid "Female Voice [special_delimiter] I'm not lying, I didn't do anything. He was just talking to me!"
