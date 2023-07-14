@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-07-10 15:56\n"
+"PO-Revision-Date: 2023-07-14 07:20\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -9358,15 +9358,15 @@ msgstr "[_mcthink_] [e] n'a pas dit un mot pendant plusieurs jours... et elle s'
 
 # game/events_mc.rpy:4338 #-#-# translate crowdin lastDream_ceb0a363:
 msgid "[_mcthink_] She also snuck into my room and my bed more and more often at night..."
-msgstr ""
+msgstr "[_mcthink_] Elle s'est également glissée dans ma chambre et dans mon lit de plus en plus souvent la nuit..."
 
 # game/events_mc.rpy:4339 #-#-# translate crowdin lastDream_a7bdcb4c:
 msgid "[_mcthink_] Shit, even if she was too young to understand all of it, I think she must have known what dad was about to do to her..."
-msgstr ""
+msgstr "[_mcthink_] Merde, même si elle était trop jeune pour comprendre tout ça, je pense qu'elle devait savoir ce que papa allait lui faire..."
 
 # game/events_mc.rpy:4340 #-#-# translate crowdin lastDream_3ea5764f:
 msgid "[_mcthink_] She must have noticed what he did to [m]..."
-msgstr ""
+msgstr "[_mcthink_] Elle a dû remarquer ce qu'il a fait à [m]..."
 
 # game/events_mc.rpy:4341 #-#-# translate crowdin lastDream_457c6f63_3:
 msgid "[_mcthink_] ..."
@@ -9374,11 +9374,11 @@ msgstr "[_mcthink_]..."
 
 # game/events_mc.rpy:4342 #-#-# translate crowdin lastDream_4df80d44:
 msgid "[_mcthink_] I always liked to pretend I didn't know what was going on until I was old enough, but the truth is, even if I didn't understand it, I always knew that something was wrong..."
-msgstr ""
+msgstr "[_mcthink_] J'ai toujours aimé prétendre que je ne savais pas ce qui se passait jusqu'à ce que je sois assez grande, mais en vérité, même si je ne comprenais pas, j'ai toujours su que quelque chose n'allait pas..."
 
 # game/events_mc.rpy:4343 #-#-# translate crowdin lastDream_64f82fe4:
 msgid "[_mcthink_] But what could I possibly have done? I was just a child..."
-msgstr ""
+msgstr "[_mcthink_] Mais qu'est-ce que j'aurais pu faire ? Je n'étais qu'une enfant..."
 
 # game/events_mc.rpy:4344 #-#-# translate crowdin lastDream_457c6f63_4:
 msgid "[_mcthink_] ..."
@@ -9386,15 +9386,15 @@ msgstr "[_mcthink_]..."
 
 # game/events_mc.rpy:4345 #-#-# translate crowdin lastDream_fa3b3550:
 msgid "[_mcthink_] Shit... I need something to drink..."
-msgstr ""
+msgstr "[_mcthink_] Merde... J'ai besoin de boire quelque chose..."
 
 # game/events_mc.rpy:4359 #-#-# translate crowdin d13wakeup_fd3cfea4:
 msgid "[_mcthink_] Damn, what a nightmare..."
-msgstr ""
+msgstr "[_mcthink_] Quel cauchemar..."
 
 # game/events_mc.rpy:4360 #-#-# translate crowdin d13wakeup_134c4c68:
 msgid "[_mcthink_] ...what a bad memory..."
-msgstr ""
+msgstr "[_mcthink_] ...quel mauvais souvenir..."
 
 # game/events_mc.rpy:4361 #-#-# translate crowdin d13wakeup_f422d8e0:
 msgid "[_m_] Good morning, Hun."
@@ -9402,39 +9402,39 @@ msgstr "[_m_] Bonjour, Hun."
 
 # game/events_mc.rpy:4363 #-#-# translate crowdin d13wakeup_b88c3a6b:
 msgid "[_m_] *Yawn*"
-msgstr ""
+msgstr "[_m_] *Yawn*"
 
 # game/events_mc.rpy:4364 #-#-# translate crowdin d13wakeup_1cd545eb:
 msgid "[_mc_] Morning, [mmom]."
-msgstr ""
+msgstr "[_mc_] Bonjour, [mmom]."
 
 # game/events_mc.rpy:4366 #-#-# translate crowdin d13wakeup_14027645:
 msgid "[_m_] You're awake early today."
-msgstr ""
+msgstr "[_m_] Vous vous êtes réveillé tôt aujourd'hui."
 
 # game/events_mc.rpy:4368 #-#-# translate crowdin d13wakeup_ca8db462:
 msgid "[_mc_] Yeah... bad dream."
-msgstr ""
+msgstr "[_mc_] Oui... mauvais rêve."
 
 # game/events_mc.rpy:4370 #-#-# translate crowdin d13wakeup_11481992:
 msgid "[_m_] Oh, sorry, Hun."
-msgstr ""
+msgstr "[_m_] Oh, désolé, Hun."
 
 # game/events_mc.rpy:4372 #-#-# translate crowdin d13wakeup_d56a19c0:
 msgid "[_n_] You stare at her shirt for a moment, realizing it's basically see-through."
-msgstr ""
+msgstr "[_n_] Vous fixez sa chemise un instant, réalisant qu'elle est transparente."
 
 # game/events_mc.rpy:4374 #-#-# translate crowdin d13wakeup_9adce75e:
 msgid "[_m_] Hm? Oh no!"
-msgstr ""
+msgstr "[_m_] Hm ? Oh non !"
 
 # game/events_mc.rpy:4376 #-#-# translate crowdin d13wakeup_f1d449d2:
 msgid "[_m_] I'm sorry, I totally forgot! Usually nobody is awake at this time."
-msgstr ""
+msgstr "[_m_] Je suis désolé, j'ai complètement oublié ! En général, personne n'est réveillé à cette heure-là."
 
 # game/events_mc.rpy:4378 #-#-# translate crowdin d13wakeup_09231848:
 msgid "[_m_] I'll go get dressed properly."
-msgstr ""
+msgstr "[_m_] Je vais aller m'habiller correctement."
 
 # game/events_mc.rpy:4379 #-#-# translate crowdin d13wakeup_4b7feebe:
 msgid "[_mc_] Haha, sure."
@@ -9442,63 +9442,63 @@ msgstr "[_mc_] Haha, sûr."
 
 # game/events_mc.rpy:4381 #-#-# translate crowdin d13wakeup_ad65bf8b:
 msgid "[_mcthink_] Nice butt though..."
-msgstr ""
+msgstr "[_mcthink_] Jolie fesse cependant..."
 
 # game/events_mc.rpy:4383 #-#-# translate crowdin d13wakeup_5e70e2a8:
 msgid "[_mc_] It's fine... do you always sleep like that?"
-msgstr ""
+msgstr "[_mc_] C'est bon... tu dors toujours comme ça ?"
 
 # game/events_mc.rpy:4385 #-#-# translate crowdin d13wakeup_00e368dc:
 msgid "[_m_] Hm? Oh!"
-msgstr ""
+msgstr "[_m_] Hm ? Oh !"
 
 # game/events_mc.rpy:4387 #-#-# translate crowdin d13wakeup_8402d198:
 msgid "[_m_] Sorry, I know it's a little see-through, but usually nobody is awake until I wake them up."
-msgstr ""
+msgstr "[_m_] Désolé, je sais que c'est un peu transparent, mais en général, personne n'est réveillé avant que je ne le fasse."
 
 # game/events_mc.rpy:4389 #-#-# translate crowdin d13wakeup_d32fb4b9:
 msgid "[_mc_] Oh, it's fine, I like it."
-msgstr ""
+msgstr "[_mc_] Oh, c'est bien, j'aime ça."
 
 # game/events_mc.rpy:4391 #-#-# translate crowdin d13wakeup_7409dbe8:
 msgid "[_m_] Oh you... I know why you like it, but that's not why I'm wearing it, it's actually really comfy."
-msgstr ""
+msgstr "[_m_] Oh toi... Je sais pourquoi tu l'aimes, mais ce n'est pas pour ça que je le porte, il est vraiment confortable."
 
 # game/events_mc.rpy:4393 #-#-# translate crowdin d13wakeup_223564c8:
 msgid "[_mc_] Mhh... well, you know what's even more comfortable? Wearing nothing."
-msgstr ""
+msgstr "[_mc_] Mhh... tu sais ce qui est encore plus confortable ? Ne rien porter."
 
 # game/events_mc.rpy:4394 #-#-# translate crowdin d13wakeup_2d0c4c10:
 msgid "[_mc_] ...and to be honest, I could use something to chear me up right now, so why don't you get more comfortable?"
-msgstr ""
+msgstr "[_mc_] ...et pour être honnête, j'ai besoin de quelque chose pour me remonter le moral, alors pourquoi ne pas vous mettre à l'aise ?"
 
 # game/events_mc.rpy:4396 #-#-# translate crowdin d13wakeup_aa0c1f85:
 msgid "[_m_] Hun... I can't do that, what if [e] or [j] wake up?"
-msgstr ""
+msgstr "[_m_] Hun... Je ne peux pas faire ça, et si [e] ou [j] se réveillent ?"
 
 # game/events_mc.rpy:4397 #-#-# translate crowdin d13wakeup_46ea9e65:
 msgid "[_mc_] You said it yourself, usually nobody is awake at this time, until you wake them up."
-msgstr ""
+msgstr "[_mc_] Vous l'avez dit vous-même, en général personne n'est réveillé à cette heure-là, jusqu'à ce que vous les réveilliez."
 
 # game/events_mc.rpy:4399 #-#-# translate crowdin d13wakeup_99d642e6:
 msgid "[_mc_] ...and you said you wanted to be more open, right?"
-msgstr ""
+msgstr "[_mc_] ...et vous avez dit que vous vouliez être plus ouvert, n'est-ce pas ?"
 
 # game/events_mc.rpy:4401 #-#-# translate crowdin d13wakeup_4751f851:
 msgid "[_m_] Well, I guess that's true..."
-msgstr ""
+msgstr "[_m_] Je suppose que c'est vrai..."
 
 # game/events_mc.rpy:4404 #-#-# translate crowdin d13wakeup_69da8958:
 msgid "[_m_] Okay, Hun, if it cheers you up, but please don't ask for more, okay?"
-msgstr ""
+msgstr "[_m_] D'accord, Hun, si ça te remonte le moral, mais n'en demande pas plus, s'il te plaît, d'accord ?"
 
 # game/events_mc.rpy:4406 #-#-# translate crowdin d13wakeup_734650c0:
 msgid "[_m_] Okay, fine, to cheer you up a little... but nothing more."
-msgstr ""
+msgstr "[_m_] Bon, d'accord, pour vous remonter un peu le moral... mais rien de plus."
 
 # game/events_mc.rpy:4409 #-#-# translate crowdin d13wakeup_3ac19938:
 msgid "[_mc_] Damn, [mmom], you're so hot."
-msgstr ""
+msgstr "[_mc_] Bon sang, [mmom], tu es si sexy."
 
 # game/events_mc.rpy:4410 #-#-# translate crowdin d13wakeup_6f4c46dc:
 msgid "[_m_] Thanks, Hun."
@@ -9506,11 +9506,11 @@ msgstr "[_m_] Merci, Hun."
 
 # game/events_mc.rpy:4411 #-#-# translate crowdin d13wakeup_20975a15:
 msgid "[_mc_] Can you turn to the side?"
-msgstr ""
+msgstr "[_mc_] Pouvez-vous vous tourner sur le côté ?"
 
 # game/events_mc.rpy:4413 #-#-# translate crowdin d13wakeup_3137baef:
 msgid "[_m_] Like this?"
-msgstr ""
+msgstr "[_m_] Comme ceci ?"
 
 # game/events_mc.rpy:4414 #-#-# translate crowdin d13wakeup_69c25b65:
 msgid "[_mc_] Yeah..."
@@ -9518,11 +9518,11 @@ msgstr "[_mc_] Oui ..."
 
 # game/events_mc.rpy:4418 #-#-# translate crowdin d13wakeup_e972f0da:
 msgid "[_mc_] Can I touch them?"
-msgstr ""
+msgstr "[_mc_] Puis-je les toucher ?"
 
 # game/events_mc.rpy:4420 #-#-# translate crowdin d13wakeup_403c8874:
 msgid "[_m_] Well... if you want it so much..."
-msgstr ""
+msgstr "[_m_] Eh bien... si vous le voulez tant..."
 
 # game/events_mc.rpy:4422 #-#-# translate crowdin d13wakeup_d9d300ad:
 msgid "[_mc_] Damn..."
@@ -9530,27 +9530,27 @@ msgstr "[_mc_] Merde..."
 
 # game/events_mc.rpy:4425 #-#-# translate crowdin d13wakeup_55eb52b5:
 msgid "[_mcthink_] I'd love to turn her over and fuck her senseless right now."
-msgstr ""
+msgstr "[_mcthink_] J'aimerais la retourner et la baiser sans raison maintenant."
 
 # game/events_mc.rpy:4427 #-#-# translate crowdin d13wakeup_aaa1966e:
 msgid "[_mcthink_] I'd love to get right between her legs right now."
-msgstr ""
+msgstr "[_mcthink_] J'aimerais bien me mettre entre ses jambes en ce moment."
 
 # game/events_mc.rpy:4428 #-#-# translate crowdin d13wakeup_da406164:
 msgid "[_mcthink_] Maybe I can convince her..."
-msgstr ""
+msgstr "[_mcthink_] Peut-être que je peux la convaincre..."
 
 # game/events_mc.rpy:4430 #-#-# translate crowdin d13wakeup_28151eac:
 msgid "[_mcthink_] ...like this."
-msgstr ""
+msgstr "[_mcthink_] ...comme ceci."
 
 # game/events_mc.rpy:4431 #-#-# translate crowdin d13wakeup_cdafd291:
 msgid "[_m_] Nhh... Hun, you shouldn't..."
-msgstr ""
+msgstr "[_m_] Nhh... Hun, tu ne devrais pas..."
 
 # game/events_mc.rpy:4433 #-#-# translate crowdin d13wakeup_05298e5f:
 msgid "[_mc_] Don't worry, [mmom], nobody will notice anything."
-msgstr ""
+msgstr "[_mc_] Ne vous inquiétez pas, [mmom], personne ne remarquera rien."
 
 # game/events_mc.rpy:4435 #-#-# translate crowdin d13wakeup_0710b814:
 msgid "[_m_] Okay..."
@@ -9558,7 +9558,7 @@ msgstr "[_m_] Ok ..."
 
 # game/events_mc.rpy:4438 #-#-# translate crowdin d13wakeup_084a2b7f:
 msgid "[_mcthink_] Oh shit, [e]?! Why is she awake already?"
-msgstr ""
+msgstr "[_mcthink_] Oh merde, [e]? ! Pourquoi est-elle déjà réveillée ?"
 
 # game/events_mc.rpy:4440 #-#-# translate crowdin d13wakeup_6c4620d9:
 msgid "[_mcthink_] Shit!"
@@ -9566,67 +9566,67 @@ msgstr "[_mcthink_] Merde!"
 
 # game/events_mc.rpy:4442 #-#-# translate crowdin d13wakeup_21128902:
 msgid "[_mcthink_] This is bad! This is really bad!"
-msgstr ""
+msgstr "[_mcthink_] C'est mauvais ! C'est vraiment mauvais !"
 
 # game/events_mc.rpy:4444 #-#-# translate crowdin d13wakeup_fcd2ae8c:
 msgid "[_mc_] Sorry, [mmom], I think you're right, we should stop."
-msgstr ""
+msgstr "[_mc_] Désolé, [mmom], je pense que vous avez raison, nous devrions arrêter."
 
 # game/events_mc.rpy:4446 #-#-# translate crowdin d13wakeup_6db97b10:
 msgid "[_m_] Mhh... yes... I'm sorry, Hun."
-msgstr ""
+msgstr "[_m_] Mhh... oui... Je suis désolé, Hun."
 
 # game/events_mc.rpy:4448 #-#-# translate crowdin d13wakeup_387ec0f3:
 msgid "[_m_] We can have fun later."
-msgstr ""
+msgstr "[_m_] Nous pourrons nous amuser plus tard."
 
 # game/events_mc.rpy:4450 #-#-# translate crowdin d13wakeup_d6104215:
 msgid "[_mc_] Yes, sure."
-msgstr ""
+msgstr "[_mc_] Oui, bien sûr."
 
 # game/events_mc.rpy:4452 #-#-# translate crowdin d13wakeup_add67c34:
 msgid "[_mcthink_] I need to talk to [e]!"
-msgstr ""
+msgstr "[_mcthink_] Je dois parler à [e]!"
 
 # game/events_mc.rpy:4455 #-#-# translate crowdin d13wakeup_388d1ef7:
 msgid "[_mcthink_] Oh shit, [e]?! Why is she already awake?"
-msgstr ""
+msgstr "[_mcthink_] Oh merde, [e]? ! Pourquoi est-elle déjà réveillée ?"
 
 # game/events_mc.rpy:4457 #-#-# translate crowdin d13wakeup_7910fdd6:
 msgid "[_mcthink_] She doesn't look too surprised though... well, it's too late now anyway..."
-msgstr ""
+msgstr "[_mcthink_] Elle n'a pas l'air très surprise... de toute façon, il est trop tard maintenant..."
 
 # game/events_mc.rpy:4459 #-#-# translate crowdin d13wakeup_c364600c:
 msgid "[_m_] Hun, hnn... maybe we should go to the bedroom."
-msgstr ""
+msgstr "[_m_] Hun, hnn... peut-être devrions-nous aller dans la chambre."
 
 # game/events_mc.rpy:4461 #-#-# translate crowdin d13wakeup_3162a0b7:
 msgid "[_mcthink_] Luckily [m] hasn't noticed anything..."
-msgstr ""
+msgstr "[_mcthink_] Heureusement, [m] n'a rien remarqué..."
 
 # game/events_mc.rpy:4463 #-#-# translate crowdin d13wakeup_3982ed65:
 msgid "[_mc_] No, [mmom] if you want to be more open, we should stay right here."
-msgstr ""
+msgstr "[_mc_] Non, [mmom] si vous voulez être plus ouvert, nous devrions rester ici."
 
 # game/events_mc.rpy:4465 #-#-# translate crowdin d13wakeup_641c3da8:
 msgid "[_mc_] I don't think that's necessary, [mmom]. How likely is it that anyone is awake at this time?"
-msgstr ""
+msgstr "[_mc_] Je ne pense pas que ce soit nécessaire, [mmom]. Quelle est la probabilité que quelqu'un soit réveillé à cette heure-ci ?"
 
 # game/events_mc.rpy:4467 #-#-# translate crowdin d13wakeup_cec46597:
 msgid "[_m_] Nhh... I... you're right..."
-msgstr ""
+msgstr "[_m_] Nhh... je... tu as raison..."
 
 # game/events_mc.rpy:4468 #-#-# translate crowdin d13wakeup_7e673007:
 msgid "[_n_] You press your fingers against her clit."
-msgstr ""
+msgstr "[_n_] Tu presses tes doigts contre son clito."
 
 # game/events_mc.rpy:4470 #-#-# translate crowdin d13wakeup_87aac68c:
 msgid "[_m_] Ohh... mhhh..."
-msgstr ""
+msgstr "[_m_] Ohh... mhhh..."
 
 # game/events_mc.rpy:4471 #-#-# translate crowdin d13wakeup_59782dec:
 msgid "[_mcthink_] Let's see how far we can get..."
-msgstr ""
+msgstr "[_mcthink_] Voyons voir jusqu'où nous pouvons aller..."
 
 # game/events_mc.rpy:4473 #-#-# translate crowdin d13wakeup_567dc139:
 msgid "[_mcthink_] Huh?"
@@ -9634,27 +9634,27 @@ msgstr "[_mcthink_] Huh?"
 
 # game/events_mc.rpy:4475 #-#-# translate crowdin d13wakeup_09f1e884:
 msgid "[_mcthink_] Oh shit! Now I'm fucked!"
-msgstr ""
+msgstr "[_mcthink_] Oh, merde ! Maintenant, je suis baisé !"
 
 # game/events_mc.rpy:4477 #-#-# translate crowdin d13wakeup_f4e262ab:
 msgid "[_mcthink_] Wait, do they want to watch?!"
-msgstr ""
+msgstr "[_mcthink_] Attendez, est-ce qu'ils veulent regarder ?"
 
 # game/events_mc.rpy:4479 #-#-# translate crowdin d13wakeup_df69421a:
 msgid "[_mcthink_] Okay, if that's the case, let's give them a show."
-msgstr ""
+msgstr "[_mcthink_] D'accord, si c'est le cas, donnons-leur un spectacle."
 
 # game/events_mc.rpy:4480 #-#-# translate crowdin d13wakeup_ef9cda37:
 msgid "[_m_] Mhhh!"
-msgstr ""
+msgstr "[_m_] Mhhh !"
 
 # game/events_mc.rpy:4483 #-#-# translate crowdin d13wakeup_22fa8c5b:
 msgid "[_mc_] You like it, [mmom]?"
-msgstr ""
+msgstr "[_mc_] Tu aimes ça, [mmom]?"
 
 # game/events_mc.rpy:4484 #-#-# translate crowdin d13wakeup_f1251191:
 msgid "[_m_] Ah... Ah-huh..."
-msgstr ""
+msgstr "[_m_] Ah... Ah-huh..."
 
 # game/events_mc.rpy:4487 #-#-# translate crowdin d13wakeup_07d8873b:
 msgid "[_m_] Hnnn..."
@@ -9662,7 +9662,7 @@ msgstr "[_m_] Hnnn ..."
 
 # game/events_mc.rpy:4489 #-#-# translate crowdin d13wakeup_cbbd98be:
 msgid "[_mcthink_] I wonder what they're thinking right now."
-msgstr ""
+msgstr "[_mcthink_] Je me demande ce qu'ils pensent en ce moment."
 
 # game/events_mc.rpy:4491 #-#-# translate crowdin d13wakeup_8308b4da:
 msgid "[_mcthink_] What the..."
@@ -9670,47 +9670,47 @@ msgstr "[_mcthink_] Qu'est ce que..."
 
 # game/events_mc.rpy:4493 #-#-# translate crowdin d13wakeup_8d5c877b:
 msgid "[_mcthink_] Shit, [j] was right, [e] really is naughty as fuck!"
-msgstr ""
+msgstr "[_mcthink_] Merde, [j] avait raison, [e] est vraiment très vilain !"
 
 # game/events_mc.rpy:4497 #-#-# translate crowdin d13wakeup_e8540f27:
 msgid "[_mcthink_] Damn, they're both naughty as fuck. I hope they can keep quiet."
-msgstr ""
+msgstr "[_mcthink_] Bon sang, ils sont tous les deux très vilains. J'espère qu'elles sauront se taire."
 
 # game/events_mc.rpy:4499 #-#-# translate crowdin d13wakeup_6f657f56:
 msgid "[_mcthink_] Shit, this is so hot..."
-msgstr ""
+msgstr "[_mcthink_] Merde, c'est trop chaud..."
 
 # game/events_mc.rpy:4502 #-#-# translate crowdin d13wakeup_105984dd:
 msgid "[_mc_] Come here, [mmom]!"
-msgstr ""
+msgstr "[_mc_] Viens ici, [mmom]!"
 
 # game/events_mc.rpy:4504 #-#-# translate crowdin d13wakeup_7bd9847d:
 msgid "[_mc_] Let's get over here, [mmom]."
-msgstr ""
+msgstr "[_mc_] Allons-y, [mmom]."
 
 # game/events_mc.rpy:4506 #-#-# translate crowdin d13wakeup_1bdeae98:
 msgid "[_m_] Ah... right here, Hun?"
-msgstr ""
+msgstr "[_m_] Ah... ici, Hun ?"
 
 # game/events_mc.rpy:4509 #-#-# translate crowdin d13wakeup_a9333eed:
 msgid "[_mc_] Yeah, right here."
-msgstr ""
+msgstr "[_mc_] Oui, juste ici."
 
 # game/events_mc.rpy:4511 #-#-# translate crowdin d13wakeup_d891d2fb:
 msgid "[_mc_] Stay like this, and don't think about anyone waking up. Just look straight ahead... or even better, to the floor. Don't turn around."
-msgstr ""
+msgstr "[_mc_] Reste comme ça, et ne pense pas à ce que quelqu'un se réveille. Regarde droit devant toi... ou mieux encore, vers le sol. Ne vous retournez pas."
 
 # game/events_mc.rpy:4513 #-#-# translate crowdin d13wakeup_d1d7f05b:
 msgid "[_mc_] Why not? There's nothing to worry about."
-msgstr ""
+msgstr "[_mc_] Pourquoi ne pas le faire ? Il n'y a aucune raison de s'inquiéter."
 
 # game/events_mc.rpy:4515 #-#-# translate crowdin d13wakeup_d6859eb6:
 msgid "[_mc_] Just look straight ahead, or even better, look at the floor. I want you to focus on what you feel, and not to think about anything else."
-msgstr ""
+msgstr "[_mc_] Regardez simplement devant vous, ou mieux encore, regardez le sol. Je veux que vous vous concentriez sur ce que vous ressentez et que vous ne pensiez à rien d'autre."
 
 # game/events_mc.rpy:4517 #-#-# translate crowdin d13wakeup_5cf3f35a:
 msgid "[_m_] O-Okay, I'll try."
-msgstr ""
+msgstr "[_m_] D'accord, je vais essayer."
 
 # game/events_mc.rpy:4519 #-#-# translate crowdin d13wakeup_2b35b6fe:
 msgid "[_mc_] ..."
@@ -9718,31 +9718,31 @@ msgstr "[_mc_]..."
 
 # game/events_mc.rpy:4522 #-#-# translate crowdin d13wakeup_95e056dc:
 msgid "[_mc_] Don't look at me, eyes ahead, [mmom]. Look at the floor."
-msgstr ""
+msgstr "[_mc_] Ne me regardez pas, regardez devant vous, [mmom]. Regardez le sol."
 
 # game/events_mc.rpy:4524 #-#-# translate crowdin d13wakeup_8fb155c3:
 msgid "[_m_] Y-Yes, of course, sorry, Hun."
-msgstr ""
+msgstr "[_m_] Oui, bien sûr, désolé, Hun."
 
 # game/events_mc.rpy:4526 #-#-# translate crowdin d13wakeup_6ca19769:
 msgid "[_mc_] Please, [mmom], look at the floor. If you don't, you'll only worry. I want you to relax and enjoy it."
-msgstr ""
+msgstr "[_mc_] S'il vous plaît, [mmom], regardez le sol. Si vous ne le faites pas, vous ne ferez que vous inquiéter. Je veux que vous vous détendiez et que vous en profitiez."
 
 # game/events_mc.rpy:4528 #-#-# translate crowdin d13wakeup_feff0f24:
 msgid "[_m_] Oh... okay, sure."
-msgstr ""
+msgstr "[_m_] Oh... d'accord, bien sûr."
 
 # game/events_mc.rpy:4530 #-#-# translate crowdin d13wakeup_c7956658:
 msgid "[_mc_] Let's get you more \"comfortable\"."
-msgstr ""
+msgstr "[_mc_] Nous allons vous mettre plus à l'aise."
 
 # game/events_mc.rpy:4534 #-#-# translate crowdin d13wakeup_91d534c5:
 msgid "[_mcthink_] What a nice view."
-msgstr ""
+msgstr "[_mcthink_] Quelle belle vue !"
 
 # game/events_mc.rpy:4540 #-#-# translate crowdin d13wakeup_4b69c89c:
 msgid "[_m_] Hah! Nhnn..."
-msgstr ""
+msgstr "[_m_] Hah ! Nhnn..."
 
 # game/events_mc.rpy:4545 #-#-# translate crowdin d13wakeup_582359ea:
 msgid "[_mc_] Hm?"
@@ -9750,11 +9750,11 @@ msgstr "[_mc_] Hm?"
 
 # game/events_mc.rpy:4547 #-#-# translate crowdin d13wakeup_b85a5c46:
 msgid "[_m_] Is something wrong, Hun?"
-msgstr ""
+msgstr "[_m_] Quelque chose ne va pas, Hun ?"
 
 # game/events_mc.rpy:4549 #-#-# translate crowdin d13wakeup_e3b62ac8:
 msgid "[_mc_] Err, no, just switching positions, don't worry, [mmom], keep looking at the floor."
-msgstr ""
+msgstr "[_mc_] Err, non, je change juste de position, ne vous inquiétez pas, [mmom], continuez à regarder le sol."
 
 # game/events_mc.rpy:4550 #-#-# translate crowdin d13wakeup_30a66545:
 msgid "[_m_] Okay."
@@ -9762,7 +9762,7 @@ msgstr "[_m_] Ok."
 
 # game/events_mc.rpy:4555 #-#-# translate crowdin d13wakeup_4f5c2fd2:
 msgid "[_n_] *You signal them to be quiet.*"
-msgstr ""
+msgstr "[_n_] *Vous leur faites signe de se taire.*"
 
 # game/events_mc.rpy:4557 #-#-# translate crowdin d13wakeup_0798e9e2:
 msgid "[_mcthink_] Hmm..."
@@ -9770,87 +9770,87 @@ msgstr "[_mcthink_] Hum ..."
 
 # game/events_mc.rpy:4562 #-#-# translate crowdin d13wakeup_5ed23577:
 msgid "[_mcthink_] Let's see how naughty she really is."
-msgstr ""
+msgstr "[_mcthink_] Voyons à quel point elle est vraiment coquine."
 
 # game/events_mc.rpy:4565 #-#-# translate crowdin d13wakeup_74c09061:
 msgid "[_mcthink_] Looks like she's considering it..."
-msgstr ""
+msgstr "[_mcthink_] On dirait qu'elle y réfléchit..."
 
 # game/events_mc.rpy:4571 #-#-# translate crowdin d13wakeup_99f2e008:
 msgid "[_mcthink_] Let's see how eager she is."
-msgstr ""
+msgstr "[_mcthink_] Voyons si elle est enthousiaste."
 
 # game/events_mc.rpy:4574 #-#-# translate crowdin d13wakeup_2ae69fb1:
 msgid "[_mcthink_] She looks surprised, I guess she expected to be just watching."
-msgstr ""
+msgstr "[_mcthink_] Elle a l'air surprise, je suppose qu'elle s'attendait à ne faire que regarder."
 
 # game/events_mc.rpy:4575 #-#-# translate crowdin d13wakeup_84604fa2:
 msgid "[_n_] You nod at her as if saying: \"it's okay, go for it.\"."
-msgstr ""
+msgstr "[_n_] Vous lui faites un signe de tête comme pour lui dire : \"c'est bon, vas-y\"."
 
 # game/events_mc.rpy:4579 #-#-# translate crowdin d13wakeup_0ed60b0a:
 msgid "[_mcthink_] Damn, just thinking about it makes me getting wet."
-msgstr ""
+msgstr "[_mcthink_] Bon sang, rien que d'y penser, je mouille."
 
 # game/events_mc.rpy:4581 #-#-# translate crowdin d13wakeup_b6d342ff:
 msgid "[_mcthink_] I just have to!"
-msgstr ""
+msgstr "[_mcthink_] Il le faut !"
 
 # game/events_mc.rpy:4586 #-#-# translate crowdin d13wakeup_33b578b8:
 msgid "[_mcthink_] Shit, just thinking about it makes me almost explode, I have to do it!"
-msgstr ""
+msgstr "[_mcthink_] Merde, rien que d'y penser, j'explose presque, il faut que je le fasse !"
 
 # game/events_mc.rpy:4595 #-#-# translate crowdin d13wakeup_09c628c8:
 msgid "[_m_] What are you doing, Hun?"
-msgstr ""
+msgstr "[_m_] Que fais-tu, Hun ?"
 
 # game/events_mc.rpy:4598 #-#-# translate crowdin d13wakeup_cd068c02:
 msgid "[_m_] Oohh!"
-msgstr ""
+msgstr "[_m_] Oohh !"
 
 # game/events_mc.rpy:4601 #-#-# translate crowdin d13wakeup_de9fdda7:
 msgid "[_m_] Haah... oh god..."
-msgstr ""
+msgstr "[_m_] Haah... oh god..."
 
 # game/events_mc.rpy:4603 #-#-# translate crowdin d13wakeup_f51b707b:
 msgid "[_mcthink_] Damn, she's really doing it!"
-msgstr ""
+msgstr "[_mcthink_] Bon sang, elle le fait vraiment !"
 
 # game/events_mc.rpy:4605 #-#-# translate crowdin d13wakeup_c833aa9e:
 msgid "[_mcthink_] Damn, [j] is really eager!"
-msgstr ""
+msgstr "[_mcthink_] Bon sang, [j] est vraiment enthousiaste !"
 
 # game/events_mc.rpy:4606 #-#-# translate crowdin d13wakeup_a6ab016a:
 msgid "[_m_] Nhh... Hun... it feels so good!"
-msgstr ""
+msgstr "[_m_] Nhh... Hun... c'est si bon !"
 
 # game/events_mc.rpy:4608 #-#-# translate crowdin d13wakeup_0108fe48:
 msgid "[_mcthink_] ...and [m] seems to enjoy it."
-msgstr ""
+msgstr "[_mcthink_] ...et [m] semble l'apprécier."
 
 # game/events_mc.rpy:4610 #-#-# translate crowdin d13wakeup_35b67c79:
 msgid "[_mcthink_] Damn, if she knew..."
-msgstr ""
+msgstr "[_mcthink_] Bon sang, si elle savait..."
 
 # game/events_mc.rpy:4612 #-#-# translate crowdin d13wakeup_1a3b7fba:
 msgid "[_mcthink_] Damn, if she knew it's [j] licking her..."
-msgstr ""
+msgstr "[_mcthink_] Si elle savait que c'est [j] qui la lèche..."
 
 # game/events_mc.rpy:4613 #-#-# translate crowdin d13wakeup_59cdb76b:
 msgid "[_m_] Hnnh..."
-msgstr ""
+msgstr "[_m_] Hnnh..."
 
 # game/events_mc.rpy:4615 #-#-# translate crowdin d13wakeup_25200263:
 msgid "[_m_] God! Hnn..., Hun..."
-msgstr ""
+msgstr "[_m_] Dieu ! Hnn..., Hun..."
 
 # game/events_mc.rpy:4616 #-#-# translate crowdin d13wakeup_d48a96a2:
 msgid "[_m_] I-I really hope the girls won't wake up!"
-msgstr ""
+msgstr "[_m_] J'espère vraiment que les filles ne se réveilleront pas !"
 
 # game/events_mc.rpy:4617 #-#-# translate crowdin d13wakeup_b4fff56a:
 msgid "[_m_] Y-You watch out for them... nhh... right, Hun?"
-msgstr ""
+msgstr "[_m_] Vous faites attention à eux... nhhh... n'est-ce pas, Hun ?"
 
 # game/events_mc.rpy:4620 #-#-# translate crowdin d13wakeup_0e714356:
 msgid "[_mcthink_] Hm?"
@@ -9858,23 +9858,23 @@ msgstr "[_mcthink_] Hm?"
 
 # game/events_mc.rpy:4622 #-#-# translate crowdin d13wakeup_81df3529:
 msgid "[_mcthink_] [e] seems really interested..."
-msgstr ""
+msgstr "[_mcthink_] [e] semble vraiment intéressé..."
 
 # game/events_mc.rpy:4623 #-#-# translate crowdin d13wakeup_dc61876e:
 msgid "[_m_] Of course, [mmom]."
-msgstr ""
+msgstr "[_m_] Bien entendu, [mmom]."
 
 # game/events_mc.rpy:4629 #-#-# translate crowdin d13tastem_b4b734c5:
 msgid "[_mcthink_] Let's see how she reacts."
-msgstr ""
+msgstr "[_mcthink_] Voyons comment elle réagit."
 
 # game/events_mc.rpy:4632 #-#-# translate crowdin d13tastem_a8a870c7:
 msgid "[_m_] What's wrong, Hun?"
-msgstr ""
+msgstr "[_m_] Qu'est-ce qui ne va pas, Hun ?"
 
 # game/events_mc.rpy:4634 #-#-# translate crowdin d13tastem_43b6a6bf:
 msgid "[_mc_] Nothing, just wait a sec, [mmom]."
-msgstr ""
+msgstr "[_mc_] Rien, attendez une seconde, [mmom]."
 
 # game/events_mc.rpy:4639 #-#-# translate crowdin d13tastem_0710b814:
 msgid "[_m_] Okay..."
@@ -9882,7 +9882,7 @@ msgstr "[_m_] Ok ..."
 
 # game/events_mc.rpy:4643 #-#-# translate crowdin d13tastem_39d88ab4:
 msgid "[_mcthink_] Shit, she's actually doing it."
-msgstr ""
+msgstr "[_mcthink_] Merde, elle est en train de le faire."
 
 # game/events_mc.rpy:4646 #-#-# translate crowdin d13tastem_05738702:
 msgid "[_mcthink_] Damn!"
@@ -9890,7 +9890,7 @@ msgstr "[_mcthink_] Bon sang!"
 
 # game/events_mc.rpy:4651 #-#-# translate crowdin d13tastem_bda6f302:
 msgid "[_mcthink_] Eating her own mother's juice from her big brother's cock..."
-msgstr ""
+msgstr "[_mcthink_] Manger le jus de sa propre mère sur la bite de son grand frère..."
 
 # game/events_mc.rpy:4653 #-#-# translate crowdin d13tastem_05738702_1:
 msgid "[_mcthink_] Damn!"
@@ -9898,31 +9898,31 @@ msgstr "[_mcthink_] Bon sang!"
 
 # game/events_mc.rpy:4655 #-#-# translate crowdin d13tastem_ccd36efc:
 msgid "[_mcthink_] What a naughty little girl..."
-msgstr ""
+msgstr "[_mcthink_] Quelle vilaine petite fille..."
 
 # game/events_mc.rpy:4658 #-#-# translate crowdin d13tastem_be575d43:
 msgid "[_mcthink_] Maybe I should get her more mommy-juice..."
-msgstr ""
+msgstr "[_mcthink_] Je devrais peut-être lui donner plus de jus de maman..."
 
 # game/events_mc.rpy:4660 #-#-# translate crowdin d13tastem_551b1008:
 msgid "[_mcthink_] Back to her mom..."
-msgstr ""
+msgstr "[_mcthink_] Retour à sa mère..."
 
 # game/events_mc.rpy:4666 #-#-# translate crowdin d13tastem_3fbb5767:
 msgid "[_mcthink_] I bet she's eager to taste it."
-msgstr ""
+msgstr "[_mcthink_] Je parie qu'elle est impatiente de le goûter."
 
 # game/events_mc.rpy:4668 #-#-# translate crowdin d13tastem_c1e239a0:
 msgid "[_mcthink_] More juice for my little slut."
-msgstr ""
+msgstr "[_mcthink_] Plus de jus pour ma petite salope."
 
 # game/events_mc.rpy:4671 #-#-# translate crowdin d13tastem_a8a870c7_1:
 msgid "[_m_] What's wrong, Hun?"
-msgstr ""
+msgstr "[_m_] Qu'est-ce qui ne va pas, Hun ?"
 
 # game/events_mc.rpy:4676 #-#-# translate crowdin d13tastem_43b6a6bf_1:
 msgid "[_mc_] Nothing, just wait a sec, [mmom]."
-msgstr ""
+msgstr "[_mc_] Rien, attendez une seconde, [mmom]."
 
 # game/events_mc.rpy:4681 #-#-# translate crowdin d13tastem_0710b814_1:
 msgid "[_m_] Okay..."
@@ -9930,163 +9930,163 @@ msgstr "[_m_] Ok ..."
 
 # game/events_mc.rpy:4686 #-#-# translate crowdin d13tastem_fe7b82e4:
 msgid "[_mcthink_] Like I thought..."
-msgstr ""
+msgstr "[_mcthink_] Comme je le pensais..."
 
 # game/events_mc.rpy:4690 #-#-# translate crowdin d13tastem_867156c8:
 msgid "[_mcthink_] Such a good little slut."
-msgstr ""
+msgstr "[_mcthink_] Une si bonne petite salope."
 
 # game/events_mc.rpy:4693 #-#-# translate crowdin d13tastem_1b565790:
 msgid "[_mcthink_] I should get her more juice."
-msgstr ""
+msgstr "[_mcthink_] Je devrais lui donner plus de jus."
 
 # game/events_mc.rpy:4695 #-#-# translate crowdin d13tastem_41cb4be5:
 msgid "[_mcthink_] Back to fucking."
-msgstr ""
+msgstr "[_mcthink_] Retour à la baise."
 
 # game/events_mc.rpy:4701 #-#-# translate crowdin d13tastem_66965bc7:
 msgid "[_mcthink_] Let's see how [e] reacts to a mouth full of her own mother's pussy juice."
-msgstr ""
+msgstr "[_mcthink_] Voyons comment [e] réagit à une bouche pleine du jus de chatte de sa propre mère."
 
 # game/events_mc.rpy:4703 #-#-# translate crowdin d13tastem_804918f4:
 msgid "[_mcthink_] She seemed to like to taste her mom's juice."
-msgstr ""
+msgstr "[_mcthink_] Elle semble aimer goûter le jus de sa mère."
 
 # game/events_mc.rpy:4710 #-#-# translate crowdin d13tastem_9575e05e:
 msgid "[_mcthink_] She doesn't seem to mind it at all!"
-msgstr ""
+msgstr "[_mcthink_] Elle n'a pas l'air de s'en préoccuper du tout !"
 
 # game/events_mc.rpy:4713 #-#-# translate crowdin d13tastem_97b0dab5:
 msgid "[_mcthink_] Mhm... so hot."
-msgstr ""
+msgstr "[_mcthink_] Mhm... si chaud."
 
 # game/events_mc.rpy:4715 #-#-# translate crowdin d13tastem_a8a870c7_2:
 msgid "[_m_] What's wrong, Hun?"
-msgstr ""
+msgstr "[_m_] Qu'est-ce qui ne va pas, Hun ?"
 
 # game/events_mc.rpy:4718 #-#-# translate crowdin d13tastem_2a89a6c4:
 msgid "[_mc_] Nothing, [mmom], don't worry."
-msgstr ""
+msgstr "[_mc_] Rien, [mmom], ne vous inquiétez pas."
 
 # game/events_mc.rpy:4720 #-#-# translate crowdin d13tastem_fffc4482:
 msgid "[_mcthink_] I should get her more mommy-juice..."
-msgstr ""
+msgstr "[_mcthink_] Je devrais lui donner plus de jus de maman..."
 
 # game/events_mc.rpy:4722 #-#-# translate crowdin d13tastem_6361fc21:
 msgid "[_mcthink_] Back to her mom."
-msgstr ""
+msgstr "[_mcthink_] Retour à sa mère."
 
 # game/events_mc.rpy:4728 #-#-# translate crowdin d13tastem_6ee296f2:
 msgid "[_mcthink_] Let's give [j] a taste..."
-msgstr ""
+msgstr "[_mcthink_] Faisons goûter le site [j] ..."
 
 # game/events_mc.rpy:4730 #-#-# translate crowdin d13tastem_fe2c7282:
 msgid "[_mcthink_] I bet she's craving for more."
-msgstr ""
+msgstr "[_mcthink_] Je parie qu'elle en redemande."
 
 # game/events_mc.rpy:4738 #-#-# translate crowdin d13tastem_262dc346:
 msgid "[_mcthink_] So eager..."
-msgstr ""
+msgstr "[_mcthink_] Si impatient..."
 
 # game/events_mc.rpy:4739 #-#-# translate crowdin d13tastem_7c75a333:
 msgid "[_mcthink_] I bet she'd love to go down on [m] herself right now."
-msgstr ""
+msgstr "[_mcthink_] Je parie qu'elle aimerait bien se jeter sur [m] en ce moment même."
 
 # game/events_mc.rpy:4741 #-#-# translate crowdin d13tastem_fed24ff9:
 msgid "[_mcthink_] Like always..."
-msgstr ""
+msgstr "[_mcthink_] Comme toujours..."
 
 # game/events_mc.rpy:4743 #-#-# translate crowdin d13tastem_238eb1d8:
 msgid "[_mcthink_] Mhm... she's so naughty..."
-msgstr ""
+msgstr "[_mcthink_] Mhm... elle est si vilaine..."
 
 # game/events_mc.rpy:4745 #-#-# translate crowdin d13tastem_a8a870c7_3:
 msgid "[_m_] What's wrong, Hun?"
-msgstr ""
+msgstr "[_m_] Qu'est-ce qui ne va pas, Hun ?"
 
 # game/events_mc.rpy:4748 #-#-# translate crowdin d13tastem_2a89a6c4_1:
 msgid "[_mc_] Nothing, [mmom], don't worry."
-msgstr ""
+msgstr "[_mc_] Rien, [mmom], ne vous inquiétez pas."
 
 # game/events_mc.rpy:4750 #-#-# translate crowdin d13tastem_652fdfd9:
 msgid "[_mcthink_] Maybe I should get [j] more juice to taste."
-msgstr ""
+msgstr "[_mcthink_] Je devrais peut-être demander à [j] de goûter plus de jus."
 
 # game/events_mc.rpy:4752 #-#-# translate crowdin d13tastem_80661b3d:
 msgid "[_mcthink_] Back to pussy licking."
-msgstr ""
+msgstr "[_mcthink_] Retour à la lèche de la chatte."
 
 # game/events_mc.rpy:4759 #-#-# translate crowdin d13tastem_84d34240:
 msgid "[_mcthink_] I'm so watching..."
-msgstr ""
+msgstr "[_mcthink_] Je regarde..."
 
 # game/events_mc.rpy:4760 #-#-# translate crowdin d13tastem_fea9ecd4:
 msgid "[_mc_] Of course I do! Don't worry, [mmom]."
-msgstr ""
+msgstr "[_mc_] Bien sûr que je le fais ! Ne vous inquiétez pas, [mmom]."
 
 # game/events_mc.rpy:4761 #-#-# translate crowdin d13tastem_502eb67b:
 msgid "[_m_] Nhhh... g-good... hnn!"
-msgstr ""
+msgstr "[_m_] Nhhhh... g-bien... hnn !"
 
 # game/events_mc.rpy:4762 #-#-# translate crowdin d13tastem_0b5446cc:
 msgid "[_mcthink_] Damn, this is so hot, I think I need to take over."
-msgstr ""
+msgstr "[_mcthink_] Bon sang, c'est tellement chaud, je crois que je dois prendre le relais."
 
 # game/events_mc.rpy:4773 #-#-# translate crowdin d13tastem_2cf358b4:
 msgid "[_mcthink_] What a beautiful pussy... I can't wait to taste it."
-msgstr ""
+msgstr "[_mcthink_] Quelle belle chatte... J'ai hâte de la goûter."
 
 # game/events_mc.rpy:4788 #-#-# translate crowdin d13tastem_4270d6b4:
 msgid "[_m_] Haah!"
-msgstr ""
+msgstr "[_m_] Haah !"
 
 # game/events_mc.rpy:4790 #-#-# translate crowdin d13tastem_0c6515ec:
 msgid "[_m_] Nhh... so intense..."
-msgstr ""
+msgstr "[_m_] Nhh... si intense..."
 
 # game/events_mc.rpy:4791 #-#-# translate crowdin d13tastem_3365f5ff:
 msgid "[_mcthink_] Shit, I'm so horny right now!"
-msgstr ""
+msgstr "[_mcthink_] Merde, je suis tellement excité maintenant !"
 
 # game/events_mc.rpy:4793 #-#-# translate crowdin d13tastem_49328f66:
 msgid "[_mcthink_] I could fuck them all, one by one and cover them in cum!"
-msgstr ""
+msgstr "[_mcthink_] Je pourrais les baiser tous, un par un et les couvrir de sperme !"
 
 # game/events_mc.rpy:4799 #-#-# translate crowdin d13mf_end_d74510ce:
 msgid "[_mcthink_] Alright, time to make her cum."
-msgstr ""
+msgstr "[_mcthink_] Très bien, il est temps de la faire jouir."
 
 # game/events_mc.rpy:4801 #-#-# translate crowdin d13mf_end_c95a9718:
 msgid "[_m_] Hnnn, Hun..."
-msgstr ""
+msgstr "[_m_] Hnnn, Hun..."
 
 # game/events_mc.rpy:4802 #-#-# translate crowdin d13mf_end_56afb468:
 msgid "[_m_] Nhhhh..."
-msgstr ""
+msgstr "[_m_] Nhhhh..."
 
 # game/events_mc.rpy:4803 #-#-# translate crowdin d13mf_end_9df1f526:
 msgid "[_m_] Oh god!"
-msgstr ""
+msgstr "[_m_] Oh, mon Dieu !"
 
 # game/events_mc.rpy:4806 #-#-# translate crowdin d13mf_end_7bbde18a:
 msgid "[_m_] HAH! Yes!{w=1}{nw}"
-msgstr ""
+msgstr "[_m_] HAH ! Oui!{w=1}{nw}"
 
 # game/events_mc.rpy:4808 #-#-# translate crowdin d13mf_end_1c7a2c2c:
 msgid "[_m_] AHHNNN!{w=.2}{nw} [withflash]"
-msgstr ""
+msgstr "[_m_] AHHNNN!{w=.2}{nw} [withflash]"
 
 # game/events_mc.rpy:4810 #-#-# translate crowdin d13mf_end_54ae5de3:
 msgid "[_m_] Hnnaah..."
-msgstr ""
+msgstr "[_m_] Hnnaah..."
 
 # game/events_mc.rpy:4814 #-#-# translate crowdin d13mf_end_b2aa65e5:
 msgid "[_m_] Oh god..."
-msgstr ""
+msgstr "[_m_] Oh, mon Dieu..."
 
 # game/events_mc.rpy:4817 #-#-# translate crowdin d13mf_end_b37f00be:
 msgid "[_mcthink_] Damn, I'm close!"
-msgstr ""
+msgstr "[_mcthink_] Bon sang, j'y suis presque !"
 
 # game/events_mc.rpy:4819 #-#-# translate crowdin d13mf_end_6c4620d9:
 msgid "[_mcthink_] Shit!"
@@ -10094,31 +10094,31 @@ msgstr "[_mcthink_] Merde!"
 
 # game/events_mc.rpy:4825 #-#-# translate crowdin d13mf_end_edf90258:
 msgid "[_m_] Hnnn, Hun...{w=1}{nw}"
-msgstr ""
+msgstr "[_m_] Hnnn, Hun...{w=1}{nw}"
 
 # game/events_mc.rpy:4830 #-#-# translate crowdin d13mf_end_044318ef:
 msgid "[_m_] Nhhhh...{w=2}{nw}"
-msgstr ""
+msgstr "[_m_] Nhhhh...{w=2}{nw}"
 
 # game/events_mc.rpy:4832 #-#-# translate crowdin d13mf_end_17365876:
 msgid "[_m_] Oh god!{w=2}{nw}"
-msgstr ""
+msgstr "[_m_] Oh god!{w=2}{nw}"
 
 # game/events_mc.rpy:4836 #-#-# translate crowdin d13mf_end_7bbde18a_1:
 msgid "[_m_] HAH! Yes!{w=1}{nw}"
-msgstr ""
+msgstr "[_m_] HAH ! Oui!{w=1}{nw}"
 
 # game/events_mc.rpy:4839 #-#-# translate crowdin d13mf_end_67f6f3a6:
 msgid "[_m_] AHHNNN!{w=1}{nw}"
-msgstr ""
+msgstr "[_m_] AHHNNN!{w=1}{nw}"
 
 # game/events_mc.rpy:4845 #-#-# translate crowdin d13mf_end_9654583c:
 msgid "[_m_] HAAAH!{w=1}{nw} [withhpunch]"
-msgstr ""
+msgstr "[_m_] HAAAH!{w=1}{nw} [withhpunch]"
 
 # game/events_mc.rpy:4847 #-#-# translate crowdin d13mf_end_d1042bc5:
 msgid "[_m_] AAH! HAA!{w=1}{nw} [withhpunch]"
-msgstr ""
+msgstr "[_m_] AAH ! HAA!{w=1}{nw} [withhpunch]"
 
 # game/events_mc.rpy:4848 #-#-# translate crowdin d13mf_end_57ace962:
 msgid "[_mcthink_] God..."
@@ -10126,63 +10126,63 @@ msgstr "[_mcthink_] Mon Dieu..."
 
 # game/events_mc.rpy:4852 #-#-# translate crowdin d13mf_end_beb0d2b8:
 msgid "[_n_] You quickly signal the girls to hide."
-msgstr ""
+msgstr "[_n_] Vous faites rapidement signe aux filles de se cacher."
 
 # game/events_mc.rpy:4855 #-#-# translate crowdin d13mf_end_21f6cec2:
 msgid "[_m_] God... Hun..."
-msgstr ""
+msgstr "[_m_] Dieu... Hun..."
 
 # game/events_mc.rpy:4857 #-#-# translate crowdin d13mf_end_e0c7c503:
 msgid "[_m_] That was incredible."
-msgstr ""
+msgstr "[_m_] C'était incroyable."
 
 # game/events_mc.rpy:4860 #-#-# translate crowdin d13mf_end_26769cab:
 msgid "[_mcthink_] Hmm, she wants a taste of her own pussy."
-msgstr ""
+msgstr "[_mcthink_] Hmm, elle veut goûter à sa propre chatte."
 
 # game/events_mc.rpy:4864 #-#-# translate crowdin d13mf_end_d1196b0b:
 msgid "[_m_] You know, I think I had multiple orgasms at the same time."
-msgstr ""
+msgstr "[_m_] Vous savez, je crois que j'ai eu plusieurs orgasmes en même temps."
 
 # game/events_mc.rpy:4866 #-#-# translate crowdin d13mf_end_76497c6c:
 msgid "[_mc_] I noticed."
-msgstr ""
+msgstr "[_mc_] J'ai remarqué."
 
 # game/events_mc.rpy:4868 #-#-# translate crowdin d13mf_end_a030d28a:
 msgid "[_m_] I think that, maybe the thought of being caught made me a bit more... excited..."
-msgstr ""
+msgstr "[_m_] Je pense que, peut-être, l'idée d'être pris m'a rendu un peu plus... excité..."
 
 # game/events_mc.rpy:4870 #-#-# translate crowdin d13mf_end_fc471720:
 msgid "[_m_] Do you think the girls noticed something?"
-msgstr ""
+msgstr "[_m_] Pensez-vous que les filles ont remarqué quelque chose ?"
 
 # game/events_mc.rpy:4872 #-#-# translate crowdin d13mf_end_392c2f83:
 msgid "[_mc_] Well, to be honest, I was a bit occupied, they could've watched all the time and I wouldn't have noticed."
-msgstr ""
+msgstr "[_mc_] Pour être honnête, j'étais un peu occupé, ils auraient pu regarder tout le temps et je ne l'aurais pas remarqué."
 
 # game/events_mc.rpy:4874 #-#-# translate crowdin d13mf_end_59063d5d:
 msgid "[_m_] Oh-my-god! Don't say something like that!"
-msgstr ""
+msgstr "[_m_] Oh mon Dieu ! Ne dites pas une chose pareille !"
 
 # game/events_mc.rpy:4876 #-#-# translate crowdin d13mf_end_c7936e89:
 msgid "[_m_] That would be so embarrassing..."
-msgstr ""
+msgstr "[_m_] Ce serait tellement embarrassant..."
 
 # game/events_mc.rpy:4878 #-#-# translate crowdin d13mf_end_a1ab2699:
 msgid "[_mc_] Heh, it's not like they don't know what's going on..."
-msgstr ""
+msgstr "[_mc_] Ce n'est pas comme s'ils ne savaient pas ce qui se passe..."
 
 # game/events_mc.rpy:4880 #-#-# translate crowdin d13mf_end_dcc2e984:
 msgid "[_mc_] ...and don't forget what [oc] said yesterday... here."
-msgstr ""
+msgstr "[_mc_] ...et n'oubliez pas ce que [oc] a dit hier... ici."
 
 # game/events_mc.rpy:4882 #-#-# translate crowdin d13mf_end_a81e867d:
 msgid "[_m_] I know... thanks, Hun..."
-msgstr ""
+msgstr "[_m_] Je sais... Merci, Hun..."
 
 # game/events_mc.rpy:4884 #-#-# translate crowdin d13mf_end_ee610b7c:
 msgid "[_m_] I should go, clean up and get dressed properly."
-msgstr ""
+msgstr "[_m_] Je devrais y aller, me nettoyer et m'habiller correctement."
 
 # game/events_mc.rpy:4885 #-#-# translate crowdin d13mf_end_606e2d02:
 msgid "[_mc_] Sure."
@@ -10190,55 +10190,55 @@ msgstr "[_mc_] Bien sûr."
 
 # game/events_mc.rpy:4898 #-#-# translate crowdin d13morningmcroom_398c4ebf:
 msgid "[_j_] Wow, that was incredible!"
-msgstr ""
+msgstr "[_j_] Wow, c'était incroyable !"
 
 # game/events_mc.rpy:4901 #-#-# translate crowdin d13morningmcroom_e06afa7a:
 msgid "[_j_] I really didn't expect you to let me lick [m]'s pussy!"
-msgstr ""
+msgstr "[_j_] Je ne m'attendais vraiment pas à ce que tu me laisses lécher la chatte de [m]!"
 
 # game/events_mc.rpy:4903 #-#-# translate crowdin d13morningmcroom_ff44de23:
 msgid "[_j_] I really didn't expect you'd make [e] lick [m]'s pussy!"
-msgstr ""
+msgstr "[_j_] Je ne m'attendais vraiment pas à ce que tu fasses lécher la chatte de [m]par [e] !"
 
 # game/events_mc.rpy:4904 #-#-# translate crowdin d13morningmcroom_1509f649:
 msgid "[_j_] ...and you to actually do it, [e]. I mean, your own mother! So naughty, haha."
-msgstr ""
+msgstr "[_j_] ...et toi de le faire, [e]. Je veux dire, ta propre mère ! C'est si vilain, haha."
 
 # game/events_mc.rpy:4909 #-#-# translate crowdin d13morningmcroom_38b19346:
 msgid "[_j_] ...and then you even let us taste her juice from your cock! Hnn... that made me so horny, [mcmd]!"
-msgstr ""
+msgstr "[_j_] ... et puis tu nous as même fait goûter son jus sur ta bite ! Hnn... ça m'a tellement excité, [mcmd]!"
 
 # game/events_mc.rpy:4911 #-#-# translate crowdin d13morningmcroom_b7607abc:
 msgid "[_j_] ...and then you even shared her juice with us! Hnn... that made me so horny, [mcmd]!"
-msgstr ""
+msgstr "[_j_] ...et tu as même partagé son jus avec nous ! Hnn... ça m'a fait bander, [mcmd]!"
 
 # game/events_mc.rpy:4914 #-#-# translate crowdin d13morningmcroom_fd7f935d:
 msgid "[_j_] ...and then you let me taste [m]'s juice from your cock, like [d13tastemj] times! Hnn... that made me so horny, [mcmd]!"
-msgstr ""
+msgstr "[_j_] ... et puis tu m'as fait goûter le jus de [m]de ta bite, comme [d13tastemj] fois ! Hnn... ça m'a tellement excité, [mcmd]!"
 
 # game/events_mc.rpy:4916 #-#-# translate crowdin d13morningmcroom_360aad7e:
 msgid "[_j_] ...and then you even shared [m]'s juice with me, like [d13tastemj] times! Hnn... that made me so horny, [mcmd]!"
-msgstr ""
+msgstr "[_j_] ... et tu as même partagé le jus de [m]avec moi, comme [d13tastemj] fois ! Hnn... ça m'a fait bander, [mcmd]!"
 
 # game/events_mc.rpy:4919 #-#-# translate crowdin d13morningmcroom_48c63810:
 msgid "[_j_] I'm just a bit sad you only shared with [e]."
-msgstr ""
+msgstr "[_j_] Je suis juste un peu triste que vous n'ayez partagé qu'avec [e]."
 
 # game/events_mc.rpy:4921 #-#-# translate crowdin d13morningmcroom_e8c0cd8d:
 msgid "[_mc_] What do you mean? You just said it yourself, I let you lick [m]'s pussy?!"
-msgstr ""
+msgstr "[_mc_] Qu'est-ce que tu veux dire ? Tu viens de le dire toi-même, je t'ai laissé lécher la chatte de [m]? !"
 
 # game/events_mc.rpy:4923 #-#-# translate crowdin d13morningmcroom_efd4e4c5:
 msgid "[_j_] Yeah, but you let [e] taste [m]'s juice from your dick!..."
-msgstr ""
+msgstr "[_j_] Oui, mais tu as laissé [e] goûter le jus de [m]de ta bite !...."
 
 # game/events_mc.rpy:4925 #-#-# translate crowdin d13morningmcroom_7b89abbd:
 msgid "[_j_] Yeah, but you let [e] taste [m]'s juice from your mouth..."
-msgstr ""
+msgstr "[_j_] Oui, mais tu as laissé [e] goûter le jus de [m]dans ta bouche..."
 
 # game/events_mc.rpy:4926 #-#-# translate crowdin d13morningmcroom_5847fdb6:
 msgid "[_mc_] Oh that..."
-msgstr ""
+msgstr "[_mc_] Oh ça..."
 
 # game/events_mc.rpy:4933 #-#-# translate crowdin d13tsession_bc6748a6:
 msgid "[_t_] We're not done yet, [mc]."
@@ -10686,41 +10686,41 @@ msgstr "Rien, vraiment. Elle n'est pas encore prête."
 
 # game/events_mc.rpy:4558
 msgid "(I wonder if [e] would lick her own mother's pussy.)"
-msgstr ""
+msgstr "(Je me demande si [e] lécherait la chatte de sa propre mère)."
 
 # game/events_mc.rpy:4558
 msgid "(I bet [j] would love to taste [m].)"
-msgstr ""
+msgstr "(Je parie que [j] aimerait goûter [m].)"
 
 # game/events_mc.rpy:4558
 msgid "(I could lick [m]'s juicy pussy right in front of them.)"
-msgstr ""
+msgstr "(Je pourrais lécher la chatte juteuse de [m]devant eux)."
 
 # game/events_mc.rpy:4558
 msgid "(I could fuck [m] right in front of them.)"
-msgstr ""
+msgstr "(Je pourrais baiser [m] devant eux.)"
 
 # game/events_mc.rpy:4624
 msgid "Let [e] taste [m]'s juice from your cock."
-msgstr ""
+msgstr "Faites goûter à [e] le jus de [m]qui coule de votre bite."
 
 # game/events_mc.rpy:4624
 msgid "Let [j] taste [m]'s juice from your cock."
-msgstr ""
+msgstr "Faites goûter à [j] le jus de [m]qui coule de votre bite."
 
 # game/events_mc.rpy:4624
 msgid "Kiss [e] with your mouth full of [m]'s juice."
-msgstr ""
+msgstr "Embrassez [e] avec la bouche pleine de jus de [m]."
 
 # game/events_mc.rpy:4624
 msgid "Kiss [j] with your mouth full of [m]'s juice."
-msgstr ""
+msgstr "Embrassez [j] avec la bouche pleine de jus de [m]."
 
 # game/events_mc.rpy:4624
 msgid "Just go on."
-msgstr ""
+msgstr "Continuez."
 
 # game/events_mc.rpy:4624
 msgid "Finish."
-msgstr ""
+msgstr "Finition."
 
