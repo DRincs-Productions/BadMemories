@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/events_t.rpy:3
 translate italian tIntroductionDay1_d40b86d0:
@@ -1681,10 +1681,10 @@ translate italian tcoerce2_a21ef384:
     t "Non farei mai una cosa del genere, non sono così!"
 
 # game/events_t.rpy:512
-translate italian tcoerce2_6e0ec75f:
+translate italian tcoerce2_c8970423:
 
-    # mc "Hmph... well I guess that make me the only possible reason, doesn't it?"
-    mc "Hmph... bene immagino che mi fanno l'unica ragione possibile, vero?"
+    # mc "Hmph... well I guess that makes me the only possible reason, doesn't it?"
+    mc "Hmph... bene immagino che mi rende l'unica ragione possibile, vero?"
 
 # game/events_t.rpy:513
 translate italian tcoerce2_30b46fd1:
@@ -7183,10 +7183,10 @@ translate italian d11tfirsts_b112dad0:
     mc "Qualcuno come me, eh? Se pensi {b}che{/b} male di me, allora mi chiedo perché sei seduto sul mio giro."
 
 # game/events_t.rpy:2287
-translate italian d11tfirsts_4b2bb02d:
+translate italian d11tfirsts_d9829137:
 
-    # t "Why do you even think I'd be interested in someone like you? Or a women at all."
-    t "Perché pensi che possa essere interessato a una come te? O comunque a una donna."
+    # t "Why do you even think I'd be interested in someone like you? Or a woman at all."
+    t "Perché pensi anche che sarei interessato a qualcuno come te? O a una donna affatto."
 
 # game/events_t.rpy:2289
 translate italian d11tfirsts_5db8c5b6:
@@ -7464,1657 +7464,1657 @@ translate italian d11tfirsts_060d0345:
     # t "What are you..."
     t "Cosa stai..."
 
-# game/events_t.rpy:2379
+# game/events_t.rpy:2378
 translate italian d11tfirsts_33170189:
 
     # t "Whaaa!"
     t "Whaaa!"
 
-# game/events_t.rpy:2380
+# game/events_t.rpy:2379
 translate italian d11tfirsts_9032333a:
 
     # mc "Just relax and keep hugging me."
     mc "Basta rilassarsi e continuare a abbracciarmi."
 
-# game/events_t.rpy:2381
+# game/events_t.rpy:2380
 translate italian d11tfirsts_dc508caf:
 
     # t "T-That's not going to help me relax!"
     t "Questo non mi aiuterà a rilassarmi!"
 
-# game/events_t.rpy:2382
+# game/events_t.rpy:2381
 translate italian d11tfirsts_9319dfd9:
 
     # mc "Try it."
     mc "Provalo."
 
-# game/events_t.rpy:2383
+# game/events_t.rpy:2382
 translate italian d11tfirsts_985c02f6:
 
     # t "Ugh..."
     t "Uff..."
 
-# game/events_t.rpy:2385
+# game/events_t.rpy:2384
 translate italian d11tfirsts_a8df5ff6:
 
     # t "Just hurry up."
     t "Ma sbrigatevi."
 
-# game/events_t.rpy:2386
+# game/events_t.rpy:2385
 translate italian d11tfirsts_e119df09:
 
     # mc "As you wish."
     mc "Come vuoi."
 
-# game/events_t.rpy:2388
+# game/events_t.rpy:2387
 translate italian d11tfirsts_6a4e0edc:
 
     # t "Nh-hnn..."
     t "Nh-hnn..."
 
-# game/events_t.rpy:2390
+# game/events_t.rpy:2389
 translate italian d11tfirsts_daa6c5e0:
 
     # mc "Are you relaxing?"
     mc "Ti stai rilassando?"
 
-# game/events_t.rpy:2391
+# game/events_t.rpy:2390
 translate italian d11tfirsts_17eb562c:
 
     # t "I-I told you it's not going to hn...help."
     t "Ti ho detto che non ti aiuterà..."
 
-# game/events_t.rpy:2392
+# game/events_t.rpy:2391
 translate italian d11tfirsts_b9ec45d7:
 
     # mc "Are you even trying?"
     mc "Stai persino provando?"
 
-# game/events_t.rpy:2393
+# game/events_t.rpy:2392
 translate italian d11tfirsts_ad590ab0:
 
     # t "You try mhh... relaxing while being molested."
     t "Prova a rilassarti mentre vieni molestato."
 
-# game/events_t.rpy:2394
+# game/events_t.rpy:2393
 translate italian d11tfirsts_3e498912:
 
     # mc "I'm just caressing you."
     mc "Ti sto accarezzando."
 
-# game/events_t.rpy:2395
+# game/events_t.rpy:2394
 translate italian d11tfirsts_d53a9eb7:
 
     # t "Call it how you want, I...nhh don't care."
     t "Chiamatelo come volete, a me... non interessa."
 
-# game/events_t.rpy:2396
+# game/events_t.rpy:2395
 translate italian d11tfirsts_d42d15ae:
 
     # mc "Hmm... I guess we should try something else then."
     mc "Hmm... Credo che dovremmo provare qualcos'altro allora."
 
-# game/events_t.rpy:2398
+# game/events_t.rpy:2397
 translate italian d11tfirsts_058bb0d3:
 
     # t "What's the point anyway?"
     t "A che scopo?"
 
-# game/events_t.rpy:2400
+# game/events_t.rpy:2399
 translate italian d11tfirsts_9d00e0b0:
 
     # mc "As I said, to get you to relax."
     mc "Come ho detto, per farti rilassare."
 
-# game/events_t.rpy:2402
+# game/events_t.rpy:2401
 translate italian d11tfirsts_ae00eb09:
 
     # t "As if..."
     t "Come se..."
 
-# game/events_t.rpy:2404
+# game/events_t.rpy:2403
 translate italian d11tfirsts_f6f229e7:
 
     # mc "Take your top off."
     mc "Si tolga la cima."
 
-# game/events_t.rpy:2406
+# game/events_t.rpy:2405
 translate italian d11tfirsts_d84460d0:
 
     # t "Tch... and how would that help?"
     t "Tch... e come potrebbe essere d'aiuto?"
 
-# game/events_t.rpy:2408
+# game/events_t.rpy:2407
 translate italian d11tfirsts_6a0887df:
 
     # mc "You obviously have no idea how to relax, so just do what I'm saying, [t]."
     mc "Ovviamente non hai idea di come rilassarti, quindi fai quello che sto dicendo, [t]."
 
-# game/events_t.rpy:2410
+# game/events_t.rpy:2409
 translate italian d11tfirsts_088885ba:
 
     # t "Pff..."
     t "Pff..."
 
-# game/events_t.rpy:2412
+# game/events_t.rpy:2411
 translate italian d11tfirsts_1bb01731_5:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2413
+# game/events_t.rpy:2412
 translate italian d11tfirsts_b9b155fe:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2414
+# game/events_t.rpy:2413
 translate italian d11tfirsts_b9b155fe_1:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2415
+# game/events_t.rpy:2414
 translate italian d11tfirsts_b9b155fe_2:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2426
+# game/events_t.rpy:2425
 translate italian d11tfirsts_15b235d6:
 
     # mc "That's better, isn't it?"
     mc "È meglio, vero?"
 
-# game/events_t.rpy:2428
+# game/events_t.rpy:2427
 translate italian d11tfirsts_dc977b30:
 
     # t "You really can't think of anything else, can you?"
     t "Non riesci proprio a pensare ad altro, vero?"
 
-# game/events_t.rpy:2430
+# game/events_t.rpy:2429
 translate italian d11tfirsts_0c0641e0:
 
     # t "...dyke."
     t "...diga."
 
-# game/events_t.rpy:2432
+# game/events_t.rpy:2431
 translate italian d11tfirsts_25e6b7c6:
 
     # mc "I'm just trying to prove or disprove my theory."
     mc "Sto solo cercando di dimostrare o smentire la mia teoria."
 
-# game/events_t.rpy:2434
+# game/events_t.rpy:2433
 translate italian d11tfirsts_c041bb9a:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2437
+# game/events_t.rpy:2436
 translate italian d11tfirsts_c1914d7c:
 
     # mc "Also, calling me a dyke won't hide the fact that you're interested in women..."
     mc "Inoltre, chiamarmi una diga non nasconderà il fatto che sei interessato alle donne..."
 
-# game/events_t.rpy:2438
+# game/events_t.rpy:2437
 translate italian d11tfirsts_2d73988b:
 
     # mc "We've done this several times already, and you're still turning red like a tomato."
     mc "Lo abbiamo già fatto più volte, e stai ancora diventando rosso come un pomodoro."
 
-# game/events_t.rpy:2439
+# game/events_t.rpy:2438
 translate italian d11tfirsts_c899cea3:
 
     # t "T-That's not true..."
     t "Non è vero..."
 
-# game/events_t.rpy:2440
+# game/events_t.rpy:2439
 translate italian d11tfirsts_c541293e:
 
     # mc "Do you want me to take a photo to show you?"
     mc "Vuoi che scatta una foto per mostrarti?"
 
-# game/events_t.rpy:2441
+# game/events_t.rpy:2440
 translate italian d11tfirsts_bb069667:
 
     # t "N-No, don't you dare take a photo of me!"
     t "No, non osare farmi una foto!"
 
-# game/events_t.rpy:2443
+# game/events_t.rpy:2442
 translate italian d11tfirsts_848e3ce6:
 
     # mc "You should really be a bit more comfortable with your boyfriend."
     mc "Dovresti davvero essere un po' più comodo con il tuo fidanzato."
 
-# game/events_t.rpy:2445
+# game/events_t.rpy:2444
 translate italian d11tfirsts_d8ac267f:
 
     # mc "You should really be a bit more comfortable with your girlfriend."
     mc "Dovresti davvero essere un po' più comodo con la tua ragazza."
 
-# game/events_t.rpy:2446
+# game/events_t.rpy:2445
 translate italian d11tfirsts_71eaf407:
 
     # t "That's not even...{w=0.5}{nw}"
     t "Non è nemmeno... {w=0,5}{nw}"
 
-# game/events_t.rpy:2448
+# game/events_t.rpy:2447
 translate italian d11tfirsts_303376db:
 
     # mc "Come, turn around."
     mc "Vieni, gira intorno."
 
-# game/events_t.rpy:2450
+# game/events_t.rpy:2449
 translate italian d11tfirsts_060d0345_1:
 
     # t "What are you..."
     t "Cosa stai..."
 
-# game/events_t.rpy:2452
+# game/events_t.rpy:2451
 translate italian d11tfirsts_72ba5e48:
 
     # mc "Trying to make it more comfortable for you."
     mc "Cercando di renderlo più comodo per te."
 
-# game/events_t.rpy:2454
+# game/events_t.rpy:2453
 translate italian d11tfirsts_660a9a17:
 
     # t "Oh..."
     t "Oh..."
 
-# game/events_t.rpy:2455
+# game/events_t.rpy:2454
 translate italian d11tfirsts_4d6b1202:
 
     # mc "It'll help you relax."
     mc "Ti aiuterà a rilassarti."
 
-# game/events_t.rpy:2457
+# game/events_t.rpy:2456
 translate italian d11tfirsts_c352fee8:
 
     # t "Hmph, just stop acting as if you're doing it for me."
     t "Smettila di comportarti come se lo stessi facendo per me."
 
-# game/events_t.rpy:2459
+# game/events_t.rpy:2458
 translate italian d11tfirsts_18d7cd70:
 
     # mc "You think I'm doing this for myself?"
     mc "Pensi che sto facendo questo per me stesso?"
 
-# game/events_t.rpy:2460
+# game/events_t.rpy:2459
 translate italian d11tfirsts_728dbb2f:
 
     # t "Of course you do."
     t "Certo che sì."
 
-# game/events_t.rpy:2462
+# game/events_t.rpy:2461
 translate italian d11tfirsts_02b79881:
 
     # mc "Oh really? Well I guess there's no point in going on then..."
     mc "Oh davvero? Beh, immagino che non abbia senso andare avanti..."
 
-# game/events_t.rpy:2464
+# game/events_t.rpy:2463
 translate italian d11tfirsts_19ec77da:
 
     # t "You... you're just going to stop now?"
     t "Tu... tu ti fermi adesso?"
 
-# game/events_t.rpy:2465
+# game/events_t.rpy:2464
 translate italian d11tfirsts_b16bc564:
 
     # mc "Yeah, unless you want me to go on."
     mc "Sì, a meno che tu non voglia che io vada avanti."
 
-# game/events_t.rpy:2467
+# game/events_t.rpy:2466
 translate italian d11tfirsts_c041bb9a_1:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2468
+# game/events_t.rpy:2467
 translate italian d11tfirsts_b9b155fe_3:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2469
+# game/events_t.rpy:2468
 translate italian d11tfirsts_b9b155fe_4:
 
     # extend "."
     extend "."
 
-# game/events_t.rpy:2471
+# game/events_t.rpy:2470
 translate italian d11tfirsts_1bb01731_6:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2473
+# game/events_t.rpy:2472
 translate italian d11tfirsts_51e464e6:
 
     # t "Fine..."
     t "Bene..."
 
-# game/events_t.rpy:2475
+# game/events_t.rpy:2474
 translate italian d11tfirsts_ca5e40c7:
 
     # mc "Fine what?"
     mc "Bene?"
 
-# game/events_t.rpy:2477
+# game/events_t.rpy:2476
 translate italian d11tfirsts_ab4e34d6:
 
     # t "I'm going to play your stupid game..."
     t "Mi presterò al tuo stupido gioco..."
 
-# game/events_t.rpy:2478
+# game/events_t.rpy:2477
 translate italian d11tfirsts_ca94c41b:
 
     # mc "My stupid game?"
     mc "Il mio gioco stupido?"
 
-# game/events_t.rpy:2480
+# game/events_t.rpy:2479
 translate italian d11tfirsts_1bb01731_7:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2482
+# game/events_t.rpy:2481
 translate italian d11tfirsts_582359ea:
 
     # mc "Hm?"
     mc "Hm?"
 
-# game/events_t.rpy:2484
+# game/events_t.rpy:2483
 translate italian d11tfirsts_113d073b:
 
     # t "Just take it off already..."
     t "Toglietelo e basta..."
 
-# game/events_t.rpy:2486
+# game/events_t.rpy:2485
 translate italian d11tfirsts_0ab621c3:
 
     # mc "You mean my pants? Didn't you just say..."
     mc "Intendi i miei pantaloni? Non hai appena detto..."
 
-# game/events_t.rpy:2488
+# game/events_t.rpy:2487
 translate italian d11tfirsts_61215f86:
 
     # t "Just do it already."
     t "Fallo e basta."
 
-# game/events_t.rpy:2489
+# game/events_t.rpy:2488
 translate italian d11tfirsts_0ebdb2b3:
 
     # mc "Well, if you insist..."
     mc "Beh, se insistete..."
 
-# game/events_t.rpy:2496
+# game/events_t.rpy:2495
 translate italian d11tfirsts_d7f0ca85:
 
     # mc "There we go."
     mc "Ci andiamo."
 
-# game/events_t.rpy:2498
+# game/events_t.rpy:2497
 translate italian d11tfirsts_1bb01731_8:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2505
+# game/events_t.rpy:2504
 translate italian d11tfirsts_1bb01731_9:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2517
+# game/events_t.rpy:2516
 translate italian d11tfirsts_901e624c:
 
     # mc "Not bad, [t]... not bad."
     mc "Non male, [t]... non male."
 
-# game/events_t.rpy:2536
+# game/events_t.rpy:2527
 translate italian d11tfirsts_6f89aedb:
 
     # mcthink "Damn, this looks uncomfortable..."
     mcthink "Dannazione, questo sembra scomodo..."
 
-# game/events_t.rpy:2537
+# game/events_t.rpy:2528
 translate italian d11tfirsts_103ad989:
 
     # mcthink "...and it doesn't feel that great either..."
     mcthink "...e non si sente così grande..."
 
-# game/events_t.rpy:2548
+# game/events_t.rpy:2539
 translate italian d11tfirsts_44acca36:
 
     # mc "Hmm, not bad, [t], not bad..."
     mc "Hmm, non male, [t], non cattivo..."
 
-# game/events_t.rpy:2553
+# game/events_t.rpy:2543
 translate italian d11tfirsts_98f7313d:
 
     # mc "Alright, [t], get up."
     mc "Va bene, [t], alzati."
 
-# game/events_t.rpy:2555
+# game/events_t.rpy:2545
 translate italian d11tfirsts_38e263ea:
 
     # t "W-Why?! Did I do something wrong?"
     t "Perché? Ho fatto qualcosa di sbagliato?"
 
-# game/events_t.rpy:2557
+# game/events_t.rpy:2547
 translate italian d11tfirsts_c0bd7d13:
 
     # mc "Just do what I said."
     mc "Fai quello che ho detto."
 
-# game/events_t.rpy:2559
+# game/events_t.rpy:2549
 translate italian d11tfirsts_fb44b6fa:
 
     # t "You didn't even cum, yet..."
     t "Non hai nemmeno sborrato, ancora..."
 
-# game/events_t.rpy:2560
+# game/events_t.rpy:2550
 translate italian d11tfirsts_51adb54b:
 
     # mc "As I said, it's not about me."
     mc "Come ho detto, non è su di me."
 
-# game/events_t.rpy:2562
+# game/events_t.rpy:2552
 translate italian d11tfirsts_706d3ae9:
 
     # t "Fine... what do you want now?"
     t "Bene... cosa vuoi adesso?"
 
-# game/events_t.rpy:2564
+# game/events_t.rpy:2554
 translate italian d11tfirsts_ed54f708:
 
     # mc "Take your pants off."
     mc "Togliti i pantaloni."
 
-# game/events_t.rpy:2566
+# game/events_t.rpy:2556
 translate italian d11tfirsts_1bb01731_10:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2575
+# game/events_t.rpy:2565
 translate italian d11tfirsts_608e7bbc:
 
     # t "What now?"
     t "E adesso?"
 
-# game/events_t.rpy:2578
+# game/events_t.rpy:2568
 translate italian d11tfirsts_9e9fcde8:
 
     # mc "Sit on my lap."
     mc "Siediti sul mio giro."
 
-# game/events_t.rpy:2580
+# game/events_t.rpy:2570
 translate italian d11tfirsts_f106db48:
 
     # t "W-What?! I'm not going to sit on your dick!"
     t "Cosa? Non mi siedero' sul tuo cazzo!"
 
-# game/events_t.rpy:2582
+# game/events_t.rpy:2572
 translate italian d11tfirsts_7a65c02e:
 
     # mc "You just had it in your mouth, what's the problem with sitting on it?"
     mc "Hai appena avuto in bocca, qual è il problema di sederti su di esso?"
 
-# game/events_t.rpy:2584
+# game/events_t.rpy:2574
 translate italian d11tfirsts_c242cfd7:
 
     # t "That's something different..."
     t "Questo è qualcosa di diverso..."
 
-# game/events_t.rpy:2585
+# game/events_t.rpy:2575
 translate italian d11tfirsts_6a950321:
 
     # mc "Are you scared it could accidentally enter the wrong hole?"
     mc "Hai paura che potrebbe accidentalmente entrare nel buco sbagliato?"
 
-# game/events_t.rpy:2586
+# game/events_t.rpy:2576
 translate italian d11tfirsts_b2115cfe:
 
     # t "It could accidentally enter any hole!"
     t "Potrebbe entrare accidentalmente in qualsiasi foro!"
 
-# game/events_t.rpy:2588
+# game/events_t.rpy:2578
 translate italian d11tfirsts_6c9a924f:
 
     # mc "Heh... come here."
     mc "Heh... vieni qui."
 
-# game/events_t.rpy:2592
+# game/events_t.rpy:2582
 translate italian d11tfirsts_99a8a636:
 
     # mc "See? It's not that... hard, right?"
     mc "Vedi? Non è... difficile, vero?"
 
-# game/events_t.rpy:2593
+# game/events_t.rpy:2583
 translate italian d11tfirsts_1bb01731_11:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2595
+# game/events_t.rpy:2585
 translate italian d11tfirsts_5f299e6d:
 
     # mc "Alright, why don't you grind on it?"
     mc "Bene, perché non vi macinate?"
 
-# game/events_t.rpy:2596
+# game/events_t.rpy:2586
 translate italian d11tfirsts_bd65a88a:
 
     # t "Just grind?"
     t "Macinare e basta?"
 
-# game/events_t.rpy:2597
+# game/events_t.rpy:2587
 translate italian d11tfirsts_199e031f:
 
     # mc "Just grind."
     mc "Semplicemente macina."
 
-# game/events_t.rpy:2599
+# game/events_t.rpy:2589
 translate italian d11tfirsts_8ee27418:
 
     # t "Okay..."
     t "Okay..."
 
-# game/events_t.rpy:2601
+# game/events_t.rpy:2591
 translate italian d11tfirsts_93a82aa0:
 
     # t "Like this?"
     t "Così?"
 
-# game/events_t.rpy:2602
+# game/events_t.rpy:2592
 translate italian d11tfirsts_cf1adef2:
 
     # mc "Yeah."
     mc "Si."
 
-# game/events_t.rpy:2609
+# game/events_t.rpy:2599
 translate italian d11tfirsts_8cb1c1c3:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2610
+# game/events_t.rpy:2600
 translate italian d11tfirsts_bc5b1a02:
 
     # mc "Are you comfortable?"
     mc "Sei comodo?"
 
-# game/events_t.rpy:2611
+# game/events_t.rpy:2601
 translate italian d11tfirsts_4cc81c8f:
 
     # t "Hnn... what kind of question is that?!"
     t "Hnn... che razza di domanda è questa?!"
 
-# game/events_t.rpy:2612
+# game/events_t.rpy:2602
 translate italian d11tfirsts_91b2d9fb:
 
     # mc "Hey, I'm just making sure it's feeling good for you."
     mc "Ehi, sto solo facendo in modo che si senta bene per te."
 
-# game/events_t.rpy:2613
+# game/events_t.rpy:2603
 translate italian d11tfirsts_37e1c8e2:
 
     # t "It's... okay..."
     t "E'... ok..."
 
-# game/events_t.rpy:2614
+# game/events_t.rpy:2604
 translate italian d11tfirsts_7de8b566:
 
     # mc "Come on, [t]."
     mc "Avanti, [t]."
 
-# game/events_t.rpy:2615
+# game/events_t.rpy:2605
 translate italian d11tfirsts_da845a08:
 
     # t "Ugh... it's, nhh... it's good..."
     t "Ugh... è, nhh... è buono..."
 
-# game/events_t.rpy:2616
+# game/events_t.rpy:2606
 translate italian d11tfirsts_d7962bef:
 
     # mc "Do you like it, or not?"
     mc "Ti piace, o no?"
 
-# game/events_t.rpy:2617
+# game/events_t.rpy:2607
 translate italian d11tfirsts_73181d76:
 
     # t "C-Can you shut up?"
     t "Puoi stare zitto?"
 
-# game/events_t.rpy:2618
+# game/events_t.rpy:2608
 translate italian d11tfirsts_d053fdb5:
 
     # mc "Being bitchy again, huh?"
     mc "Essere di nuovo cattivo, eh?"
 
-# game/events_t.rpy:2619
+# game/events_t.rpy:2609
 translate italian d11tfirsts_394d3c06:
 
     # t "I'm not bitchy!"
     t "Non sono una stronza!"
 
-# game/events_t.rpy:2620
+# game/events_t.rpy:2610
 translate italian d11tfirsts_0106dce4:
 
     # mc "Alright, a little bit higher, [t]."
     mc "Va bene, un po' più in alto, [t]."
 
-# game/events_t.rpy:2621
+# game/events_t.rpy:2611
 translate italian d11tfirsts_1bb01731_12:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2627
+# game/events_t.rpy:2616
 translate italian d11tfirsts_93a82aa0_1:
 
     # t "Like this?"
     t "Così?"
 
-# game/events_t.rpy:2628
+# game/events_t.rpy:2617
 translate italian d11tfirsts_91bd44e8:
 
     # mc "Higher."
     mc "Più alto."
 
-# game/events_t.rpy:2631
+# game/events_t.rpy:2620
 translate italian d11tfirsts_4a1bb688:
 
     # mc "A little more."
     mc "Un po' di più."
 
-# game/events_t.rpy:2632
+# game/events_t.rpy:2621
 translate italian d11tfirsts_c69c221d:
 
     # t "N-Nhhn..."
     t "N-Nhhn..."
 
-# game/events_t.rpy:2635
+# game/events_t.rpy:2624
 translate italian d11tfirsts_516cd5cf:
 
     # t "Haah!"
     t "Haah!"
 
-# game/events_t.rpy:2636
+# game/events_t.rpy:2625
 translate italian d11tfirsts_3556e475:
 
     # mc "Oh, looks like it almost slipped in... accidentally."
     mc "Oh, sembra quasi scivolato in... accidentalmente."
 
-# game/events_t.rpy:2638
+# game/events_t.rpy:2627
 translate italian d11tfirsts_7a046ec3:
 
     # t "A-Accidentally? As if you didn't plan to do this."
     t "Per caso? Come se non avessi pianificato di farlo."
 
-# game/events_t.rpy:2640
+# game/events_t.rpy:2629
 translate italian d11tfirsts_d6e97873:
 
     # mc "Heh, it was totally by accident, but... what are we going to do about it?"
     mc "Heh, è stato del tutto per caso, ma... che cosa faremo?"
 
-# game/events_t.rpy:2642
+# game/events_t.rpy:2631
 translate italian d11tfirsts_ba21a0dd:
 
     # t "Hmrph..."
     t "Hmrph..."
 
-# game/events_t.rpy:2644
+# game/events_t.rpy:2633
 translate italian d11tfirsts_1bb01731_13:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2646
+# game/events_t.rpy:2635
 translate italian d11tfirsts_8cb1c1c3_1:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2649
+# game/events_t.rpy:2638
 translate italian d11tfirsts_142fe13e:
 
     # t "Haah..."
     t "Haah..."
 
-# game/events_t.rpy:2651
+# game/events_t.rpy:2640
 translate italian d11tfirsts_9a2f20df:
 
     # mcthink "Wow, I didn't expect her to just slide it in."
     mcthink "Wow, non mi aspettavo che lei lo scivolasse solo dentro."
 
-# game/events_t.rpy:2653
+# game/events_t.rpy:2642
 translate italian d11tfirsts_c35be849:
 
     # mc "Looks like you accidentally slid down, [t]."
     mc "Sembra che tu sia scivolato accidentalmente, [t]."
 
-# game/events_t.rpy:2655
+# game/events_t.rpy:2644
 translate italian d11tfirsts_c873d93e:
 
     # t "Humph..."
     t "Humph..."
 
-# game/events_t.rpy:2656
+# game/events_t.rpy:2645
 translate italian d11tfirsts_cfeb5f00:
 
     # mc "*Smirks* go on."
     mc "Continua *Smirks*."
 
-# game/events_t.rpy:2658
+# game/events_t.rpy:2647
 translate italian d11tfirsts_1bb01731_14:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2666
+# game/events_t.rpy:2655
 translate italian d11tfirsts_7c07ff4c:
 
     # t "N-Nhh..."
     t "N-Nhh..."
 
-# game/events_t.rpy:2671
+# game/events_t.rpy:2659
 translate italian d11tfirsts_dc5cfd13:
 
     # mc "Are you finally relaxing?"
     mc "Ti stai finalmente rilassando?"
 
-# game/events_t.rpy:2672
+# game/events_t.rpy:2660
 translate italian d11tfirsts_a3ea99e9:
 
     # t "If...hnnhh... you want to call it that..."
     t "Se... hnnhh... vuoi chiamarlo così..."
 
-# game/events_t.rpy:2673
+# game/events_t.rpy:2661
 translate italian d11tfirsts_ef4566de:
 
     # mc "It's just that you should be a bit more comfortable with your boyfriend."
     mc "È solo che dovresti essere un po' più comodo con il tuo fidanzato."
 
-# game/events_t.rpy:2674
+# game/events_t.rpy:2662
 translate italian d11tfirsts_2d2ce1e5:
 
     # t "Nhhh... maybe..."
     t "Nhhh... forse..."
 
-# game/events_t.rpy:2675
+# game/events_t.rpy:2663
 translate italian d11tfirsts_cf75e010:
 
     # mc "No objections to the boyfriend part?"
     mc "Nessuna obiezione alla parte del fidanzato?"
 
-# game/events_t.rpy:2676
+# game/events_t.rpy:2664
 translate italian d11tfirsts_e2562688:
 
     # t "N-Nhnn..."
     t "N-Nhnn..."
 
-# game/events_t.rpy:2685
+# game/events_t.rpy:2672
 translate italian d11tfirsts_b0d0df57:
 
     # mc "Come closer, let me get a nice, close look between your sexy legs."
     mc "Vieni più vicino, lasciami ottenere un bello, look da vicino tra le gambe sexy."
 
-# game/events_t.rpy:2686
+# game/events_t.rpy:2673
 translate italian d11tfirsts_1bb01731_15:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2689
+# game/events_t.rpy:2676
 translate italian d11tfirsts_fcb04132:
 
     # t "I-I don't know if that's a good idea..."
     t "Non so se sia una buona idea..."
 
-# game/events_t.rpy:2691
+# game/events_t.rpy:2678
 translate italian d11tfirsts_8cc8f365:
 
     # mc "Don't worry, I'll hold you."
     mc "Non ti preoccupare, ti terrò."
 
-# game/events_t.rpy:2693
+# game/events_t.rpy:2680
 translate italian d11tfirsts_8cb1c1c3_2:
 
     # t "Nh..."
     t "Nh..."
 
-# game/events_t.rpy:2696
+# game/events_t.rpy:2683
 translate italian d11tfirsts_8e2fe8ed:
 
     # mc "Mhm, Looks tasty."
     mc "Mhm, Sembra gustoso."
 
-# game/events_t.rpy:2697
+# game/events_t.rpy:2684
 translate italian d11tfirsts_b46eaf8e:
 
     # t "Just make sure you won't let me fall."
     t "Assicurati di non farmi cadere."
 
-# game/events_t.rpy:2699
+# game/events_t.rpy:2686
 translate italian d11tfirsts_a615069f:
 
     # mc "Do you really think I'd let my girlfriend fall?"
     mc "Pensi davvero che avrei lasciato cadere la mia fidanzata?"
 
-# game/events_t.rpy:2700
+# game/events_t.rpy:2687
 translate italian d11tfirsts_1bb01731_16:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2701
+# game/events_t.rpy:2688
 translate italian d11tfirsts_166b169a:
 
     # mc "No objections to the girlfriend part?"
     mc "Nessuna obiezione alla parte della fidanzata?"
 
-# game/events_t.rpy:2705
+# game/events_t.rpy:2692
 translate italian d11tfirsts_df4b35f8:
 
     # t "Huh?"
     t "Eh?"
 
-# game/events_t.rpy:2707
+# game/events_t.rpy:2694
 translate italian d11tfirsts_d0661dce:
 
     # t "WHAAH!"
     t "WHAAH!"
 
-# game/events_t.rpy:2710
+# game/events_t.rpy:2697
 translate italian d11tfirsts_6ad2d418:
 
     # mc "What the!?"
     mc "Che cosa!?"
 
-# game/events_t.rpy:2713
+# game/events_t.rpy:2700
 translate italian d11tfirsts_9655811c:
 
     # mc "[j]?"
     mc "[j]?"
 
-# game/events_t.rpy:2715
+# game/events_t.rpy:2702
 translate italian d11tfirsts_b4fa3fc0:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2717
+# game/events_t.rpy:2704
 translate italian d11tfirsts_bd88c022:
 
     # t "God..."
     t "Dio..."
 
-# game/events_t.rpy:2719
+# game/events_t.rpy:2706
 translate italian d11tfirsts_04b77ce1:
 
     # t "I can't believe this, I..."
     t "Non posso crederci, io..."
 
-# game/events_t.rpy:2721
+# game/events_t.rpy:2708
 translate italian d11tfirsts_12c2022f:
 
     # j "AU!"
     j "AU!"
 
-# game/events_t.rpy:2723
+# game/events_t.rpy:2710
 translate italian d11tfirsts_79dba188:
 
     # mc "Shit..."
     mc "Mossa..."
 
-# game/events_t.rpy:2725
+# game/events_t.rpy:2712
 translate italian d11tfirsts_5b24e48a:
 
     # mc "I better have a look."
     mc "Farei meglio a dare un'occhiata."
 
-# game/events_t.rpy:2726
+# game/events_t.rpy:2713
 translate italian d11tfirsts_b284dc60:
 
     # t "Yes."
     t "Sì."
 
-# game/events_t.rpy:2730
+# game/events_t.rpy:2717
 translate italian d11tfirsts_8bcaad36:
 
     # j "Damn..."
     j "Dannazione..."
 
-# game/events_t.rpy:2732
+# game/events_t.rpy:2719
 translate italian d11tfirsts_3a36d8d7:
 
     # mc "What happened, are you okay?"
     mc "Cos'è successo, stai bene?"
 
-# game/events_t.rpy:2734
+# game/events_t.rpy:2721
 translate italian d11tfirsts_9ce126f8:
 
     # j "I'm okay, I just slipped from the railing..."
     j "Sto bene, sono solo scivolato dalla ringhiera..."
 
-# game/events_t.rpy:2735
+# game/events_t.rpy:2722
 translate italian d11tfirsts_7c9e345f:
 
     # mc "Well, that's what you get for peeping."
     mc "Beh, questo è quello che si ottiene per peeping."
 
-# game/events_t.rpy:2737
+# game/events_t.rpy:2724
 translate italian d11tfirsts_0f5155b3:
 
     # j "Hey, you were making weird noises, I was just checking..."
     j "Ehi, stavi facendo strani rumori, stavo solo controllando..."
 
-# game/events_t.rpy:2739
+# game/events_t.rpy:2726
 translate italian d11tfirsts_b8a2d68e:
 
     # mc "Yeah, sure... weird noises, huh..."
     mc "Sì, sicuramente... rumori strani, eh..."
 
-# game/events_t.rpy:2741
+# game/events_t.rpy:2728
 translate italian d11tfirsts_3c15b2a2:
 
     # mc "Come on, you can go through my room."
     mc "Avanti, puoi passare attraverso la mia stanza."
 
-# game/events_t.rpy:2743
+# game/events_t.rpy:2730
 translate italian d11tfirsts_1bb01731_17:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2747
+# game/events_t.rpy:2734
 translate italian d11tfirsts_205d1898:
 
     # j "Uhh... sorry for the interruption..."
     j "Scusate l'interruzione..."
 
-# game/events_t.rpy:2749
+# game/events_t.rpy:2736
 translate italian d11tfirsts_250cbd58:
 
     # t "Shouldn't you be mad or something?"
     t "Non dovresti essere arrabbiato o qualcosa del genere?"
 
-# game/events_t.rpy:2751
+# game/events_t.rpy:2738
 translate italian d11tfirsts_d3ac2a0e:
 
     # j "Uhh... should I?"
     j "Dovrei?"
 
-# game/events_t.rpy:2755
+# game/events_t.rpy:2742
 translate italian d11tfirsts_55d9e1e6:
 
     # t "He's your boyfriend!"
     t "È il tuo ragazzo!"
 
-# game/events_t.rpy:2757
+# game/events_t.rpy:2744
 translate italian d11tfirsts_0ce979a0:
 
     # t "She's your girlfriend!"
     t "È la tua ragazza!"
 
-# game/events_t.rpy:2759
+# game/events_t.rpy:2746
 translate italian d11tfirsts_f58238a1:
 
     # j "And yours, too, right?"
     j "E anche il tuo, vero?"
 
-# game/events_t.rpy:2761
+# game/events_t.rpy:2748
 translate italian d11tfirsts_2f64c1e9:
 
     # mc "How long have you been watching?"
     mc "Da quanto tempo stai guardando?"
 
-# game/events_t.rpy:2763
+# game/events_t.rpy:2750
 translate italian d11tfirsts_a3d1076c:
 
     # j "Uhh..."
     j "Uhh..."
 
-# game/events_t.rpy:2766
+# game/events_t.rpy:2753
 translate italian d11tfirsts_b63da1b0:
 
     # t "How can you be okay with that?!"
     t "Come puoi essere d'accordo con questo?"
 
-# game/events_t.rpy:2768
+# game/events_t.rpy:2755
 translate italian d11tfirsts_85bc7991:
 
     # mc "I told you she'd be fine with it, didn't I?"
     mc "Ti ho detto che sarebbe stata bene con esso, vero?"
 
-# game/events_t.rpy:2770
+# game/events_t.rpy:2757
 translate italian d11tfirsts_599807f6:
 
     # t "How can you be okay with that?! [e] is your best friend!"
     t "Come puoi stare bene con quello?! [e] è il tuo migliore amico!"
 
-# game/events_t.rpy:2772
+# game/events_t.rpy:2759
 translate italian d11tfirsts_cc12fb8c:
 
     # mc "I told you [e] would be fine with it, didn't I?"
     mc "Ti ho detto che [e] sarebbe stato bello con esso, vero?"
 
-# game/events_t.rpy:2774
+# game/events_t.rpy:2761
 translate italian d11tfirsts_3aac889c:
 
     # t "Uch, you're both weird..."
     t "Siete entrambi strani..."
 
-# game/events_t.rpy:2777
+# game/events_t.rpy:2764
 translate italian d11tfirsts_c73fa029:
 
     # j "Hey."
     j "Hey."
 
-# game/events_t.rpy:2779
+# game/events_t.rpy:2766
 translate italian d11tfirsts_8bdc5dfa:
 
     # j "How would you know that I'm fine with it?"
     j "Come fai a sapere che mi sta bene?"
 
-# game/events_t.rpy:2781
+# game/events_t.rpy:2768
 translate italian d11tfirsts_23c4f530:
 
     # mc "Well, you basically said it yourself, on my second day here, after I got you and [e] from school, remember?"
     mc "Beh, hai detto tu stesso, il mio secondo giorno qui, dopo che ti ho preso e [e] da scuola, ricordati?"
 
-# game/events_t.rpy:2783
+# game/events_t.rpy:2770
 translate italian d11tfirsts_416a130e:
 
     # j "Oh..."
     j "Oh..."
 
-# game/events_t.rpy:2785
+# game/events_t.rpy:2772
 translate italian d11tfirsts_89ef383a:
 
     # j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone if you want."
     j "Ehi, [t], non c'è bisogno che ti rivesta, vi lascio soli se volete."
 
-# game/events_t.rpy:2788
+# game/events_t.rpy:2775
 translate italian d11tfirsts_cfafea18:
 
     # j "Uh, hey, [t], you really don't need to put your clothes back on, I'll leave you two alone..."
     j "Ehi, [t], non c'è bisogno che ti rivesta, vi lascio soli..."
 
-# game/events_t.rpy:2790
+# game/events_t.rpy:2777
 translate italian d11tfirsts_f1af56f8:
 
     # t "No thanks, I'll just be leaving."
     t "No grazie, me ne vado."
 
-# game/events_t.rpy:2792
+# game/events_t.rpy:2779
 translate italian d11tfirsts_47f8e571:
 
     # j "Aww, come on, don't leave. I'm sorry, okay?"
     j "Dai, non andartene. Mi dispiace, ok?"
 
-# game/events_t.rpy:2794
+# game/events_t.rpy:2781
 translate italian d11tfirsts_07b535c6:
 
     # t "You two can do what ever you want, but I don't need to be part of it."
     t "Voi due potete fare quello che volete, ma io non ho bisogno di farne parte."
 
-# game/events_t.rpy:2796
+# game/events_t.rpy:2783
 translate italian d11tfirsts_8055313a:
 
     # t "Just do me a favor and don't tell anyone what you've seen today..."
     t "Fammi un favore: non dire a nessuno quello che hai visto oggi..."
 
-# game/events_t.rpy:2798
+# game/events_t.rpy:2785
 translate italian d11tfirsts_24f19ac1:
 
     # j "Of course not..."
     j "Certo che no..."
 
-# game/events_t.rpy:2800
+# game/events_t.rpy:2787
 translate italian d11tfirsts_e357a6c7:
 
     # j "I mean..."
     j "Voglio dire..."
 
-# game/events_t.rpy:2801
+# game/events_t.rpy:2788
 translate italian d11tfirsts_a3d1076c_1:
 
     # j "Uhh..."
     j "Uhh..."
 
-# game/events_t.rpy:2803
+# game/events_t.rpy:2790
 translate italian d11tfirsts_a0e65641:
 
     # j "That means you owe me something, right?"
     j "Questo significa che mi devi qualcosa, giusto?"
 
-# game/events_t.rpy:2806
+# game/events_t.rpy:2793
 translate italian d11tfirsts_223921ba:
 
     # t "Ugh, you two really are a perfect match!"
     t "Voi due siete davvero una coppia perfetta!"
 
-# game/events_t.rpy:2808
+# game/events_t.rpy:2795
 translate italian d11tfirsts_02998f1f:
 
     # t "Ugh, you two would make a perfect couple!"
     t "Voi due sareste una coppia perfetta!"
 
-# game/events_t.rpy:2810
+# game/events_t.rpy:2797
 translate italian d11tfirsts_fba7b537:
 
     # j "Hehe."
     j "Hehe."
 
-# game/events_t.rpy:2812
+# game/events_t.rpy:2799
 translate italian d11tfirsts_b79c704a:
 
     # t "What do you want?"
     t "Cosa vuoi?"
 
-# game/events_t.rpy:2814
+# game/events_t.rpy:2801
 translate italian d11tfirsts_a00c928e:
 
     # j "Hey, don't be mad, I just want you to stay. You have an appointment with [e] anyway, don't you?"
     j "Ehi, non sei pazzo, voglio solo che tu rimanga. Hai comunque un appuntamento con [e] comunque, vero?"
 
-# game/events_t.rpy:2816
+# game/events_t.rpy:2803
 translate italian d11tfirsts_d6944372:
 
     # t "Hmph... fine."
     t "Hmph... bene."
 
-# game/events_t.rpy:2818
+# game/events_t.rpy:2805
 translate italian d11tfirsts_24eee438:
 
     # t "...but I'm just going to sit and wait until [e] is home for her therapy..."
     t "...ma sto solo per sedermi e aspettare che [e] sia a casa per la sua terapia..."
 
-# game/events_t.rpy:2822
+# game/events_t.rpy:2809
 translate italian d11tfirsts_b4fa3fc0_1:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2824
+# game/events_t.rpy:2811
 translate italian d11tfirsts_ff3bd3ea:
 
     # j "Well, okay."
     j "Beh, ok."
 
-# game/events_t.rpy:2826
+# game/events_t.rpy:2813
 translate italian d11tfirsts_1bb01731_18:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2828
+# game/events_t.rpy:2815
 translate italian d11tfirsts_128fd593:
 
     # j "What are you standing there like a lost sheep, come, sit between us!"
     j "Cosa fai lì come una pecorella smarrita, vieni, siediti tra noi!"
 
-# game/events_t.rpy:2830
+# game/events_t.rpy:2817
 translate italian d11tfirsts_985c02f6_1:
 
     # t "Ugh..."
     t "Uff..."
 
-# game/events_t.rpy:2835
+# game/events_t.rpy:2822
 translate italian d11tfirsts_62dfb6eb:
 
     # j "Nothing better than cuddling with your girlfriendssss, right?"
     j "Non c'è niente di meglio che coccolarsi con la propria ragazza, vero?"
 
-# game/events_t.rpy:2837
+# game/events_t.rpy:2824
 translate italian d11tfirsts_de5cbbbb:
 
     # mc "Heh, right."
     mc "Heh, giusto."
 
-# game/events_t.rpy:2839
+# game/events_t.rpy:2826
 translate italian d11tfirsts_01901a7d:
 
     # mc "Wouldn't you say, too, [t]?"
     mc "Non dovresti anche dire [t]?"
 
-# game/events_t.rpy:2841
+# game/events_t.rpy:2828
 translate italian d11tfirsts_b4fa3fc0_2:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2843
+# game/events_t.rpy:2830
 translate italian d11tfirsts_4e2823dd:
 
     # t "*grml*"
     t "*grml*"
 
-# game/events_t.rpy:2845
+# game/events_t.rpy:2832
 translate italian d11tfirsts_7de8b566_1:
 
     # mc "Come on, [t]."
     mc "Avanti, [t]."
 
-# game/events_t.rpy:2847
+# game/events_t.rpy:2834
 translate italian d11tfirsts_001e9bbe:
 
     # mc "Shit happens sometimes, right?"
     mc "Succede a volte, giusto?"
 
-# game/events_t.rpy:2849
+# game/events_t.rpy:2836
 translate italian d11tfirsts_1bb01731_19:
 
     # t "..."
     t "..."
 
-# game/events_t.rpy:2852
+# game/events_t.rpy:2839
 translate italian d11tfirsts_64691207:
 
     # j "Come on, [t], there's nothing wrong with having fun with your boyfriend."
     j "Dai, [t], non c'è niente di male nel divertirsi con il proprio ragazzo."
 
-# game/events_t.rpy:2854
+# game/events_t.rpy:2841
 translate italian d11tfirsts_55670417:
 
     # j "Come on, [t], there's nothing wrong with having fun with your girlfriend."
     j "Dai, [t], non c'è niente di male nel divertirsi con la propria ragazza."
 
-# game/events_t.rpy:2857
+# game/events_t.rpy:2844
 translate italian d11tfirsts_c33b515c:
 
     # mc "Err..."
     mc "Err..."
 
-# game/events_t.rpy:2858
+# game/events_t.rpy:2845
 translate italian d11tfirsts_8cf97b9c:
 
     # j "I won't tell anybody, promise."
     j "Non lo dirò a nessuno, promesso."
 
-# game/events_t.rpy:2860
+# game/events_t.rpy:2847
 translate italian d11tfirsts_03ae43fd:
 
     # mcthink "Damn, [j] is such a naughty little..."
     mcthink "Dannazione, [j] è un po' cattivo..."
 
-# game/events_t.rpy:2864
+# game/events_t.rpy:2851
 translate italian d11tfirsts_ee342a8f:
 
     # mc "Sounds like [m] and [e] are back."
     mc "Suoni come [m] e [e] sono tornati."
 
-# game/events_t.rpy:2866
+# game/events_t.rpy:2853
 translate italian d11tfirsts_75abc27f:
 
     # t "Good, time to do my job."
     t "Bene, è ora di fare il mio lavoro."
 
-# game/events_t.rpy:2871
+# game/events_t.rpy:2858
 translate italian d11tfirsts_21c608a2:
 
     # j "She has a really nice ass in those pants."
     j "Ha davvero un bel culo in quei pantaloni."
 
-# game/events_t.rpy:2872
+# game/events_t.rpy:2859
 translate italian d11tfirsts_c041bb9a_2:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2877
+# game/events_t.rpy:2864
 translate italian d11tfirsts_73ee3052:
 
     # j "No wonder you like her."
     j "Non c'è da stupirsi che ti piaccia."
 
-# game/events_t.rpy:2879
+# game/events_t.rpy:2866
 translate italian d11tfirsts_f8e63386:
 
     # j "Too bad [e] and [m] just came back home."
     j "Peccato [e] e [m] sono appena tornati a casa."
 
-# game/events_t.rpy:2881
+# game/events_t.rpy:2868
 translate italian d11tfirsts_6dbd57f7:
 
     # mc "I doubt that them coming home changed much."
     mc "Dubito che loro tornino a casa siano cambiati molto."
 
-# game/events_t.rpy:2883
+# game/events_t.rpy:2870
 translate italian d11tfirsts_cd33cad5:
 
     # j "Aww, sorry, I'll be more careful next time."
     j "Mi dispiace, la prossima volta starò più attento."
 
-# game/events_t.rpy:2885
+# game/events_t.rpy:2872
 translate italian d11tfirsts_cbb21558:
 
     # mc "More careful? You shouldn't peep in the first place."
     mc "Più attento? Non dovresti sbirciare in primo luogo."
 
-# game/events_t.rpy:2887
+# game/events_t.rpy:2874
 translate italian d11tfirsts_d5a8f0fe:
 
     # j "Hrm..."
     j "Hrm..."
 
-# game/events_t.rpy:2888
+# game/events_t.rpy:2875
 translate italian d11tfirsts_8ff8ec9a:
 
     # mc "Seriously, [j]."
     mc "Seriamente, [j]."
 
-# game/events_t.rpy:2890
+# game/events_t.rpy:2877
 translate italian d11tfirsts_1cae3073:
 
     # j "Sorry, I won't do it again."
     j "Mi dispiace, non lo farò più."
 
-# game/events_t.rpy:2892
+# game/events_t.rpy:2879
 translate italian d11tfirsts_cb2c03b6:
 
     # mc "I hope so, otherwise I'll have to punish you, young lady."
     mc "Spero così, altrimenti dovrò punirti, giovane signora."
 
-# game/events_t.rpy:2894
+# game/events_t.rpy:2881
 translate italian d11tfirsts_ad88acdc:
 
     # j "Hehe, don't tempt me, [mcmd]."
     j "Hehe, non tentarmi, [mcmd]."
 
-# game/events_t.rpy:2896
+# game/events_t.rpy:2883
 translate italian d11tfirsts_d4cfca71:
 
     # mc "But seriously, [j], don't do it again, unless you know everyone is fine with it."
     mc "Ma seriamente, [j], non farlo di nuovo, a meno che tu sappia che tutti stanno bene con esso."
 
-# game/events_t.rpy:2898
+# game/events_t.rpy:2885
 translate italian d11tfirsts_ecc233ae:
 
     # j "I won't, promise."
     j "Non lo farò, promesso."
 
-# game/events_t.rpy:2900
+# game/events_t.rpy:2887
 translate italian d11tfirsts_21c608a2_1:
 
     # j "She has a really nice ass in those pants."
     j "Ha davvero un bel culo in quei pantaloni."
 
-# game/events_t.rpy:2901
+# game/events_t.rpy:2888
 translate italian d11tfirsts_c041bb9a_3:
 
     # t "Hmph..."
     t "Hmph..."
 
-# game/events_t.rpy:2905
+# game/events_t.rpy:2892
 translate italian d11tfirsts_73ee3052_1:
 
     # j "No wonder you like her."
     j "Non c'è da stupirsi che ti piaccia."
 
-# game/events_t.rpy:2906
+# game/events_t.rpy:2893
 translate italian d11tfirsts_f8e63386_1:
 
     # j "Too bad [e] and [m] just came back home."
     j "Peccato [e] e [m] sono appena tornati a casa."
 
-# game/events_t.rpy:2908
+# game/events_t.rpy:2895
 translate italian d11tfirsts_6dbd57f7_1:
 
     # mc "I doubt that them coming home changed much."
     mc "Dubito che loro tornino a casa siano cambiati molto."
 
-# game/events_t.rpy:2910
+# game/events_t.rpy:2897
 translate italian d11tfirsts_60d0d9c0:
 
     # j "Sorry, I guess I..."
     j "Scusate, credo di..."
 
-# game/events_t.rpy:2914
+# game/events_t.rpy:2901
 translate italian d11tfirsts_dc5bbf95:
 
     # j "Hey, [e], welcome back."
     j "Ehi, [e], bentornato."
 
-# game/events_t.rpy:2916
+# game/events_t.rpy:2903
 translate italian d11tfirsts_6bca4e18:
 
     # t "Come on, [e], I don't have much time..."
     t "Andiamo, [e], non ho molto tempo..."
 
-# game/events_t.rpy:2918
+# game/events_t.rpy:2905
 translate italian d11tfirsts_f63da726:
 
     # t "Ugh, are you still..."
     t "Sei ancora..."
 
-# game/events_t.rpy:2920
+# game/events_t.rpy:2907
 translate italian d11tfirsts_2b40a022:
 
     # e "Huh?"
     e "Eh?"
 
-# game/events_t.rpy:2922
+# game/events_t.rpy:2909
 translate italian d11tfirsts_143db3d9:
 
     # m "Hey, what's going..."
     m "Ehi, che succede..."
 
-# game/events_t.rpy:2924
+# game/events_t.rpy:2911
 translate italian d11tfirsts_5da0228b:
 
     # m "O-Oh... err..."
     m "Oh... ehm..."
 
-# game/events_t.rpy:2926
+# game/events_t.rpy:2913
 translate italian d11tfirsts_7d25852a:
 
     # m "Come on, [e], [t] is waiting for you."
     m "Avanti, [e], [t] ti sta aspettando."
 
-# game/events_t.rpy:2927
+# game/events_t.rpy:2914
 translate italian d11tfirsts_9c5e6f88:
 
     # e "Whaa..."
     e "Co..."
 
-# game/events_t.rpy:2930
+# game/events_t.rpy:2917
 translate italian d11tfirsts_6894d896:
 
     # mc "Shit, I better put my pants on."
     mc "Merda, meglio metto i pantaloni."
 
-# game/events_t.rpy:2931
+# game/events_t.rpy:2918
 translate italian d11tfirsts_d1f3ebf7:
 
     # j "Yeah... sorry..."
     j "Sì... scusa..."
 
-# game/events_t.rpy:2933
+# game/events_t.rpy:2920
 translate italian d11tfirsts_9405a33c:
 
     # j "...I'll go see if [m] needs help with anything..."
     j "...Vado a vedere se [m] ha bisogno di aiuto con qualsiasi cosa..."
 
-# game/events_t.rpy:2934
+# game/events_t.rpy:2921
 translate italian d11tfirsts_2fcc7ac5:
 
     # mc "Sure..."
     mc "Certo..."
 
-# game/events_t.rpy:2937
+# game/events_t.rpy:2924
 translate italian d11tfirsts_6894d896_1:
 
     # mc "Shit, I better put my pants on."
     mc "Merda, meglio metto i pantaloni."
 
-# game/events_t.rpy:2938
-translate italian d11tfirsts_36a6d3ec:
+# game/events_t.rpy:2925
+translate italian d11tfirsts_775d8a57:
 
-    # j "yeah... too bad..."
-    j "Già... peccato..."
+    # j "Yeah... too bad..."
+    j "Sì... troppo male..."
 
-# game/events_t.rpy:2940
+# game/events_t.rpy:2927
 translate italian d11tfirsts_c80207c6:
 
     # mc "Well, at least they didn't see me and [t]."
     mc "Beh, almeno non mi hanno visto e [t]."
 
-# game/events_t.rpy:2942
+# game/events_t.rpy:2929
 translate italian d11tfirsts_de476f0d:
 
     # j "Hehe, yeah, that might've ended up worse than it did."
     j "Hehe, sì, sarebbe potuta finire peggio di come è andata."
 
-# game/events_t.rpy:2944
+# game/events_t.rpy:2931
 translate italian d11tfirsts_69c25b65:
 
     # mc "Yeah..."
     mc "Sì..."
 
-# game/events_t.rpy:2945
+# game/events_t.rpy:2932
 translate italian d11tfirsts_5bec3d56:
 
     # j "Too bad [m] isn't okay with us, yet, this could've ended up in a nice little orgy."
     j "Peccato [m] non va bene con noi, eppure, questo potrebbe essere finito in una bella orgia."
 
-# game/events_t.rpy:2947
+# game/events_t.rpy:2934
 translate italian d11tfirsts_ad9c5742:
 
     # mc "Damn, [j]..."
     mc "Dannazione, [j]..."
 
-# game/events_t.rpy:2949
+# game/events_t.rpy:2936
 translate italian d11tfirsts_a475dd4c:
 
     # j "What?"
     j "Cosa?"
 
-# game/events_t.rpy:2951
+# game/events_t.rpy:2938
 translate italian d11tfirsts_6b7cbff5:
 
     # mc "What do mean by \"yet\" by the way?"
     mc "Cosa significa \"ancora\" a proposito?"
 
-# game/events_t.rpy:2953
+# game/events_t.rpy:2940
 translate italian d11tfirsts_52908790:
 
     # j "Well, we obviously need to convince her to join your little harem, right?"
     j "Beh, ovviamente dobbiamo convincerla a unirsi al tuo piccolo harem, giusto?"
 
-# game/events_t.rpy:2955
+# game/events_t.rpy:2942
 translate italian d11tfirsts_c0d05d94:
 
     # mc "My harem? Why do I get the feeling that that's more like what {b}you{/b} want?"
     mc "Il mio harem? Perché ho la sensazione che sia più simile a quello che {b}hai {/b} vuole?"
 
-# game/events_t.rpy:2957
+# game/events_t.rpy:2944
 translate italian d11tfirsts_8bd5ac3d:
 
     # j "Nah, that'd be too much work for me..."
     j "No, sarebbe troppo impegnativo per me..."
 
-# game/events_t.rpy:2959
+# game/events_t.rpy:2946
 translate italian d11tfirsts_27aa9bd3:
 
     # mc "Oh, so you let me do all the hard work."
     mc "Oh, così mi lasci fare tutto il duro lavoro."
 
-# game/events_t.rpy:2961
+# game/events_t.rpy:2948
 translate italian d11tfirsts_09798197:
 
     # j "Hey, I'm trying to help you! Also, it's not only hard, but also juicy, isn't it?"
     j "Ehi, sto cercando di aiutarti! Inoltre, non è solo difficile, ma anche succulento, non è vero?"
 
-# game/events_t.rpy:2963
+# game/events_t.rpy:2950
 translate italian d11tfirsts_fbe5e1b8:
 
     # mc "Heh, well, kind of."
     mc "Heh, beh, gentile."
 
-# game/events_t.rpy:2965
+# game/events_t.rpy:2952
 translate italian d11tfirsts_21f63e97:
 
     # j "See? And it's not like I'm not doing my part, hehe."
     j "Vedi? E non è che non stia facendo la mia parte, hehe."
 
-# game/events_t.rpy:2968
+# game/events_t.rpy:2955
 translate italian d11tfirsts_fbf4c6b0:
 
     # mc "Yeah... and you really are okay with that?"
     mc "Sì... e stai davvero bene con quello?"
 
-# game/events_t.rpy:2970
+# game/events_t.rpy:2957
 translate italian d11tfirsts_e3b51cb3:
 
     # j "Yeah, sure, I mean..."
     j "Sì, certo, voglio dire..."
 
-# game/events_t.rpy:2972
+# game/events_t.rpy:2959
 translate italian d11tfirsts_b4fa3fc0_3:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2974
+# game/events_t.rpy:2961
 translate italian d11tfirsts_9655811c_1:
 
     # mc "[j]?"
     mc "[j]?"
 
-# game/events_t.rpy:2976
+# game/events_t.rpy:2963
 translate italian d11tfirsts_6cb3f283:
 
     # j "Err... yeah, haha."
     j "Ehm... sì, haha."
 
-# game/events_t.rpy:2978
+# game/events_t.rpy:2965
 translate italian d11tfirsts_8b470045:
 
     # j "Absolutely!"
     j "Assolutamente!"
 
-# game/events_t.rpy:2980
+# game/events_t.rpy:2967
 translate italian d11tfirsts_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/events_t.rpy:2982
+# game/events_t.rpy:2969
 translate italian d11tfirsts_b4fa3fc0_4:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2984
+# game/events_t.rpy:2971
 translate italian d11tfirsts_88057329:
 
     # j "Well..."
     j "Bene..."
 
-# game/events_t.rpy:2986
+# game/events_t.rpy:2973
 translate italian d11tfirsts_9405a33c_1:
 
     # j "...I'll go see if [m] needs help with anything..."
     j "...Vado a vedere se [m] ha bisogno di aiuto con qualsiasi cosa..."
 
-# game/events_t.rpy:2988
+# game/events_t.rpy:2975
 translate italian d11tfirsts_b4fa3fc0_5:
 
     # j "..."
     j "..."
 
-# game/events_t.rpy:2992
+# game/events_t.rpy:2979
 translate italian d11tfirsts_c8c2ebc6:
 
     # mcthink "Is she lying?"
     mcthink "Sta mentendo?"
 
-# game/events_t.rpy:2993
+# game/events_t.rpy:2980
 translate italian d11tfirsts_ac118115:
 
     # mcthink "But why would she say she's okay with it, if she's not okay with it?"

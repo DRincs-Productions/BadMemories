@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/intro_day1.rpy:3
 translate french intro_day1_26086d61:
@@ -160,7 +160,7 @@ translate french intro_day1_f86f9603:
 translate french intro_day1_bf1e18b7:
 
     # "Maggy" "Okay then, I will call you as soon as I know something [mrms] [mcsure]."
-    "MaggyMaggy" "Ok alors, je vous appelle dès que je sais quelque chose [mrms] [mcsure]."
+    "Maggy" "Ok alors, je vous appelle dès que je sais quelque chose [mrms] [mcsure]."
 
 # game/intro_day1.rpy:34
 translate french intro_day1_5fabb0eb:
@@ -388,7 +388,7 @@ translate french intro_day1_ec6c00f8:
 translate french intro_day1_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/intro_day1.rpy:95
 translate french intro_day1_f18e7e28:
@@ -496,7 +496,7 @@ translate french intro_day1_715efcc0:
 translate french intro_day1_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:120
 translate french intro_day1_3c440417:
@@ -520,7 +520,7 @@ translate french intro_day1_5d94781a:
 translate french intro_day1_e2b5906f:
 
     # m "What brings you back? Are you visiting some old friends?"
-    m "Qu'est-ce qui te ramène? Tu rends visite à de vieux amis?"
+    m "Qu'est-ce qui t'amène ici? Tu rends visite à de vieux amis?"
 
 # game/intro_day1.rpy:125
 translate french intro_day1_79cdd2e8:
@@ -574,13 +574,13 @@ translate french intro_day1_5c1d6a14:
 translate french intro_day1_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:134
 translate french intro_day1_e612037c:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day1.rpy:136
 translate french intro_day1_5aeed744:
@@ -676,13 +676,13 @@ translate french intro_day1_86159d30:
 translate french intro_day1_e612037c_1:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day1.rpy:156
 translate french intro_day1_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:158
 translate french intro_day1_e0bec7d8:
@@ -814,7 +814,7 @@ translate french intro_day1_3a9da8e8:
 translate french intro_day1_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:198
 translate french intro_day1_9515c722:
@@ -838,7 +838,7 @@ translate french intro_day1_c5006a4a:
 translate french intro_day1_e612037c_2:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day1.rpy:205
 translate french intro_day1_bdebe6c9:
@@ -898,13 +898,13 @@ translate french intro_day1_d9155b14:
 translate french intro_day1_e612037c_3:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day1.rpy:221
 translate french intro_day1_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:223
 translate french intro_day1_42a7fbc0:
@@ -916,7 +916,7 @@ translate french intro_day1_42a7fbc0:
 translate french intro_day1_2b35b6fe_5:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:225
 translate french intro_day1_60b61954:
@@ -964,13 +964,13 @@ translate french intro_day1_8e89036a:
 translate french intro_day1_2b35b6fe_6:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:237
 translate french intro_day1_e612037c_4:
 
     # m "..."
-    "[_m_]..."
+    m "..."
 
 # game/intro_day1.rpy:238
 translate french intro_day1_cbd6000b:
@@ -994,19 +994,19 @@ translate french intro_day1_1baa200b:
 translate french intro_day1_3e0c0ef9:
 
     # mc ".."
-    "[_mc_].."
+    mc ".."
 
 # game/intro_day1.rpy:244
 translate french intro_day1_2b35b6fe_7:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:245
 translate french intro_day1_5c090e89:
 
     # mc "...."
-    "[_mc_]...."
+    mc "...."
 
 # game/intro_day1.rpy:246
 translate french intro_day1_38cb8147:
@@ -1030,7 +1030,7 @@ translate french intro_day1_0b9198e7:
 translate french intro_day1_2b35b6fe_8:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/intro_day1.rpy:253
 translate french intro_day1_2bb5dc6d:

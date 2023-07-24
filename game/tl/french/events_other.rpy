@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-04-29 19:07
+# TODO: Translation updated at 2023-06-26 18:40
 
 # game/events_other.rpy:2
 translate french cafeBeforeOffice_8514b197:
@@ -526,7 +526,7 @@ translate french cafe_d6_99351633:
 translate french cafe_d6_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:154
 translate french cafe_d6_e09d01db:
@@ -790,7 +790,7 @@ translate french cafe_d6_78a0d601:
 translate french cafe_d6_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:225
 translate french cafe_d6_419c8f6d:
@@ -820,7 +820,7 @@ translate french cafe_d6_e198b2d7:
 translate french cafe_d6_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:234
 translate french cafe_d6_c448b224:
@@ -868,7 +868,7 @@ translate french cafe_d6_33bca406:
 translate french cafe_d6_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:246
 translate french cafe_d6_fa80b421:
@@ -880,7 +880,7 @@ translate french cafe_d6_fa80b421:
 translate french cafe_d6_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:248
 translate french cafe_d6_aeeccbe2:
@@ -1384,7 +1384,7 @@ translate french job_d6_23634849:
 translate french job_d6_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:388
 translate french job_d6_b065d0f6:
@@ -1402,7 +1402,7 @@ translate french job_d6_2fb92ae1:
 translate french job_d6_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:392
 translate french job_d6_5cfa9f0b:
@@ -1420,7 +1420,7 @@ translate french job_d6_27e7e356:
 translate french job_d6_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:396
 translate french job_d6_d980a6b6:
@@ -1762,7 +1762,7 @@ translate french porngirls_41b9b1a1:
 translate french porngirls_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:528
 translate french porngirls_8f9e487c:
@@ -1780,7 +1780,7 @@ translate french porngirls_221eb2a4:
 translate french porngirls_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:532
 translate french porngirls_547b95c2:
@@ -1798,7 +1798,7 @@ translate french porngirls_4706d316:
 translate french porngirls_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:539
 translate french porngirls_1d2ca2b4:
@@ -1828,7 +1828,7 @@ translate french porngirls_12911da2:
 translate french porngirls_2384fd4b_3:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:556
 translate french porngirls_29ed0ec5:
@@ -1906,7 +1906,7 @@ translate french porngirls_e4f9aeca:
 translate french porngirls_2384fd4b_4:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:581
 translate french porngirls_1f3d742a_1:
@@ -2194,7 +2194,7 @@ translate french maggy1_cb8f0e68:
 translate french maggy1_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:674
 translate french maggy1_6715d49c:
@@ -2812,7 +2812,7 @@ translate french d10hcall_f5163abf:
 translate french d10hcall_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:817
 translate french d10hcall_2fded262_1:
@@ -3442,7 +3442,7 @@ translate french d10hdate_e88f4112_2:
 translate french d10hdate_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1019
 translate french d10hdate_2fded262_1:
@@ -3700,7 +3700,7 @@ translate french d10hdate_b4ad8ef8:
 translate french d10hdate_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1128
 translate french d10hdate_ebce81f4:
@@ -3808,7 +3808,7 @@ translate french d10hdate_59e8c05a:
 translate french d10hdate_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1160
 translate french d10hdate_6c6ba5f3:
@@ -4012,7 +4012,7 @@ translate french d10hdate_62775254_2:
 translate french d10hdate_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1230
 translate french d10hdate_bf5707bf:
@@ -4330,7 +4330,7 @@ translate french d10hdate_4d2a9452:
 translate french d10hdate_ff14c04f:
 
     # mcthink "Cute..."
-    mcthink "Cute ..."
+    mcthink "Chou..."
 
 # game/events_other.rpy:1342
 translate french d10hdate_941d17ea:
@@ -4618,7 +4618,7 @@ translate french d11visitcafe_606e2d02:
 translate french d11visitcafe_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1445
 translate french d11visitcafe_13d0a7f6:
@@ -4780,7 +4780,7 @@ translate french d11visitcafe_870b7b59:
 translate french d11visitcafe_2b35b6fe_1:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1493
 translate french d11visitcafe_8e38038d:
@@ -4804,7 +4804,7 @@ translate french d11visitcafe_1b4cde14:
 translate french d11visitcafe_2b35b6fe_2:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1501
 translate french d11visitcafe_d2fb5a0e:
@@ -4924,7 +4924,7 @@ translate french d11visitcafe_9a951f62:
 translate french d11visitcafe_2b35b6fe_3:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1538
 translate french d11visitcafe_d2fb5a0e_1:
@@ -5248,7 +5248,7 @@ translate french d11visitcafe_2fded262_2:
 translate french d11visitcafe_2b35b6fe_4:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1638
 translate french d11visitcafe_4e2e4e21:
@@ -5422,7 +5422,7 @@ translate french d11visitcafe_41123d4b:
 translate french d11visitcafe_2b35b6fe_5:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1698
 translate french d11visitcafe_649e6f82:
@@ -5590,7 +5590,7 @@ translate french d11work_1c7ed271:
 translate french d11work_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1762
 translate french d11work_ef2128d4:
@@ -5638,7 +5638,7 @@ translate french d11work_62f1a937:
 translate french d11work_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1774
 translate french d11work_e8e3d275:
@@ -5716,7 +5716,7 @@ translate french d11work_87fbafa5:
 translate french d11work_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1792
 translate french d11work_2308223a:
@@ -5734,7 +5734,7 @@ translate french d11work_ff287960:
 translate french d11work_457c6f63:
 
     # mcthink "..."
-    "[_mcthink_]..."
+    mcthink "..."
 
 # game/events_other.rpy:1796
 translate french d11work_7ce4accd:
@@ -5848,7 +5848,7 @@ translate french d11work_a30d37d5:
 translate french d11work_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:1828
 translate french d11work_aa2848ff:
@@ -5962,7 +5962,7 @@ translate french d11work_917d11b1:
 translate french d11work_2384fd4b_3:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:1857
 translate french d11work_c6d23b1b:
@@ -6670,7 +6670,7 @@ translate french d11maggylewd_b61b036f:
 translate french d11maggylewd_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:2091
 translate french d11maggylewd_fd3fe948:
@@ -6876,163 +6876,163 @@ translate french d11mabjm_01ce7b68:
     # mc "Oh god, [ma] this feels incredible!"
     mc "Oh mon dieu, [ma] c'est incroyable!"
 
-# game/events_other.rpy:2195
+# game/events_other.rpy:2194
 translate french d11mabjm_cf78d395:
 
     # ma "You could say I have some experience."
     ma "On peut dire que j'ai de l'expérience."
 
-# game/events_other.rpy:2197
+# game/events_other.rpy:2196
 translate french d11mabjm_bd660268:
 
     # mc "No doubt!"
     mc "Aucun doute!"
 
-# game/events_other.rpy:2203
+# game/events_other.rpy:2202
 translate french d11mabjm_d9d300ad:
 
     # mc "Damn..."
     mc "Merde..."
 
-# game/events_other.rpy:2207
+# game/events_other.rpy:2206
 translate french d11malfm_ef532e4f:
 
     # mc "Suck my clit, [ma]."
     mc "Suce mon clito, [ma]."
 
-# game/events_other.rpy:2209
+# game/events_other.rpy:2208
 translate french d11malfm_2f5bf559:
 
     # ma "Mhh... you like that?"
     ma "Mhh... tu aimes ça?"
 
-# game/events_other.rpy:2210
+# game/events_other.rpy:2209
 translate french d11malfm_836e0c3f:
 
     # mc "I love it, your tongue feels amazing!"
     mc "J'adore ça, ta langue est incroyable !"
 
-# game/events_other.rpy:2215
+# game/events_other.rpy:2214
 translate french d11malfm_f60bb973:
 
     # mc "Can you lick it again?"
     mc "Tu peux la lécher à nouveau ?"
 
-# game/events_other.rpy:2221
+# game/events_other.rpy:2220
 translate french d11malfm_aacb77ed:
 
     # mc "You look so hot between my legs, [ma]."
     mc "Tu es si sexy entre mes jambes, [ma]."
 
-# game/events_other.rpy:2222
+# game/events_other.rpy:2221
 translate french d11malfm_b904260f:
 
     # ma "Hn-nhh...you taste delicious."
     ma "Hn-nhh...tu as un goût délicieux."
 
-# game/events_other.rpy:2226
+# game/events_other.rpy:2225
 translate french d11malfm_df53134f:
 
     # mc "Shit, [ma]..."
     mc "Merde, [ma]..."
 
-# game/events_other.rpy:2227
+# game/events_other.rpy:2226
 translate french d11malfm_661b9082:
 
     # ma "Mh-hm! Mhh-mh!"
     ma "Mh-hm! Mhh-mh!"
 
-# game/events_other.rpy:2236
+# game/events_other.rpy:2234
 translate french d11malfm_33ee129d:
 
     # mc "Fuck!" with vpunch
     mc "Putain!" with vpunch
 
-# game/events_other.rpy:2243
+# game/events_other.rpy:2241
 translate french d11malfm_38cb8147:
 
     # mc "Fuck!"
-    mc "Putain !"
+    mc "Putain!"
 
-# game/events_other.rpy:2250
+# game/events_other.rpy:2248
 translate french d11malfm_6011d82f:
 
     # mc "Shit!" with vpunch
     mc "Merde !" with vpunch
 
-# game/events_other.rpy:2252
+# game/events_other.rpy:2250
 translate french d11malfm_ffef4adb:
 
     # mc "Damn, [ma], that was incredible."
     mc "D'jeu, [ma], c'était incroyable."
 
-# game/events_other.rpy:2254
+# game/events_other.rpy:2252
 translate french d11malfm_403ad030:
 
     # ma "I was hoping you'd say that."
     ma "J'espérais que tu dirais ça."
 
-# game/events_other.rpy:2256
+# game/events_other.rpy:2254
 translate french d11malfm_bb4e2a3e:
 
     # ma "Maybe we can go a little bit further next time."
     ma "On pourra peut-être aller un peu plus loin la prochaine fois."
 
-# game/events_other.rpy:2257
+# game/events_other.rpy:2255
 translate french d11malfm_316f41d0:
 
     # mc "Next time, huh. I wouldn't mind."
     mc "La prochaine fois, hein. Ça ne me dérangerait pas."
 
-# game/events_other.rpy:2258
+# game/events_other.rpy:2256
 translate french d11malfm_3633073c:
 
     # ma "Oh, I bet."
     ma "Oh, je parie."
 
-# game/events_other.rpy:2259
+# game/events_other.rpy:2257
 translate french d11malfm_f847e10e:
 
     # ma "Well, I guess I better go back to work, before my boss comes back, and I bet you have better stuff to do as well."
     ma "Eh bien, je suppose que je ferais mieux de retourner au travail, avant que mon patron ne revienne, et je parie que tu as aussi de meilleures choses à faire."
 
-# game/events_other.rpy:2261
+# game/events_other.rpy:2259
 translate french d11malfm_87f3612d:
 
     # mc "I wouldn't say better, but yeah, I should probably leave as well..."
     mc "Je ne dirais pas meilleures, mais oui, je devrais probablement partir aussi..."
 
-# game/events_other.rpy:2263
+# game/events_other.rpy:2261
 translate french d11malfm_cc975594:
 
     # ma "It would be quite embarrassing if my boss walked in on us now."
     ma "Ce serait assez embarrassant si mon patron nous surprenait maintenant."
 
-# game/events_other.rpy:2265
+# game/events_other.rpy:2263
 translate french d11malfm_62137303:
 
     # mc "Heh, yeah..."
     mc "Heu, ouais..."
 
-# game/events_other.rpy:2267
+# game/events_other.rpy:2265
 translate french d11malfm_26622ce2:
 
     # ma "Feel free to come visit me anytime soon."
     ma "N'hésites pas à venir me rendre visite à tout moment."
 
-# game/events_other.rpy:2268
+# game/events_other.rpy:2266
 translate french d11malfm_a3a2be63:
 
     # mc "Oh? Is that an invitation?"
     mc "Oh ? Est-ce une invitation ?"
 
-# game/events_other.rpy:2269
+# game/events_other.rpy:2267
 translate french d11malfm_efb05f80:
 
     # ma "Our special customers are always welcome, no need for an invitation."
     ma "Nos clients spéciaux sont toujours les bienvenus, pas besoin d'invitation."
 
-# game/events_other.rpy:2270
+# game/events_other.rpy:2268
 translate french d11malfm_c0e0d6c9:
 
     # mc "I see, then I'm glad I'm such a special customer."
@@ -7180,7 +7180,7 @@ translate french d12stdate_854ecb75:
 translate french d12stdate_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2326
 translate french d12stdate_e4c07a5c:
@@ -7210,7 +7210,7 @@ translate french d12stdate_88e1e606:
 translate french d12stdate_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2339
 translate french d12stdate_60ba7904:
@@ -7225,9 +7225,9 @@ translate french d12stdate_21e2358e:
     mcthink "Bon sang, elle a l'air vraiment chaude dans cette robe."
 
 # game/events_other.rpy:2346
-translate french d12stdate_c5ed7202:
+translate french d12stdate_4b6dbf97:
 
-    # st "It's a lot more quite and comfortable here."
+    # st "It's a lot more quiet and comfortable here."
     st "C'est beaucoup plus calme et confortable ici."
 
 # game/events_other.rpy:2348
@@ -7330,7 +7330,7 @@ translate french d12stdate_5560b2de:
 translate french d12stdate_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2383
 translate french d12stdate_764ea82d:
@@ -7378,7 +7378,7 @@ translate french d12stdate_eaf28586:
 translate french d12stdate_2b35b6fe:
 
     # mc "..."
-    "[_mc_]..."
+    mc "..."
 
 # game/events_other.rpy:2399
 translate french d12stdate_fda9506d:
@@ -7612,19 +7612,19 @@ translate french d12stdate_e15926e4:
 translate french d12stdate_b9b155fe:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_other.rpy:2472
 translate french d12stdate_b9b155fe_1:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_other.rpy:2473
 translate french d12stdate_b9b155fe_2:
 
     # extend "."
-    "[_extend_]."
+    extend "."
 
 # game/events_other.rpy:2474
 translate french d12stdate_524b0ea5:
@@ -8044,7 +8044,7 @@ translate french d12stjadate_bfe86fa8:
 translate french d12stjadate_2384fd4b:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
 # game/events_other.rpy:2637
 translate french d12stjadate_f59a6711:
@@ -8460,613 +8460,613 @@ translate french d12stjadate_a6d7db3e:
     # mc "With pleasure!"
     mc "Avec plaisir!"
 
-# game/events_other.rpy:2825
+# game/events_other.rpy:2822
 translate french d12stjadate_629a8d6a:
 
     # ja "Haaah! Nhh..."
     ja "Haaah! Nhh..."
 
-# game/events_other.rpy:2826
+# game/events_other.rpy:2823
 translate french d12stjadate_96f4f3c5:
 
     # st "Oh, Babe!"
     st "Oh, Babe!"
 
-# game/events_other.rpy:2829
+# game/events_other.rpy:2826
 translate french d12stjadate_880f30c6:
 
     # ja "Oh god, I'm cumming! HAA!" with flash
     ja "Oh mon Dieu, je jouis ! HAA !" with flash
 
-# game/events_other.rpy:2831
+# game/events_other.rpy:2828
 translate french d12stjadate_2bbb5edb:
 
     # ja "HAAH!"
     ja "HAAH!"
 
-# game/events_other.rpy:2833
+# game/events_other.rpy:2830
 translate french d12stjadate_50edd5e8:
 
     # ja "AAH..."
     ja "AAH..."
 
-# game/events_other.rpy:2834
+# game/events_other.rpy:2831
 translate french d12stjadate_102dbca3_1:
 
     # mc "Fuck!" with hpunch
     mc "Putain!" with hpunch
 
-# game/events_other.rpy:2838
+# game/events_other.rpy:2835
 translate french d12stjadate_8d9a6797:
 
     # mc "God!"
     mc "Dieu !"
 
-# game/events_other.rpy:2841
+# game/events_other.rpy:2838
 translate french d12stjadate_8f4a63eb:
 
     # ja "Shit... so good..."
     ja "Merde... si bon..."
 
-# game/events_other.rpy:2846
+# game/events_other.rpy:2843
 translate french d12stjadate_79790111:
 
     # ja "Such a perfect body."
     ja "Un corps si parfait."
 
-# game/events_other.rpy:2848
+# game/events_other.rpy:2845
 translate french d12stjadate_2384fd4b_1:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
-# game/events_other.rpy:2850
+# game/events_other.rpy:2847
 translate french d12stjadate_1ea3c063:
 
     # ja "...and such nice tits. Do you mind?"
-    "[_ja_]...et de si beaux seins. Cela ne vous dérange pas ?"
+    ja "...et de si beaux seins. Cela ne vous dérange pas?"
 
-# game/events_other.rpy:2852
+# game/events_other.rpy:2849
 translate french d12stjadate_5a86862f:
 
     # mc "Not at all."
     mc "Pas du tout."
 
-# game/events_other.rpy:2858
+# game/events_other.rpy:2855
 translate french d12stjadate_9790e979:
 
     # ja "Mhh, why don't we swap places, I think it'd be easier for us."
     ja "Mhh, pourquoi ne pas échanger nos places, je pense que ce sera plus facile pour nous."
 
-# game/events_other.rpy:2860
+# game/events_other.rpy:2857
 translate french d12stjadate_9745bd51:
 
     # mc "With pleasure."
     mc "Avec plaisir."
 
-# game/events_other.rpy:2863
+# game/events_other.rpy:2860
 translate french d12stjadate_87bddd44:
 
     # ja "Wow, [st], you didn't lie."
     ja "Wow, [st], tu n'as pas menti."
 
-# game/events_other.rpy:2865
+# game/events_other.rpy:2862
 translate french d12stjadate_c3e16f17:
 
     # ja "She's really stunning, so sexy!"
     ja "Elle est vraiment magnifique, tellement sexy !"
 
-# game/events_other.rpy:2867
+# game/events_other.rpy:2864
 translate french d12stjadate_f7cb2fca:
 
     # ja "I can't wait to taste this."
     ja "J'ai hâte de le goûter."
 
-# game/events_other.rpy:2869
+# game/events_other.rpy:2866
 translate french d12stjadate_b80b8dd2:
 
     # ja "Why don't you take care of her upper part, while I'll focus on down here?"
     ja "Pourquoi ne pas vous occuper de la partie supérieure, pendant que je me concentre sur la partie inférieure ?"
 
-# game/events_other.rpy:2871
+# game/events_other.rpy:2868
 translate french d12stjadate_09dba177:
 
     # st "Sure..."
     st "Bien sûr..."
 
-# game/events_other.rpy:2873
+# game/events_other.rpy:2870
 translate french d12stjadate_2384fd4b_2:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
-# game/events_other.rpy:2881
+# game/events_other.rpy:2878
 translate french d12stjadate_550e1358:
 
     # mc "Mhhn..."
     mc "Mhhn..."
 
-# game/events_other.rpy:2882
+# game/events_other.rpy:2879
 translate french d12stjadate_ec9162be:
 
     # mcthink "God, I'd have never expected anything like this... not from [st]."
     mcthink "Je ne m'attendais pas à une telle chose... pas de [st]."
 
-# game/events_other.rpy:2883
+# game/events_other.rpy:2880
 translate french d12stjadate_e44e497d:
 
     # mc "Hnnn..."
     mc "Hnnn ..."
 
-# game/events_other.rpy:2884
+# game/events_other.rpy:2881
 translate french d12stjadate_e70fa44a:
 
     # mcthink "...and that she has a secret girlfriend, and one like [ja]... the complete opposite of her..."
     mcthink "...et qu'elle a une petite amie secrète, et une autre comme [ja]... tout le contraire d'elle..."
 
-# game/events_other.rpy:2885
+# game/events_other.rpy:2882
 translate french d12stjadate_2690e151:
 
     # mcthink "Still waters..."
     mcthink "Eaux calmes..."
 
-# game/events_other.rpy:2886
+# game/events_other.rpy:2883
 translate french d12stjadate_d779ba68:
 
     # mc "Nhhh!"
     mc "Nhhh!"
 
-# game/events_other.rpy:2887
+# game/events_other.rpy:2884
 translate french d12stjadate_55ec661f:
 
     # mcthink "God, [ja] really knows what she's doing!"
     mcthink "Mon Dieu, [ja] sait vraiment ce qu'elle fait !"
 
-# game/events_other.rpy:2891
+# game/events_other.rpy:2888
 translate french d12stjadate_26fbc6f7:
 
     # ja "Hey, I think it's our turn now."
     ja "Hey, je crois que c'est notre tour maintenant."
 
-# game/events_other.rpy:2893
+# game/events_other.rpy:2890
 translate french d12stjadate_3ab2079e:
 
     # ja "You want some fun, too, right, [st]?"
     ja "Vous voulez aussi vous amuser, n'est-ce pas, [st] ?"
 
-# game/events_other.rpy:2895
+# game/events_other.rpy:2892
 translate french d12stjadate_44bd6bb0_1:
 
     # st "Of course!"
     st "Bien sûr !"
 
-# game/events_other.rpy:2897
+# game/events_other.rpy:2894
 translate french d12stjadate_f71d012d:
 
     # mc "Then let's get you some fun."
     mc "Alors, amusons-nous un peu."
 
-# game/events_other.rpy:2907
+# game/events_other.rpy:2904
 translate french d12stjadate_e538dd0d:
 
     # ja "Hnn... nhhh... HNNN!"
     ja "Hnn... nhhh... HNNN!"
 
-# game/events_other.rpy:2909
+# game/events_other.rpy:2906
 translate french d12stjadate_dd5338db:
 
     # ja "Oh god, I'm cumming!" with flash
     ja "Oh mon Dieu, je jouis!" with flash
 
-# game/events_other.rpy:2910
+# game/events_other.rpy:2907
 translate french d12stjadate_384bd908:
 
     # st "M-Me too... HAA!" with flash
     st "M-Moi aussi ... HAA !" with flash
 
-# game/events_other.rpy:2912
+# game/events_other.rpy:2909
 translate french d12stjadate_22b3b4ab:
 
     # st "Hnnaaahh..."
     st "Hnnaaahh..."
 
-# game/events_other.rpy:2913
+# game/events_other.rpy:2910
 translate french d12stjadate_312be876:
 
     # ja "Heh, you came pretty hard, Babe."
     ja "Hé, tu es tombé fort, beauté."
 
-# game/events_other.rpy:2914
+# game/events_other.rpy:2911
 translate french d12stjadate_432f4424:
 
     # st "You..."
     st "Vous..."
 
-# game/events_other.rpy:2915
+# game/events_other.rpy:2912
 translate french d12stjadate_9a5e60cd:
 
     # st "...you, too, [ja]..."
     st "...vous aussi, [ja]..."
 
-# game/events_other.rpy:2916
+# game/events_other.rpy:2913
 translate french d12stjadate_75ae3c19:
 
     # ja "How about you, [mc]?"
     ja "Et toi, [mc]?"
 
-# game/events_other.rpy:2918
+# game/events_other.rpy:2915
 translate french d12stjadate_1d805539:
 
     # mc "Yeah... it was pretty intense..."
     mc "Ouais... c'était assez intense..."
 
-# game/events_other.rpy:2921
+# game/events_other.rpy:2918
 translate french d12stjadate_586ac703:
 
     # ja "Well, that was fun..."
     ja "Eh bien, c'était amusant..."
 
-# game/events_other.rpy:2924
+# game/events_other.rpy:2921
 translate french d12stjadate_d83c19a3:
 
     # ja "It's rare to see a man cum twice within such a short time."
     ja "Il est rare de voir deux fois le sperme d'un homme en si peu de temps."
 
-# game/events_other.rpy:2926
+# game/events_other.rpy:2923
 translate french d12stjadate_67332dfa:
 
     # ja "I honestly wasn't expecting anything like this, most women would've probably freaked out when they learn that their crush is dating another woman."
     ja "En toute honnêteté, je ne m'attendais pas à ce que ce soit le cas, la plupart des femmes auraient probablement craint quand elles apprennent que leur écrasement date une autre femme."
 
-# game/events_other.rpy:2928
+# game/events_other.rpy:2925
 translate french d12stjadate_e0d14b17:
 
     # mc "What can I say, with two such beautiful ladies, it was quite easy."
     mc "Qu'est-ce que je peux dire, avec deux dames si belles, ça a été assez facile."
 
-# game/events_other.rpy:2930
+# game/events_other.rpy:2927
 translate french d12stjadate_5d6e67db:
 
     # ja "You hear that, Babe? We should definitely try that again, don't you think?"
     ja "Vous entendez ça, la beauté? Nous devrions essayer ça à nouveau, n'est-ce pas?"
 
-# game/events_other.rpy:2932
+# game/events_other.rpy:2929
 translate french d12stjadate_5d1c4c47:
 
     # st "Absolutely!"
     st "Absolument !"
 
-# game/events_other.rpy:2934
+# game/events_other.rpy:2931
 translate french d12stjadate_67a35891:
 
     # st "Of course only if [heshe] wants to..."
     st "Bien sûr seulement si [heshe] le veut..."
 
-# game/events_other.rpy:2936
+# game/events_other.rpy:2933
 translate french d12stjadate_fa002268:
 
     # mc "I'd definitely not mind doing that again."
     mc "Cela ne me dérangerait absolument pas de recommencer."
 
-# game/events_other.rpy:2938
+# game/events_other.rpy:2935
 translate french d12stjadate_c466850e:
 
     # ja "Hey, why don't you two stay overnight?"
     ja "Hé, pourquoi ne pas passer deux nuits ?"
 
-# game/events_other.rpy:2940
+# game/events_other.rpy:2937
 translate french d12stjadate_12dbb997:
 
     # st "Oh, err..."
     st "Oh, err..."
 
-# game/events_other.rpy:2942
+# game/events_other.rpy:2939
 translate french d12stjadate_569d9b70:
 
     # st "I can't, I have some paperwork left to do."
     st "Je ne peux pas, j'ai quelques documents à faire."
 
-# game/events_other.rpy:2944
+# game/events_other.rpy:2941
 translate french d12stjadate_fefa681c:
 
     # ja "Again? Seriously, [st]!"
     ja "Encore ? Sérieusement, [st]!"
 
-# game/events_other.rpy:2946
+# game/events_other.rpy:2943
 translate french d12stjadate_cf3cc5c1:
 
     # st "Well, today was meant to be a first date, I'm sure none of us expected this."
     st "Eh bien, aujourd'hui était censé être une première date, je suis sûr qu'aucun d'entre nous ne s'y attendait."
 
-# game/events_other.rpy:2948
+# game/events_other.rpy:2945
 translate french d12stjadate_ad07f882:
 
     # ja "Everything that can happen, will happen!"
     ja "Tout ce qui peut se passer, arrivera !"
 
-# game/events_other.rpy:2950
+# game/events_other.rpy:2947
 translate french d12stjadate_cfcbc47b:
 
     # mc "Murphy's law."
     mc "Loi de Murphy."
 
-# game/events_other.rpy:2952
+# game/events_other.rpy:2949
 translate french d12stjadate_ba755f4f:
 
     # ja "Yeah! I knew we'd get along!"
     ja "Oui, c'est vrai ! Je savais que nous nous entendrions bien !"
 
-# game/events_other.rpy:2954
+# game/events_other.rpy:2951
 translate french d12stjadate_2955b8dd:
 
     # st "Actually it's \"anything that can go wrong, will go wrong\"."
     st "En fait, c'est 'tout ce qui peut aller mal, ira mal'."
 
-# game/events_other.rpy:2956
+# game/events_other.rpy:2953
 translate french d12stjadate_4b3d7be1:
 
     # st "Anyway, I should probably go, it's getting late."
     st "Quoi qu'il en soit, je devrais probablement y aller, il se fait tard."
 
-# game/events_other.rpy:2958
+# game/events_other.rpy:2955
 translate french d12stjadate_4bd9078a:
 
     # ja "Oh, come on, don't be like that now!"
     ja "Oh, allez, ne soyez pas comme ça maintenant !"
 
-# game/events_other.rpy:2960
+# game/events_other.rpy:2957
 translate french d12stjadate_86e8120e:
 
     # st "I'm not being anything, I just have stuff to do."
     st "Je ne suis rien, j'ai juste des choses à faire."
 
-# game/events_other.rpy:2962
+# game/events_other.rpy:2959
 translate french d12stjadate_c6a5993a:
 
     # ja "Oh, [st]..."
     ja "Oh, [st]..."
 
-# game/events_other.rpy:2964
+# game/events_other.rpy:2961
 translate french d12stjadate_14b0b5b5:
 
     # st "Look, you know I'm a busy woman."
     st "Vous savez que je suis une femme très occupée."
 
-# game/events_other.rpy:2968
+# game/events_other.rpy:2965
 translate french d12stjadate_352ea75e:
 
     # st "We'll talk later, okay?"
     st "Nous parlerons plus tard, d'accord ?"
 
-# game/events_other.rpy:2970
+# game/events_other.rpy:2967
 translate french d12stjadate_45104590:
 
     # st "It was... very nice..."
     st "C'était... très belle..."
 
-# game/events_other.rpy:2972
+# game/events_other.rpy:2969
 translate french d12stjadate_954abb9e:
 
     # st "I... hope you don't think I'm a slut or anything..."
     st "Je... J'espère que vous ne pensez pas que je suis une salope ou quoi que ce soit d'autre..."
 
-# game/events_other.rpy:2975
+# game/events_other.rpy:2972
 translate french d12stjadate_72cca197:
 
     # mc "If I thought that way, it would make me a slut, too, and I'm pretty sure I'm not."
     mc "Si je pensais ainsi, cela ferait de moi une salope aussi, et je suis presque sûre de ne pas l'être."
 
-# game/events_other.rpy:2977
+# game/events_other.rpy:2974
 translate french d12stjadate_a99f84f7:
 
     # mc "Why would I think that? We all agreed to this, and it's not like it's just a one-time thing, right?"
     mc "Pourquoi penserais-je cela ? Nous sommes tous d'accord, et ce n'est pas comme si c'était juste une chose unique, n'est-ce pas ?"
 
-# game/events_other.rpy:2979
+# game/events_other.rpy:2976
 translate french d12stjadate_2384fd4b_3:
 
     # st "..."
-    "[_st_]..."
+    st "..."
 
-# game/events_other.rpy:2983
+# game/events_other.rpy:2980
 translate french d12stjadate_430ba501:
 
     # st "We'll see each other at work, then... Bye, [ja]!"
     st "Nous nous verrons au travail, alors... Au revoir, [ja] !"
 
-# game/events_other.rpy:2984
+# game/events_other.rpy:2981
 translate french d12stjadate_5984ad3e:
 
     # ja "Bye, Babe."
     ja "Bye, Babe."
 
-# game/events_other.rpy:2986
+# game/events_other.rpy:2983
 translate french d12stjadate_fdcbeae7:
 
     # ja "Oh well, I guess she'll never change."
     ja "Je suppose qu'elle ne changera jamais."
 
-# game/events_other.rpy:2988
+# game/events_other.rpy:2985
 translate french d12stjadate_30361457:
 
     # ja "She's working so much, I fear she's going to overdo it some day."
     ja "Elle travaille tellement que je crains qu'elle n'en fasse trop un jour."
 
-# game/events_other.rpy:2990
+# game/events_other.rpy:2987
 translate french d12stjadate_1233abd4:
 
     # mc "Yeah, I noticed that..."
     mc "Oui, je l'ai remarqué..."
 
-# game/events_other.rpy:2992
+# game/events_other.rpy:2989
 translate french d12stjadate_46da2c7b:
 
     # ja "Maybe we could convince her to work less, if we work together."
     ja "Peut-être pourrions-nous la convaincre de travailler moins, si nous travaillons ensemble."
 
-# game/events_other.rpy:2994
+# game/events_other.rpy:2991
 translate french d12stjadate_4c1e5a28:
 
     # mc "I could try talking to [boss]... err, I mean our boss. He seems to be reasonable."
     mc "Je pourrais essayer d'en parler au [boss]... euh, je veux dire notre patron. Il semble être raisonnable."
 
-# game/events_other.rpy:2996
+# game/events_other.rpy:2993
 translate french d12stjadate_961bd0db:
 
     # ja "Don't get yourself fired."
     ja "Ne vous faites pas renvoyer."
 
-# game/events_other.rpy:2998
+# game/events_other.rpy:2995
 translate french d12stjadate_e79b92f8:
 
     # mc "Don't worry, I'm a sensible person."
     mc "Ne vous inquiétez pas, je suis une personne sensée."
 
-# game/events_other.rpy:3000
+# game/events_other.rpy:2997
 translate french d12stjadate_9c6dd7b7:
 
     # ja "Heh, so you better get dressed, because I'm not the most sensible person, and I won't guarantee for anything if you don't..."
     ja "Tu ferais mieux de t'habiller, parce que je ne suis pas la personne la plus sensée, et je ne garantirai rien si tu ne le fais pas..."
 
-# game/events_other.rpy:3002
+# game/events_other.rpy:2999
 translate french d12stjadate_355bb0a7:
 
     # mc "...and who says I'd mind?"
     mc ".... et qui a dit que cela me dérangerait ?"
 
-# game/events_other.rpy:3004
+# game/events_other.rpy:3001
 translate french d12stjadate_b202ef1c:
 
     # ja "Nobody, but maybe [st] would mind. I don't want her to feel excluded."
     ja "Personne, mais peut-être que [st] s'en soucierait. Je ne veux pas qu'elle se sente exclue."
 
-# game/events_other.rpy:3005
+# game/events_other.rpy:3002
 translate french d12stjadate_c5ed700e:
 
     # mc "True..."
     mc "Vrai ..."
 
-# game/events_other.rpy:3008
+# game/events_other.rpy:3005
 translate french d12stjadate_2ba8af64:
 
     # mc "So, you live here in the pub?"
     mc "Alors, vous vivez ici, au pub ?"
 
-# game/events_other.rpy:3010
+# game/events_other.rpy:3007
 translate french d12stjadate_54d35f6e:
 
     # ja "Yeah, kind of. My apartment is right above it."
     ja "Oui, en quelque sorte. Mon appartement se trouve juste au-dessus."
 
-# game/events_other.rpy:3012
+# game/events_other.rpy:3009
 translate french d12stjadate_4ae86496:
 
     # mc "Convenient."
     mc "Pratique."
 
-# game/events_other.rpy:3014
+# game/events_other.rpy:3011
 translate french d12stjadate_f898ad2b:
 
     # ja "Yeah, makes things a lot easier."
     ja "Oui, cela facilite grandement les choses."
 
-# game/events_other.rpy:3016
+# game/events_other.rpy:3013
 translate french d12stjadate_215ab981:
 
     # ja "Well, I have to say, that was one of the most interesting first dates ever."
     ja "Je dois dire que c'était l'un des premiers rendez-vous les plus intéressants qui soient."
 
-# game/events_other.rpy:3018
+# game/events_other.rpy:3015
 translate french d12stjadate_db7b99a8:
 
     # ja "...I hope you're not just playing around, [st] really likes you."
     ja ".... j'espère que vous ne faites pas que jouer, [st] vous aime vraiment."
 
-# game/events_other.rpy:3020
+# game/events_other.rpy:3017
 translate french d12stjadate_b11505e0:
 
     # mc "Don't worry, I like her too."
     mc "Ne vous inquiétez pas, je l'aime bien aussi."
 
-# game/events_other.rpy:3022
+# game/events_other.rpy:3019
 translate french d12stjadate_14107cd4:
 
     # ja "Good. I hope we can get along as well."
     ja "Bon. J'espère que nous nous entendrons bien."
 
-# game/events_other.rpy:3024
+# game/events_other.rpy:3021
 translate french d12stjadate_fdfc520b:
 
     # mc "I'm sure of it."
     mc "J'en suis sûr."
 
-# game/events_other.rpy:3026
+# game/events_other.rpy:3023
 translate french d12stjadate_453a52aa:
 
     # ja "I hope so..."
     ja "Je l'espère..."
 
-# game/events_other.rpy:3028
+# game/events_other.rpy:3025
 translate french d12stjadate_992ebb0d:
 
     # ja "..."
     ja "..."
 
-# game/events_other.rpy:3030
+# game/events_other.rpy:3027
 translate french d12stjadate_ee5baeb5:
 
     # ja "Aaaanyway, feel free to drop by whenever you want, the pub is open every afternoon, except on monday."
     ja "Enfin, n'hésitez pas à passer quand vous voulez, le pub est ouvert tous les après-midi, sauf le lundi."
 
-# game/events_other.rpy:3032
+# game/events_other.rpy:3029
 translate french d12stjadate_2225da47:
 
     # mc "Alright, sounds good."
     mc "D'accord, c'est une bonne chose."
 
-# game/events_other.rpy:3034
+# game/events_other.rpy:3031
 translate french d12stjadate_24e5c367:
 
     # ja "...and..."
     ja "... et ..."
 
-# game/events_other.rpy:3036
+# game/events_other.rpy:3033
 translate french d12stjadate_f7afb8b9:
 
     # ja "...even if the pub is closed... I might be home."
     ja "...même si le pub est fermé... Il se peut que je sois à la maison."
 
-# game/events_other.rpy:3038
+# game/events_other.rpy:3035
 translate french d12stjadate_129fa85f:
 
     # mc "I'll make sure to check."
     mc "Je ne manquerai pas de vérifier."
 
-# game/events_other.rpy:3042
+# game/events_other.rpy:3039
 translate french d12stjadate_4e7256dc:
 
     # ja "Alright, seeya."
     ja "D'accord, à plus tard."
 
-# game/events_other.rpy:3044
+# game/events_other.rpy:3041
 translate french d12stjadate_b8772669:
 
     # mc "Seeya, [ja]."
     mc "Ouuuaaiiiss, [ja]."
 
-# game/events_other.rpy:3046
+# game/events_other.rpy:3043
 translate french d12stjadate_9d553c78:
 
     # mcthink "Alright, it's dark already, time to head back home... I hope nobody asks any questions."
     mcthink "Bon, il fait déjà nuit, il est temps de rentrer à la maison... J'espère que personne ne posera de questions."
 
-# game/events_other.rpy:3048
+# game/events_other.rpy:3045
 translate french d12stjadate_941d17ea:
 
     # n "You head back home."
     n "Vous rentrez chez vous."
 
-# game/events_other.rpy:3049
+# game/events_other.rpy:3046
 translate french d12stjadate_bbc6f27f:
 
     # n "You try to avoid anyone seeing you when you arrive back home, but it seems like nobody has even noticed you left the house for a while."
@@ -9080,7 +9080,7 @@ translate french strings:
 
     # game/events_other.rpy:433
     old "Help her up."
-    new "Aidez-la à se relever."
+    new "L'aider à se relever."
 
     # game/events_other.rpy:433
     old "Ignore them."
@@ -9092,7 +9092,7 @@ translate french strings:
 
     # game/events_other.rpy:521
     old "(Joke) It's the hair!"
-    new "(Blague) C'est les cheveux !"
+    new "(Blague) C'est les cheveux!"
 
     # game/events_other.rpy:521
     old "Make-up and glasses."
@@ -9100,7 +9100,7 @@ translate french strings:
 
     # game/events_other.rpy:634
     old "(Yeah, she's hot, so let's try!)"
-    new "(Ouais, elle est sexy, alors essayons !)"
+    new "(Ouais, elle est sexy, alors essayons!)"
 
     # game/events_other.rpy:634
     old "(Nah, I better let her be, I'm not interested anyway.)"
@@ -9140,7 +9140,7 @@ translate french strings:
 
     # game/events_other.rpy:1706
     old "Nah, I'm good."
-    new "Nan, j'suis bon."
+    new "Nan, j'suis bien."
 
     # game/events_other.rpy:2088
     old "Gently bite her clit."
@@ -9148,7 +9148,7 @@ translate french strings:
 
     # game/events_other.rpy:2088
     old "Be a good [boygirl] and go on."
-    new "Soyez un bon [boygirl] et continuez."
+    new "Etre un bon [boygirl] et continuer."
 
     # game/events_other.rpy:2163
     old "Not so deep."
@@ -9162,15 +9162,15 @@ translate french strings:
     old "Go on."
     new "Continuer."
 
-    # game/events_other.rpy:2204
+    # game/events_other.rpy:2203
     old "Suck it."
     new "Le sucer."
 
-    # game/events_other.rpy:2204
+    # game/events_other.rpy:2203
     old "Lick it."
     new "Le lécher."
 
-    # game/events_other.rpy:2204
+    # game/events_other.rpy:2203
     old "Cum"
     new "Ejaculation"
 
@@ -9188,7 +9188,7 @@ translate french strings:
 
     # game/events_other.rpy:2495
     old "(What the hell, of course!)"
-    new "(Que l'enfer, bien sûr!)"
+    new "(Bordel, bien sûr!)"
 
     # game/events_other.rpy:2495
     old "(Nah, that's too much.)"
