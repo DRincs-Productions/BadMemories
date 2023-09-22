@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2023-09-22 13:28\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/script.rpy:524 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
@@ -32,11 +32,11 @@ msgstr "[_n_] Также обратите внимание, что некото�
 
 # game/script.rpy:528 #-#-# translate crowdin start_36a0049e:
 msgid "[_n_] If you're not an adult, close the game now, delete it, and burn your computer/mac/phone! DON'T CLICK AGAIN, OR...\n"
-msgstr ""
+msgstr "[_n_] Если вы не взрослый, закройте эту игру сейчас же, удалите ее, и спалите ваш компьютер/mac/телефон! НЕ КЛИКАЙ СНОВА, ИЛИ...\n"
 
 # game/script.rpy:529 #-#-# translate crowdin start_200b5921:
 msgid "[_extend_] ...or the game starts as usual ;_;"
-msgstr ""
+msgstr "[_extend_] ...или игра начнется как обычно ;_;"
 
 # game/script.rpy:569 #-#-# translate crowdin start_rachel_5e56089c:
 msgid "[_m_] Hello [mc] [mcsure], this is a test!"
