@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-memories\n"
+"X-Crowdin-Project-ID: 507994\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/game/tl/crowdin/color_picker.po\n"
+"X-Crowdin-File-ID: 6081\n"
+"Project-Id-Version: bad-memories\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-09-20 06:41\n"
+
+# TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/color_picker.rpy:293
+msgid "Dialogue Text Color"
+msgstr ""
+
