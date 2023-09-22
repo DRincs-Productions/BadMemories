@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-22 13:28\n"
+"PO-Revision-Date: 2023-09-22 14:53\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/script.rpy:524 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
@@ -40,21 +40,24 @@ msgstr "[_extend_] ...или игра начнется как обычно ;_;"
 
 # game/script.rpy:569 #-#-# translate crowdin start_rachel_5e56089c:
 msgid "[_m_] Hello [mc] [mcsure], this is a test!"
-msgstr ""
+msgstr "[_m_] Здравствуйте [mc] [mcsure], это тест!"
 
 # game/script.rpy:575 #-#-# translate crowdin endGame_9b5f61b4:
 msgid "[_n_] This is the end of the current version, a quick save has been created."
-msgstr ""
+msgstr "[_n_] Это конец текущей версии, быстрое сохранение было создано."
 
 # game/script.rpy:576 #-#-# translate crowdin endGame_e7eca580:
 msgid "[_n_] I hope you had fun! Be sure to check back soon. The story will progress a lot over time ;)"
-msgstr ""
+msgstr "[_n_] Я надеюсь тебе было весело! Возвращайся назад скоро. История будет прогрессировать много раз ;)"
 
 # game/script.rpy:595 #-#-# translate crowdin endGame_3ab21b59:
 msgid "[_n_] {size=+20}{b}Special thanks to all my {a=https://www.patreon.com/bmgames}{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} and {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Subscriber{/color}{/b}{/a}\n"
 "and everyone who helped me in some way.\n"
 "you guys are awesome!{/b}{/size}"
-msgstr ""
+msgstr "[_n_] {size=+20}{b}Отдельное спасибо всем моим {a=https://www.patreon.com/bmgames}\n"
+"{b}{color=#FF9D1F}Patrons{/color}{/b}{/a} и {a=https://subscribestar.adult/bm-games}{b}{color=#FF9D1F}Подписчику{/color}{/b}{/a}\n"
+"и всем которые мне с чем то помогали.\n"
+"вы великолепные ребята!{/b}{/size}"
 
 # game/script.rpy:597 #-#-# translate crowdin endGame_a5f61313:
 msgid "[_n_] {size=+20}{b}Special thanks to all my supporters, testers and everyone who helped me in some way.\n"
