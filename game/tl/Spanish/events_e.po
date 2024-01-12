@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-12 11:23\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -746,43 +746,43 @@ msgstr "[_m_] Gracias, Hun."
 
 # game/events_e.rpy:372 #-#-# translate crowdin ebdLookForE_5ea967a8:
 msgid "[_mcthink_] Damn, I hope this doesn't backfire..."
-msgstr ""
+msgstr "[_mcthink_] Maldición, espero que esto no salga mal..."
 
 # game/events_e.rpy:374 #-#-# translate crowdin ebdLookForE_5d6a045c:
 msgid "[_j_] I wonder why [e] is taking so long..."
-msgstr ""
+msgstr "[_j_] Me pregunto por qué [e] está tardando tanto..."
 
 # game/events_e.rpy:375 #-#-# translate crowdin ebdLookForE_4c1706c1:
 msgid "[_m_] Hum, right. I'll have a look for her."
-msgstr ""
+msgstr "[_m_] Hum, bien. Voy a buscarla."
 
 # game/events_e.rpy:377 #-#-# translate crowdin ebdLookForE_d8c66817:
 msgid "[_j_] Oh, why don't you let [mc] have a look. You've done so much for [e] today, you should sit down and enjoy the punch, hehe."
-msgstr ""
+msgstr "[_j_] Oh, ¿por qué no dejas que [mc] eche un vistazo?. Has hecho mucho por [e] hoy, deberías sentarte y disfrutar del ponche, jeje."
 
 # game/events_e.rpy:379 #-#-# translate crowdin ebdLookForE_ea81b982:
 msgid "[_mc_] Yeah, let me look for her..."
-msgstr ""
+msgstr "[_mc_] Si, déjame buscarla..."
 
 # game/events_e.rpy:381 #-#-# translate crowdin ebdLookForE_f6ada66b:
 msgid "[_m_] Oh... sure [mc]."
-msgstr ""
+msgstr "[_m_] Oh... claro [mc]."
 
 # game/events_e.rpy:383 #-#-# translate crowdin ebdLookForE_5c1bb3b3:
 msgid "[_j_] Another glass [m]?"
-msgstr ""
+msgstr "[_j_] ¿Otro vaso [m]?"
 
 # game/events_e.rpy:384 #-#-# translate crowdin ebdLookForE_0c8e912c:
 msgid "[_m_] Umm... sure, why not?"
-msgstr ""
+msgstr "[_m_] Umm... claro, ¿por qué no?"
 
 # game/events_e.rpy:386 #-#-# translate crowdin ebdLookForE_8015c030:
 msgid "[_mcthink_] Shit, I hope [j] doesn't overdo it..."
-msgstr ""
+msgstr "[_mcthink_] Mierda, espero que [j] no se pase..."
 
 # game/events_e.rpy:388 #-#-# translate crowdin ebdLookForE_12945e00:
 msgid "[_mc_] [e], it's me..."
-msgstr ""
+msgstr "[_mc_] [e], soy yo..."
 
 # game/events_e.rpy:389 #-#-# translate crowdin ebdLookForE_41381891:
 msgid "[_mc_] I'm coming in."
@@ -790,19 +790,19 @@ msgstr "[_mc_] voy a entrar."
 
 # game/events_e.rpy:391 #-#-# translate crowdin ebdLookForE_aa70b82d:
 msgid "[_mcthink_] Huh? What's going on with her?"
-msgstr ""
+msgstr "[_mcthink_] ¿Eh? ¿Qué pasa con ella?"
 
 # game/events_e.rpy:392 #-#-# translate crowdin ebdLookForE_4b4fd6bc:
 msgid "[_mc_] What's up [e]? Everybody is waiting for you?"
-msgstr ""
+msgstr "[_mc_] ¿Qué pasa [e]? ¿Todo el mundo te está esperando?"
 
 # game/events_e.rpy:394 #-#-# translate crowdin ebdLookForE_61b2095d:
 msgid "[_mcthink_] Is she crying?"
-msgstr ""
+msgstr "[_mcthink_] ¿Está llorando?"
 
 # game/events_e.rpy:396 #-#-# translate crowdin ebdLookForE_e5181d06:
 msgid "[_mc_] Hey, what's wrong? For a second I thought you were crying..."
-msgstr ""
+msgstr "[_mc_] Hey, ¿qué pasa? Por un segundo pensé que estabas llorando..."
 
 # game/events_e.rpy:398 #-#-# translate crowdin ebdLookForE_72a33094:
 msgid "[_e_] ..."
@@ -810,7 +810,7 @@ msgstr "[_e_] ..."
 
 # game/events_e.rpy:400 #-#-# translate crowdin ebdLookForE_5b1734cb:
 msgid "[_mcthink_] Damn, I bet it's [t]'s fault! That bitch!"
-msgstr ""
+msgstr "[_mcthink_] ¡Maldita sea, apuesto a que es culpa de [t]! ¡Que perra!"
 
 # game/events_e.rpy:401 #-#-# translate crowdin ebdLookForE_17dc783b:
 msgid "[_mcthink_] Hum..."
@@ -818,11 +818,11 @@ msgstr ""
 
 # game/events_e.rpy:402 #-#-# translate crowdin ebdLookForE_86131769:
 msgid "[_mc_] *Hop*"
-msgstr ""
+msgstr "[_mc_] *Hop*"
 
 # game/events_e.rpy:405 #-#-# translate crowdin ebdLookForE_c480b24e:
 msgid "[_mc_] Come on [e], whatever happened, forget about it. It's your birthday and you should be happy."
-msgstr ""
+msgstr "[_mc_] Vamos [e], lo que sea que haya pasado, olvídalo. Es tu cumpleaños y deberías estar feliz."
 
 # game/events_e.rpy:407 #-#-# translate crowdin ebdLookForE_72a33094_1:
 msgid "[_e_] ..."
@@ -830,7 +830,7 @@ msgstr "[_e_] ..."
 
 # game/events_e.rpy:408 #-#-# translate crowdin ebdLookForE_21c2e4c1:
 msgid "[_mc_] Come on, there is a lot of cake waiting for you and of course some neat presents. I bet you'll love them."
-msgstr ""
+msgstr "[_mc_] Vamos, hay un montón de tarta esperándote y, por supuesto, unos regalos estupendos. Apuesto a que te encantarán."
 
 # game/events_e.rpy:410 #-#-# translate crowdin ebdLookForE_72a33094_2:
 msgid "[_e_] ..."
@@ -838,7 +838,7 @@ msgstr "[_e_] ..."
 
 # game/events_e.rpy:411 #-#-# translate crowdin ebdLookForE_5cef61e2:
 msgid "[_mc_] Hey, I spent {i}ages{/i} to find a good present for you, so if you don't get up and attend your own birthday party I'm sure I'll start crying like a baby."
-msgstr ""
+msgstr "[_mc_] Oye, me pasé {i}años{/i} para encontrar un buen regalo para ti, así que si no te levantas y asistes a tu propia fiesta de cumpleaños estoy seguro de que empezaré a llorar como un bebé."
 
 # game/events_e.rpy:413 #-#-# translate crowdin ebdLookForE_72a33094_3:
 msgid "[_e_] ..."
@@ -846,7 +846,7 @@ msgstr "[_e_] ..."
 
 # game/events_e.rpy:415 #-#-# translate crowdin ebdLookForE_f7d47dfc:
 msgid "[_n_] She gets up, goes to the wardrobe and looks at you meaningfully."
-msgstr ""
+msgstr "[_n_] Se levanta, va al armario y te mira de manera significativa."
 
 # game/events_e.rpy:417 #-#-# translate crowdin ebdLookForE_b2fd9202:
 msgid "[_mc_] Oh, yeah, I get it. I'll let you change..."
