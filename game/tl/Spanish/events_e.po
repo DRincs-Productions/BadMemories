@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-12 11:23\n"
+"PO-Revision-Date: 2024-01-13 03:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -850,27 +850,27 @@ msgstr "[_n_] Se levanta, va al armario y te mira de manera significativa."
 
 # game/events_e.rpy:417 #-#-# translate crowdin ebdLookForE_b2fd9202:
 msgid "[_mc_] Oh, yeah, I get it. I'll let you change..."
-msgstr ""
+msgstr "[_mc_] Oh, sí, lo entiendo. Te dejaré cambiar..."
 
 # game/events_e.rpy:419 #-#-# translate crowdin ebdLookForE_2c73c434:
 msgid "[_mcthink_] Alright, let's hope the rest of this \"party\" is going to work out better..."
-msgstr ""
+msgstr "[_mcthink_] Muy bien, esperemos que el resto de esta \"fiesta\" salga mejor..."
 
 # game/events_e.rpy:421 #-#-# translate crowdin ebdLookForE_5f622c83:
 msgid "[_mcthink_] Just a quick visit to the toilet..."
-msgstr ""
+msgstr "[_mcthink_] Sólo una visita rápida al baño..."
 
 # game/events_e.rpy:425 #-#-# translate crowdin ebdLookForE_6bea1581:
 msgid "[_mc_] Whoa... sorry..."
-msgstr ""
+msgstr "[_mc_] Guau... lo siento..."
 
 # game/events_e.rpy:427 #-#-# translate crowdin ebdLookForE_8412aa7d:
 msgid "[_mcthink_] Shit, why didn't she lock the door?"
-msgstr ""
+msgstr "[_mcthink_] Mierda, ¿por qué no cerró la puerta?"
 
 # game/events_e.rpy:428 #-#-# translate crowdin ebdLookForE_7087669c:
 msgid "[_t_] {size=-10}Pervert...{/size}"
-msgstr ""
+msgstr "[_t_] {size=-10}Pervertid@...{/size}"
 
 # game/events_e.rpy:429 #-#-# translate crowdin ebdLookForE_457c6f63:
 msgid "[_mcthink_] ..."
@@ -878,35 +878,35 @@ msgstr ""
 
 # game/events_e.rpy:430 #-#-# translate crowdin ebdLookForE_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_e.rpy:431 #-#-# translate crowdin ebdLookForE_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_e.rpy:432 #-#-# translate crowdin ebdLookForE_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_e.rpy:433 #-#-# translate crowdin ebdLookForE_91475a02:
 msgid "[_extend_] keep."
-msgstr ""
+msgstr "[_extender_] mantente."
 
 # game/events_e.rpy:434 #-#-# translate crowdin ebdLookForE_052f0617:
 msgid "[_extend_] calm."
-msgstr ""
+msgstr "[_extend_] calma."
 
 # game/events_e.rpy:435 #-#-# translate crowdin ebdLookForE_d969f75e:
 msgid "[_extend_] [mc]."
-msgstr ""
+msgstr "[_extend_] [mc]."
 
 # game/events_e.rpy:436 #-#-# translate crowdin ebdLookForE_275e6ea4:
 msgid "[_t_] {size=-10}Would you shut the door already or are you going to peep on me forever?{/size}"
-msgstr ""
+msgstr "[_t_] {size=-10}¿Podrías cerrar la puerta ya o vas a espiarme para siempre?{/size}"
 
 # game/events_e.rpy:437 #-#-# translate crowdin ebdLookForE_954d675c:
 msgid "[_mcthink_] FUCK!"
-msgstr ""
+msgstr "[_mcthink_] ¡JODER!"
 
 # game/events_e.rpy:442 #-#-# translate crowdin eKitten_4ccf8bb0:
 msgid "[_mcthink_] I hope she doesn't have a hangover as bad as [m]..."
