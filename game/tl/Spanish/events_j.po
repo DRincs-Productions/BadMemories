@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-13 03:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -5486,11 +5486,11 @@ msgstr "[_j_] Hmm..."
 
 # game/events_j.rpy:2546 #-#-# translate crowdin d12EroomJ2_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_j.rpy:2547 #-#-# translate crowdin d12EroomJ2_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_j.rpy:2549 #-#-# translate crowdin d12EroomJ2_acce35a7:
 msgid "[_j_] There was one specific spot she showed me once, she said she visited it a few times when she wanted to be alone."
