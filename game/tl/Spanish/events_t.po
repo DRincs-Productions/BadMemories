@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-13 03:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -302,15 +302,15 @@ msgstr "[_mc_] ..."
 
 # game/events_t.rpy:131 #-#-# translate crowdin talkTone_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:132 #-#-# translate crowdin talkTone_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:133 #-#-# translate crowdin talkTone_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:135 #-#-# translate crowdin talkTone_1bb01731:
 msgid "[_t_] ..."
@@ -326,11 +326,11 @@ msgstr "[_mc_] ..."
 
 # game/events_t.rpy:144 #-#-# translate crowdin talkTone_b9b155fe_3:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:145 #-#-# translate crowdin talkTone_b9b155fe_4:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:149 #-#-# translate crowdin talkTone_56c7c7f2:
 msgid "[_mcthink_] What's up with her?"
@@ -5082,15 +5082,15 @@ msgstr ""
 
 # game/events_t.rpy:2412 #-#-# translate crowdin d11tfirsts_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:2413 #-#-# translate crowdin d11tfirsts_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:2414 #-#-# translate crowdin d11tfirsts_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:2425 #-#-# translate crowdin d11tfirsts_15b235d6:
 msgid "[_mc_] That's better, isn't it?"
@@ -5194,11 +5194,11 @@ msgstr ""
 
 # game/events_t.rpy:2467 #-#-# translate crowdin d11tfirsts_b9b155fe_3:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:2468 #-#-# translate crowdin d11tfirsts_b9b155fe_4:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_t.rpy:2470 #-#-# translate crowdin d11tfirsts_1bb01731_6:
 msgid "[_t_] ..."
