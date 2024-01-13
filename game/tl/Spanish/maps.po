@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2024-01-13 03:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
@@ -130,15 +130,15 @@ msgstr "[_mc_] {cps= 3}...{/cps}"
 
 # game/maps.rpy:313 #-#-# translate crowdin halldesk_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:314 #-#-# translate crowdin halldesk_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:315 #-#-# translate crowdin halldesk_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/maps.rpy:316 #-#-# translate crowdin halldesk_66cd34a7:
 msgid "[_mcthink_] Hmm? What's this?"
