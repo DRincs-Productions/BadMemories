@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-13 03:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_other.rpy:2 #-#-# translate crowdin cafeBeforeOffice_8514b197:
 msgid "[_mc_] Hey, [h]!"
@@ -5086,15 +5086,15 @@ msgstr ""
 
 # game/events_other.rpy:2471 #-#-# translate crowdin d12stdate_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_other.rpy:2472 #-#-# translate crowdin d12stdate_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_other.rpy:2473 #-#-# translate crowdin d12stdate_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_other.rpy:2474 #-#-# translate crowdin d12stdate_524b0ea5:
 msgid "[_extend_]  {color=#beff78}[st] and I are a couple.{/color}"
