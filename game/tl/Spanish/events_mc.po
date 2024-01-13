@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-13 03:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -1354,11 +1354,11 @@ msgstr "[_mc_] ..."
 
 # game/events_mc.rpy:603 #-#-# translate crowdin pcroomnight3_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:604 #-#-# translate crowdin pcroomnight3_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:606 #-#-# translate crowdin pcroomnight3_1a88aff7:
 msgid "[_m_] {size=-10}[e]? What are you doing up so late? Trying to sneak into your [bs]'s bed again?{/size}"
@@ -4274,15 +4274,15 @@ msgstr "[_mc_] ..."
 
 # game/events_mc.rpy:1791 #-#-# translate crowdin d7_breakfast_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:1792 #-#-# translate crowdin d7_breakfast_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:1793 #-#-# translate crowdin d7_breakfast_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:1794 #-#-# translate crowdin d7_breakfast_daca5f03:
 msgid "[_mcthink_] Naaaaaaaaw... I can't think... not a single line of code done..."
@@ -4342,15 +4342,15 @@ msgstr "[_mc_] ..."
 
 # game/events_mc.rpy:1845 #-#-# translate crowdin d7_home_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:1846 #-#-# translate crowdin d7_home_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:1847 #-#-# translate crowdin d7_home_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:1907 #-#-# translate crowdin d7_home_a7190f01:
 msgid "[_mcthink_] So [st] told him about my visit... I wonder why they were talking about me."
@@ -5078,15 +5078,15 @@ msgstr "[_mc_] ..."
 
 # game/events_mc.rpy:2232 #-#-# translate crowdin d9_breakfast_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2233 #-#-# translate crowdin d9_breakfast_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2234 #-#-# translate crowdin d9_breakfast_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2235 #-#-# translate crowdin d9_breakfast_e5598c08:
 msgid "[_mcthink_] Hum... that's weird..."
@@ -5158,15 +5158,15 @@ msgstr ""
 
 # game/events_mc.rpy:2268 #-#-# translate crowdin d9_breakfast_b9b155fe_3:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2269 #-#-# translate crowdin d9_breakfast_b9b155fe_4:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2270 #-#-# translate crowdin d9_breakfast_b9b155fe_5:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2276 #-#-# translate crowdin d9_breakfast_2b35b6fe_2:
 msgid "[_mc_] ..."
@@ -5198,15 +5198,15 @@ msgstr "[_mc_] ..."
 
 # game/events_mc.rpy:2283 #-#-# translate crowdin d9_breakfast_b9b155fe_6:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2284 #-#-# translate crowdin d9_breakfast_b9b155fe_7:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2285 #-#-# translate crowdin d9_breakfast_b9b155fe_8:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:2286 #-#-# translate crowdin d9_breakfast_e8152094:
 msgid "[_st_] This... might be a problem..."
@@ -7374,15 +7374,15 @@ msgstr ""
 
 # game/events_mc.rpy:3302 #-#-# translate crowdin d11evening_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3303 #-#-# translate crowdin d11evening_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3304 #-#-# translate crowdin d11evening_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3305 #-#-# translate crowdin d11evening_fe6bcc80:
 msgid "[_mcthink_] Well, nothing I should worry about right now, let's see what the others are doing..."
@@ -7498,11 +7498,11 @@ msgstr ""
 
 # game/events_mc.rpy:3377 #-#-# translate crowdin d11evening_b9b155fe_3:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3378 #-#-# translate crowdin d11evening_b9b155fe_4:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3379 #-#-# translate crowdin d11evening_9cef9df9:
 msgid "[_mc_] ...I guess you're right, it's not that important anyway..."
@@ -7790,15 +7790,15 @@ msgstr "[_j_] Vale..."
 
 # game/events_mc.rpy:3520 #-#-# translate crowdin d11evening_b9b155fe_5:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3521 #-#-# translate crowdin d11evening_b9b155fe_6:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3522 #-#-# translate crowdin d11evening_b9b155fe_7:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:3523 #-#-# translate crowdin d11evening_6d7104b3:
 msgid "[_extend_]  but you aren't mad?"
@@ -9258,15 +9258,15 @@ msgstr "[_mc_] ..."
 
 # game/events_mc.rpy:4313 #-#-# translate crowdin lastDream_b9b155fe:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:4314 #-#-# translate crowdin lastDream_b9b155fe_1:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:4315 #-#-# translate crowdin lastDream_b9b155fe_2:
 msgid "[_extend_] ."
-msgstr ""
+msgstr "[_extend_] ."
 
 # game/events_mc.rpy:4316 #-#-# translate crowdin lastDream_f459ba22:
 msgid "[_extend_] ...fuck."
