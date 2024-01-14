@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2024-01-14 09:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/gallery.rpy:153
 msgid "One of my ealiest test render from when I was working on the livingroom, added a char to test the lighting, kudos to you if you recognize the character, it's a really early version ;)"
@@ -92,17 +92,17 @@ msgstr "Escenas"
 
 # game/gallery.rpy:197
 msgid "Images"
-msgstr ""
+msgstr "Imágenes"
 
 # game/gallery.rpy:199
 msgid "Special"
-msgstr ""
+msgstr "Especial"
 
 # game/gallery.rpy:213
 msgid "Male"
-msgstr ""
+msgstr "Hombre"
 
 # game/gallery.rpy:214
 msgid "Female"
-msgstr ""
+msgstr "Mujer"
 
