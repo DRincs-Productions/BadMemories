@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2024-01-14 10:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
 msgid "{b}Use text outline?{/b}"
-msgstr ""
+msgstr "{b}¿Utilizar contorno de texto?{/b}"
 
 # game/screens.rpy:251
 msgid "{i}(You can also change this, the textbox transparency, text color and more in the settings.){/i}"
-msgstr ""
+msgstr "{i}(También puedes cambiar esto, la transparencia del cuadro de texto, el color del texto y más en los ajustes.){/i}"
 
 # game/screens.rpy:252
 msgid "Yes"
@@ -30,7 +30,7 @@ msgstr "No"
 
 # game/screens.rpy:281
 msgid "Ok"
-msgstr ""
+msgstr "Aceptar"
 
 # game/screens.rpy:364
 msgid "Back"
@@ -66,7 +66,7 @@ msgstr "Menú"
 
 # game/screens.rpy:430
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 # game/screens.rpy:434
 msgid "End Replay"
@@ -94,7 +94,7 @@ msgstr "Salir"
 
 # game/screens.rpy:608
 msgid "Return"
-msgstr ""
+msgstr "Volver"
 
 # game/screens.rpy:692
 msgid "Version [config.version!t]\n"
@@ -108,15 +108,15 @@ msgstr "Hecho con {a=https: //www.renpy.org/} Ren'Py {/a} [renpy.version_only].\
 
 # game/screens.rpy:738
 msgid "Page {}"
-msgstr ""
+msgstr "Página {}"
 
 # game/screens.rpy:738
 msgid "Automatic saves"
-msgstr ""
+msgstr "Guardados automáticos"
 
 # game/screens.rpy:738
 msgid "Quick saves"
-msgstr ""
+msgstr "Guardados rápidos"
 
 # game/screens.rpy:781
 msgid "{#file_time}%a, %b %d %Y, %H:%M"
@@ -128,7 +128,7 @@ msgstr "ranura vacía"
 
 # game/screens.rpy:800
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:803
 msgid "{#auto_page}A"
@@ -140,11 +140,11 @@ msgstr "{#quick_page}Q"
 
 # game/screens.rpy:819
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:873
 msgid "#General"
-msgstr ""
+msgstr "#General"
 
 # game/screens.rpy:881
 msgid "Display"
@@ -188,7 +188,7 @@ msgstr "Transiciones"
 
 # game/screens.rpy:905
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 # game/screens.rpy:909
 msgid "{size=-10}{color=#ff0000}All translations are fan-made.{/color}{/size}"
@@ -196,51 +196,51 @@ msgstr "{size=-10}{color=#ff0000}Todas las traducciones son hechas por fans.{/co
 
 # game/screens.rpy:914
 msgid "#Text"
-msgstr ""
+msgstr "#Texto"
 
 # game/screens.rpy:921
 msgid "Text Outline"
-msgstr ""
+msgstr "Esquema del texto"
 
 # game/screens.rpy:925
 msgid "Dark"
-msgstr ""
+msgstr "Oscuro"
 
 # game/screens.rpy:927
 msgid "Light"
-msgstr ""
+msgstr "Luz"
 
 # game/screens.rpy:931
 msgid "Thicc  "
-msgstr ""
+msgstr "Thicc  "
 
 # game/screens.rpy:935
 msgid "Medium  "
-msgstr ""
+msgstr "Medio  "
 
 # game/screens.rpy:939
 msgid "Smol  "
-msgstr ""
+msgstr "Smol  "
 
 # game/screens.rpy:942
 msgid "None  "
-msgstr ""
+msgstr "Ninguno  "
 
 # game/screens.rpy:949
 msgid "Textbox Transparency"
-msgstr ""
+msgstr "Transparencia del cuadro de texto"
 
 # game/screens.rpy:954
 msgid "Text Size Scaling"
-msgstr ""
+msgstr "Escala del tamaño del texto"
 
 # game/screens.rpy:958
 msgid "Reset"
-msgstr ""
+msgstr "Restablecer"
 
 # game/screens.rpy:962
 msgid "Reset All"
-msgstr ""
+msgstr "Restablecer todo"
 
 # game/screens.rpy:966
 msgid "Text Speed"
@@ -252,11 +252,11 @@ msgstr "Tiempo de auto-avance"
 
 # game/screens.rpy:974
 msgid "Line Spacing Scaling"
-msgstr ""
+msgstr "Escala de interlineado"
 
 # game/screens.rpy:983
 msgid "#Sound"
-msgstr ""
+msgstr "#Sonido"
 
 # game/screens.rpy:991
 msgid "Music Volume"
@@ -264,7 +264,7 @@ msgstr "Volumen de la Música"
 
 # game/screens.rpy:998
 msgid "Effects Volume"
-msgstr ""
+msgstr "Efectos Volumen"
 
 # game/screens.rpy:1004
 msgid "Test"
