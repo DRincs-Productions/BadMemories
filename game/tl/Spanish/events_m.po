@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2024-01-14 10:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -682,15 +682,15 @@ msgstr ""
 
 # game/events_m.rpy:300 #-#-# translate crowdin rachelPills2nd_36b80cea:
 msgid "[_m_] Umm, yes, kind of."
-msgstr ""
+msgstr "[_m_] Umm, sí, algo así."
 
 # game/events_m.rpy:301 #-#-# translate crowdin rachelPills2nd_429c881e:
 msgid "[_mcthink_] Fuck I knew it! She was lying all the time!"
-msgstr ""
+msgstr "[_mcthink_] ¡Joder, lo sabía! ¡Estaba mintiendo todo el tiempo!"
 
 # game/events_m.rpy:302 #-#-# translate crowdin rachelPills2nd_ee1f8692:
 msgid "[_m_] But isn't it good for you, too?"
-msgstr ""
+msgstr "[_m_] Pero, ¿no es bueno para ti también?"
 
 # game/events_m.rpy:303 #-#-# translate crowdin rachelPills2nd_05500ff6:
 msgid "[_mc_] Huh?"
@@ -698,59 +698,59 @@ msgstr "[_mc_] ¿Eh?"
 
 # game/events_m.rpy:304 #-#-# translate crowdin rachelPills2nd_8e6ba7b7:
 msgid "[_m_] After all, you don't have to pay any rent."
-msgstr ""
+msgstr "[_m_] Después de todo, no tienes que pagar ningún alquiler."
 
 # game/events_m.rpy:305 #-#-# translate crowdin rachelPills2nd_9e42e2c2:
 msgid "[_mc_] You know this is actually my house, right? You and... him were never married, so I could just throw you out at anytime."
-msgstr ""
+msgstr "[_mc_] Sabes que en realidad esta es mi casa, ¿verdad? Tú y... él nunca estuvieron casados, así que podría echarte en cualquier momento."
 
 # game/events_m.rpy:306 #-#-# translate crowdin rachelPills2nd_f2a44f3e:
 msgid "[_m_] Of course I know that, Hun. But why would you do that now?"
-msgstr ""
+msgstr "[_m_] Por supuesto que lo sé. Pero, ¿por qué harías eso ahora?"
 
 # game/events_m.rpy:307 #-#-# translate crowdin rachelPills2nd_bf945f9a:
 msgid "[_m_] Aren't you happy to have your sister back? Or to have someone who makes you fresh meals every day, who washes your clothes and takes care of your needs?"
-msgstr ""
+msgstr "[_m_] ¿No estás feliz de tener a tu hermana de vuelta? ¿O de tener a alguien que te hace la comida todos los días, que te lava la ropa y se ocupa de tus necesidades?"
 
 # game/events_m.rpy:308 #-#-# translate crowdin rachelPills2nd_dc90e8df:
 msgid "[_mcthink_] \"My needs\" huh? Hehe..."
-msgstr ""
+msgstr "[_mcthink_] \"Mis necesidades\" ¿eh? Jeje..."
 
 # game/events_m.rpy:309 #-#-# translate crowdin rachelPills2nd_fe72eec0:
 msgid "[_mcthink_] ...but damn, she's right. It's actually quite nice..."
-msgstr ""
+msgstr "[_mcthink_] ...pero maldición, tiene razón. En realidad es bastante agradable..."
 
 # game/events_m.rpy:310 #-#-# translate crowdin rachelPills2nd_019866a7:
 msgid "[_mcthink_] I wonder if the pills are talking?"
-msgstr ""
+msgstr "[_mcthink_] ¿Me pregunto si están hablando las pastillas?"
 
 # game/events_m.rpy:311 #-#-# translate crowdin rachelPills2nd_db9bb5af:
 msgid "[_mc_] I guess you're right, it helps us both."
-msgstr ""
+msgstr "[_mc_] Supongo que tienes razón, nos ayuda a ambos."
 
 # game/events_m.rpy:312 #-#-# translate crowdin rachelPills2nd_26de8c89:
 msgid "[_m_] See? And if you ever need something, don't be afraid to ask me. I will do anything for you, whatever it is."
-msgstr ""
+msgstr "[_m_] ¿Ves? Y si alguna vez necesitas algo, no tengas miedo de pedírmelo. Haré cualquier cosa por ti, lo que sea."
 
 # game/events_m.rpy:313 #-#-# translate crowdin rachelPills2nd_7f955168:
 msgid "[_mcthink_] Fuck, she said it again..."
-msgstr ""
+msgstr "[_mcthink_] Joder, lo ha dicho otra vez..."
 
 # game/events_m.rpy:314 #-#-# translate crowdin rachelPills2nd_140ee0d5:
 msgid "[_mc_] ... Yeah... thanks, you told me already."
-msgstr ""
+msgstr "[_mc_] ... Sí... gracias, ya me lo habías dicho."
 
 # game/events_m.rpy:315 #-#-# translate crowdin rachelPills2nd_6f742c5c:
 msgid "[_m_] Did I?"
-msgstr ""
+msgstr "[_m_] ¿Lo hice?"
 
 # game/events_m.rpy:316 #-#-# translate crowdin rachelPills2nd_ec1c3d38:
 msgid "[_mc_] Uhh... yes? Yesterday? In the afternoon! Don't you remember?"
-msgstr ""
+msgstr "[_mc_] ¿Ehh... sí? ¿Ayer? ¡Por la tarde!. ¿No te acuerdas?"
 
 # game/events_m.rpy:317 #-#-# translate crowdin rachelPills2nd_06cc8d3a:
 msgid "[_m_] Yesterday, in the afternoon? Oh, I'm sorry sweetheart, I don't remember much of what I do when I take the pills."
-msgstr ""
+msgstr "[_m_] Ayer, por la tarde? Oh, lo siento cariño, no recuerdo mucho de lo que hago cuando tomo las pastillas."
 
 # game/events_m.rpy:318 #-#-# translate crowdin rachelPills2nd_bc236cb2:
 msgid "[_mc_] Really? You just forget it?"
