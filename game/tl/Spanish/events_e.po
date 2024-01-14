@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-13 04:30\n"
+"PO-Revision-Date: 2024-01-14 09:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1274,59 +1274,59 @@ msgstr "[_mc_] [e], ¿aún quieres más?"
 
 # game/events_e.rpy:610 #-#-# translate crowdin makedinnerwithE_dea16caf:
 msgid "[_e_] Uh-uh..."
-msgstr ""
+msgstr "[_e_] Uh-uh..."
 
 # game/events_e.rpy:612 #-#-# translate crowdin makedinnerwithE_845bacdd:
 msgid "[_mcthink_] Oh, she's going to give it to [m]?"
-msgstr ""
+msgstr "[_mcthink_] Oh, ella se lo va a dar a [m]?"
 
 # game/events_e.rpy:614 #-#-# translate crowdin makedinnerwithE_48cdd89a:
 msgid "[_m_] {size=-10}[e], what are you...?! Oh...{/size}"
-msgstr ""
+msgstr "[_m_] {size=-10}[e], ¡¿qué estás...?! Oh...{/size}"
 
 # game/events_e.rpy:615 #-#-# translate crowdin makedinnerwithE_2859ad31:
 msgid "[_mcthink_] Hum, I didn't expect [e] to be so caring about her mother..."
-msgstr ""
+msgstr "[_mcthink_] Hum, no esperaba que [e] se preocupara tanto por su madre..."
 
 # game/events_e.rpy:616 #-#-# translate crowdin makedinnerwithE_4666b727:
 msgid "[_m_] {size=-10}Thank you, but I'm not hungry.{/size}"
-msgstr ""
+msgstr "[_m_] {size=-10}Gracias, pero no tengo hambre.{/size}"
 
 # game/events_e.rpy:618 #-#-# translate crowdin makedinnerwithE_b5466672:
 msgid "[_n_] You can hear the door to [m]'s room closing."
-msgstr ""
+msgstr "[_n_] Puedes oír la puerta de la habitación de [m] cerrándose."
 
 # game/events_e.rpy:619 #-#-# translate crowdin makedinnerwithE_c3fd0d51:
 msgid "[_mcthink_] Hah, looks like [e] doesn't accept a no as an answer..."
-msgstr ""
+msgstr "[_mcthink_] Hah, parece que [e] no acepta un no como respuesta..."
 
 # game/events_e.rpy:622 #-#-# translate crowdin makedinnerwithE_cc85c724:
 msgid "[_n_] You wait a few minutes for [e] to come back, but she doesn't. After a while you go back to your room and spend the rest of the evening watching some funny videos and finally decide to go to bed..."
-msgstr ""
+msgstr "[_n_] Esperas unos minutos a que [e] vuelva, pero no lo hace. Al cabo de un rato vuelves a tu habitación y pasas el resto de la tarde viendo algunos vídeos divertidos y finalmente decides irte a la cama..."
 
 # game/events_e.rpy:628 #-#-# translate crowdin eHumpNight5_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
-msgstr ""
+msgstr "[_n_] Por la noche [withdissolve]"
 
 # game/events_e.rpy:629 #-#-# translate crowdin eHumpNight5_3b4daaf7:
 msgid "[_m_] [bpc] WHERE IS MY WINE? [withhpunch]"
-msgstr ""
+msgstr "[_m_] [bpc] ¿DÓNDE ESTÁ MI VINO? [withhpunch]"
 
 # game/events_e.rpy:630 #-#-# translate crowdin eHumpNight5_80dbab52:
 msgid "[_mc_] Huh? How would I know?"
-msgstr ""
+msgstr "[_mc_] ¿Eh? ¿Cómo voy a saberlo?"
 
 # game/events_e.rpy:631 #-#-# translate crowdin eHumpNight5_38ceb860:
 msgid "[_m_] I KNOW YOU HAVE IT! GIVE IT BACK YOU LITTLE BASTARD!"
-msgstr ""
+msgstr "[_m_] ¡SÉ QUE LO TIENES! ¡DEVUÉLVEMELO PEQUEÑ@ BASTARD@!"
 
 # game/events_e.rpy:632 #-#-# translate crowdin eHumpNight5_425733e3:
 msgid "[_mc_] I don't have your stupid wine..."
-msgstr ""
+msgstr "[_mc_] No tengo tu estúpido vino..."
 
 # game/events_e.rpy:633 #-#-# translate crowdin eHumpNight5_dd5fa9f8:
 msgid "[_m_] Oh, so the bottle just disappeared from the kitchen table by itself? DO YOU THINK I'M STUPID?!"
-msgstr ""
+msgstr "[_m_] ¿Así que la botella desapareció sola de la mesa de la cocina? ¡¿CREES QUE SOY ESTÚPID@?!"
 
 # game/events_e.rpy:634 #-#-# translate crowdin eHumpNight5_ebc0fa33:
 msgid "[_mc_] You mean the bottle you drank before the last one?"
