@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2024-01-14 10:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/conditions.rpy:2525 #-#-# translate crowdin dateTime_3e0aad91:
 msgid "[_n_] {size=+30}[currentDay]{/size}"
@@ -38,7 +38,7 @@ msgstr "[_mc_] Mi-Mierda, lo siento."
 
 # game/conditions.rpy:2613 #-#-# translate crowdin pcStareMBath_7ac8df1b:
 msgid "[_m_] Um... [mc]? Are you staring at me?"
-msgstr "[_m_] Um... [mc]? ¿Me estas mirando?"
+msgstr "[_m_] Um... [mc]? ¿Me estás mirando?"
 
 # game/conditions.rpy:2614 #-#-# translate crowdin pcStareMBath_ba45b3e3:
 msgid "[_mc_] Ugh... shit, s-sorry."
