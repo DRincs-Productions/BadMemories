@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 09:51\n"
+"PO-Revision-Date: 2024-01-14 10:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1014,11 +1014,11 @@ msgstr "[_mc_] Pero que?!"
 
 # game/events_e.rpy:479 #-#-# translate crowdin eKitten_e28f27c5:
 msgid "[_e_] NNNNaaah..."
-msgstr ""
+msgstr "[_e_] NNNNaaah..."
 
 # game/events_e.rpy:480 #-#-# translate crowdin eKitten_b8b3b730:
 msgid "[_mcthink_] Don't tell me this is..."
-msgstr ""
+msgstr "[_mcthink_] No me digas que esto es..."
 
 # game/events_e.rpy:482 #-#-# translate crowdin eKitten_dbf56cc9:
 msgid "[_mcthink_] Shit..."
@@ -1026,15 +1026,15 @@ msgstr "[_mcthink_] Mierda..."
 
 # game/events_e.rpy:483 #-#-# translate crowdin eKitten_99093faf:
 msgid "[_mc_] ...a plug?!"
-msgstr ""
+msgstr "[_mc_] ¡¿...un enchufe?!"
 
 # game/events_e.rpy:485 #-#-# translate crowdin eKitten_a0b0d43d:
 msgid "[_mcthink_] So that's what [j] meant with the \"secret\" present yesterday... who would have guessed..."
-msgstr ""
+msgstr "[_mcthink_] Así que a eso se refería [j] con el regalo \"secreto\" de ayer... quién lo hubiera dicho..."
 
 # game/events_e.rpy:486 #-#-# translate crowdin eKitten_93bf6ff1:
 msgid "[_mc_] That's fucking naughty... haha."
-msgstr ""
+msgstr "[_mc_] Eso es jodidamente travieso... jaja."
 
 # game/events_e.rpy:488 #-#-# translate crowdin eKitten_1395e551:
 msgid "[_e_] HN!"
@@ -1042,23 +1042,23 @@ msgstr ""
 
 # game/events_e.rpy:489 #-#-# translate crowdin eKitten_5a883dd1:
 msgid "[_mc_] Whoa, hey. Wait a minute!"
-msgstr ""
+msgstr "[_mc_] Guau, hey. ¡Un momento!"
 
 # game/events_e.rpy:491 #-#-# translate crowdin eKitten_5a42c9d0:
 msgid "[_mc_] If you want it back, I want you to say \"Nya\" for me."
-msgstr ""
+msgstr "[_mc_] Si lo quieres de vuelta, quiero que digas \"Nia\" por mí."
 
 # game/events_e.rpy:493 #-#-# translate crowdin eKitten_200d9606:
 msgid "[_e_] ...NYAA!!"
-msgstr ""
+msgstr "[_e_] ...¡¡NIAA!!"
 
 # game/events_e.rpy:495 #-#-# translate crowdin eKitten_0eb53f4d:
 msgid "[_mc_] Fuuuck! [withhpunch]"
-msgstr ""
+msgstr "[_mc_] ¡Jodeeer! [withpunch]"
 
 # game/events_e.rpy:497 #-#-# translate crowdin eKitten_656e7ab6:
 msgid "[_mc_] Holy kitty attack..."
-msgstr ""
+msgstr "[_mc_] Ataque de gatito santo..."
 
 # game/events_e.rpy:499 #-#-# translate crowdin eKitten_be8d3b3c:
 msgid "[_e_] Khehe..."
@@ -1066,11 +1066,11 @@ msgstr "[_e_] Khehe..."
 
 # game/events_e.rpy:501 #-#-# translate crowdin eKitten_32878cec:
 msgid "[_e_] Eh!"
-msgstr ""
+msgstr "[_e_] ¡Eh!"
 
 # game/events_e.rpy:502 #-#-# translate crowdin eKitten_b2617dca:
 msgid "[_mc_] Haha, nope!"
-msgstr ""
+msgstr "[_mc_] ¡Jaja, no!"
 
 # game/events_e.rpy:504 #-#-# translate crowdin eKitten_9bee5006:
 msgid "[_e_] Hn!"
@@ -1078,7 +1078,7 @@ msgstr ""
 
 # game/events_e.rpy:505 #-#-# translate crowdin eKitten_4c4e270a:
 msgid "[_mc_] Come on, one more time..."
-msgstr ""
+msgstr "[_mc_] Vamos, una vez más..."
 
 # game/events_e.rpy:507 #-#-# translate crowdin eKitten_72a33094_2:
 msgid "[_e_] ..."
@@ -1086,23 +1086,23 @@ msgstr "[_e_] ..."
 
 # game/events_e.rpy:509 #-#-# translate crowdin eKitten_9a87df45:
 msgid "[_e_] ...nya?"
-msgstr ""
+msgstr "[_e_] ...¿nia?"
 
 # game/events_e.rpy:511 #-#-# translate crowdin eKitten_e560e372:
 msgid "[_mc_] ... cuuute~"
-msgstr ""
+msgstr "[_mc_] ... liiindo~"
 
 # game/events_e.rpy:513 #-#-# translate crowdin eKitten_c8d0beb9:
 msgid "[_e_] Hehe..."
-msgstr ""
+msgstr "[_e_] Jeje..."
 
 # game/events_e.rpy:514 #-#-# translate crowdin eKitten_5a7c19c6:
 msgid "[_e_] Nyaaaa..."
-msgstr ""
+msgstr "[_e_] Niaaaa..."
 
 # game/events_e.rpy:515 #-#-# translate crowdin eKitten_213898cb:
 msgid "[_mcthink_] She's so cute..."
-msgstr ""
+msgstr "[_mcthink_] Es tan linda..."
 
 # game/events_e.rpy:516 #-#-# translate crowdin eKitten_72a33094_3:
 msgid "[_e_] ..."
@@ -1110,7 +1110,7 @@ msgstr "[_e_] ..."
 
 # game/events_e.rpy:518 #-#-# translate crowdin eKitten_64352745:
 msgid "[_mcthink_] So cute..."
-msgstr ""
+msgstr "[_mcthink_] Tan linda..."
 
 # game/events_e.rpy:519 #-#-# translate crowdin eKitten_72a33094_4:
 msgid "[_e_] ..."
@@ -1126,11 +1126,11 @@ msgstr "[_mcthink_] ¡Maldita sea!"
 
 # game/events_e.rpy:522 #-#-# translate crowdin eKitten_a6b6c93e:
 msgid "[_mcthink_] She's not my sister, so who cares..."
-msgstr ""
+msgstr "[_mcthink_] Ella no es mi hermana, así que a quien le importa..."
 
 # game/events_e.rpy:524 #-#-# translate crowdin eKitten_1b97765e:
 msgid "[_mc_] I don't care..."
-msgstr ""
+msgstr "[_mc_] No me importa..."
 
 # game/events_e.rpy:528 #-#-# translate crowdin eKitten_7a9c7117:
 msgid "[_e_] Unn..."
@@ -1138,7 +1138,7 @@ msgstr ""
 
 # game/events_e.rpy:533 #-#-# translate crowdin eKitten_56c49b5a:
 msgid "[_e_] Nyahaha!"
-msgstr ""
+msgstr "[_e_] ¡Niajaja!"
 
 # game/events_e.rpy:534 #-#-# translate crowdin eKitten_3c16f4da:
 msgid "[_mc_] Whoa, hey, that's not fair!"
