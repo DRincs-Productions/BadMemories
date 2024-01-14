@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-14 09:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day3-4.rpy:3 #-#-# translate crowdin intro_day3_8046137e:
 msgid "[_n_] Next morning in the motel [withdissolve]"
@@ -54,7 +54,7 @@ msgstr "[_mcthink_] Argh, joder, me voy a la cama..."
 
 # game/intro_day3-4.rpy:21 #-#-# translate crowdin intro_day3_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
-msgstr ""
+msgstr "[_n_] Por la noche [withdissolve]"
 
 # game/intro_day3-4.rpy:25 #-#-# translate crowdin intro_day3_be5544eb:
 msgid "[_n_] *creak*{w=1}{nw} [withhpunch]"
