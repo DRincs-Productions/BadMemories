@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 10:49\n"
+"PO-Revision-Date: 2024-01-14 11:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1142,7 +1142,7 @@ msgstr "[_e_] ¡Niajaja!"
 
 # game/events_e.rpy:534 #-#-# translate crowdin eKitten_3c16f4da:
 msgid "[_mc_] Whoa, hey, that's not fair!"
-msgstr ""
+msgstr "[_mc_] ¡Vaya, hey, eso no es justo!"
 
 # game/events_e.rpy:536 #-#-# translate crowdin eKitten_3fa6b1c9:
 msgid "[_e_] Khehehe."
@@ -1150,35 +1150,35 @@ msgstr "[_e_] Khehehe."
 
 # game/events_e.rpy:539 #-#-# translate crowdin eKitten_adffea2c:
 msgid "[_mc_] Little cheater!"
-msgstr ""
+msgstr "[_mc_] ¡Pequeño tramposo!"
 
 # game/events_e.rpy:543 #-#-# translate crowdin eKitten_9a94daf4:
 msgid "[_mc_] Alright, you better get changed now, [m] asked me to get you for dinner, and I'm not sure how she would react if you show up like this..."
-msgstr ""
+msgstr "[_mc_] Muy bien, será mejor que te cambies ahora, [m] me pidió que te llevara a cenar, y no estoy seguro de cómo reaccionaría si te presentas así..."
 
 # game/events_e.rpy:544 #-#-# translate crowdin eKitten_463fd4ab:
 msgid "[_e_] ...nya."
-msgstr ""
+msgstr "[_e_] ...nia."
 
 # game/events_e.rpy:545 #-#-# translate crowdin eKitten_e4de79ad:
 msgid "[_mc_] I'll see you in a bit then."
-msgstr ""
+msgstr "[_mc_] Te veré en un rato entonces."
 
 # game/events_e.rpy:547 #-#-# translate crowdin eKitten_d6c2a397:
 msgid "[_mcthink_] Damn, what a surprise..."
-msgstr ""
+msgstr "[_mcthink_] Maldición, qué sorpresa..."
 
 # game/events_e.rpy:549 #-#-# translate crowdin eKitten_cfc2e902:
 msgid "[_mcthink_] But I guess I should have expected something like this with a friend like [j]."
-msgstr ""
+msgstr "[_mcthink_] Pero supongo que debería haber esperado algo así con un amigo como [j]."
 
 # game/events_e.rpy:550 #-#-# translate crowdin eKitten_89ef9a54:
 msgid "[_mcthink_] Shit, [e] is even naughtier than I thought..."
-msgstr ""
+msgstr "[_mcthink_] Mierda, [e] es aún más travieso de lo que pensaba..."
 
 # game/events_e.rpy:555 #-#-# translate crowdin makedinnerwithE_b2fd9451:
 msgid "[_mcthink_] I guess I'm not the only one who expected dinner to be ready..."
-msgstr ""
+msgstr "[_mcthink_] Supongo que no soy el único que esperaba que la cena estuviera lista..."
 
 # game/events_e.rpy:556 #-#-# translate crowdin makedinnerwithE_4a26ea78:
 msgid "[_mc_] Hey [e]."
@@ -1190,7 +1190,7 @@ msgstr "[_e_] ¿Eh?"
 
 # game/events_e.rpy:567 #-#-# translate crowdin makedinnerwithE_aadd0180:
 msgid "[_e_] *Smootch*"
-msgstr ""
+msgstr "[_e_] *Smootch*"
 
 # game/events_e.rpy:570 #-#-# translate crowdin makedinnerwithE_5d9a2297:
 msgid "[_mc_] Looks like we have to make dinner today."
