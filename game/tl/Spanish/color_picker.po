@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-14 10:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/color_picker.rpy:293
 msgid "Dialogue Text Color"
-msgstr ""
+msgstr "Color del texto de diálogo"
 
