@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-13 03:31\n"
+"PO-Revision-Date: 2024-01-14 11:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -6286,7 +6286,7 @@ msgstr ""
 
 # game/events_mc.rpy:2722 #-#-# translate crowdin d10nightsex_aadd0180:
 msgid "[_e_] *Smootch*"
-msgstr ""
+msgstr "[_e_] *Smootch*"
 
 # game/events_mc.rpy:2724 #-#-# translate crowdin d10nightsex_ecc9ca20:
 msgid "[_mc_] Oh, I think I like where this is going!"
@@ -6314,7 +6314,7 @@ msgstr ""
 
 # game/events_mc.rpy:2733 #-#-# translate crowdin d10nightsex_aadd0180_1:
 msgid "[_e_] *Smootch*"
-msgstr ""
+msgstr "[_e_] *Smootch*"
 
 # game/events_mc.rpy:2735 #-#-# translate crowdin d10nightsex_58cf4c17:
 msgid "[_mcthink_] Damn, this is so hot!"
