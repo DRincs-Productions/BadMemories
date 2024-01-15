@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-15 02:02\n"
+"PO-Revision-Date: 2024-01-15 03:09\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1906,7 +1906,7 @@ msgstr ""
 
 # game/events_e.rpy:948 #-#-# translate crowdin d9_ebathroom_f0f72c75:
 msgid "[_n_] You get dressed and go to the living room where the others have already started their breakfast."
-msgstr ""
+msgstr "[_n_] Te vistes y vas al salón, donde los demás ya han empezado a desayunar."
 
 # game/events_e.rpy:955 #-#-# translate crowdin d9_pcroom_e01_5984ed7b:
 msgid "[_mcthink_] Alright, I guess I should look for..."
