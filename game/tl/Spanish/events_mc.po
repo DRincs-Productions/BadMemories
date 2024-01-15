@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 11:51\n"
+"PO-Revision-Date: 2024-01-15 02:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -1066,7 +1066,7 @@ msgstr ""
 
 # game/events_mc.rpy:463 #-#-# translate crowdin afterGetEFromSchool_6e3b6836:
 msgid "[_e_] Hehe."
-msgstr ""
+msgstr "[_e_] Jeje."
 
 # game/events_mc.rpy:464 #-#-# translate crowdin afterGetEFromSchool_8308b4da:
 msgid "[_mcthink_] What the..."
@@ -2282,7 +2282,7 @@ msgstr ""
 
 # game/events_mc.rpy:949 #-#-# translate crowdin ebd_6e3b6836:
 msgid "[_e_] Hehe."
-msgstr ""
+msgstr "[_e_] Jeje."
 
 # game/events_mc.rpy:950 #-#-# translate crowdin ebd_4c705320:
 msgid "[_mc_] Are you okay [m]?"
@@ -3434,7 +3434,7 @@ msgstr ""
 
 # game/events_mc.rpy:1398 #-#-# translate crowdin d5morning_52d6b73f:
 msgid "[_e_] Hn..."
-msgstr ""
+msgstr "[_e_] Hn..."
 
 # game/events_mc.rpy:1403 #-#-# translate crowdin d5morning_744f56ce:
 msgid "[_n_] A bit later..."
@@ -6642,7 +6642,7 @@ msgstr ""
 
 # game/events_mc.rpy:2950 #-#-# translate crowdin d10nfj_52d6b73f:
 msgid "[_e_] Hn..."
-msgstr ""
+msgstr "[_e_] Hn..."
 
 # game/events_mc.rpy:2960 #-#-# translate crowdin d10nfj_2e7b609d:
 msgid "[_e_] Hnnn... nhnnn!"
@@ -10122,7 +10122,7 @@ msgstr ""
 
 # game/events_mc.rpy:4848 #-#-# translate crowdin d13mf_end_57ace962:
 msgid "[_mcthink_] God..."
-msgstr ""
+msgstr "[_mcthink_] Dios..."
 
 # game/events_mc.rpy:4852 #-#-# translate crowdin d13mf_end_beb0d2b8:
 msgid "[_n_] You quickly signal the girls to hide."
