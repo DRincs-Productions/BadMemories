@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 13:22\n"
+"PO-Revision-Date: 2024-01-15 02:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -990,7 +990,7 @@ msgstr "[_mc_] Vamos [e], ¿o tengo que hacerte cosquillas en tus orejas de gato
 
 # game/events_e.rpy:469 #-#-# translate crowdin eKitten_18fb8869:
 msgid "[_e_] Nnn..."
-msgstr ""
+msgstr "[_e_] Nnn..."
 
 # game/events_e.rpy:470 #-#-# translate crowdin eKitten_7a0d4510:
 msgid "[_mc_] ...or maybe the tail?"
@@ -1330,7 +1330,7 @@ msgstr "[_m_] ¿Así que la botella desapareció sola de la mesa de la cocina? �
 
 # game/events_e.rpy:634 #-#-# translate crowdin eHumpNight5_ebc0fa33:
 msgid "[_mc_] You mean the bottle you drank before the last one?"
-msgstr ""
+msgstr "[_mc_] ¿Te refieres a la botella que bebiste antes de la última?"
 
 # game/events_e.rpy:635 #-#-# translate crowdin eHumpNight5_de238c83:
 msgid "[_m_] What?!"
@@ -1338,35 +1338,35 @@ msgstr "[_m_] ¿Qué?!"
 
 # game/events_e.rpy:636 #-#-# translate crowdin eHumpNight5_45625b6a:
 msgid "[_mc_] Maybe you should drink a little bit less, then you might actually remember how much you drank..."
-msgstr ""
+msgstr "[_mc_] Tal vez deberías beber un poco menos, entonces podrías realmente recordar cuánto bebiste..."
 
 # game/events_e.rpy:637 #-#-# translate crowdin eHumpNight5_4e2d4e16:
 msgid "[_m_] What did you just say?"
-msgstr ""
+msgstr "[_m_] ¿Qué acabas de decir?"
 
 # game/events_e.rpy:638 #-#-# translate crowdin eHumpNight5_52e4a233:
 msgid "[_m_] Do you think I don't know how much I drink?!"
-msgstr ""
+msgstr "[_m_] ¿Crees que no sé cuánto bebo?!"
 
 # game/events_e.rpy:639 #-#-# translate crowdin eHumpNight5_9f7e4aa4:
 msgid "[_mc_] Obviously..."
-msgstr ""
+msgstr "[_mc_] Obviamente..."
 
 # game/events_e.rpy:640 #-#-# translate crowdin eHumpNight5_8a60a841:
 msgid "[_m_] Oh, you will regret saying this! Come here, take your pants off!"
-msgstr ""
+msgstr "[_m_] ¡Oh, te arrepentirás de decir eso! ¡Ven aquí, quítate tus pantalones!"
 
 # game/events_e.rpy:642 #-#-# translate crowdin eHumpNight5_553041f5:
 msgid "[_mcthink_] W-What?"
-msgstr ""
+msgstr "[_mcthink_] ¿Qué?"
 
 # game/events_e.rpy:644 #-#-# translate crowdin eHumpNight5_b42b6009:
 msgid "[_m_] As a punishment, I will suck your cock!"
-msgstr ""
+msgstr "[_m_] Como castigo, ¡te chuparé la polla!"
 
 # game/events_e.rpy:646 #-#-# translate crowdin eHumpNight5_18bf16a5:
 msgid "[_m_] As a punishment, I will lick your pussy!"
-msgstr ""
+msgstr "[_m_] Como castigo, ¡ te lameré el coño!"
 
 # game/events_e.rpy:647 #-#-# translate crowdin eHumpNight5_4722f18c:
 msgid "[_mcthink_] What the...!"
@@ -1374,19 +1374,19 @@ msgstr "[_mcthink_] Pero que...!"
 
 # game/events_e.rpy:648 #-#-# translate crowdin eHumpNight5_7d9fd67b:
 msgid "[_m_] SHUT UP! You'll regret everything you said once I have... *hmmmph* *slurp*"
-msgstr ""
+msgstr "[_m_] ¡CÁLLATE! Te arrepentirás de todo lo que dijiste una vez que tenga... *hmmmph* *slurp*"
 
 # game/events_e.rpy:652 #-#-# translate crowdin eHumpNight5_r_9b19ae6f:
 msgid "[_mcthink_] What the fuck!"
-msgstr ""
+msgstr "[_mcthink_] ¡Qué cojones!"
 
 # game/events_e.rpy:653 #-#-# translate crowdin eHumpNight5_r_1383f788:
 msgid "[_e_] Hmmm... *slurp* *slurp*"
-msgstr ""
+msgstr "[_e_] Hmmm... * slurp * * slurp *"
 
 # game/events_e.rpy:654 #-#-# translate crowdin eHumpNight5_r_9029586f:
 msgid "[_mcthink_] Shit, what's going on?!"
-msgstr ""
+msgstr "[_mcthink_] Mierda, ¿qué está pasando?!"
 
 # game/events_e.rpy:655 #-#-# translate crowdin eHumpNight5_r_1b5fea38:
 msgid "[_m_] *Slurp*"
@@ -1394,51 +1394,51 @@ msgstr "[_m_] *Sorbe*"
 
 # game/events_e.rpy:656 #-#-# translate crowdin eHumpNight5_r_97088a3e:
 msgid "[_mc_] Damn, this feels good..."
-msgstr ""
+msgstr "[_mc_] Maldición, esto se siente bien..."
 
 # game/events_e.rpy:657 #-#-# translate crowdin eHumpNight5_r_52d6b73f:
 msgid "[_e_] Hn..."
-msgstr ""
+msgstr "[_e_] Hn..."
 
 # game/events_e.rpy:658 #-#-# translate crowdin eHumpNight5_r_ef4019a8:
 msgid "[_mcthink_] W-Wait, what?"
-msgstr ""
+msgstr "[_mcthink_] E-Espera, ¿qué?"
 
 # game/events_e.rpy:660 #-#-# translate crowdin eHumpNight5_r_daae00e4:
 msgid "[_mcthink_] What the hell?"
-msgstr ""
+msgstr "[_mcthink_] ¿Qué demonios?"
 
 # game/events_e.rpy:663 #-#-# translate crowdin eHumpNight5_r_76fbaa58:
 msgid "[_mc_] [e]?!"
-msgstr ""
+msgstr "¡[_mc_] [e]?!"
 
 # game/events_e.rpy:667 #-#-# translate crowdin eHumpNight5_r_52ce903d:
 msgid "[_mc_] What are you doing [e]?"
-msgstr ""
+msgstr "[_mc_] ¿Qué estás haciendo [e]?"
 
 # game/events_e.rpy:669 #-#-# translate crowdin eHumpNight5_r_6e3b6836:
 msgid "[_e_] Hehe."
-msgstr ""
+msgstr "[_e_] Jeje."
 
 # game/events_e.rpy:673 #-#-# translate crowdin eHumpNight5_r_98aa830c:
 msgid "[_mcthink_] Am I still dreaming?"
-msgstr ""
+msgstr "[_mcthink_] ¿Todavía estoy soñando?"
 
 # game/events_e.rpy:675 #-#-# translate crowdin eHumpNight5_r_2cb092fa:
 msgid "[_mcthink_] Shit this is... so hot, I'm so horny, I can't believe it!"
-msgstr ""
+msgstr "[_mcthink_] Mierda esto es... ¡tan caliente, estoy tan caliente, no puedo creerlo!"
 
 # game/events_e.rpy:676 #-#-# translate crowdin eHumpNight5_r_5cab906b:
 msgid "[_mcthink_] I would've never expected her to do something like this!"
-msgstr ""
+msgstr "[_mcthink_] ¡Nunca hubiera esperado que hiciera algo así!"
 
 # game/events_e.rpy:679 #-#-# translate crowdin eHumpNight5_r_f0101653:
 msgid "[_mcthink_] She's clearly inexperienced, but damn..."
-msgstr ""
+msgstr "[_mcthink_] Ella es claramente inexperta, pero maldición..."
 
 # game/events_e.rpy:681 #-#-# translate crowdin eHumpNight5_r_f92c46fa:
 msgid "[_mcthink_] Wow, she's really good with her tongue..."
-msgstr ""
+msgstr "[_mcthink_] Vaya, ella es realmente buena con la lengua..."
 
 # game/events_e.rpy:682 #-#-# translate crowdin eHumpNight5_r_962ce38a:
 msgid "[_e_] *Slurp*"
@@ -1454,7 +1454,7 @@ msgstr "[_mcthink_] Mierda..."
 
 # game/events_e.rpy:688 #-#-# translate crowdin eHumpNight5_r_2b079e63:
 msgid "[_mc_] Are you sure about this, [e]?"
-msgstr ""
+msgstr "[_mc_] ¿Estás seguro de esto, [e]?"
 
 # game/events_e.rpy:690 #-#-# translate crowdin eHumpNight5_r_9bee5006:
 msgid "[_e_] Hn!"
@@ -1462,39 +1462,39 @@ msgstr ""
 
 # game/events_e.rpy:694 #-#-# translate crowdin eHumpNight5_r_6493d6be:
 msgid "[_e_] Haaahn..."
-msgstr ""
+msgstr "[_e_] Haaahn..."
 
 # game/events_e.rpy:696 #-#-# translate crowdin eHumpNight5_r_3fa6652e:
 msgid "[_mc_] Shit, [e]..."
-msgstr ""
+msgstr "[_mc_] Mierda, [e]..."
 
 # game/events_e.rpy:697 #-#-# translate crowdin eHumpNight5_r_559f6c59:
 msgid "[_mcthink_] She just shoved it in..."
-msgstr ""
+msgstr "[_mcthink_] Ella se la metió..."
 
 # game/events_e.rpy:702 #-#-# translate crowdin eHumpNight5_r_18fb8869:
 msgid "[_e_] Nnn..."
-msgstr ""
+msgstr "[_e_] Nnn..."
 
 # game/events_e.rpy:710 #-#-# translate crowdin eHumpNight5_r_57ace962:
 msgid "[_mcthink_] God..."
-msgstr ""
+msgstr "[_mcthink_] Dios..."
 
 # game/events_e.rpy:712 #-#-# translate crowdin eHumpNight5_r_a741c8a5:
 msgid "[_extend_]  so tight!"
-msgstr ""
+msgstr "[_extend_]  ¡tan apretado!"
 
 # game/events_e.rpy:714 #-#-# translate crowdin eHumpNight5_r_a15f96b0:
 msgid "[_extend_]  [e]..."
-msgstr ""
+msgstr "[_extend_]  [e]..."
 
 # game/events_e.rpy:715 #-#-# translate crowdin eHumpNight5_r_ba5afc34:
 msgid "[_e_] Nnnh..."
-msgstr ""
+msgstr "[_e_] Nnnh..."
 
 # game/events_e.rpy:717 #-#-# translate crowdin eHumpNight5_r_f3e02235:
 msgid "[_mc_] Damn, [e], this feels incredible!"
-msgstr ""
+msgstr "[_mc_] ¡Maldición, [e], esto se siente increíble!"
 
 # game/events_e.rpy:718 #-#-# translate crowdin eHumpNight5_r_7e6e776f:
 msgid "[_e_] Hnn... nhnn..."
@@ -3158,7 +3158,7 @@ msgstr ""
 
 # game/events_e.rpy:1604 #-#-# translate crowdin d12founde_52d6b73f:
 msgid "[_e_] Hn..."
-msgstr ""
+msgstr "[_e_] Hn..."
 
 # game/events_e.rpy:1606 #-#-# translate crowdin d12founde_e4da8e3d:
 msgid "[_mc_] Come on, [oc], everyone needs some fresh air once in a while, [m] just overreacted."
