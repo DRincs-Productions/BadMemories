@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-13 03:31\n"
+"PO-Revision-Date: 2024-01-15 02:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -346,7 +346,7 @@ msgstr ""
 
 # game/events_t.rpy:156 #-#-# translate crowdin talkTone_daae00e4:
 msgid "[_mcthink_] What the hell?"
-msgstr ""
+msgstr "[_mcthink_] ¿Qué demonios?"
 
 # game/events_t.rpy:157 #-#-# translate crowdin talkTone_d84f94be:
 msgid "[_mc_] Are you writing something about me?"
@@ -1866,7 +1866,7 @@ msgstr ""
 
 # game/events_t.rpy:870 #-#-# translate crowdin d7_city_daae00e4:
 msgid "[_mcthink_] What the hell?"
-msgstr ""
+msgstr "[_mcthink_] ¿Qué demonios?"
 
 # game/events_t.rpy:872 #-#-# translate crowdin d7_city_a0df5fd9:
 msgid "[_mc_] Jeez, why am I an idiot now... what the fuck is wrong with you?!"
