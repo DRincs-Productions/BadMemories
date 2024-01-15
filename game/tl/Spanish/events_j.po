@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-13 03:31\n"
+"PO-Revision-Date: 2024-01-15 02:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -2562,7 +2562,7 @@ msgstr "[_mcthink_] Huh? ¿Qué es esto?"
 
 # game/events_j.rpy:1089 #-#-# translate crowdin d7_motel_daae00e4:
 msgid "[_mcthink_] What the hell?"
-msgstr ""
+msgstr "[_mcthink_] ¿Qué demonios?"
 
 # game/events_j.rpy:1090 #-#-# translate crowdin d7_motel_465da924:
 msgid "Girl [special_delimiter] Yeah how lazy is that?"
@@ -5310,7 +5310,7 @@ msgstr ""
 
 # game/events_j.rpy:2438 #-#-# translate crowdin d12shed_76fbaa58:
 msgid "[_mc_] [e]?!"
-msgstr ""
+msgstr "¡[_mc_] [e]?!"
 
 # game/events_j.rpy:2440 #-#-# translate crowdin d12shed_72a33094:
 msgid "[_e_] ..."
