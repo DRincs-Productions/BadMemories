@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-15 03:09\n"
+"PO-Revision-Date: 2024-01-24 00:26\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1206,11 +1206,11 @@ msgstr "[_mc_] Lo siento, culpa mía. Tuve una discusión con ella hace un momen
 
 # game/events_e.rpy:575 #-#-# translate crowdin makedinnerwithE_7e00e9ab:
 msgid "[_mc_] Anyway..."
-msgstr ""
+msgstr "[_mc_] De todos modos..."
 
 # game/events_e.rpy:576 #-#-# translate crowdin makedinnerwithE_9cc4b469:
 msgid "[_mc_] What do you think, should we cook something together?"
-msgstr ""
+msgstr "[_mc_] ¿Qué te parece si cocinamos algo juntos?"
 
 # game/events_e.rpy:578 #-#-# translate crowdin makedinnerwithE_9bee5006:
 msgid "[_e_] Hn!"
