@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2024-01-24 02:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro.rpy:5 #-#-# translate crowdin intro_af100c11:
 msgid "[_n_] Somewhere in a cab."
@@ -38,7 +38,7 @@ msgstr "[_mcthink_] ...solo por un trabajo."
 
 # game/intro.rpy:13 #-#-# translate crowdin intro_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro.rpy:16 #-#-# translate crowdin intro_e4c039d6:
 msgid "[_mcthink_] We must be close to the hotel..."
