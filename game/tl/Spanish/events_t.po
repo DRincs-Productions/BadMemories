@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-15 02:02\n"
+"PO-Revision-Date: 2024-01-24 02:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_t.rpy:3 #-#-# translate crowdin tIntroductionDay1_d40b86d0:
 msgid "[_n_] Hours later [withdissolve]"
@@ -598,7 +598,7 @@ msgstr ""
 
 # game/events_t.rpy:248 #-#-# translate crowdin talkTone_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_t.rpy:249 #-#-# translate crowdin talkTone_00e560e6:
 msgid "[_mcthink_] ...no I don't think so... she would have acted differently if that'd be the case..."
@@ -1734,7 +1734,7 @@ msgstr ""
 
 # game/events_t.rpy:812 #-#-# translate crowdin d7_city_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_t.rpy:815 #-#-# translate crowdin d7_city_6da48ac0:
 msgid "[_n_] A few minutes later..."
@@ -4230,7 +4230,7 @@ msgstr ""
 
 # game/events_t.rpy:2005 #-#-# translate crowdin lookatkat_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_t.rpy:2006 #-#-# translate crowdin lookatkat_9f968395:
 msgid "[_mcthink_] ...I doubt she'd trust me enough to leave me alone in her house{cps=2}........{/cps} right?"
@@ -4238,7 +4238,7 @@ msgstr ""
 
 # game/events_t.rpy:2007 #-#-# translate crowdin lookatkat_457c6f63_1:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/events_t.rpy:2008 #-#-# translate crowdin lookatkat_6c4620d9:
 msgid "[_mcthink_] Shit!"
