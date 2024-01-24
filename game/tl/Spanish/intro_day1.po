@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-01-24 02:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day1.rpy:3 #-#-# translate crowdin intro_day1_26086d61:
 msgid "[_n_] Next Day [withdissolve]"
@@ -270,7 +270,7 @@ msgstr ""
 
 # game/intro_day1.rpy:93 #-#-# translate crowdin intro_day1_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day1.rpy:95 #-#-# translate crowdin intro_day1_f18e7e28:
 msgid "[_mcthink_] What the... is that... [m]?"
