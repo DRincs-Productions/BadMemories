@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 09:51\n"
+"PO-Revision-Date: 2024-01-24 02:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/intro_day2.rpy:61 #-#-# translate crowdin intro_day2_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:62 #-#-# translate crowdin intro_day2_e6a61566:
 msgid "[_mcthink_] Did that really happen?"
@@ -198,7 +198,7 @@ msgstr ""
 
 # game/intro_day2.rpy:64 #-#-# translate crowdin intro_day2_457c6f63_1:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:65 #-#-# translate crowdin intro_day2_2607fa33:
 msgid "[_mcthink_] ...I guess she really treated me better than that asshole treated her..."
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/intro_day2.rpy:67 #-#-# translate crowdin intro_day2_457c6f63_2:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:68 #-#-# translate crowdin intro_day2_0d62fbf2:
 msgid "[_mcthink_] ...."
@@ -226,7 +226,7 @@ msgstr ""
 
 # game/intro_day2.rpy:71 #-#-# translate crowdin intro_day2_457c6f63_3:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:72 #-#-# translate crowdin intro_day2_0d62fbf2_1:
 msgid "[_mcthink_] ...."
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/intro_day2.rpy:211 #-#-# translate crowdin intro_day2_2_457c6f63:
 msgid "[_mcthink_] ..."
-msgstr ""
+msgstr "[_mcthink_] ..."
 
 # game/intro_day2.rpy:212 #-#-# translate crowdin intro_day2_2_1560fd1d:
 msgid "[_n_] You pick up your smartphone and browse through the internet, looking for motels in town."
