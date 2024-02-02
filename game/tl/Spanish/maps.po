@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-14 10:49\n"
+"PO-Revision-Date: 2024-02-02 19:06\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
@@ -278,21 +278,21 @@ msgstr "Mira más de cerca."
 
 # game/maps.rpy:302
 msgid "Nah, better not touch it."
-msgstr ""
+msgstr "Nah, mejor no tocarlo."
 
 # game/maps.rpy:310
 msgid "Keep going."
-msgstr ""
+msgstr "Continúa."
 
 # game/maps.rpy:310
 msgid "No point in going on..."
-msgstr ""
+msgstr "No tiene sentido seguir..."
 
 # game/maps.rpy:383
 msgid "Check the cafe."
-msgstr ""
+msgstr "Comprobar el café."
 
 # game/maps.rpy:383
 msgid "Go to the office."
-msgstr ""
+msgstr "Ir a la oficina."
 
