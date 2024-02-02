@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-02 19:06\n"
+"PO-Revision-Date: 2024-02-02 20:11\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/script.rpy:524 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
@@ -81,47 +81,47 @@ msgstr "Jugar como Hombre"
 
 # game/script.rpy:531
 msgid "Play as Woman (lesbian)"
-msgstr ""
+msgstr "Jugar como Mujer (lesbiana)"
 
 # game/script.rpy:533
 msgid "male"
-msgstr ""
+msgstr "masculino"
 
 # game/script.rpy:543
 msgid "female"
-msgstr ""
+msgstr "femenino"
 
 # game/script.rpy:544
 msgid "woman"
-msgstr ""
+msgstr "mujer"
 
 # game/script.rpy:545
 msgid "Ms."
-msgstr ""
+msgstr "Sra."
 
 # game/script.rpy:546
 msgid "she"
-msgstr ""
+msgstr "ella"
 
 # game/script.rpy:547
 msgid "girl"
-msgstr ""
+msgstr "chica"
 
 # game/script.rpy:548
 msgid "Mommy"
-msgstr ""
+msgstr "Mami"
 
 # game/script.rpy:549
 msgid "daughter"
-msgstr ""
+msgstr "hija"
 
 # game/script.rpy:550
 msgid "her"
-msgstr ""
+msgstr "su"
 
 # game/script.rpy:551
 msgid "Jill"
-msgstr ""
+msgstr "Jill"
 
 # game/script.rpy:552
 msgid "sister"
