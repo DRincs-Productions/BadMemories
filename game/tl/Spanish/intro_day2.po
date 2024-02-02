@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 02:27\n"
+"PO-Revision-Date: 2024-02-02 20:11\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day2.rpy:3 #-#-# translate crowdin intro_day2_d8b6e64b:
 msgid "[_n_] At night [withdissolve]"
@@ -18,7 +18,7 @@ msgstr "[_n_] Por la noche [withdissolve]"
 
 # game/intro_day2.rpy:6 #-#-# translate crowdin intro_day2_bb2cf764:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:9 #-#-# translate crowdin intro_day2_0de96e02:
 msgid "Loud Voice [special_delimiter] I HAVE SEEN IT! DON'T YOU DARE LIE TO ME AGAIN! [withvpunch]"
@@ -142,7 +142,7 @@ msgstr ""
 
 # game/intro_day2.rpy:45 #-#-# translate crowdin intro_day2_bb2cf764_1:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:46 #-#-# translate crowdin intro_day2_c5c91f0a:
 msgid "Dad [special_delimiter] {size=-10}Are you happy now? You woke [himher] up with your stupid screaming!{/size}"
@@ -174,7 +174,7 @@ msgstr ""
 
 # game/intro_day2.rpy:55 #-#-# translate crowdin intro_day2_bb2cf764_2:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:58 #-#-# translate crowdin intro_day2_79dba188:
 msgid "[_mc_] Shit..."
@@ -278,7 +278,7 @@ msgstr ""
 
 # game/intro_day2.rpy:98 #-#-# translate crowdin intro_day2_bb2cf764_3:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/intro_day2.rpy:99 #-#-# translate crowdin intro_day2_7ff23abc:
 msgid "[_m_] [mc], are you there?"
