@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 02:27\n"
+"PO-Revision-Date: 2024-02-02 20:11\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -46,7 +46,7 @@ msgstr "[_mcthink_] Wow... ese culo..."
 
 # game/events_m.rpy:18 #-#-# translate crowdin rachelBathroomDay0_c70865b9:
 msgid "[_mcthink_] I'd better leave now."
-msgstr ""
+msgstr "[_mcthink_] Mejor me voy ya."
 
 # game/events_m.rpy:20 #-#-# translate crowdin rachelBathroomDay0_e6c4863a:
 msgid "[_mcthink_] It would've been really embarrassing for both of us if she'd seen me."
@@ -146,7 +146,7 @@ msgstr "[_m_] Gracias, Hun."
 
 # game/events_m.rpy:70 #-#-# translate crowdin breakfastDay0_bb2cf764:
 msgid "[_n_] ..."
-msgstr ""
+msgstr "[_n_] ..."
 
 # game/events_m.rpy:72 #-#-# translate crowdin breakfastDay0_66759bab:
 msgid "[_mcthink_] Okay, [e]'s room should be the last one on the right."
@@ -198,7 +198,7 @@ msgstr "[_m_] Por qué no te sientas, el desayuno estará listo en un minuto."
 
 # game/events_m.rpy:104 #-#-# translate crowdin mTellNotToDisturb_2e0430bd:
 msgid "[_m_] Hey [mc]."
-msgstr ""
+msgstr "[_m_] Hey [mc]."
 
 # game/events_m.rpy:106 #-#-# translate crowdin mTellNotToDisturb_260567b9:
 msgid "[_m_] How was your day?"
@@ -558,19 +558,19 @@ msgstr "[_mcthink_] Wow, ella es tan amigable que es casi aterradora."
 
 # game/events_m.rpy:262 #-#-# translate crowdin rachelPills2nd_25e61668:
 msgid "[_mc_] Uh... there is this therapist woman with [e] right now."
-msgstr ""
+msgstr "[_mc_] Uh... ahí está la terapeuta con [e]."
 
 # game/events_m.rpy:263 #-#-# translate crowdin rachelPills2nd_bb598d62:
 msgid "[_m_] [t]? Oh I forgot to tell you about her. I'm sooo sorry, Hun!"
-msgstr ""
+msgstr "[_m_] [t]? Ah, se me olvidó hablarte de ella. ¡Lo siento mucho amor!"
 
 # game/events_m.rpy:264 #-#-# translate crowdin rachelPills2nd_b79220a3:
 msgid "[_mcthink_] Damn, these pills sure have an effect on her... I'll definitely need some time to get used to this..."
-msgstr ""
+msgstr "[_mcthink_] Joder, estas pastillas sí que la están haciendo efecto. Voy a necesitar tiempo para acostumbrarme."
 
 # game/events_m.rpy:265 #-#-# translate crowdin rachelPills2nd_94ae8d13:
 msgid "[_mc_] Don't worry about that, but don't you think she is a bit... unfriendly?"
-msgstr ""
+msgstr "[_mc_] No te preocupes por eso, aunque, ¿no crees qué es un poco antipática?"
 
 # game/events_m.rpy:266 #-#-# translate crowdin rachelPills2nd_893fe2d7:
 msgid "[_m_] Do you think so?"
@@ -582,67 +582,67 @@ msgstr ""
 
 # game/events_m.rpy:268 #-#-# translate crowdin rachelPills2nd_d29f36e5:
 msgid "[_mcthink_] Not to mention that shes a bitch!"
-msgstr ""
+msgstr "[_mcthink_] ¡Por no mencionar que es una perra!"
 
 # game/events_m.rpy:269 #-#-# translate crowdin rachelPills2nd_39120e68:
 msgid "[_m_] Hum... well she is still young and yes, she can be a bit strict, but don't worry Hun. She is really good at what she does."
-msgstr ""
+msgstr "[_m_] Hum... bueno aún es joven y sé que a veces puede ser un poco estricta, pero no te preocupes amor. Ella es buena en lo que hace."
 
 # game/events_m.rpy:270 #-#-# translate crowdin rachelPills2nd_bda7318b:
 msgid "[_mc_] And what exactly is she doing?"
-msgstr ""
+msgstr "[_mc_] ¿Y qué está haciendo exactamente?"
 
 # game/events_m.rpy:272 #-#-# translate crowdin rachelPills2nd_edd29639:
 msgid "[_m_] I don't know the exact procedure, but she helps [e] and that's what counts for me."
-msgstr ""
+msgstr "[_m_] No sé el procedimiento exacto, pero ella ayuda a [e] y eso es lo que me importa."
 
 # game/events_m.rpy:273 #-#-# translate crowdin rachelPills2nd_53863030:
 msgid "[_mc_] [e] didn't seem to be overly excited..."
-msgstr ""
+msgstr "[_mc_] [e] no parece excitarle demasiado..."
 
 # game/events_m.rpy:275 #-#-# translate crowdin rachelPills2nd_8e44bdea:
 msgid "[_m_] I know she doesn't like the sessions with her, but what should I do? There is no one else willing to help her anymore. Everyone gave up on her and [t] really wants to help."
-msgstr ""
+msgstr "[_m_] Sé que no le gustan las sesiones con ella, pero ¿qué debo hacer? No hay nadie más dispuesto a ayudarla. Todos se rindieron con ella y [t] realmente quiere ayudar."
 
 # game/events_m.rpy:276 #-#-# translate crowdin rachelPills2nd_7a474881:
 msgid "[_mcthink_] And I bet she wants a lot of money for it..."
-msgstr ""
+msgstr "[_mcthink_] Y apuesto a que quiere mucho dinero a cambio..."
 
 # game/events_m.rpy:277 #-#-# translate crowdin rachelPills2nd_b400726a:
 msgid "[_mc_] I didn't get the impression that she really cares for [e]..."
-msgstr ""
+msgstr "[_mc_] No me dio la impresión de que realmente se preocupe por [e]..."
 
 # game/events_m.rpy:278 #-#-# translate crowdin rachelPills2nd_9c63b61f:
 msgid "[_m_] Oh Hun, please don't judge her just by your first impression. I know you're worried about [e], but [t] really isn't that bad of a person. Give her a chance, okay?"
-msgstr ""
+msgstr "[_m_] Oh amor, por favor, no la juzgues únicamente por la primera impresión. Sé que te preocupa [e], pero [t] realmente no es tan mala persona. Dale una oportunidad, ¿vale?"
 
 # game/events_m.rpy:279 #-#-# translate crowdin rachelPills2nd_682468d0:
 msgid "[_mc_] Well, if you say so..."
-msgstr ""
+msgstr "[_mc_] Bueno, si tú lo dices..."
 
 # game/events_m.rpy:280 #-#-# translate crowdin rachelPills2nd_f70941e2:
 msgid "[_m_] Thank you, Hun, I knew you would understand."
-msgstr ""
+msgstr "[_m_] Gracias amor, sabía que lo entenderías."
 
 # game/events_m.rpy:281 #-#-# translate crowdin rachelPills2nd_fd585e55:
 msgid "[_mcthink_] I guess I need to find another Therapist myself..."
-msgstr ""
+msgstr "[_mcthink_] Supongo que necesito encontrar otro terapeuta..."
 
 # game/events_m.rpy:282 #-#-# translate crowdin rachelPills2nd_117f9cbd:
 msgid "[_m_] Haahh... getting you back home was really the best decision I ever made."
-msgstr ""
+msgstr "[_m_] Haahh... hacerte volver a casa ha sido la mejor decisión que he tomado."
 
 # game/events_m.rpy:283 #-#-# translate crowdin rachelPills2nd_609ad46c:
 msgid "[_mc_] Getting me back? What do you mean?"
-msgstr ""
+msgstr "[_mc_] ¿Hacerme volver? ¿Qué quieres decir?"
 
 # game/events_m.rpy:284 #-#-# translate crowdin rachelPills2nd_bb492fdc:
 msgid "[_m_] Oh, you know. After all that happened with your dad and then with [e], I almost lost the will to live..."
-msgstr ""
+msgstr "[_m_] Bueno, ya sabes. Después de todo lo que pasó con tu papá y luego con [e], casi perdí las ganas de vivir..."
 
 # game/events_m.rpy:285 #-#-# translate crowdin rachelPills2nd_add32904:
 msgid "[_mcthink_] Seriously? And she's just casually telling me about it?"
-msgstr ""
+msgstr "[_mcthink_] ¿En serio? ¿Y me lo está diciendo tan tranquilamente?"
 
 # game/events_m.rpy:287 #-#-# translate crowdin rachelPills2nd_fb7f1c26:
 msgid "[_m_] ...and after I realized how shitty I was to you, it got even worse... I almost destroyed your childhood and [e] lost her precious big [bs] because of me..."
