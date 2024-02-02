@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2024-02-02 19:06\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/script.rpy:524 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
@@ -69,15 +69,15 @@ msgstr "[_n_] ¡Felicidades! ¡Le has roto el corazón... idiota!"
 
 # §translate crowdin strings: #|#|# # game/script.rpy:96
 msgid "Rachel"
-msgstr ""
+msgstr "Rachel"
 
 # game/script.rpy:522
 msgid "You"
-msgstr ""
+msgstr "Tú"
 
 # game/script.rpy:531
 msgid "Play as Man"
-msgstr ""
+msgstr "Jugar como Hombre"
 
 # game/script.rpy:531
 msgid "Play as Woman (lesbian)"
