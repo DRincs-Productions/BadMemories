@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-02-23 23:05\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -134,43 +134,43 @@ msgstr "[_j_] Эй! {w=.5}{nw}"
 
 # game/events_j.rpy:52 #-#-# translate crowdin flirtyJ_3b6bc8c7:
 msgid "[_mc_] Whoa what the!?"
-msgstr ""
+msgstr "Ух ты, что за черт!?"
 
 # game/events_j.rpy:54 #-#-# translate crowdin flirtyJ_aeab30cf:
 msgid "[_j_] Did I scare you? Hehe..."
-msgstr ""
+msgstr "Я тебя напугал? Хе-хе..."
 
 # game/events_j.rpy:55 #-#-# translate crowdin flirtyJ_8b023ac6:
 msgid "[_mc_] Damn [j]!"
-msgstr ""
+msgstr "Черт возьми!"
 
 # game/events_j.rpy:57 #-#-# translate crowdin flirtyJ_c96e22dc:
 msgid "[_j_] I'm going to leave..."
-msgstr ""
+msgstr "Я собираюсь уходить..."
 
 # game/events_j.rpy:60 #-#-# translate crowdin flirtyJ_6cf1aaf1:
 msgid "[_mc_] Okay, but... the exit isn't in my room you know."
-msgstr ""
+msgstr "Ладно, но... знаешь, выход не в моей комнате."
 
 # game/events_j.rpy:62 #-#-# translate crowdin flirtyJ_f9a96d84:
 msgid "[_j_] Hehe, I know that, stupid!"
-msgstr ""
+msgstr "Хе-хе, я знаю это, глупец!"
 
 # game/events_j.rpy:63 #-#-# translate crowdin flirtyJ_4ee89dff:
 msgid "[_j_] But I have a question to ask..."
-msgstr ""
+msgstr "Но у меня есть к вам вопрос..."
 
 # game/events_j.rpy:64 #-#-# translate crowdin flirtyJ_cc536d69:
 msgid "[_mcthink_] Damn, I bet it's going to be something naughty again..."
-msgstr ""
+msgstr "Черт, держу пари, это снова будет что-то неприличное..."
 
 # game/events_j.rpy:65 #-#-# translate crowdin flirtyJ_f6c93aef:
 msgid "[_mc_] Well what is it?"
-msgstr ""
+msgstr "Ну и что же это такое?"
 
 # game/events_j.rpy:66 #-#-# translate crowdin flirtyJ_f6eafc1e:
 msgid "[_j_] Hehe... are you..."
-msgstr ""
+msgstr "Хе-хе... это ты..."
 
 # game/events_j.rpy:68 #-#-# translate crowdin flirtyJ_9f035e2a:
 msgid "[_j_] ...going to..."
