@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 02:27\n"
+"PO-Revision-Date: 2024-06-03 20:44\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1598,7 +1598,7 @@ msgstr "[_mcthink_] Oh espera, todavía necesito algunas respuestas de [m], ¡de
 
 # game/events_e.rpy:780 #-#-# translate crowdin d7_evening_e_2e7510bd:
 msgid "[_mcthink_] Wait, did I give her a pill today?"
-msgstr ""
+msgstr "[_mcthink_] Espera, ¿le di una pastilla hoy?"
 
 # game/events_e.rpy:782 #-#-# translate crowdin d7_evening_e_05500ff6:
 msgid "[_mc_] Huh?"
@@ -1610,11 +1610,11 @@ msgstr ""
 
 # game/events_e.rpy:785 #-#-# translate crowdin d7_evening_e_6af44877:
 msgid "[_mcthink_] That catgirl costume again."
-msgstr ""
+msgstr "[_mcthink_] Ese disfraz de gata otra vez."
 
 # game/events_e.rpy:786 #-#-# translate crowdin d7_evening_e_5ccb24b0:
 msgid "[_mc_] ... Kitten."
-msgstr ""
+msgstr "[_mc_] ... Gatita."
 
 # game/events_e.rpy:788 #-#-# translate crowdin d7_evening_e_53fea70b:
 msgid "[_e_] Nya!!"
@@ -1630,7 +1630,7 @@ msgstr ""
 
 # game/events_e.rpy:794 #-#-# translate crowdin d7_evening_e_d21c78e1:
 msgid "[_mcthink_] I guess I won't ask [m] any questions today..."
-msgstr ""
+msgstr "[_mcthink_] Supongo que no haré [m] ninguna pregunta hoy..."
 
 # game/events_e.rpy:797 #-#-# translate crowdin d7_evening_e_8d602797:
 msgid "[_mc_] You really like to assault me out of nowhere, don't you, [e]?"
