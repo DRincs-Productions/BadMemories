@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-02-23 23:05\n"
+"PO-Revision-Date: 2024-07-08 14:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -174,11 +174,11 @@ msgstr "Хе-хе... это ты..."
 
 # game/events_j.rpy:68 #-#-# translate crowdin flirtyJ_9f035e2a:
 msgid "[_j_] ...going to..."
-msgstr ""
+msgstr "[_j_] ...собирается..."
 
 # game/events_j.rpy:70 #-#-# translate crowdin flirtyJ_de666fda:
 msgid "[_j_] ...break her heart again?!"
-msgstr ""
+msgstr "[_j_] ...снова разбить ей сердце?!"
 
 # game/events_j.rpy:71 #-#-# translate crowdin flirtyJ_f2b4d92a:
 msgid "[_mc_] Eh... what?!"
@@ -186,15 +186,15 @@ msgstr "[_mc_] Эх... что?!"
 
 # game/events_j.rpy:73 #-#-# translate crowdin flirtyJ_6f1699cc:
 msgid "[_j_] You know what I mean!"
-msgstr ""
+msgstr "Ты знаешь, что я имею в виду!"
 
 # game/events_j.rpy:74 #-#-# translate crowdin flirtyJ_74baf844:
 msgid "[_j_] Are you going to stay!? In this house, in this town, in this country?"
-msgstr ""
+msgstr "Ты останешься? В этом доме, в этом городе, в этой стране?"
 
 # game/events_j.rpy:75 #-#-# translate crowdin flirtyJ_aa92b1bc:
 msgid "[_j_] Or are you going to move away again and leave her alone a second time!"
-msgstr ""
+msgstr "Или ты опять уедешь и оставишь еë одну во второй раз! "
 
 # game/events_j.rpy:76 #-#-# translate crowdin flirtyJ_d7ad9452:
 msgid "[_mc_] Err... well..."
