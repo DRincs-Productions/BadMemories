@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-11 05:16\n"
+"PO-Revision-Date: 2024-07-11 06:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day1.rpy:3 #-#-# translate crowdin intro_day1_26086d61:
 msgid "[_n_] Next Day [withdissolve]"
@@ -86,11 +86,11 @@ msgstr "[_mc_] Entonces... ¿Qué tal un reemplazo? ¿Hay algún otro apartament
 
 # game/intro_day1.rpy:25 #-#-# translate crowdin intro_day1_08dc83e3:
 msgid "Maggy [special_delimiter] No, I'm sorry [mrms] [mcsure], there are no apartments free at the moment."
-msgstr ""
+msgstr "Maggy [special_delimiter] No, lo siento [mrms] [mcsure], no hay apartamentos libres en este momento."
 
 # game/intro_day1.rpy:26 #-#-# translate crowdin intro_day1_e734f5df:
 msgid "Maggy [special_delimiter] There is not much I can do, but you can be sure to get your money back and I promise to call you as soon as we have another apartment for you."
-msgstr ""
+msgstr "Maggy [special_delimiter] No hay mucho que pueda hacer, pero ten por seguro que te reembolsaré el dinero y prometo llamarte en cuanto tengamos otro apartamento disponible."
 
 # game/intro_day1.rpy:27 #-#-# translate crowdin intro_day1_bc262b52:
 msgid "[_mc_] That's nice and all, but I can't go back to my old flat and I cannot live in a hotel forever. Don't you know anywhere else I could get an apartment, Maggy?"
@@ -98,7 +98,7 @@ msgstr "[_mc_] Eso es bueno y todo, pero no puedo volver a mi antiguo piso y no 
 
 # game/intro_day1.rpy:28 #-#-# translate crowdin intro_day1_830b6420:
 msgid "Maggy [special_delimiter] ..."
-msgstr ""
+msgstr "Maggy [special_delimiter] ..."
 
 # game/intro_day1.rpy:29 #-#-# translate crowdin intro_day1_34d02470:
 msgid "Maggy [special_delimiter] I... I might... but I have to make a few calls first."
