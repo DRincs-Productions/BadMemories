@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 02:27\n"
+"PO-Revision-Date: 2024-07-11 05:16\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro_day1.rpy:3 #-#-# translate crowdin intro_day1_26086d61:
 msgid "[_n_] Next Day [withdissolve]"
@@ -38,7 +38,7 @@ msgstr "[_mc_] sí?"
 
 # game/intro_day1.rpy:13 #-#-# translate crowdin intro_day1_ac62e442:
 msgid "Voice [special_delimiter] Hello [mrms] [mcsure], this is Maggy Shelter. I'm sorry but I have bad news for you."
-msgstr ""
+msgstr "Voz [special_delimiter] Hola [mrms] [mcsure], soy Maggy Shelter. Lo siento pero tengo malas noticias."
 
 # game/intro_day1.rpy:14 #-#-# translate crowdin intro_day1_621f9428:
 msgid "[_mcthink_] Ah, Maggy, the office secretary from the rental company."
@@ -54,7 +54,7 @@ msgstr "[_mc_] Hola Maggy. Ya sé del incendio."
 
 # game/intro_day1.rpy:17 #-#-# translate crowdin intro_day1_5889fa60:
 msgid "Maggy [special_delimiter] You know that the apartment burned down?"
-msgstr ""
+msgstr "Maggy [special_delimiter] ¿Sabe que el apartamento se quemó?"
 
 # game/intro_day1.rpy:18 #-#-# translate crowdin intro_day1_71b799ed:
 msgid "[_mc_] Yeah, I arrived yesterday and wanted to have a look at the apartment."
@@ -62,7 +62,7 @@ msgstr "[_mc_] sí, llegué ayer y quería echar un vistazo al apartamento."
 
 # game/intro_day1.rpy:19 #-#-# translate crowdin intro_day1_f6bfe289:
 msgid "Maggy [special_delimiter] Oh no, that must have been a shock to you."
-msgstr ""
+msgstr "Maggy [special_delimiter] Oh lo siento, debe haber sido un shock para ti."
 
 # game/intro_day1.rpy:20 #-#-# translate crowdin intro_day1_0ea026f3:
 msgid "[_mc_] It was quite a surprise..."
@@ -70,7 +70,7 @@ msgstr "[_mc_] Fue toda una sorpresa..."
 
 # game/intro_day1.rpy:21 #-#-# translate crowdin intro_day1_d33f81eb:
 msgid "Maggy [special_delimiter] I'm so sorry [mrms] [mcsure]. Do you have somewhere else to stay?"
-msgstr ""
+msgstr "Maggy [special_delimiter] Lo siento mucho [mrms] [mcsure]. ¿Tiene algún otro sitio donde quedarse?"
 
 # game/intro_day1.rpy:22 #-#-# translate crowdin intro_day1_5489d803:
 msgid "[_mc_] Yeah, I have a hotel room for a few days until my stuff arrives."
@@ -78,7 +78,7 @@ msgstr "[_mc_] sí, tengo una habitación de hotel por unos días hasta que lleg
 
 # game/intro_day1.rpy:23 #-#-# translate crowdin intro_day1_1642f9e0:
 msgid "Maggy [special_delimiter] That's good to hear."
-msgstr ""
+msgstr "Maggy [special_delimiter] Me alegro de oírlo."
 
 # game/intro_day1.rpy:24 #-#-# translate crowdin intro_day1_8a2327fd:
 msgid "[_mc_] So... what about a replacement? Are there any other apartments?"
@@ -674,7 +674,7 @@ msgstr "[_n_] Ella huye con lágrimas en los ojos."
 
 # game/intro_day1.rpy:243 #-#-# translate crowdin intro_day1_3e0c0ef9:
 msgid "[_mc_] .."
-msgstr ""
+msgstr "[_mc_] .."
 
 # game/intro_day1.rpy:244 #-#-# translate crowdin intro_day1_2b35b6fe_7:
 msgid "[_mc_] ..."
@@ -682,7 +682,7 @@ msgstr "[_mc_] ..."
 
 # game/intro_day1.rpy:245 #-#-# translate crowdin intro_day1_5c090e89:
 msgid "[_mc_] ...."
-msgstr ""
+msgstr "[_mc_] ...."
 
 # game/intro_day1.rpy:246 #-#-# translate crowdin intro_day1_38cb8147:
 msgid "[_mc_] Fuck!"
@@ -730,7 +730,7 @@ msgstr "[_n_] Te duchas y te vas a la cama, todavía pensando en los eventos de 
 
 # §translate crowdin strings: #|#|# # game/intro_day1.rpy:167
 msgid "Go with her."
-msgstr ""
+msgstr "Ve con ella."
 
 # game/intro_day1.rpy:167
 msgid "Just leave."
