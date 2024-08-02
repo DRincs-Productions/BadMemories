@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 02:27\n"
+"PO-Revision-Date: 2024-08-02 11:07\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_mc.rpy:5 #-#-# translate crowdin day0Morning_33c089e1:
 msgid "[_mc_] YAAAHHWN..."
@@ -4738,7 +4738,7 @@ msgstr ""
 
 # game/events_mc.rpy:2072 #-#-# translate crowdin d8_eveningWJada_1da7971d:
 msgid "[_e_] Unh..."
-msgstr ""
+msgstr "[_e_] ¡Eh..."
 
 # game/events_mc.rpy:2074 #-#-# translate crowdin d8_eveningWJada_66aa8c20:
 msgid "[_j_] Oh come on [e], I don't want to get kicked out again!"
@@ -8762,7 +8762,7 @@ msgstr ""
 
 # game/events_mc.rpy:4119 #-#-# translate crowdin d12ward_1395e551:
 msgid "[_e_] HN!"
-msgstr ""
+msgstr "[_e_] HNN!"
 
 # game/events_mc.rpy:4120 #-#-# translate crowdin d12ward_c2256016:
 msgid "[_mc_] Look, it's pretty dark already, it was probably just a shadow, and even if not, I can defend myself, and..."
