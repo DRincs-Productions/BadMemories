@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-02 11:07\n"
+"PO-Revision-Date: 2024-08-02 12:56\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1682,11 +1682,11 @@ msgstr "[_mcthink_] Joder, a ella le gustan realmente estas escenas lésbicas."
 
 # game/events_e.rpy:821 #-#-# translate crowdin d7_evening_e_9d6ed293:
 msgid "[_mcthink_] Damn, she's really into that stuff."
-msgstr ""
+msgstr "[_mcthink_] Maldita sea, le gustan mucho esas cosas."
 
 # game/events_e.rpy:823 #-#-# translate crowdin d7_evening_e_1f939a1a:
 msgid "[_mcthink_] Hum, isn't that the scene where the camera suddenly shakes for a few seconds?"
-msgstr ""
+msgstr "[_mcthink_] Hum, ¿no es esa la escena en la que la cámara se agita repentinamente durante unos segundos?"
 
 # game/events_e.rpy:825 #-#-# translate crowdin d7_evening_e_b84c4489:
 msgid "[_e_] Ugh uhhh..."
