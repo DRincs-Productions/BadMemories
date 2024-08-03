@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-20 06:41\n"
+"PO-Revision-Date: 2024-08-03 06:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/intro.rpy:5 #-#-# translate crowdin intro_af100c11:
 msgid "[_n_] Somewhere in a cab."
@@ -58,11 +58,11 @@ msgstr "[_mcthink_] ... возможно, мне стоит осмотретьс
 
 # game/intro.rpy:20 #-#-# translate crowdin intro_e1cb0469:
 msgid "[_mcthink_] On the other hand, my stuff won't be shipped for another few days, and I can't move in yet anyway..."
-msgstr "[_mcthink_] С другой стороны, мои вещи не будут доставлены еще на несколько дней, и я все равно не смогу заселиться..."
+msgstr "[_mcthink_] С другой стороны, мои вещи будут доставлены только через несколько дней, и я все равно не смогу заселиться..."
 
 # game/intro.rpy:21 #-#-# translate crowdin intro_c1a5851a:
 msgid "[_mcthink_] Naaah, whatever, I'm too curious right now. I'll have a look!"
-msgstr "[_mcthink_] Ах, без раницы, мне слишком любопытно сейчас. Я посмотрю!"
+msgstr "[_mcthink_] Ах, без разницы, мне слишком любопытно сейчас. Я посмотрю!"
 
 # game/intro.rpy:25 #-#-# translate crowdin intro_ef06476f:
 msgid "Cab driver [special_delimiter] Alright, that's as close as we can get."
@@ -98,7 +98,7 @@ msgstr "[_n_] Как только вы повернули в маленькую 
 
 # game/intro.rpy:36 #-#-# translate crowdin intro_59650aa3:
 msgid "[_mcthink_] Huh?! Why is that girl staring at me like that?"
-msgstr ""
+msgstr "[_mcthink_] А? Почему эта девушка так уставилась на меня?"
 
 # game/intro.rpy:37 #-#-# translate crowdin intro_b96a2916:
 msgid "[_mcthink_] Do I know her?"
