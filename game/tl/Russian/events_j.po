@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-07-08 14:31\n"
+"PO-Revision-Date: 2024-08-03 04:50\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_j.rpy:3 #-#-# translate crowdin jadaFirstMeet_5d9dcd0d:
 msgid "[_mcthink_] I'm a bit hungry."
@@ -202,7 +202,7 @@ msgstr ""
 
 # game/events_j.rpy:77 #-#-# translate crowdin flirtyJ_e803fd1d:
 msgid "[_mcthink_] Damn I didn't expect that kind of question. What the hell..."
-msgstr ""
+msgstr "[_mcthink_] Черт, не ожидал такого вопроса. Какого черта..."
 
 # game/events_j.rpy:78 #-#-# translate crowdin flirtyJ_43e17b46:
 msgid "[_mcthink_] \"Leave her alone a second time\"?"
@@ -210,11 +210,11 @@ msgstr ""
 
 # game/events_j.rpy:79 #-#-# translate crowdin flirtyJ_bd65cf43:
 msgid "[_mcthink_] [e] must have told her that I left in the middle of night without telling anyone back then..."
-msgstr ""
+msgstr "[_mcthink_][e] Должно быть, сказал ей, что я ушел посреди ночи, никому не сказав..."
 
 # game/events_j.rpy:80 #-#-# translate crowdin flirtyJ_b6c5bc5e:
 msgid "[_mcthink_] Shit, I almost forgot that..."
-msgstr ""
+msgstr "[_mcthink_] Черт, я чуть не забыл..."
 
 # game/events_j.rpy:82 #-#-# translate crowdin flirtyJ_a1504058:
 msgid "[_j_] So? Don't you want to answer?"
@@ -222,27 +222,27 @@ msgstr ""
 
 # game/events_j.rpy:83 #-#-# translate crowdin flirtyJ_630c8622:
 msgid "[_mc_] Err.... Listen... I know I should have told her that I was leaving, but..."
-msgstr ""
+msgstr "[_mc_] Эмм... Послушай... Я знаю, что должен был сказать ей, что уезжаю, но..."
 
 # game/events_j.rpy:84 #-#-# translate crowdin flirtyJ_490cff19:
 msgid "[_mc_] ...well I don't know how much you know about the circumstances..."
-msgstr ""
+msgstr "[_mc_] ... ну, я не знаю, как много вы знаете об обстоятельствах..."
 
 # game/events_j.rpy:85 #-#-# translate crowdin flirtyJ_f237cf95:
 msgid "[_j_] Enough..."
-msgstr ""
+msgstr "[_j_] Достаточно..."
 
 # game/events_j.rpy:86 #-#-# translate crowdin flirtyJ_3a40cb5c:
 msgid "[_mc_] Okay... you know, I felt terrible for months after I left."
-msgstr ""
+msgstr "[_mc_] Ладно... знаешь, я чувствовал себя ужасно месяцами после того, как ушел."
 
 # game/events_j.rpy:87 #-#-# translate crowdin flirtyJ_230ec198:
 msgid "[_j_] Good, at least you felt guilty..."
-msgstr ""
+msgstr "[_j_] Хорошо, по крайней мере, ты почувствовал себя виноватым..."
 
 # game/events_j.rpy:88 #-#-# translate crowdin flirtyJ_d5db29e4:
 msgid "[_mc_] Well I can assure you that it's nothing that's ever going to happen again."
-msgstr ""
+msgstr "[_mc_] Что ж, я могу заверить вас, что больше этого никогда не повторится."
 
 # game/events_j.rpy:89 #-#-# translate crowdin flirtyJ_91d43687:
 msgid "[_mc_] Even if I'm not going to stay in this house, I will stay in town and I'm not going to run out of the house in the middle of the night."
