@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-02 12:56\n"
+"PO-Revision-Date: 2024-08-10 08:07\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_e.rpy:4 #-#-# translate crowdin elliePCRoomSleepDay0_6400ba37:
 msgid "[_mcthink_] What?! [e]?"
@@ -1674,7 +1674,7 @@ msgstr "[_e_] Khehehe."
 
 # game/events_e.rpy:817 #-#-# translate crowdin d7_evening_e_0445b44a:
 msgid "[_e_] Whoooo!"
-msgstr ""
+msgstr "[¡Whoooo!"
 
 # game/events_e.rpy:819 #-#-# translate crowdin d7_evening_e_6cc64e73:
 msgid "[_mcthink_] Damn, she really likes these lesbian scenes."
@@ -1690,11 +1690,11 @@ msgstr "[_mcthink_] Hum, ¿no es esa la escena en la que la cámara se agita rep
 
 # game/events_e.rpy:825 #-#-# translate crowdin d7_evening_e_b84c4489:
 msgid "[_e_] Ugh uhhh..."
-msgstr ""
+msgstr "[_e_] Ugh  Uh-uh..."
 
 # game/events_e.rpy:826 #-#-# translate crowdin d7_evening_e_ae9e12ac:
 msgid "[_mcthink_] Yep, it is."
-msgstr ""
+msgstr "[_mcthink_] Sí, lo es."
 
 # game/events_e.rpy:828 #-#-# translate crowdin d7_evening_e_03de4f2a:
 msgid "[_mc_] Whoa, hold tight, [e]! [withhpunch]"
@@ -1706,19 +1706,19 @@ msgstr ""
 
 # game/events_e.rpy:831 #-#-# translate crowdin d7_evening_e_9f918409:
 msgid "[_mc_] Haha, looks like it was a bit too much."
-msgstr ""
+msgstr "[_mc_] Jaja, parece que fue demasiado."
 
 # game/events_e.rpy:833 #-#-# translate crowdin d7_evening_e_8d18633d:
 msgid "[_e_] Unnnh..."
-msgstr ""
+msgstr "[_e_] Nnnh..."
 
 # game/events_e.rpy:834 #-#-# translate crowdin d7_evening_e_248e6977:
 msgid "[_mc_] Don't worry, it'll stop in a few seconds."
-msgstr ""
+msgstr "[_mc_] No te preocupes, se detendrá en unos segundos."
 
 # game/events_e.rpy:836 #-#-# translate crowdin d7_evening_e_ed95c37f:
 msgid "[_n_] After a while..."
-msgstr ""
+msgstr "[_n_] Después de un tiempo..."
 
 # game/events_e.rpy:838 #-#-# translate crowdin d7_evening_e_a686c5ad:
 msgid "[_mcthink_] Hum... she's fallen asleep..."
