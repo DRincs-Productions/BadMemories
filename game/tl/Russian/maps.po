@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2025-07-01 23:27\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
@@ -214,51 +214,51 @@ msgstr ""
 
 # game/maps.rpy:6
 msgid "Rachel's Bedroom"
-msgstr ""
+msgstr "Комната Рейчел"
 
 # game/maps.rpy:7
 msgid "Kitchen"
-msgstr ""
+msgstr "Кухня"
 
 # game/maps.rpy:8
 msgid "Hall"
-msgstr ""
+msgstr "Зал"
 
 # game/maps.rpy:9
 msgid "Livingroom"
-msgstr ""
+msgstr "Гостиная"
 
 # game/maps.rpy:10
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "Куда бы тебе хотелось?"
 
 # game/maps.rpy:16
 msgid "Your Room"
-msgstr ""
+msgstr "Ваша комната"
 
 # game/maps.rpy:17
 msgid "Ellie's Room"
-msgstr ""
+msgstr "Комната Элли"
 
 # game/maps.rpy:18
 msgid "Bathroom"
-msgstr ""
+msgstr "Уборная"
 
 # game/maps.rpy:19
 msgid "Entrance Hall"
-msgstr ""
+msgstr "Прихожая"
 
 # game/maps.rpy:20
 msgid "Desk"
-msgstr ""
+msgstr "Рабочий стол"
 
 # game/maps.rpy:59
 msgid "School"
-msgstr ""
+msgstr "Школа"
 
 # game/maps.rpy:65
 msgid "Downtown"
-msgstr ""
+msgstr "Центр города"
 
 # game/maps.rpy:71
 msgid "Atomic Aeronautics"
@@ -274,25 +274,25 @@ msgstr ""
 
 # game/maps.rpy:302
 msgid "Look closer."
-msgstr ""
+msgstr "Приблизить."
 
 # game/maps.rpy:302
 msgid "Nah, better not touch it."
-msgstr ""
+msgstr "Нет, лучше не трогать."
 
 # game/maps.rpy:310
 msgid "Keep going."
-msgstr ""
+msgstr "Продолжай."
 
 # game/maps.rpy:310
 msgid "No point in going on..."
-msgstr ""
+msgstr "Дальше нет смысла продолжать..."
 
 # game/maps.rpy:383
 msgid "Check the cafe."
-msgstr ""
+msgstr "Проверь кафе"
 
 # game/maps.rpy:383
 msgid "Go to the office."
-msgstr ""
+msgstr "Иди в офис."
 
