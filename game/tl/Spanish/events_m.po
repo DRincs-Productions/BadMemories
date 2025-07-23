@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-02 11:07\n"
+"PO-Revision-Date: 2025-07-23 02:20\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -650,7 +650,7 @@ msgstr ""
 
 # game/events_m.rpy:288 #-#-# translate crowdin rachelPills2nd_f38790ad:
 msgid "[_mc_] Well I wasn't really a child anymore..."
-msgstr ""
+msgstr "..."
 
 # game/events_m.rpy:289 #-#-# translate crowdin rachelPills2nd_819ec996:
 msgid "[_mcthink_] ...not that it makes it better..."
