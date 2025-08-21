@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2025-08-21 20:58\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/options.rpy:15
 msgid "Bad Memories"
-msgstr ""
+msgstr "Плохие воспоминания"
 
 # game/options.rpy:32
 msgid "{size=+50}{font=SCRIPTIN.ttf}Bad Memories{/font}{/size}\n\n"
