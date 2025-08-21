@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-08-21 20:58\n"
+"PO-Revision-Date: 2025-08-21 22:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
 msgid "{b}Use text outline?{/b}"
@@ -196,7 +196,7 @@ msgstr ""
 
 # game/screens.rpy:914
 msgid "#Text"
-msgstr ""
+msgstr "# Текст"
 
 # game/screens.rpy:921
 msgid "Text Outline"
@@ -403,7 +403,7 @@ msgstr ""
 
 # game/screens.rpy:1317
 msgid "Right Shoulder"
-msgstr ""
+msgstr "Правая плечевая кнопка"
 
 # game/screens.rpy:1322
 msgid "D-Pad, Sticks"
