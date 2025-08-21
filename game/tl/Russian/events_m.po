@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2025-08-21 23:13\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -110,7 +110,7 @@ msgstr ""
 
 # game/events_m.rpy:51 #-#-# translate crowdin rachelBathroomDay0_271cd14d:
 msgid "[_mcthink_] Damn, doesn't she wear a bra?..."
-msgstr ""
+msgstr "[_mcthink_] Черт, разве она не носит лифчик?..."
 
 # game/events_m.rpy:52 #-#-# translate crowdin rachelBathroomDay0_13f5c76d:
 msgid "[_mc_] Uhh... then it was you who put the blanket on me?"
