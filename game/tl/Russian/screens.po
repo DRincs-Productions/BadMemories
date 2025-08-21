@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-20 06:40\n"
+"PO-Revision-Date: 2025-08-21 20:58\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
 msgid "{b}Use text outline?{/b}"
@@ -188,7 +188,7 @@ msgstr ""
 
 # game/screens.rpy:905
 msgid "Language"
-msgstr ""
+msgstr "Язык"
 
 # game/screens.rpy:909
 msgid "{size=-10}{color=#ff0000}All translations are fan-made.{/color}{/size}"
