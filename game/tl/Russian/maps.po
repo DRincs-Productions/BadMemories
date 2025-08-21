@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-07-01 23:27\n"
+"PO-Revision-Date: 2025-08-21 22:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/maps.rpy:106 #-#-# translate crowdin pcroom_a8511b74:
 msgid "[_mcthink_] I need to use the bathroom..."
@@ -190,7 +190,7 @@ msgstr ""
 
 # game/maps.rpy:390 #-#-# translate crowdin cityStreet_06c33470:
 msgid "[_mcthink_] Yeah, whatever, let's go to the office."
-msgstr ""
+msgstr "[Да, неважно, пойдем в офис."
 
 # game/maps.rpy:401 #-#-# translate crowdin cityStreet_97d969a6:
 msgid "[_mcthink_] Hum... nothing to do... here."
