@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-09-22 14:53\n"
+"PO-Revision-Date: 2025-08-21 22:02\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/script.rpy:524 #-#-# translate crowdin start_e4253911:
 msgid "[_n_] This game is a work of fiction, all characters are at least 99 years old and obviously not related to, or meant to display any living, or dead persons.\n"
 " [withfade]"
-msgstr "[_n_] Данная игра является вымышленным произведением, всем персонажам не менее 99 лет, и они явно не имеют отношения к живым или умершим людям и не предназначены для их отображения.\n"
+msgstr "[_n_] Эта игра - выдумка, всем персонажам не менее 99 лет, и они явно не имеют отношения к живым или мертвым людям и не предназначены для их отображения.\n"
 " [withfade]"
 
 # game/script.rpy:526 #-#-# translate crowdin start_eb52a69f:
