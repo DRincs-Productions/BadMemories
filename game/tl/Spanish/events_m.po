@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-07-23 18:33\n"
+"PO-Revision-Date: 2025-08-24 22:29\n"
 
 # TODO: Translation updated at 2023-06-26 18:40 #|#|# # game/events_m.rpy:6 #-#-# translate crowdin rachelBathroomDay0_299fb66f:
 msgid "[_mcthink_] HOLY!!!"
@@ -670,7 +670,7 @@ msgstr "..."
 
 # game/events_m.rpy:296 #-#-# translate crowdin rachelPills2nd_f2c96db7:
 msgid "[_m_] But now you're back. [e] is happy to have her big [bs] back and I'm happy to have a beautiful young [mcgender] here I can count on and trust."
-msgstr ""
+msgstr "."
 
 # game/events_m.rpy:297 #-#-# translate crowdin rachelPills2nd_ae5b9f7f:
 msgid "[_mcthink_] Beautiful huh? Eh... wait..."
